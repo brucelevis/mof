@@ -1,0 +1,410 @@
+<skeleton name="吸血鬼被击(1)">
+  <armatures>
+    <armature name="xixuebeiji">
+      <b name="图层 2" bT="0" bi="Vampire_hitted-xxbjB1" x="-0.05" y="-0.05" kX="0" kY="0" z="0"/>
+      <b name="图层 1" bT="0" bi="Vampire_hitted-xxbjA1" x="-0.05" y="-0.05" kX="0" kY="0" z="1"/>
+    </armature>
+    <armature name="liuxuebuff">
+      <b name="图层 49" bT="0" bi="Vampire_hitted-dfsdfsdf" x="14.15" y="8.3" kX="0" kY="0" z="0"/>
+      <b name="图层 46" bT="0" bi="Vampire_hitted-pop" x="0.05" y="-37.45" kX="0" kY="180" z="1"/>
+      <b name="图层 45" bT="0" bi="Vampire_hitted-pop" x="-15.15" y="-48.15" kX="-15" kY="165" z="2"/>
+      <b name="图层 44" bT="0" bi="Vampire_hitted-pop" x="-17.65" y="-45.4" kX="0" kY="-180" z="3"/>
+      <b name="图层 43" bT="0" bi="Vampire_hitted-pop" x="-11.3" y="-41.4" kX="-30" kY="150" z="4"/>
+      <b name="图层 42" bT="0" bi="Vampire_hitted-pop" x="-3.25" y="-26.55" kX="0" kY="180" z="5"/>
+      <b name="图层 41" bT="0" bi="Vampire_hitted-pop" x="-13.5" y="-29.1" kX="0" kY="180" z="6"/>
+      <b name="图层 40" bT="0" bi="Vampire_hitted-pop" x="-22.35" y="-38.5" kX="0" kY="180" z="7"/>
+      <b name="图层 39" bT="0" bi="Vampire_hitted-pop" x="1.95" y="-51.1" kX="-15" kY="165" z="8"/>
+      <b name="图层 38" bT="0" bi="Vampire_hitted-pop" x="4.3" y="-48.3" kX="-15" kY="165" z="9"/>
+      <b name="图层 37" bT="0" bi="Vampire_hitted-dfsdfsdf" x="-9.85" y="26" kX="0" kY="180" z="0"/>
+      <b name="图层 35" bT="0" bi="Vampire_hitted-pop" x="37.05" y="-26.75" kX="9.71" kY="-170.29" z="1"/>
+      <b name="图层 34" bT="0" bi="Vampire_hitted-pop" x="23.85" y="-39.85" kX="-5.29" kY="174.71" z="2"/>
+      <b name="图层 33" bT="0" bi="Vampire_hitted-pop" x="20.95" y="-37.6" kX="9.71" kY="-170.29" z="3"/>
+      <b name="图层 32" bT="0" bi="Vampire_hitted-pop" x="26.55" y="-32.55" kX="-20.29" kY="159.71" z="4"/>
+      <b name="图层 31" bT="0" bi="Vampire_hitted-pop" x="32" y="-16.55" kX="9.71" kY="-170.29" z="5"/>
+      <b name="图层 30" bT="0" bi="Vampire_hitted-pop" x="22.25" y="-20.8" kX="9.71" kY="-170.29" z="6"/>
+      <b name="图层 29" bT="0" bi="Vampire_hitted-pop" x="15.15" y="-31.55" kX="9.71" kY="-170.29" z="7"/>
+      <b name="图层 28" bT="0" bi="Vampire_hitted-pop" x="41.2" y="-39.85" kX="-5.29" kY="174.71" z="8"/>
+      <b name="图层 27" bT="0" bi="Vampire_hitted-pop" x="43.05" y="-36.75" kX="-5.29" kY="174.71" z="9"/>
+      <b name="图层 26" bT="0" bi="Vampire_hitted-dfsdfsdf" x="16.55" y="34.15" kX="9.71" kY="-170.29" z="1"/>
+      <b name="图层 24" bT="0" bi="Vampire_hitted-pop" x="4.25" y="-55.15" kX="0" kY="0" z="10"/>
+      <b name="图层 23" bT="0" bi="Vampire_hitted-pop" x="19.45" y="-65.85" kX="15" kY="15" z="11"/>
+      <b name="图层 22" bT="0" bi="Vampire_hitted-pop" x="21.95" y="-63.1" kX="0" kY="0" z="12"/>
+      <b name="图层 21" bT="0" bi="Vampire_hitted-pop" x="15.6" y="-59.1" kX="30" kY="30" z="13"/>
+      <b name="图层 20" bT="0" bi="Vampire_hitted-pop" x="7.55" y="-44.25" kX="0" kY="0" z="14"/>
+      <b name="图层 19" bT="0" bi="Vampire_hitted-pop" x="17.8" y="-46.8" kX="0" kY="0" z="15"/>
+      <b name="图层 18" bT="0" bi="Vampire_hitted-pop" x="26.65" y="-56.2" kX="0" kY="0" z="16"/>
+      <b name="图层 17" bT="0" bi="Vampire_hitted-pop" x="2.35" y="-68.8" kX="15" kY="15" z="17"/>
+      <b name="图层 16" bT="0" bi="Vampire_hitted-pop" x="0" y="-66" kX="15" kY="15" z="18"/>
+      <b name="图层 15" bT="0" bi="Vampire_hitted-dfsdfsdf" x="14.15" y="8.3" kX="0" kY="0" z="2"/>
+      <b name="图层 4" bT="0" bi="Vampire_hitted-pop" x="-19.65" y="-67.9" kX="0" kY="0" z="28"/>
+      <b name="图层 5" bT="0" bi="Vampire_hitted-pop" x="-4.45" y="-78.6" kX="15" kY="15" z="29"/>
+      <b name="图层 6" bT="0" bi="Vampire_hitted-pop" x="-1.95" y="-75.85" kX="0" kY="0" z="30"/>
+      <b name="图层 7" bT="0" bi="Vampire_hitted-pop" x="-8.3" y="-71.85" kX="30" kY="30" z="31"/>
+      <b name="图层 8" bT="0" bi="Vampire_hitted-pop" x="-16.35" y="-57" kX="0" kY="0" z="32"/>
+      <b name="图层 10" bT="0" bi="Vampire_hitted-pop" x="-6.1" y="-59.55" kX="0" kY="0" z="33"/>
+      <b name="图层 11" bT="0" bi="Vampire_hitted-pop" x="2.75" y="-68.95" kX="0" kY="0" z="34"/>
+      <b name="图层 12" bT="0" bi="Vampire_hitted-pop" x="-21.55" y="-81.55" kX="15" kY="15" z="35"/>
+      <b name="图层 13" bT="0" bi="Vampire_hitted-pop" x="-23.9" y="-78.75" kX="15" kY="15" z="36"/>
+      <b name="图层 1" bT="0" bi="Vampire_hitted-dfsdfsdf" x="-9.75" y="-4.45" kX="0" kY="0" z="3"/>
+      <b name="图层 69" bT="0" bi="Vampire_hitted-pop" x="4.25" y="-55.15" kX="0" kY="0" z="4"/>
+      <b name="图层 68" bT="0" bi="Vampire_hitted-pop" x="19.45" y="-65.85" kX="15" kY="15" z="5"/>
+      <b name="图层 67" bT="0" bi="Vampire_hitted-pop" x="21.95" y="-63.1" kX="0" kY="0" z="6"/>
+      <b name="图层 66" bT="0" bi="Vampire_hitted-pop" x="15.6" y="-59.1" kX="30" kY="30" z="7"/>
+      <b name="图层 65" bT="0" bi="Vampire_hitted-pop" x="7.55" y="-44.25" kX="0" kY="0" z="8"/>
+      <b name="图层 64" bT="0" bi="Vampire_hitted-pop" x="17.8" y="-46.8" kX="0" kY="0" z="9"/>
+      <b name="图层 63" bT="0" bi="Vampire_hitted-pop" x="26.65" y="-56.2" kX="0" kY="0" z="10"/>
+      <b name="图层 62" bT="0" bi="Vampire_hitted-pop" x="2.35" y="-68.8" kX="15" kY="15" z="11"/>
+      <b name="图层 61" bT="0" bi="Vampire_hitted-pop" x="0" y="-66" kX="15" kY="15" z="12"/>
+      <b name="图层 60" bT="0" bi="Vampire_hitted-dfsdfsdf" x="15.55" y="-28.75" kX="0" kY="0" z="4"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="xixuebeiji">
+      <mov name="Vampire_hitted-xxbjB1" to="1" dr="10" drTW="10">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.88" cY="1.88" z="0" img="Vampire_hitted-xxbjB1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.88" cY="1.88" z="0" img="Vampire_hitted-xxbjB2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.88" cY="1.88" z="0" img="Vampire_hitted-xxbjB3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.88" cY="1.88" z="0" img="Vampire_hitted-xxbjB4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.88" cY="1.88" z="0" img="Vampire_hitted-xxbjB5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.88" cY="1.88" z="0" img="Vampire_hitted-xxbjB6" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.31" z="1" img="Vampire_hitted-xxbjA1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.31" z="1" img="Vampire_hitted-xxbjA2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.31" z="1" img="Vampire_hitted-xxbjA3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.31" z="1" img="Vampire_hitted-xxbjA4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.31" z="1" img="Vampire_hitted-xxbjA5" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="liuxuebuff">
+      <mov name="liuxuebuff" to="1" dr="40" drTW="50" lp="1">
+        <b name="图层 49" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.41" cY="0.41" z="0" img="Vampire_hitted-dfsdfsdf" twE="0" dr="14"/>
+          <f x="11.35" y="-35.95" kX="0" kY="0" cX="1.12" cY="1.12" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 46" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.68" cY="0.68" z="1" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="9.95" y="-25.75" kX="0" kY="0" cX="0.07" cY="0.07" z="1" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 45" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="2" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="4.5" y="-19.5" kX="0" kY="0" cX="0.05" cY="0.05" z="2" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 44" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="3" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="11.4" y="-17.95" kX="0" kY="360" cX="0.05" cY="0.05" z="3" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 43" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="4" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="0.4" y="-15.5" kX="0.01" kY="0.01" cX="0.05" cY="0.05" z="4" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 42" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="5" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="10" y="-18.05" kX="0" kY="0" cX="0.05" cY="0.05" z="5" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 41" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="6" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="10" y="-18.05" kX="0" kY="0" cX="0.05" cY="0.05" z="6" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 40" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.24" z="7" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="10.05" y="-8.5" kX="0" kY="0" cX="0.02" cY="0.02" z="7" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 39" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="8" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="3.55" y="-12.5" kX="-0.02" kY="-0.02" cX="0.02" cY="0.02" z="8" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 38" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="9" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="11.65" y="-18" kX="-0.02" kY="-0.02" cX="0.02" cY="0.02" z="9" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 37" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.41" cY="0.41" z="0" img="Vampire_hitted-dfsdfsdf" twE="0" dr="11"/>
+          <f x="-1.4" y="-37.05" kX="0" kY="0" cX="1.12" cY="1.12" z="0" twE="0" dr="9"/>
+          <f x="1.85" y="-65.9" kX="0" kY="0" cX="1.09" cY="1.09" z="9" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="图层 35" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.68" cY="0.68" z="1" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="14.5" y="-25.35" kX="0" kY="0" cX="0.07" cY="0.07" z="1" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 34" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="2" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="8.05" y="-20.15" kX="0" kY="0" cX="0.05" cY="0.05" z="2" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 33" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="3" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="14.55" y="-17.4" kX="0" kY="0" cX="0.05" cY="0.05" z="3" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 32" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="4" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="3.35" y="-16.85" kX="0" kY="0" cX="0.05" cY="0.05" z="4" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 31" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="5" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="13.2" y="-17.8" kX="0" kY="0" cX="0.05" cY="0.05" z="5" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 30" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="6" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="13.25" y="-17.75" kX="0" kY="0" cX="0.05" cY="0.05" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 29" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.24" z="7" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="11.65" y="-8.35" kX="-0.01" kY="-0.01" cX="0.02" cY="0.02" z="7" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 28" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="8" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="5.95" y="-13.4" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="8" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 27" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="9" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="14.85" y="-17.4" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="9" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.41" cY="0.41" z="1" img="Vampire_hitted-dfsdfsdf" twE="0" dr="11"/>
+          <f x="4.9" y="-36.75" kX="0" kY="0" cX="1.12" cY="1.12" z="10" twE="0" dr="9"/>
+          <f x="13" y="-64.65" kX="0" kY="0" cX="1.09" cY="1.09" z="19" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.68" cY="0.68" z="10" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="9.95" y="-25.75" kX="0" kY="0" cX="0.07" cY="0.07" z="10" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="11" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="15.4" y="-19.5" kX="0" kY="0" cX="0.05" cY="0.05" z="11" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 22" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="12" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="8.5" y="-17.95" kX="0" kY="0" cX="0.05" cY="0.05" z="12" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="13" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="19.5" y="-15.5" kX="-0.01" kY="-0.01" cX="0.05" cY="0.05" z="13" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="14" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="9.9" y="-18.05" kX="0" kY="0" cX="0.05" cY="0.05" z="14" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="15" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="9.9" y="-18.05" kX="0" kY="0" cX="0.05" cY="0.05" z="15" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.24" z="16" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="9.85" y="-8.5" kX="0" kY="0" cX="0.02" cY="0.02" z="16" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="17" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="16.35" y="-12.5" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="17" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="18" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="8.25" y="-18" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="18" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.41" cY="0.41" z="2" img="Vampire_hitted-dfsdfsdf" twE="0" dr="11"/>
+          <f x="1.4" y="-37.05" kX="0" kY="0" cX="1.12" cY="1.12" z="10" twE="0" dr="9"/>
+          <f x="-1.85" y="-65.9" kX="0" kY="0" cX="1.09" cY="1.09" z="20" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.68" cY="0.68" z="28" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="0" y="-26.85" kX="0" kY="0" cX="0.07" cY="0.07" z="28" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="29" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="5.45" y="-20.6" kX="0" kY="0" cX="0.05" cY="0.05" z="29" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="30" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="-1.45" y="-19.05" kX="0" kY="0" cX="0.05" cY="0.05" z="30" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="31" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="9.55" y="-16.6" kX="-0.01" kY="-0.01" cX="0.05" cY="0.05" z="31" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="32" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="-0.05" y="-19.15" kX="0" kY="0" cX="0.05" cY="0.05" z="32" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="33" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="-0.05" y="-19.15" kX="0" kY="0" cX="0.05" cY="0.05" z="33" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.24" z="34" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="-0.1" y="-9.6" kX="0" kY="0" cX="0.02" cY="0.02" z="34" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="35" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="6.4" y="-13.6" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="35" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="36" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="-1.7" y="-19.1" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="36" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.41" cY="0.41" z="3" img="Vampire_hitted-dfsdfsdf" twE="0" dr="11"/>
+          <f x="1.4" y="-37.05" kX="0" kY="0" cX="1.12" cY="1.12" z="3" twE="0" dr="9"/>
+          <f x="-1.85" y="-65.9" kX="0" kY="0" cX="1.09" cY="1.09" z="12" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="图层 69" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.68" cY="0.68" z="4" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="0" y="-26.85" kX="0" kY="0" cX="0.07" cY="0.07" z="4" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 68" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="5" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="5.45" y="-20.6" kX="0" kY="0" cX="0.05" cY="0.05" z="5" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 67" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="6" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="-1.45" y="-19.05" kX="0" kY="0" cX="0.05" cY="0.05" z="6" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 66" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="7" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="9.55" y="-16.6" kX="-0.01" kY="-0.01" cX="0.05" cY="0.05" z="7" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 65" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="8" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="-0.05" y="-19.15" kX="0" kY="0" cX="0.05" cY="0.05" z="8" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 64" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="9" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="-0.05" y="-19.15" kX="0" kY="0" cX="0.05" cY="0.05" z="9" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 63" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.24" z="10" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="-0.1" y="-9.6" kX="0" kY="0" cX="0.02" cY="0.02" z="10" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 62" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="11" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="6.4" y="-13.6" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="11" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 61" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="12" img="Vampire_hitted-pop" twE="0" dr="10"/>
+          <f x="-1.7" y="-19.1" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="12" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 60" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.12" cY="1.12" z="4" img="Vampire_hitted-dfsdfsdf" twE="0" dr="9"/>
+          <f x="-3.25" y="-28.85" kX="0" kY="0" cX="1.09" cY="1.09" z="13" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="吸血鬼被击(1)" width="512" height="64">
+    <SubTexture name="Vampire_hitted-xxbjB1" x="441" y="0" width="33" height="30" pX="16" pY="14.5"/>
+    <SubTexture name="Vampire_hitted-xxbjB2" x="76" y="0" width="78" height="55" pX="38.5" pY="27"/>
+    <SubTexture name="Vampire_hitted-xxbjB3" x="342" y="0" width="61" height="37" pX="29" pY="17"/>
+    <SubTexture name="Vampire_hitted-xxbjB4" x="475" y="0" width="36" height="19" pX="18" pY="9.5"/>
+    <SubTexture name="Vampire_hitted-xxbjB5" x="475" y="20" width="33" height="17" pX="17" pY="8"/>
+    <SubTexture name="Vampire_hitted-xxbjB6" x="441" y="31" width="28" height="17" pX="14.5" pY="9"/>
+    <SubTexture name="Vampire_hitted-xxbjA1" x="404" y="0" width="36" height="33" pX="22" pY="13"/>
+    <SubTexture name="Vampire_hitted-xxbjA2" x="224" y="0" width="63" height="53" pX="32.75" pY="24.25"/>
+    <SubTexture name="Vampire_hitted-xxbjA3" x="155" y="0" width="68" height="59" pX="37" pY="29"/>
+    <SubTexture name="Vampire_hitted-xxbjA4" x="0" y="0" width="75" height="59" pX="39.5" pY="29"/>
+    <SubTexture name="Vampire_hitted-xxbjA5" x="288" y="0" width="53" height="45" pX="11.75" pY="20.5"/>
+    <SubTexture name="Vampire_hitted-dfsdfsdf" x="404" y="34" width="14" height="14" pX="6.45" pY="6.45"/>
+    <SubTexture name="Vampire_hitted-pop" x="419" y="34" width="14" height="14" pX="6.45" pY="6.45"/>
+  </TextureAtlas>
+</skeleton>

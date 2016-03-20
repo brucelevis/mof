@@ -1,0 +1,316 @@
+<skeleton name="冬日主宰者称号（包含尖端最终版）">
+  <armatures>
+    <armature name="drzzz">
+      <b name="mao-01" bT="0" bi="title_Thelordofthewinter-mao-01" x="-3.5" y="-136.85" kX="0" kY="0" z="0"/>
+      <b name="tu1" bT="0" bi="title_Thelordofthewinter-tu1" x="-125" y="-122.05" kX="0" kY="0" z="1"/>
+      <b name="图层 14" bT="0" bi="title_Thelordofthewinter-xuehuazc" x="-44.5" y="15" kX="0" kY="0" z="2"/>
+      <b name="图层 11" bT="0" bi="title_Thelordofthewinter-xuehuazc" x="51" y="24" kX="0" kY="180" z="3"/>
+      <b name="图层 9" bT="0" bi="title_Thelordofthewinter-xuehuazc" x="53.95" y="12.8" kX="0" kY="0" z="3"/>
+      <b name="图层 7" bT="0" bi="title_Thelordofthewinter-xuehuazc" x="-39.75" y="90.8" kX="0" kY="180" z="4"/>
+      <b name="图层 17" bT="0" bi="title_Thelordofthewinter-xuehuazc" x="51" y="24" kX="0" kY="180" z="6"/>
+      <b name="图层 19" bT="0" bi="title_Thelordofthewinter-xuehuazc" x="-53.55" y="8.3" kX="0" kY="0" z="7"/>
+      <b name="图层 21" bT="0" bi="title_Thelordofthewinter-xuehuazc" x="-39.75" y="90.8" kX="0" kY="180" z="7"/>
+      <b name="图层 5" bT="0" bi="title_Thelordofthewinter-xuehuazc" x="58.4" y="98.4" kX="93.27" kY="93.27" z="5"/>
+      <b name="图层 3" bT="0" bi="title_Thelordofthewinter-xuehuazc" x="-47.9" y="112.95" kX="-93.27" kY="86.73" z="6"/>
+      <b name="图层 4" bT="0" bi="title_Thelordofthewinter-xuehuazc" x="65.45" y="47.65" kX="0" kY="0" z="4"/>
+      <b name="图层 6" bT="0" bi="title_Thelordofthewinter-xuehuazc" x="-54.95" y="62.2" kX="0" kY="180" z="5"/>
+      <b name="xue268 复制" bT="0" bi="title_Thelordofthewinter-xue" x="-80.4" y="-29.5" kX="-3.5" kY="-3.5" z="7"/>
+      <b name="xue268 复制0" bT="0" bi="title_Thelordofthewinter-xue" x="-83.5" y="-29.5" kX="3.5" kY="-176.5" z="11"/>
+      <b name="xue268 复制1" bT="0" bi="title_Thelordofthewinter-xue" x="81.45" y="-24" kX="3.5" kY="-176.5" z="8"/>
+      <b name="xue268 复制2" bT="0" bi="title_Thelordofthewinter-xue" x="-17.5" y="-17.5" kX="3.5" kY="-176.5" z="10"/>
+      <b name="xue268 复制3" bT="0" bi="title_Thelordofthewinter-xue" x="19.5" y="-34.5" kX="-3.5" kY="-3.5" z="12"/>
+      <b name="xue268 复制4" bT="0" bi="title_Thelordofthewinter-xue" x="-12.5" y="-42" kX="3.5" kY="-176.5" z="12"/>
+      <b name="xue268 复制5" bT="0" bi="title_Thelordofthewinter-xue" x="-56" y="-16" kX="-3.5" kY="-3.5" z="13"/>
+      <b name="xue268 复制50" bT="0" bi="title_Thelordofthewinter-xue" x="-4.5" y="6.5" kX="-3.5" kY="-3.5" z="9"/>
+      <b name="xue268 复制6" bT="0" bi="title_Thelordofthewinter-xue" x="21.4" y="-31" kX="3.5" kY="-176.5" z="12"/>
+      <b name="xue268 复制7" bT="0" bi="title_Thelordofthewinter-xue" x="21.4" y="-31" kX="3.5" kY="-176.5" z="5"/>
+      <b name="xue268 复制60" bT="0" bi="title_Thelordofthewinter-xue" x="61.95" y="19.6" kX="3.5" kY="-176.5" z="9"/>
+      <b name="xue268 复制61" bT="0" bi="title_Thelordofthewinter-xue" x="-72.55" y="19.1" kX="3.5" kY="-176.5" z="10"/>
+      <b name="图层 2" bT="0" bi="title_Thelordofthewinter-DRMXG1" x="48.55" y="-14.4" kX="0" kY="0" z="11"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="drzzz">
+      <mov name="drzzz" to="1" dr="107" drTW="107" lp="1">
+        <b name="mao-01" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-01" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-02" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-03" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-04" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-05" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-06" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-01" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-02" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-03" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-04" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-05" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-06" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-01" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-02" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-03" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-04" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-05" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-06" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-01" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-02" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-03" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-04" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-05" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_Thelordofthewinter-mao-06" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="tu1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_Thelordofthewinter-tu1" dr="106"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="2" img="title_Thelordofthewinter-xuehuazc" twE="0" dr="14"/>
+          <f x="-3.45" y="22.85" kX="31.82" kY="31.82" cX="0.68" cY="0.68" z="2" twE="0" dr="18"/>
+          <f x="-10" y="64" kX="89.99" kY="89.99" cX="1" cY="1" z="2" twE="0" dr="17"/>
+          <f x="3.4" y="99.9" kX="146.93" kY="146.93" cX="0.68" cY="0.68" z="2" twE="0" dr="13"/>
+          <f x="11" y="121" kX="180" kY="180" cX="0.5" cY="0.5" z="2" dr="1"/>
+          <f dr="44" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="3" img="title_Thelordofthewinter-xuehuazc" twE="0" dr="14"/>
+          <f x="3.45" y="22.85" kX="-31.82" kY="-31.82" cX="0.68" cY="0.68" z="3" twE="0" dr="18"/>
+          <f x="10" y="64" kX="-89.99" kY="-89.99" cX="1" cY="1" z="2" twE="0" dr="17"/>
+          <f x="-3.4" y="99.9" kX="-146.93" kY="-146.93" cX="0.68" cY="0.68" z="2" twE="0" dr="13"/>
+          <f x="-11" y="121" kX="180" kY="-180" cX="0.5" cY="0.5" z="2" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.32" cY="0.32" z="3" img="title_Thelordofthewinter-xuehuazc" twE="0" dr="14"/>
+          <f x="-2.2" y="14.6" kX="31.82" kY="31.82" cX="0.43" cY="0.43" z="4" twE="0" dr="18"/>
+          <f x="-6.4" y="40.95" kX="89.99" kY="89.99" cX="0.64" cY="0.64" z="4" twE="0" dr="17"/>
+          <f x="2.15" y="63.9" kX="146.93" kY="146.93" cX="0.44" cY="0.44" z="3" twE="0" dr="13"/>
+          <f x="7.05" y="77.4" kX="180" kY="180" cX="0.32" cY="0.32" z="3" dr="1"/>
+          <f dr="39" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.32" cY="0.32" z="4" img="title_Thelordofthewinter-xuehuazc" twE="0" dr="14"/>
+          <f x="2.2" y="14.6" kX="-31.82" kY="-31.82" cX="0.43" cY="0.43" z="5" twE="0" dr="18"/>
+          <f x="6.4" y="40.95" kX="-89.99" kY="-89.99" cX="0.64" cY="0.64" z="5" twE="0" dr="1"/>
+          <f x="5.85" y="42.3" kX="-93.27" kY="-93.27" cX="0.63" cY="0.63" z="5" twE="0" dr="16"/>
+          <f x="-2.15" y="63.9" kX="-146.93" kY="-146.93" cX="0.44" cY="0.44" z="5" twE="0" dr="13"/>
+          <f x="-7.05" y="77.4" kX="180" kY="-180" cX="0.32" cY="0.32" z="5" dr="1"/>
+          <f dr="44" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="36" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="6" img="title_Thelordofthewinter-xuehuazc" twE="0" dr="14"/>
+          <f x="3.45" y="22.85" kX="-31.82" kY="-31.82" cX="0.68" cY="0.68" z="4" twE="0" dr="18"/>
+          <f x="10" y="64" kX="-89.99" kY="-89.99" cX="1" cY="1" z="3" twE="0" dr="17"/>
+          <f x="-3.4" y="99.9" kX="-146.93" kY="-146.93" cX="0.68" cY="0.68" z="2" twE="0" dr="13"/>
+          <f x="-11" y="121" kX="180" kY="-180" cX="0.5" cY="0.5" z="2" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="24" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.32" cY="0.32" z="7" img="title_Thelordofthewinter-xuehuazc" twE="0" dr="14"/>
+          <f x="-2.2" y="14.6" kX="31.82" kY="31.82" cX="0.43" cY="0.43" z="7" twE="0" dr="18"/>
+          <f x="-6.4" y="40.95" kX="89.99" kY="89.99" cX="0.64" cY="0.64" z="4" twE="0" dr="17"/>
+          <f x="2.15" y="63.9" kX="146.93" kY="146.93" cX="0.44" cY="0.44" z="4" twE="0" dr="13"/>
+          <f x="7.05" y="77.4" kX="180" kY="180" cX="0.32" cY="0.32" z="4" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f dr="19" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.32" cY="0.32" z="7" img="title_Thelordofthewinter-xuehuazc" twE="0" dr="14"/>
+          <f x="2.2" y="14.6" kX="-31.82" kY="-31.82" cX="0.43" cY="0.43" z="8" twE="0" dr="18"/>
+          <f x="6.4" y="40.95" kX="-89.99" kY="-89.99" cX="0.64" cY="0.64" z="8" twE="0" dr="1"/>
+          <f x="5.85" y="42.3" kX="-93.27" kY="-93.27" cX="0.63" cY="0.63" z="6" twE="0" dr="16"/>
+          <f x="-2.15" y="63.9" kX="-146.93" kY="-146.93" cX="0.44" cY="0.44" z="5" twE="0" dr="13"/>
+          <f x="-7.05" y="77.4" kX="180" kY="-180" cX="0.32" cY="0.32" z="5" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.75" cY="0.75" z="5" img="title_Thelordofthewinter-xuehuazc" twE="0" dr="16"/>
+          <f x="9.6" y="25.9" kX="53.67" kY="53.67" cX="0.52" cY="0.52" z="8" twE="0" dr="13"/>
+          <f x="15.5" y="42.1" kX="86.73" kY="86.73" cX="0.38" cY="0.38" z="8" dr="1"/>
+          <f dr="77" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.75" cY="0.75" z="6" img="title_Thelordofthewinter-xuehuazc" twE="0" dr="16"/>
+          <f x="-9.6" y="25.9" kX="-53.67" kY="-53.67" cX="0.52" cY="0.52" z="9" twE="0" dr="13"/>
+          <f x="-15.5" y="42.1" kX="273.27" kY="-86.73" cX="0.38" cY="0.38" z="9" dr="1"/>
+          <f dr="77" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="74" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="4" img="title_Thelordofthewinter-xuehuazc" twE="0" dr="14"/>
+          <f x="-2.65" y="17.5" kX="31.82" kY="31.82" cX="0.52" cY="0.52" z="2" twE="0" dr="18"/>
+          <f x="-7.7" y="49.1" kX="89.99" kY="89.99" cX="0.77" cY="0.77" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="74" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="5" img="title_Thelordofthewinter-xuehuazc" twE="0" dr="14"/>
+          <f x="2.65" y="17.5" kX="-31.82" kY="-31.82" cX="0.52" cY="0.52" z="3" twE="0" dr="18"/>
+          <f x="7.7" y="49.1" kX="-89.99" kY="-89.99" cX="0.77" cY="0.77" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="xue268 复制" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="7" img="title_Thelordofthewinter-xue" twE="0" dr="12"/>
+          <f x="-7.25" y="22.15" kX="-0.01" kY="-0.01" cX="0.51" cY="0.51" z="9" twE="0" dr="15"/>
+          <f x="4.3" y="41.65" kX="-0.01" kY="-0.01" cX="0.51" cY="0.51" z="9" twE="0" dr="14"/>
+          <f x="5.2" y="67.75" kX="-0.01" kY="-0.01" cX="0.13" cY="0.13" z="9" twE="0" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="121.9" y="8" kX="7" kY="-173" cX="0.46" cY="0.46" z="12" twE="0" dr="12"/>
+          <f x="129.15" y="30.15" kX="7.01" kY="-172.99" cX="0.51" cY="0.51" z="7" twE="0" dr="15"/>
+          <f x="117.6" y="49.65" kX="7.01" kY="-172.99" cX="0.51" cY="0.51" z="7" twE="0" dr="14"/>
+          <f x="116.7" y="75.75" kX="7.01" kY="-172.99" cX="0.13" cY="0.13" z="7" twE="0" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="xue268 复制0" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="11" img="title_Thelordofthewinter-xue" twE="0" dr="12"/>
+          <f x="7.25" y="22.15" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="9" twE="0" dr="15"/>
+          <f x="-4.3" y="41.65" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="9" twE="0" dr="14"/>
+          <f x="-5.2" y="67.75" kX="0.01" kY="0.01" cX="0.13" cY="0.13" z="9" twE="0" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="xue268 复制1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="8" img="title_Thelordofthewinter-xue" twE="0" dr="12"/>
+          <f x="7.25" y="22.15" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="11" twE="0" dr="15"/>
+          <f x="-4.3" y="41.65" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="11" twE="0" dr="14"/>
+          <f x="-5.2" y="67.75" kX="0.01" kY="0.01" cX="0.13" cY="0.13" z="11" twE="0" dr="1"/>
+          <f dr="65" hide="1"/>
+        </b>
+        <b name="xue268 复制2" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="10" img="title_Thelordofthewinter-xue" twE="0" dr="12"/>
+          <f x="7.25" y="22.15" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="11" twE="0" dr="15"/>
+          <f x="-4.3" y="41.65" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="10" twE="0" dr="14"/>
+          <f x="-5.2" y="67.75" kX="0.01" kY="0.01" cX="0.13" cY="0.13" z="10" twE="0" dr="1"/>
+          <f dr="59" hide="1"/>
+        </b>
+        <b name="xue268 复制3" sc="1" dl="0">
+          <f dr="19" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="12" img="title_Thelordofthewinter-xue" twE="0" dr="12"/>
+          <f x="-7.25" y="22.15" kX="-0.01" kY="-0.01" cX="0.51" cY="0.51" z="11" twE="0" dr="15"/>
+          <f x="4.3" y="41.65" kX="-0.01" kY="-0.01" cX="0.51" cY="0.51" z="9" twE="0" dr="14"/>
+          <f x="5.2" y="67.75" kX="-0.01" kY="-0.01" cX="0.13" cY="0.13" z="9" twE="0" dr="1"/>
+          <f dr="46" hide="1"/>
+        </b>
+        <b name="xue268 复制4" sc="1" dl="0">
+          <f dr="35" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="12" img="title_Thelordofthewinter-xue" twE="0" dr="12"/>
+          <f x="7.25" y="22.15" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="9" twE="0" dr="15"/>
+          <f x="-4.3" y="41.65" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="8" twE="0" dr="14"/>
+          <f x="-5.2" y="67.75" kX="0.01" kY="0.01" cX="0.13" cY="0.13" z="8" twE="0" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="xue268 复制5" sc="1" dl="0">
+          <f dr="45" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="13" img="title_Thelordofthewinter-xue" twE="0" dr="12"/>
+          <f x="-7.25" y="22.15" kX="-0.01" kY="-0.01" cX="0.51" cY="0.51" z="8" twE="0" dr="15"/>
+          <f x="4.3" y="41.65" kX="-0.01" kY="-0.01" cX="0.51" cY="0.51" z="7" twE="0" dr="14"/>
+          <f x="5.2" y="67.75" kX="-0.01" kY="-0.01" cX="0.13" cY="0.13" z="7" twE="0" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="xue268 复制50" sc="1" dl="0">
+          <f dr="58" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="9" img="title_Thelordofthewinter-xue" twE="0" dr="12"/>
+          <f x="-7.25" y="22.15" kX="-0.01" kY="-0.01" cX="0.51" cY="0.51" z="9" twE="0" dr="15"/>
+          <f x="4.3" y="41.65" kX="-0.01" kY="-0.01" cX="0.51" cY="0.51" z="5" twE="0" dr="14"/>
+          <f x="5.2" y="67.75" kX="-0.01" kY="-0.01" cX="0.13" cY="0.13" z="4" twE="0" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="xue268 复制6" sc="1" dl="0">
+          <f dr="64" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="12" img="title_Thelordofthewinter-xue" twE="0" dr="12"/>
+          <f x="7.25" y="22.15" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="10" twE="0" dr="9"/>
+          <f x="0.3" y="33.8" kX="0" kY="0" cX="0.51" cY="0.51" z="9" twE="0" dr="1"/>
+          <f x="-0.45" y="35.1" kX="0" kY="0" cX="0.51" cY="0.51" z="7" twE="0" dr="5"/>
+          <f x="-4.3" y="41.65" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="4" twE="0" dr="14"/>
+          <f x="-5.2" y="67.75" kX="0.01" kY="0.01" cX="0.13" cY="0.13" z="4" twE="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="xue268 复制7" sc="1" dl="0">
+          <f dr="91" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="5" img="title_Thelordofthewinter-xue" twE="0" dr="12"/>
+          <f x="7.25" y="22.15" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="5" twE="0" dr="3"/>
+          <f x="4.95" y="26" kX="0" kY="0" cX="0.51" cY="0.51" z="4" twE="0" dr="1"/>
+          <f x="4.15" y="27.3" kX="0" kY="0" cX="0.51" cY="0.51" z="10" twE="0" dr="11"/>
+          <f x="-4.3" y="41.65" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="14" twE="0" dr="14"/>
+          <f x="-5.2" y="67.75" kX="0.01" kY="0.01" cX="0.13" cY="0.13" z="14" twE="0" dr="1"/>
+          <f dr="81" hide="1"/>
+        </b>
+        <b name="xue268 复制60" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.51" z="9" img="title_Thelordofthewinter-xue" twE="0" dr="5"/>
+          <f x="-3.85" y="6.55" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="12" twE="0" dr="14"/>
+          <f x="-4.75" y="32.65" kX="0.01" kY="0.01" cX="0.13" cY="0.13" z="14" twE="0" dr="1"/>
+          <f dr="65" hide="1"/>
+          <f x="0.45" y="-35.1" kX="0" kY="0" cX="0.46" cY="0.46" z="8" twE="0" dr="12"/>
+          <f x="7.7" y="-12.95" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="6" twE="0" dr="9"/>
+          <f x="0.75" y="-1.3" kX="0" kY="0" cX="0.51" cY="0.51" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="xue268 复制61" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.51" z="10" img="title_Thelordofthewinter-xue" twE="0" dr="5"/>
+          <f x="-3.85" y="6.55" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="13" twE="0" dr="14"/>
+          <f x="-4.75" y="32.65" kX="0.01" kY="0.01" cX="0.13" cY="0.13" z="15" twE="0" dr="1"/>
+          <f dr="65" hide="1"/>
+          <f x="0.45" y="-35.1" kX="0" kY="0" cX="0.46" cY="0.46" z="9" twE="0" dr="12"/>
+          <f x="7.7" y="-12.95" kX="0.01" kY="0.01" cX="0.51" cY="0.51" z="7" twE="0" dr="9"/>
+          <f x="0.75" y="-1.3" kX="0" kY="0" cX="0.51" cY="0.51" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="11" img="title_Thelordofthewinter-DRMXG1" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="13" img="title_Thelordofthewinter-DRMXG3" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="13" img="title_Thelordofthewinter-DRMXG5" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="13" img="title_Thelordofthewinter-DRMXG7" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="16" img="title_Thelordofthewinter-DRMXG9" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="14" img="title_Thelordofthewinter-DRMXG11" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="14" img="title_Thelordofthewinter-DRMXG13" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="13" img="title_Thelordofthewinter-DRMXG15" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="14" img="title_Thelordofthewinter-DRMXG17" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="15" img="title_Thelordofthewinter-DRMXG19" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="14" img="title_Thelordofthewinter-DRMXG21" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="15" img="title_Thelordofthewinter-DRMXG23" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="14" img="title_Thelordofthewinter-DRMXG25" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="14" img="title_Thelordofthewinter-DRMXG27" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="14" img="title_Thelordofthewinter-DRMXG1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="13" img="title_Thelordofthewinter-DRMXG3" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="12" img="title_Thelordofthewinter-DRMXG5" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="11" img="title_Thelordofthewinter-DRMXG7" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="11" img="title_Thelordofthewinter-DRMXG9" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="12" img="title_Thelordofthewinter-DRMXG11" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="12" img="title_Thelordofthewinter-DRMXG13" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="12" img="title_Thelordofthewinter-DRMXG15" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="10" img="title_Thelordofthewinter-DRMXG17" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="10" img="title_Thelordofthewinter-DRMXG19" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="10" img="title_Thelordofthewinter-DRMXG21" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="8" img="title_Thelordofthewinter-DRMXG23" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="8" img="title_Thelordofthewinter-DRMXG25" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.36" cY="1.36" z="7" img="title_Thelordofthewinter-DRMXG27" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="冬日主宰者称号（包含尖端最终版）" width="512" height="512">
+    <SubTexture name="title_Thelordofthewinter-mao-01" x="454" y="170" width="44" height="27" pX="0.05" pY="0"/>
+    <SubTexture name="title_Thelordofthewinter-mao-02" x="202" y="144" width="44" height="28" pX="0.4" pY="0.85"/>
+    <SubTexture name="title_Thelordofthewinter-mao-03" x="454" y="83" width="44" height="28" pX="0.65" pY="1.5"/>
+    <SubTexture name="title_Thelordofthewinter-mao-04" x="454" y="52" width="45" height="30" pX="1.3" pY="3.2"/>
+    <SubTexture name="title_Thelordofthewinter-mao-05" x="454" y="112" width="44" height="28" pX="0.65" pY="1.85"/>
+    <SubTexture name="title_Thelordofthewinter-mao-06" x="454" y="141" width="44" height="28" pX="0.3" pY="1.3"/>
+    <SubTexture name="title_Thelordofthewinter-tu1" x="0" y="0" width="251" height="143" pX="0.5" pY="3"/>
+    <SubTexture name="title_Thelordofthewinter-xuehuazc" x="454" y="0" width="51" height="51" pX="25" pY="25"/>
+    <SubTexture name="title_Thelordofthewinter-xue" x="202" y="173" width="24" height="26" pX="11.25" pY="11.75"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG1" x="0" y="388" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG3" x="202" y="366" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG5" x="0" y="327" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG7" x="202" y="305" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG9" x="0" y="266" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG11" x="202" y="244" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG13" x="252" y="61" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG15" x="227" y="183" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG17" x="0" y="144" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG19" x="252" y="122" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG21" x="202" y="427" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG23" x="0" y="449" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG25" x="252" y="0" width="201" height="60" pX="136.5" pY="42"/>
+    <SubTexture name="title_Thelordofthewinter-DRMXG27" x="0" y="205" width="201" height="60" pX="136.5" pY="42"/>
+  </TextureAtlas>
+</skeleton>

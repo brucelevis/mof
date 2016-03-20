@@ -1,0 +1,15 @@
+<skeleton name="weapon_fashion">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_shengdan" bT="0" bi="weapon_fashion-weapon-fs_shengdan" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_fashion-weapon-fs_shengdan"/>
+      <b name="weapon-ck_shengdan" bT="0" bi="weapon_fashion-weapon-ck_shengdan" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_fashion-weapon-ck_shengdan"/>
+      <b name="weapon-zs_shengdan" bT="0" bi="weapon_fashion-weapon-zs_shengdan" x="-34" y="0.1" kX="0" kY="0" z="2" img="weapon_fashion-weapon-zs_shengdan"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="weapon_fashion" width="512" height="256">
+    <SubTexture name="weapon_fashion-weapon-fs_shengdan" x="0" y="0" width="66" height="185" pX="30.2" pY="88.5"/>
+    <SubTexture name="weapon_fashion-weapon-ck_shengdan" x="235" y="0" width="54" height="102" pX="26.6" pY="50.75"/>
+    <SubTexture name="weapon_fashion-weapon-zs_shengdan" x="67" y="0" width="167" height="69" pX="27.25" pY="35.95"/>
+  </TextureAtlas>
+</skeleton>

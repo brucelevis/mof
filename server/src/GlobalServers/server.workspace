@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="ClientTest/ClientTest.cbp" />
+		<Project filename="ModMail/ModMail.cbp" />
+		<Project filename="ModGM/ModGM.cbp" />
+		<Project filename="ModLog/ModLog.cbp" />
+		<Project filename="PublicServer/PublicServer.cbp" />
+		<Project filename="ModCenter/ModCenter.cbp" />
+		<Project filename="../Server/GameSrv.cbp" />
+		<Project filename="PublicServer/PublicServer.cbp" active="1" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -1,0 +1,407 @@
+<skeleton name="自动寻路光(整合) - ok">
+  <armatures>
+    <armature name="QuestFinished">
+      <b name="图层 5" bT="0" bi="Quest_light-shuidizhu" x="7.6" y="18.8" kX="0" kY="0" z="0"/>
+      <b name="图层 4" bT="0" bi="Quest_light-shuidizhu" x="50.85" y="26.05" kX="0" kY="0" z="1"/>
+      <b name="图层 3" bT="0" bi="Quest_light-shuidizhu" x="17.15" y="14.45" kX="0" kY="0" z="2"/>
+      <b name="图层 2" bT="0" bi="Quest_light-shuidizhu" x="37.15" y="31.8" kX="0" kY="0" z="3"/>
+      <b name="Layer 1           复制 460441391" bT="0" bi="Quest_light-888" x="32.95" y="38.35" kX="-89.73" kY="-89.81" z="2"/>
+      <b name="图层 19         复制 9" bT="0" bi="Quest_light-888ex" x="35.55" y="-5.85" kX="22.78" kY="-157.32" z="4"/>
+      <b name="图层 20         复制 9" bT="0" bi="Quest_light-888ex" x="20.95" y="7.9" kX="7.78" kY="-172.31" z="1"/>
+      <b name="图层 3         复制 9" bT="0" bi="Quest_light-888zizi" x="16.8" y="7.15" kX="-144.95" kY="34.95" z="6"/>
+      <b name="图层 21         复制 9" bT="0" bi="Quest_light-888zizi" x="53.4" y="-18.05" kX="98.92" kY="95.45" z="3"/>
+      <b name="图层 22         复制 9" bT="0" bi="Quest_light-888zizi" x="23.4" y="9.85" kX="-45.18" kY="134.72" z="7"/>
+      <b name="图层 22         复制 90" bT="0" bi="Quest_light-888zizi" x="15.15" y="3.9" kX="-45.14" kY="134.65" z="7"/>
+      <b name="Layer 1           复制 4604413910" bT="0" bi="Quest_light-888" x="28.05" y="22.1" kX="-89.93" kY="-89.83" z="4"/>
+      <b name="图层 6" bT="0" bi="Quest_light-wenhao" x="68" y="-19.9" kX="0" kY="0" z="9"/>
+      <b name="图层 10" bT="0" bi="Quest_light-jrw1" x="30.3" y="1.05" kX="14.73" kY="14.73" z="6"/>
+      <b name="图层 9" bT="0" bi="Quest_light-jrw1" x="33.5" y="6.05" kX="-36.22" kY="-36.22" z="10"/>
+      <b name="图层 8" bT="0" bi="Quest_light-jrw1" x="21.1" y="-3.65" kX="-136.7" kY="-136.31" z="9"/>
+      <b name="图层 7" bT="0" bi="Quest_light-jrw6" x="21.1" y="-3.65" kX="-136.7" kY="-136.31" z="6"/>
+    </armature>
+    <armature name="QuestDoing">
+      <b name="图层 5" bT="0" bi="Quest_light-shuidizhu" x="7.6" y="18.8" kX="0" kY="0" z="0"/>
+      <b name="图层 4" bT="0" bi="Quest_light-shuidizhu" x="50.85" y="26.05" kX="0" kY="0" z="1"/>
+      <b name="图层 3" bT="0" bi="Quest_light-shuidizhu" x="17.15" y="14.45" kX="0" kY="0" z="2"/>
+      <b name="图层 2" bT="0" bi="Quest_light-shuidizhu" x="37.15" y="31.8" kX="0" kY="0" z="3"/>
+      <b name="Layer 1           复制 460441391" bT="0" bi="Quest_light-888" x="32.95" y="38.35" kX="-89.73" kY="-89.81" z="2"/>
+      <b name="图层 19         复制 9" bT="0" bi="Quest_light-888ex" x="35.55" y="-5.85" kX="22.78" kY="-157.32" z="4"/>
+      <b name="图层 20         复制 9" bT="0" bi="Quest_light-888ex" x="20.95" y="7.9" kX="7.78" kY="-172.31" z="1"/>
+      <b name="图层 3         复制 9" bT="0" bi="Quest_light-888zizi" x="16.8" y="7.15" kX="-144.95" kY="34.95" z="6"/>
+      <b name="图层 21         复制 9" bT="0" bi="Quest_light-888zizi" x="53.4" y="-18.05" kX="98.92" kY="95.45" z="3"/>
+      <b name="图层 22         复制 9" bT="0" bi="Quest_light-888zizi" x="23.4" y="9.85" kX="-45.18" kY="134.72" z="7"/>
+      <b name="图层 22         复制 90" bT="0" bi="Quest_light-888zizi" x="15.15" y="3.9" kX="-45.14" kY="134.65" z="7"/>
+      <b name="Layer 1           复制 4604413910" bT="0" bi="Quest_light-888" x="28.05" y="22.1" kX="-89.93" kY="-89.83" z="4"/>
+    </armature>
+    <armature name="QuestAcceptable">
+      <b name="图层 5" bT="0" bi="Quest_light-shuidizhu" x="7.6" y="18.8" kX="0" kY="0" z="0"/>
+      <b name="图层 4" bT="0" bi="Quest_light-shuidizhu" x="50.85" y="26.05" kX="0" kY="0" z="1"/>
+      <b name="图层 3" bT="0" bi="Quest_light-shuidizhu" x="17.15" y="14.45" kX="0" kY="0" z="2"/>
+      <b name="图层 2" bT="0" bi="Quest_light-shuidizhu" x="37.15" y="31.8" kX="0" kY="0" z="3"/>
+      <b name="Layer 1           复制 460441391" bT="0" bi="Quest_light-888" x="32.95" y="38.35" kX="-89.73" kY="-89.81" z="2"/>
+      <b name="图层 19         复制 9" bT="0" bi="Quest_light-888ex" x="35.55" y="-5.85" kX="22.78" kY="-157.32" z="4"/>
+      <b name="图层 20         复制 9" bT="0" bi="Quest_light-888ex" x="20.95" y="7.9" kX="7.78" kY="-172.31" z="1"/>
+      <b name="图层 3         复制 9" bT="0" bi="Quest_light-888zizi" x="16.8" y="7.15" kX="-144.95" kY="34.95" z="6"/>
+      <b name="图层 21         复制 9" bT="0" bi="Quest_light-888zizi" x="53.4" y="-18.05" kX="98.92" kY="95.45" z="3"/>
+      <b name="图层 22         复制 9" bT="0" bi="Quest_light-888zizi" x="23.4" y="9.85" kX="-45.18" kY="134.72" z="7"/>
+      <b name="图层 22         复制 90" bT="0" bi="Quest_light-888zizi" x="15.15" y="3.9" kX="-45.14" kY="134.65" z="7"/>
+      <b name="Layer 1           复制 4604413910" bT="0" bi="Quest_light-888" x="28.05" y="22.1" kX="-89.93" kY="-89.83" z="4"/>
+      <b name="图层 6" bT="0" bi="Quest_light-tanhao" x="68" y="-19.9" kX="0" kY="0" z="9"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="QuestFinished">
+      <mov name="QuestFinished" to="1" dr="34" drTW="35" lp="1">
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="0" img="Quest_light-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-9.5" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="9"/>
+          <f x="0" y="-24.9" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="7"/>
+          <f x="0" y="-35.25" kX="0" kY="0" cX="0.25" cY="0.25" z="0" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="1" img="Quest_light-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-9.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="9"/>
+          <f x="0" y="-24.9" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="7"/>
+          <f x="0" y="-35.25" kX="0" kY="0" cX="0.25" cY="0.25" z="0" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="2" img="Quest_light-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-9.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="9"/>
+          <f x="0" y="-24.9" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="8"/>
+          <f x="0" y="-35.25" kX="0" kY="0" cX="0.25" cY="0.25" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="3" img="Quest_light-shuidizhu" twE="0" dr="5"/>
+          <f x="0" y="-9.5" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="8"/>
+          <f x="0" y="-24.9" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="8"/>
+          <f x="0" y="-35.25" kX="0" kY="0" cX="0.25" cY="0.25" z="1" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 460441391" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.63" cY="2.17" z="2" img="Quest_light-888" twE="0" dr="2"/>
+          <f x="4.25" y="-10.95" kX="-0.2" kY="-0.02" cX="1.67" cY="1.37" z="3" twE="0" dr="2"/>
+          <f x="-1.2" y="-9.6" kX="0" kY="-0.01" cX="2.81" cY="2.32" z="3" twE="0" dr="2"/>
+          <f x="3.6" y="-19.25" kX="-0.2" kY="-0.02" cX="1.71" cY="1.4" z="4" twE="0" dr="2"/>
+          <f x="1.4" y="-18.5" kX="-0.23" kY="-0.02" cX="2.17" cY="1.79" z="4" twE="0" dr="4"/>
+          <f x="9.9" y="-31.95" kX="-0.02" kY="-0.01" cX="0.23" cY="0.19" z="4" dr="1"/>
+          <f dr="9" hide="1"/>
+          <f x="-8.5" y="3" kX="0" kY="0" cX="2.63" cY="2.17" z="5" twE="0" dr="3"/>
+          <f x="-4.25" y="-7.95" kX="-0.2" kY="-0.02" cX="1.67" cY="1.37" z="3" twE="0" dr="3"/>
+          <f x="-9.7" y="-6.6" kX="0" kY="-0.01" cX="2.81" cY="2.32" z="3" twE="0" dr="1"/>
+          <f x="-7.25" y="-11.45" kX="-0.23" kY="-0.14" cX="2.26" cY="1.86" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 19         复制 9" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="4" img="Quest_light-888ex" twE="0" dr="17"/>
+          <f x="-19.4" y="-17.5" kX="0" kY="0.01" cX="0.22" cY="0.27" z="4" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 20         复制 9" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="1" img="Quest_light-888ex" twE="0" dr="15"/>
+          <f x="-22.4" y="-9" kX="0" kY="-0.01" cX="0.22" cY="0.27" z="1" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 3         复制 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.99" z="6" img="Quest_light-888zizi" twE="0" dr="15"/>
+          <f x="7.65" y="-25.2" kX="0" kY="0" cX="0.21" cY="0.26" z="6" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 21         复制 9" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.61" cY="1.55" z="3" img="Quest_light-888zizi" twE="0" dr="15"/>
+          <f x="-9.4" y="-9.4" kX="0" kY="0.01" cX="0.21" cY="0.2" z="3" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 22         复制 9" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="1.55" z="7" img="Quest_light-888zizi" twE="0" dr="8"/>
+          <f x="-0.4" y="-2.8" kX="0.04" kY="-0.07" cX="0.77" cY="0.95" z="7" twE="0" dr="1"/>
+          <f x="-0.4" y="-3.1" kX="0.04" kY="-0.07" cX="0.71" cY="0.88" z="5" twE="0" dr="9"/>
+          <f x="-0.55" y="-6.35" kX="0" kY="0.01" cX="0.16" cY="0.2" z="5" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="-7.85" y="-2.85" kX="0" kY="0" cX="1.26" cY="1.55" z="2" twE="0" dr="8"/>
+          <f x="-8.25" y="-5.65" kX="0.04" kY="-0.07" cX="0.77" cY="0.95" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22         复制 90" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.71" cY="0.88" z="7" img="Quest_light-888zizi" twE="0" dr="9"/>
+          <f x="-0.15" y="-3.25" kX="-0.04" kY="0.08" cX="0.16" cY="0.2" z="7" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413910" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.71" cY="1.4" z="4" img="Quest_light-888" twE="0" dr="3"/>
+          <f x="-2.2" y="0.75" kX="-0.03" kY="0" cX="2.17" cY="1.79" z="7" twE="0" dr="4"/>
+          <f x="6.3" y="-12.7" kX="0.18" kY="0.01" cX="0.23" cY="0.19" z="8" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Quest_light-wenhao" twE="0" dr="14"/>
+          <f x="0" y="-5" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.39" cY="1.39" z="6" img="Quest_light-jrw1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.39" cY="1.39" z="9" img="Quest_light-jrw2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.39" cY="1.39" z="9" img="Quest_light-jrw3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.39" cY="1.39" z="9" img="Quest_light-jrw4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.39" cY="1.39" z="10" img="Quest_light-jrw5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.39" cY="1.39" z="9" img="Quest_light-jrw6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.39" cY="1.39" z="8" img="Quest_light-jrw7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.39" cY="1.39" z="6" img="Quest_light-jrw8" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.39" cY="1.39" z="7" img="Quest_light-jrw9" dr="3"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.18" cY="0.64" z="10" img="Quest_light-jrw1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.18" cY="0.64" z="11" img="Quest_light-jrw2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.18" cY="0.64" z="10" img="Quest_light-jrw3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.18" cY="0.64" z="10" img="Quest_light-jrw4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.18" cY="0.64" z="9" img="Quest_light-jrw5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.18" cY="0.64" z="8" img="Quest_light-jrw6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.18" cY="0.64" z="7" img="Quest_light-jrw7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.18" cY="0.64" z="8" img="Quest_light-jrw8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.18" cY="0.64" z="7" img="Quest_light-jrw9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.18" cY="0.64" z="5" img="Quest_light-jrw10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.18" cY="0.64" z="5" img="Quest_light-jrw11" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="24" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="0.57" z="9" img="Quest_light-jrw1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="0.57" z="8" img="Quest_light-jrw2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="0.57" z="6" img="Quest_light-jrw3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="0.57" z="6" img="Quest_light-jrw4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="0.57" z="3" img="Quest_light-jrw5" dr="2"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="0.57" z="6" img="Quest_light-jrw6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="0.57" z="7" img="Quest_light-jrw7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="0.57" z="10" img="Quest_light-jrw8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="0.57" z="11" img="Quest_light-jrw9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="0.57" z="10" img="Quest_light-jrw10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="0.57" z="11" img="Quest_light-jrw11" dr="2"/>
+          <f dr="22" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="QuestDoing">
+      <mov name="QuestDoing" to="1" dr="34" drTW="35" lp="1">
+        <b name="图层 1" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="0" img="Quest_light-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-9.5" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="9"/>
+          <f x="0" y="-24.9" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="7"/>
+          <f x="0" y="-35.25" kX="0" kY="0" cX="0.25" cY="0.25" z="0" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="1" img="Quest_light-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-9.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="9"/>
+          <f x="0" y="-24.9" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="7"/>
+          <f x="0" y="-35.25" kX="0" kY="0" cX="0.25" cY="0.25" z="0" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="2" img="Quest_light-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-9.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="9"/>
+          <f x="0" y="-24.9" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="8"/>
+          <f x="0" y="-35.25" kX="0" kY="0" cX="0.25" cY="0.25" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="3" img="Quest_light-shuidizhu" twE="0" dr="5"/>
+          <f x="0" y="-9.5" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="8"/>
+          <f x="0" y="-24.9" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="8"/>
+          <f x="0" y="-35.25" kX="0" kY="0" cX="0.25" cY="0.25" z="1" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 460441391" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.63" cY="2.17" z="2" img="Quest_light-888" twE="0" dr="2"/>
+          <f x="4.25" y="-10.95" kX="-0.2" kY="-0.02" cX="1.67" cY="1.37" z="3" twE="0" dr="2"/>
+          <f x="-1.2" y="-9.6" kX="0" kY="-0.01" cX="2.81" cY="2.32" z="3" twE="0" dr="2"/>
+          <f x="3.6" y="-19.25" kX="-0.2" kY="-0.02" cX="1.71" cY="1.4" z="4" twE="0" dr="2"/>
+          <f x="1.4" y="-18.5" kX="-0.23" kY="-0.02" cX="2.17" cY="1.79" z="4" twE="0" dr="4"/>
+          <f x="9.9" y="-31.95" kX="-0.02" kY="-0.01" cX="0.23" cY="0.19" z="4" dr="1"/>
+          <f dr="9" hide="1"/>
+          <f x="-8.5" y="3" kX="0" kY="0" cX="2.63" cY="2.17" z="5" twE="0" dr="3"/>
+          <f x="-4.25" y="-7.95" kX="-0.2" kY="-0.02" cX="1.67" cY="1.37" z="3" twE="0" dr="3"/>
+          <f x="-9.7" y="-6.6" kX="0" kY="-0.01" cX="2.81" cY="2.32" z="3" twE="0" dr="1"/>
+          <f x="-7.25" y="-11.45" kX="-0.23" kY="-0.14" cX="2.26" cY="1.86" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 19         复制 9" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="4" img="Quest_light-888ex" twE="0" dr="17"/>
+          <f x="-19.4" y="-17.5" kX="0" kY="0.01" cX="0.22" cY="0.27" z="4" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 20         复制 9" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="1" img="Quest_light-888ex" twE="0" dr="15"/>
+          <f x="-22.4" y="-9" kX="0" kY="-0.01" cX="0.22" cY="0.27" z="1" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 3         复制 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.99" z="6" img="Quest_light-888zizi" twE="0" dr="15"/>
+          <f x="7.65" y="-25.2" kX="0" kY="0" cX="0.21" cY="0.26" z="6" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 21         复制 9" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.61" cY="1.55" z="3" img="Quest_light-888zizi" twE="0" dr="15"/>
+          <f x="-9.4" y="-9.4" kX="0" kY="0.01" cX="0.21" cY="0.2" z="3" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 22         复制 9" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="1.55" z="7" img="Quest_light-888zizi" twE="0" dr="8"/>
+          <f x="-0.4" y="-2.8" kX="0.04" kY="-0.07" cX="0.77" cY="0.95" z="7" twE="0" dr="1"/>
+          <f x="-0.4" y="-3.1" kX="0.04" kY="-0.07" cX="0.71" cY="0.88" z="5" twE="0" dr="9"/>
+          <f x="-0.55" y="-6.35" kX="0" kY="0.01" cX="0.16" cY="0.2" z="5" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="-7.85" y="-2.85" kX="0" kY="0" cX="1.26" cY="1.55" z="2" twE="0" dr="8"/>
+          <f x="-8.25" y="-5.65" kX="0.04" kY="-0.07" cX="0.77" cY="0.95" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22         复制 90" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.71" cY="0.88" z="7" img="Quest_light-888zizi" twE="0" dr="9"/>
+          <f x="-0.15" y="-3.25" kX="-0.04" kY="0.08" cX="0.16" cY="0.2" z="7" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413910" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.71" cY="1.4" z="4" img="Quest_light-888" twE="0" dr="3"/>
+          <f x="-2.2" y="0.75" kX="-0.03" kY="0" cX="2.17" cY="1.79" z="7" twE="0" dr="4"/>
+          <f x="6.3" y="-12.7" kX="0.18" kY="0.01" cX="0.23" cY="0.19" z="8" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="QuestAcceptable">
+      <mov name="QuestAcceptable" to="1" dr="34" drTW="35" lp="1">
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="0" img="Quest_light-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-9.5" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="9"/>
+          <f x="0" y="-24.9" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="7"/>
+          <f x="0" y="-35.25" kX="0" kY="0" cX="0.25" cY="0.25" z="0" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="1" img="Quest_light-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-9.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="9"/>
+          <f x="0" y="-24.9" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="7"/>
+          <f x="0" y="-35.25" kX="0" kY="0" cX="0.25" cY="0.25" z="0" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="2" img="Quest_light-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-9.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="9"/>
+          <f x="0" y="-24.9" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="8"/>
+          <f x="0" y="-35.25" kX="0" kY="0" cX="0.25" cY="0.25" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="3" img="Quest_light-shuidizhu" twE="0" dr="5"/>
+          <f x="0" y="-9.5" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="8"/>
+          <f x="0" y="-24.9" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="8"/>
+          <f x="0" y="-35.25" kX="0" kY="0" cX="0.25" cY="0.25" z="1" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 460441391" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.63" cY="2.17" z="2" img="Quest_light-888" twE="0" dr="2"/>
+          <f x="4.25" y="-10.95" kX="-0.2" kY="-0.02" cX="1.67" cY="1.37" z="3" twE="0" dr="2"/>
+          <f x="-1.2" y="-9.6" kX="0" kY="-0.01" cX="2.81" cY="2.32" z="3" twE="0" dr="2"/>
+          <f x="3.6" y="-19.25" kX="-0.2" kY="-0.02" cX="1.71" cY="1.4" z="4" twE="0" dr="2"/>
+          <f x="1.4" y="-18.5" kX="-0.23" kY="-0.02" cX="2.17" cY="1.79" z="4" twE="0" dr="4"/>
+          <f x="9.9" y="-31.95" kX="-0.02" kY="-0.01" cX="0.23" cY="0.19" z="4" dr="1"/>
+          <f dr="9" hide="1"/>
+          <f x="-8.5" y="3" kX="0" kY="0" cX="2.63" cY="2.17" z="5" twE="0" dr="3"/>
+          <f x="-4.25" y="-7.95" kX="-0.2" kY="-0.02" cX="1.67" cY="1.37" z="3" twE="0" dr="3"/>
+          <f x="-9.7" y="-6.6" kX="0" kY="-0.01" cX="2.81" cY="2.32" z="3" twE="0" dr="1"/>
+          <f x="-7.25" y="-11.45" kX="-0.23" kY="-0.14" cX="2.26" cY="1.86" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 19         复制 9" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="4" img="Quest_light-888ex" twE="0" dr="17"/>
+          <f x="-19.4" y="-17.5" kX="0" kY="0.01" cX="0.22" cY="0.27" z="4" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 20         复制 9" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="1" img="Quest_light-888ex" twE="0" dr="15"/>
+          <f x="-22.4" y="-9" kX="0" kY="-0.01" cX="0.22" cY="0.27" z="1" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 3         复制 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.99" z="6" img="Quest_light-888zizi" twE="0" dr="15"/>
+          <f x="7.65" y="-25.2" kX="0" kY="0" cX="0.21" cY="0.26" z="6" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 21         复制 9" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.61" cY="1.55" z="3" img="Quest_light-888zizi" twE="0" dr="15"/>
+          <f x="-9.4" y="-9.4" kX="0" kY="0.01" cX="0.21" cY="0.2" z="3" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 22         复制 9" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="1.55" z="7" img="Quest_light-888zizi" twE="0" dr="8"/>
+          <f x="-0.4" y="-2.8" kX="0.04" kY="-0.07" cX="0.77" cY="0.95" z="7" twE="0" dr="1"/>
+          <f x="-0.4" y="-3.1" kX="0.04" kY="-0.07" cX="0.71" cY="0.88" z="5" twE="0" dr="9"/>
+          <f x="-0.55" y="-6.35" kX="0" kY="0.01" cX="0.16" cY="0.2" z="5" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="-7.85" y="-2.85" kX="0" kY="0" cX="1.26" cY="1.55" z="2" twE="0" dr="8"/>
+          <f x="-8.25" y="-5.65" kX="0.04" kY="-0.07" cX="0.77" cY="0.95" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22         复制 90" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.71" cY="0.88" z="7" img="Quest_light-888zizi" twE="0" dr="9"/>
+          <f x="-0.15" y="-3.25" kX="-0.04" kY="0.08" cX="0.16" cY="0.2" z="7" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413910" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.71" cY="1.4" z="4" img="Quest_light-888" twE="0" dr="3"/>
+          <f x="-2.2" y="0.75" kX="-0.03" kY="0" cX="2.17" cY="1.79" z="7" twE="0" dr="4"/>
+          <f x="6.3" y="-12.7" kX="0.18" kY="0.01" cX="0.23" cY="0.19" z="8" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Quest_light-tanhao" twE="0" dr="14"/>
+          <f x="0" y="-5" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="自动寻路光(整合) - ok" width="512" height="128">
+    <SubTexture name="Quest_light-wenhao" x="272" y="40" width="36" height="53" pX="17.5" pY="27"/>
+    <SubTexture name="Quest_light-jrw1" x="229" y="40" width="42" height="52" pX="50" pY="8.95"/>
+    <SubTexture name="Quest_light-jrw2" x="362" y="0" width="38" height="73" pX="50" pY="32.95"/>
+    <SubTexture name="Quest_light-jrw3" x="310" y="0" width="51" height="66" pX="50" pY="50"/>
+    <SubTexture name="Quest_light-jrw4" x="401" y="0" width="63" height="48" pX="50" pY="50"/>
+    <SubTexture name="Quest_light-jrw5" x="229" y="0" width="80" height="39" pX="50" pY="50"/>
+    <SubTexture name="Quest_light-jrw6" x="113" y="0" width="70" height="54" pX="29" pY="50"/>
+    <SubTexture name="Quest_light-jrw7" x="53" y="0" width="59" height="71" pX="16" pY="50"/>
+    <SubTexture name="Quest_light-jrw8" x="0" y="0" width="52" height="82" pX="8" pY="50"/>
+    <SubTexture name="Quest_light-jrw9" x="184" y="0" width="44" height="76" pX="-1" pY="40.95"/>
+    <SubTexture name="Quest_light-jrw10" x="465" y="0" width="32" height="75" pX="-15" pY="38.95"/>
+    <SubTexture name="Quest_light-jrw11" x="401" y="49" width="28" height="59" pX="-16" pY="21.95"/>
+    <SubTexture name="Quest_light-shuidizhu" x="498" y="39" width="11" height="11" pX="4.75" pY="4.7"/>
+    <SubTexture name="Quest_light-888" x="498" y="13" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="Quest_light-888ex" x="498" y="26" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="Quest_light-888zizi" x="498" y="0" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="Quest_light-tanhao" x="430" y="49" width="23" height="53" pX="11" pY="26"/>
+  </TextureAtlas>
+</skeleton>

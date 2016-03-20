@@ -1,0 +1,70 @@
+<skeleton name="暗金岩浆弹资源">
+  <armatures>
+    <armature name="yanjiangdan">
+      <b name="图层 5" bT="0" bi="Sagittarius_darkgold_skill-tuoweiying" x="5.8" y="-668.6" kX="0" kY="0" z="0"/>
+      <b name="图层 1" bT="0" bi="Sagittarius_darkgold_skill-YJP-2" x="23.95" y="29.95" kX="0" kY="0" z="0"/>
+      <b name="图层 2" bT="0" bi="Sagittarius_darkgold_skill-rongyandan" x="2" y="-631.55" kX="0" kY="0" z="1"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="yanjiangdan">
+      <mov name="yanjiangdan" to="1" dr="46" drTW="46" lp="0">
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="2.88" z="0" img="Sagittarius_darkgold_skill-tuoweiying" twE="0" dr="6"/>
+          <f x="-7.45" y="670.5" kX="0" kY="0" cX="0.74" cY="4.88" z="0" twE="0" dr="3"/>
+          <f x="-9.85" y="714.55" kX="0" kY="0" cX="0.36" cY="2.44" z="0" dr="1"/>
+          <f dr="36" hide="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-2" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-20" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-22" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.93" cY="2.93" z="0" img="Sagittarius_darkgold_skill-YJP-23" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Sagittarius_darkgold_skill-rongyandan" twE="0" dr="6"/>
+          <f x="-8" y="689.5" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+          <f dr="39" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="暗金岩浆弹资源" width="512" height="512">
+    <SubTexture name="Sagittarius_darkgold_skill-tuoweiying" x="391" y="150" width="111" height="111" pX="62.55" pY="97.05"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-2" x="277" y="268" width="90" height="96" pX="52.4" pY="47.5"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-3" x="368" y="354" width="99" height="96" pX="60.95" pY="47.5"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-4" x="111" y="360" width="99" height="86" pX="61.45" pY="39.3"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-5" x="0" y="348" width="110" height="89" pX="65.5" pY="40.35"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-6" x="151" y="268" width="125" height="91" pX="68.95" pY="42.35"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-7" x="374" y="262" width="136" height="91" pX="74" pY="42.35"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-8" x="0" y="259" width="150" height="88" pX="79.95" pY="39.35"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-9" x="0" y="177" width="161" height="81" pX="83" pY="32.35"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-10" x="0" y="105" width="178" height="71" pX="93.05" pY="22.5"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-11" x="0" y="43" width="191" height="61" pX="95" pY="12.4"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-12" x="212" y="0" width="211" height="42" pX="105" pY="-6.5"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-13" x="0" y="0" width="211" height="42" pX="105" pY="-6.5"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-14" x="162" y="232" width="211" height="35" pX="105" pY="-13.5"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-16" x="179" y="159" width="211" height="36" pX="105" pY="-12.5"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-18" x="192" y="83" width="211" height="38" pX="105" pY="-10.5"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-20" x="192" y="43" width="211" height="39" pX="105" pY="-9.5"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-22" x="179" y="122" width="211" height="36" pX="105" pY="-12.5"/>
+    <SubTexture name="Sagittarius_darkgold_skill-YJP-23" x="162" y="196" width="211" height="35" pX="105" pY="-13.5"/>
+    <SubTexture name="Sagittarius_darkgold_skill-rongyandan" x="404" y="43" width="101" height="106" pX="48" pY="48.05"/>
+  </TextureAtlas>
+</skeleton>

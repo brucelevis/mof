@@ -1,0 +1,1472 @@
+<skeleton name="食人鱼源文件">
+  <armatures>
+    <armature name="stand">
+      <b name="图层 42" bT="0" bi="Monster_xiaoyuren-yizi" x="181.65" y="261.1" kX="0" kY="0" z="0"/>
+      <b name="sry-yl2-1" bT="0" bi="Monster_xiaoyuren-sry-yl2-1" x="173.7" y="141.6" kX="0" kY="0" z="1"/>
+      <b name="sry-yl1-1" bT="0" bi="Monster_xiaoyuren-sry-yl1-1" x="202.7" y="211.6" kX="0" kY="0" z="2"/>
+      <b name="尾巴.psd" bT="0" bi="Monster_xiaoyuren-weiba-1" x="217.6" y="172.6" kX="0" kY="0" z="3"/>
+      <b name="sry-st-1" bT="0" bi="Monster_xiaoyuren-sry-st-1" x="157.7" y="167.6" kX="0" kY="0" z="4"/>
+      <b name="sry-xb-1" bT="0" bi="Monster_xiaoyuren-sry-xb2-1" x="141.7" y="208.6" kX="0" kY="0" z="5"/>
+      <b name="sry-tb-1" bT="0" bi="Monster_xiaoyuren-sry-tb-1" x="145.7" y="166.6" kX="0" kY="0" z="6"/>
+      <b name="sry-yl4-1" bT="0" bi="Monster_xiaoyuren-sry-yl4-1" x="180.7" y="206.6" kX="0" kY="0" z="7"/>
+      <b name="sry-yj-1" bT="0" bi="Monster_xiaoyuren-sry-yj1-1" x="147.7" y="168.6" kX="0" kY="0" z="8"/>
+      <b name="sry-yj-2" bT="0" bi="Monster_xiaoyuren-sry-yj2-1" x="162.7" y="167.6" kX="0" kY="0" z="9"/>
+      <b name="sry-k-1" bT="0" bi="Monster_xiaoyuren-sry-k-1" x="142.7" y="189.6" kX="0" kY="0" z="10"/>
+      <b name="sry-xc-1" bT="0" bi="Monster_xiaoyuren-sry-xs-1" x="135.7" y="188.6" kX="0" kY="0" z="11"/>
+      <b name="sry-sc-1" bT="0" bi="Monster_xiaoyuren-sry-ss-1" x="140.7" y="186.6" kX="0" kY="0" z="12"/>
+      <b name="sry-zj-1" bT="0" bi="Monster_xiaoyuren-sry-zj-2" x="178.7" y="200.6" kX="0" kY="0" z="13"/>
+      <b name="图层 24" bT="0" bi="Monster_xiaoyuren-qipao" x="136.9" y="196.2" kX="0" kY="0" z="14"/>
+      <b name="图层 23" bT="0" bi="Monster_xiaoyuren-qipao" x="137.95" y="184.1" kX="0" kY="0" z="15"/>
+      <b name="图层 22" bT="0" bi="Monster_xiaoyuren-qipao" x="171.5" y="162" kX="0" kY="0" z="16"/>
+    </armature>
+    <armature name="run">
+      <b name="图层 42" bT="0" bi="Monster_xiaoyuren-yizi" x="181.65" y="261.1" kX="0" kY="0" z="0"/>
+      <b name="sry-yl2-1" bT="0" bi="Monster_xiaoyuren-sry-yl2-1" x="173.7" y="141.6" kX="0" kY="0" z="1"/>
+      <b name="sry-yl1-1" bT="0" bi="Monster_xiaoyuren-sry-yl1-1" x="202.7" y="211.6" kX="0" kY="0" z="2"/>
+      <b name="尾巴.psd" bT="0" bi="Monster_xiaoyuren-weiba-1" x="217.6" y="172.6" kX="0" kY="0" z="3"/>
+      <b name="sry-st-1" bT="0" bi="Monster_xiaoyuren-sry-st-1" x="157.7" y="167.6" kX="0" kY="0" z="4"/>
+      <b name="sry-xb-1" bT="0" bi="Monster_xiaoyuren-sry-xb2-1" x="141.7" y="208.6" kX="0" kY="0" z="5"/>
+      <b name="sry-tb-1" bT="0" bi="Monster_xiaoyuren-sry-tb-1" x="145.7" y="166.6" kX="0" kY="0" z="6"/>
+      <b name="sry-yl4-1" bT="0" bi="Monster_xiaoyuren-sry-yl4-1" x="180.7" y="206.6" kX="0" kY="0" z="7"/>
+      <b name="sry-yj-1" bT="0" bi="Monster_xiaoyuren-sry-yj1-1" x="147.7" y="168.6" kX="0" kY="0" z="8"/>
+      <b name="sry-yj-2" bT="0" bi="Monster_xiaoyuren-sry-yj2-1" x="162.7" y="167.6" kX="0" kY="0" z="9"/>
+      <b name="sry-k-1" bT="0" bi="Monster_xiaoyuren-sry-k-1" x="142.7" y="189.6" kX="0" kY="0" z="10"/>
+      <b name="sry-xc-1" bT="0" bi="Monster_xiaoyuren-sry-xs-1" x="135.7" y="188.6" kX="0" kY="0" z="11"/>
+      <b name="sry-sc-1" bT="0" bi="Monster_xiaoyuren-sry-ss-1" x="140.7" y="186.6" kX="0" kY="0" z="12"/>
+      <b name="sry-zj-1" bT="0" bi="Monster_xiaoyuren-sry-zj-2" x="178.7" y="200.6" kX="0" kY="0" z="13"/>
+      <b name="图层 3" bT="0" bi="Monster_xiaoyuren-qipao" x="135.35" y="189" kX="0" kY="0" z="14"/>
+      <b name="图层 6" bT="0" bi="Monster_xiaoyuren-qipao" x="145.7" y="196.3" kX="0" kY="0" z="15"/>
+      <b name="图层 7" bT="0" bi="Monster_xiaoyuren-qipao" x="143.2" y="196.45" kX="0" kY="0" z="16"/>
+    </armature>
+    <armature name="physical_1">
+      <b name="图层 42" bT="0" bi="Monster_xiaoyuren-yizi" x="181.65" y="261.1" kX="0" kY="0" z="0"/>
+      <b name="sry-yl2-1" bT="0" bi="Monster_xiaoyuren-sry-yl2-1" x="173.7" y="141.6" kX="0" kY="0" z="1"/>
+      <b name="sry-yl1-1" bT="0" bi="Monster_xiaoyuren-sry-yl1-1" x="202.7" y="211.6" kX="0" kY="0" z="2"/>
+      <b name="sry-wb1-1" bT="0" bi="Monster_xiaoyuren-weiba-1" x="217.7" y="172.55" kX="0" kY="0" z="3"/>
+      <b name="sry-st-1" bT="0" bi="Monster_xiaoyuren-sry-st-1" x="157.7" y="167.6" kX="0" kY="0" z="4"/>
+      <b name="sry-xb-1" bT="0" bi="Monster_xiaoyuren-sry-xb2-1" x="141.7" y="208.6" kX="0" kY="0" z="5"/>
+      <b name="sry-tb-1" bT="0" bi="Monster_xiaoyuren-sry-tb-1" x="145.7" y="166.6" kX="0" kY="0" z="6"/>
+      <b name="sry-yl4-1" bT="0" bi="Monster_xiaoyuren-sry-yl4-1" x="180.7" y="206.6" kX="0" kY="0" z="7"/>
+      <b name="sry-yj-1" bT="0" bi="Monster_xiaoyuren-sry-yj1-1" x="147.7" y="168.6" kX="0" kY="0" z="8"/>
+      <b name="sry-yj-2" bT="0" bi="Monster_xiaoyuren-sry-yj2-1" x="162.7" y="167.6" kX="0" kY="0" z="9"/>
+      <b name="sry-k-1" bT="0" bi="Monster_xiaoyuren-sry-k-1" x="142.7" y="189.6" kX="0" kY="0" z="10"/>
+      <b name="sry-xc-1" bT="0" bi="Monster_xiaoyuren-sry-xs-1" x="135.7" y="188.6" kX="0" kY="0" z="11"/>
+      <b name="sry-sc-1" bT="0" bi="Monster_xiaoyuren-sry-ss-1" x="140.7" y="186.6" kX="0" kY="0" z="12"/>
+      <b name="sry-zj-1" bT="0" bi="Monster_xiaoyuren-sry-zj-2" x="178.7" y="200.6" kX="0" kY="0" z="13"/>
+    </armature>
+    <armature name="fell">
+      <b name="图层 42" bT="0" bi="Monster_xiaoyuren-yizi" x="181.65" y="261.1" kX="0" kY="0" z="0"/>
+      <b name="sry-yl2-1" bT="0" bi="Monster_xiaoyuren-sry-yl2-1" x="173.7" y="141.6" kX="0" kY="0" z="1"/>
+      <b name="sry-yl1-1" bT="0" bi="Monster_xiaoyuren-sry-yl1-1" x="202.7" y="211.6" kX="0" kY="0" z="2"/>
+      <b name="sry-wb1-1" bT="0" bi="Monster_xiaoyuren-weiba-1" x="217.7" y="172.55" kX="0" kY="0" z="3"/>
+      <b name="sry-st-1" bT="0" bi="Monster_xiaoyuren-sry-st-1" x="157.7" y="167.6" kX="0" kY="0" z="4"/>
+      <b name="sry-xb-1" bT="0" bi="Monster_xiaoyuren-sry-xb2-1" x="141.7" y="208.6" kX="0" kY="0" z="5"/>
+      <b name="sry-tb-1" bT="0" bi="Monster_xiaoyuren-sry-tb-1" x="145.7" y="166.6" kX="0" kY="0" z="6"/>
+      <b name="sry-yl4-1" bT="0" bi="Monster_xiaoyuren-sry-yl4-1" x="180.7" y="206.6" kX="0" kY="0" z="7"/>
+      <b name="sry-yj-1" bT="0" bi="Monster_xiaoyuren-sry-yj1-1" x="147.7" y="168.6" kX="0" kY="0" z="8"/>
+      <b name="sry-yj-2" bT="0" bi="Monster_xiaoyuren-sry-yj2-1" x="162.7" y="167.6" kX="0" kY="0" z="9"/>
+      <b name="sry-k-1" bT="0" bi="Monster_xiaoyuren-sry-k-1" x="142.7" y="189.6" kX="0" kY="0" z="10"/>
+      <b name="sry-xc-1" bT="0" bi="Monster_xiaoyuren-sry-xs-1" x="135.7" y="188.6" kX="0" kY="0" z="11"/>
+      <b name="sry-sc-1" bT="0" bi="Monster_xiaoyuren-sry-ss-1" x="140.7" y="186.6" kX="0" kY="0" z="12"/>
+      <b name="sry-zj-1" bT="0" bi="Monster_xiaoyuren-sry-zj-2" x="178.7" y="200.6" kX="0" kY="0" z="13"/>
+    </armature>
+    <armature name="dead">
+      <b name="图层 42" bT="0" bi="Monster_xiaoyuren-yizi" x="181.65" y="261.1" kX="0" kY="0" z="0"/>
+      <b name="sry-yl1-1" bT="0" bi="Monster_xiaoyuren-sry-yl2-1" x="173.7" y="141.6" kX="0" kY="0" z="1"/>
+      <b name="sry-yl5-1" bT="0" bi="Monster_xiaoyuren-sry-yl1-1" x="202.7" y="211.6" kX="0" kY="0" z="2"/>
+      <b name="sry-wb1-1" bT="0" bi="Monster_xiaoyuren-weiba-1" x="217.7" y="172.55" kX="0" kY="0" z="3"/>
+      <b name="sry-st-1" bT="0" bi="Monster_xiaoyuren-sry-st-1" x="157.7" y="167.6" kX="0" kY="0" z="4"/>
+      <b name="sry-xb-1" bT="0" bi="Monster_xiaoyuren-sry-xb2-1" x="141.7" y="208.6" kX="0" kY="0" z="5"/>
+      <b name="sry-tb-1" bT="0" bi="Monster_xiaoyuren-sry-tb-1" x="145.7" y="166.6" kX="0" kY="0" z="6"/>
+      <b name="sry-yl4-1" bT="0" bi="Monster_xiaoyuren-sry-yl4-1" x="180.7" y="206.6" kX="0" kY="0" z="7"/>
+      <b name="sry-yj-1" bT="0" bi="Monster_xiaoyuren-sry-yj1-1" x="147.7" y="168.6" kX="0" kY="0" z="8"/>
+      <b name="sry-yj-2" bT="0" bi="Monster_xiaoyuren-sry-yj2-1" x="162.7" y="167.6" kX="0" kY="0" z="9"/>
+      <b name="sry-k-1" bT="0" bi="Monster_xiaoyuren-sry-k-1" x="142.7" y="189.6" kX="0" kY="0" z="10"/>
+      <b name="sry-xc-1" bT="0" bi="Monster_xiaoyuren-sry-xs-1" x="135.7" y="188.6" kX="0" kY="0" z="11"/>
+      <b name="sry-sc-1" bT="0" bi="Monster_xiaoyuren-sry-ss-1" x="140.7" y="186.6" kX="0" kY="0" z="12"/>
+      <b name="sry-zj-1" bT="0" bi="Monster_xiaoyuren-sry-zj-2" x="178.7" y="200.6" kX="0" kY="0" z="13"/>
+    </armature>
+    <armature name="bruise">
+      <b name="图层 42" bT="0" bi="Monster_xiaoyuren-yizi" x="181.65" y="261.1" kX="0" kY="0" z="0"/>
+      <b name="sry-yl2-1" bT="0" bi="Monster_xiaoyuren-sry-yl2-1" x="173.7" y="141.6" kX="0" kY="0" z="1"/>
+      <b name="sry-yl1-1" bT="0" bi="Monster_xiaoyuren-sry-yl1-1" x="202.7" y="211.6" kX="0" kY="0" z="2"/>
+      <b name="sry-wb1-1" bT="0" bi="Monster_xiaoyuren-weiba-1" x="217.7" y="172.55" kX="0" kY="0" z="3"/>
+      <b name="sry-st-1" bT="0" bi="Monster_xiaoyuren-sry-st-1" x="157.7" y="167.6" kX="0" kY="0" z="4"/>
+      <b name="sry-xb-1" bT="0" bi="Monster_xiaoyuren-sry-xb2-1" x="141.7" y="208.6" kX="0" kY="0" z="5"/>
+      <b name="sry-tb-1" bT="0" bi="Monster_xiaoyuren-sry-tb-1" x="145.7" y="166.6" kX="0" kY="0" z="6"/>
+      <b name="sry-yl4-1" bT="0" bi="Monster_xiaoyuren-sry-yl4-1" x="180.7" y="206.6" kX="0" kY="0" z="7"/>
+      <b name="sry-yj-1" bT="0" bi="Monster_xiaoyuren-sry-yj1-1" x="147.7" y="168.6" kX="0" kY="0" z="8"/>
+      <b name="sry-yj-2" bT="0" bi="Monster_xiaoyuren-sry-yj2-1" x="162.7" y="167.6" kX="0" kY="0" z="9"/>
+      <b name="sry-k-1" bT="0" bi="Monster_xiaoyuren-sry-k-1" x="142.7" y="189.6" kX="0" kY="0" z="10"/>
+      <b name="sry-xc-1" bT="0" bi="Monster_xiaoyuren-sry-xs-1" x="135.7" y="188.6" kX="0" kY="0" z="11"/>
+      <b name="sry-sc-1" bT="0" bi="Monster_xiaoyuren-sry-ss-1" x="140.7" y="186.6" kX="0" kY="0" z="12"/>
+      <b name="sry-zj-1" bT="0" bi="Monster_xiaoyuren-sry-zj-2" x="178.7" y="200.6" kX="0" kY="0" z="13"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="65" drTW="65" lp="1">
+        <b name="图层 42" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_xiaoyuren-yizi" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="jiao3" sc="1" dl="0"/>
+        <b name="jiao1" sc="1" dl="0"/>
+        <b name="jiao2" sc="1" dl="0"/>
+        <b name="h_n-jiao" sc="1" dl="0"/>
+        <b name="h_n-xiaotui" sc="1" dl="0"/>
+        <b name="h_n-datui" sc="1" dl="0"/>
+        <b name="h_n-zhongtui" sc="1" dl="0"/>
+        <b name="q_n-xiaotui" sc="1" dl="0"/>
+        <b name="q_n-datui" sc="1" dl="0"/>
+        <b name="q_n-zhi3" sc="1" dl="0"/>
+        <b name="q_n-zhi2" sc="1" dl="0"/>
+        <b name="q_n-zhi1" sc="1" dl="0"/>
+        <b name="wei" sc="1" dl="0"/>
+        <b name="du" sc="1" dl="0"/>
+        <b name="h_w-jiao" sc="1" dl="0"/>
+        <b name="h_w-xiaotui" sc="1" dl="0"/>
+        <b name="h_w-zhongtui" sc="1" dl="0"/>
+        <b name="h_w-datui" sc="1" dl="0"/>
+        <b name="bozi" sc="1" dl="0"/>
+        <b name="shetou" sc="1" dl="0"/>
+        <b name="kouqiang" sc="1" dl="0"/>
+        <b name="xiae" sc="1" dl="0"/>
+        <b name="shange" sc="1" dl="0"/>
+        <b name="jiao4" sc="1" dl="0"/>
+        <b name="xiong" sc="1" dl="0"/>
+        <b name="jiao6" sc="1" dl="0"/>
+        <b name="jiao5" sc="1" dl="0"/>
+        <b name="q_w-dabi" sc="1" dl="0"/>
+        <b name="q_w-zhi1" sc="1" dl="0"/>
+        <b name="q_w-zhi2" sc="1" dl="0"/>
+        <b name="q_w-zhi3" sc="1" dl="0"/>
+        <b name="q_w-xiaobi" sc="1" dl="0"/>
+        <b name="molang-hxt-1" sc="1" dl="0"/>
+        <b name="molang-hj-1" sc="1" dl="0"/>
+        <b name="molang-ht-1" sc="1" dl="0"/>
+        <b name="molang-qxt-1" sc="1" dl="0"/>
+        <b name="molang-qt-1" sc="1" dl="0"/>
+        <b name="molang-pg-1" sc="1" dl="0"/>
+        <b name="molangst" sc="1" dl="0"/>
+        <b name="fa3" sc="1" dl="0"/>
+        <b name="molang-hxt-10" sc="1" dl="0"/>
+        <b name="molang-hj-10" sc="1" dl="0"/>
+        <b name="molang-ht-10" sc="1" dl="0"/>
+        <b name="molang-qxt-10" sc="1" dl="0"/>
+        <b name="molang-qt-10" sc="1" dl="0"/>
+        <b name="molang-hj-1-01" sc="1" dl="0"/>
+        <b name="molang-hj-1-010" sc="1" dl="0"/>
+        <b name="molang-m-1" sc="1" dl="0"/>
+        <b name="bz2" sc="1" dl="0"/>
+        <b name="bo" sc="1" dl="0"/>
+        <b name="r_er" sc="1" dl="0"/>
+        <b name="r_ya" sc="1" dl="0"/>
+        <b name="tou" sc="1" dl="0"/>
+        <b name="l_er" sc="1" dl="0"/>
+        <b name="yj-1" sc="1" dl="0"/>
+        <b name="fa4" sc="1" dl="0"/>
+        <b name="fa2" sc="1" dl="0"/>
+        <b name="fa1" sc="1" dl="0"/>
+        <b name="r_q_shantui" sc="1" dl="0"/>
+        <b name="r_q_xiatui" sc="1" dl="0"/>
+        <b name="r_h_shantui" sc="1" dl="0"/>
+        <b name="r_h_xiatui" sc="1" dl="0"/>
+        <b name="weiba" sc="1" dl="0"/>
+        <b name="shenti" sc="1" dl="0"/>
+        <b name="l_h_shantui" sc="1" dl="0"/>
+        <b name="l_h_xiatui" sc="1" dl="0"/>
+        <b name="l_q_shantui" sc="1" dl="0"/>
+        <b name="l_q_xiatui" sc="1" dl="0"/>
+        <b name="l_h_mao" sc="1" dl="0"/>
+        <b name="xiaba" sc="1" dl="0"/>
+        <b name="zui" sc="1" dl="0"/>
+        <b name="bizi" sc="1" dl="0"/>
+        <b name="r_yanquan" sc="1" dl="0"/>
+        <b name="l_yanquan" sc="1" dl="0"/>
+        <b name="r_yan" sc="1" dl="0"/>
+        <b name="l_yan" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0"/>
+        <b name="sry-yl2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_xiaoyuren-sry-yl2-1" twE="0" dr="17"/>
+          <f x="-3.4" y="6.6" kX="-5.95" kY="0" cX="1" cY="1.01" z="1" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="17"/>
+          <f x="-3.4" y="6.6" kX="-5.95" kY="0" cX="1" cY="1.01" z="1" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="sry-yl1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_xiaoyuren-sry-yl1-1" twE="0" dr="17"/>
+          <f x="-1.4" y="6.2" kX="-8.91" kY="2.59" cX="1.11" cY="1.03" z="2" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="17"/>
+          <f x="-1.4" y="6.2" kX="-8.91" kY="2.59" cX="1.11" cY="1.03" z="2" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="尾巴.psd" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" twE="0" dr="5"/>
+          <f x="0" y="2" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-2" twE="0" dr="6"/>
+          <f x="0" y="4.4" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-3" twE="0" dr="6"/>
+          <f x="0" y="6.75" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-4" twE="0" dr="5"/>
+          <f x="0" y="4.5" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-5" twE="0" dr="5"/>
+          <f x="0" y="2.25" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-6" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" twE="0" dr="5"/>
+          <f x="0" y="2" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-2" twE="0" dr="6"/>
+          <f x="0" y="4.4" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-3" twE="0" dr="6"/>
+          <f x="0" y="6.75" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-4" twE="0" dr="5"/>
+          <f x="0" y="4.5" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-5" twE="0" dr="5"/>
+          <f x="0" y="2.25" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-6" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" twE="0" dr="1"/>
+        </b>
+        <b name="sry-st-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Monster_xiaoyuren-sry-st-1" twE="0" dr="17"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="17"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="sry-xb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="Monster_xiaoyuren-sry-xb2-1" twE="0" dr="17"/>
+          <f x="0" y="7.15" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="2"/>
+          <f x="0" y="7" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="17"/>
+          <f x="0" y="7.15" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="2"/>
+          <f x="0" y="7" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="sry-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Monster_xiaoyuren-sry-tb-1" twE="0" dr="17"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="17"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="sry-yl4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Monster_xiaoyuren-sry-yl4-1" twE="0" dr="17"/>
+          <f x="1.15" y="6.75" kX="3.43" kY="-1.4" cX="0.86" cY="1" z="7" twE="0" dr="2"/>
+          <f x="1.35" y="6.1" kX="3" kY="-2.91" cX="0.85" cY="1" z="7" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="17"/>
+          <f x="1.15" y="6.75" kX="3.43" kY="-1.4" cX="0.86" cY="1" z="7" twE="0" dr="2"/>
+          <f x="1.35" y="6.1" kX="3" kY="-2.91" cX="0.85" cY="1" z="7" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="sry-yj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Monster_xiaoyuren-sry-yj1-1" twE="0" dr="17"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="17"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="sry-yj-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Monster_xiaoyuren-sry-yj2-1" twE="0" dr="17"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="17"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="sry-k-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Monster_xiaoyuren-sry-k-1" twE="0" dr="17"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="17"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="sry-xc-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="Monster_xiaoyuren-sry-xs-1" twE="0" dr="17"/>
+          <f x="-0.65" y="12.25" kX="-1.95" kY="-3.94" cX="1" cY="1" z="11" twE="0" dr="2"/>
+          <f x="-0.65" y="11.75" kX="-2" kY="-3.75" cX="1" cY="1" z="11" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="17"/>
+          <f x="-0.65" y="12.25" kX="-1.95" kY="-3.94" cX="1" cY="1" z="11" twE="0" dr="2"/>
+          <f x="-0.65" y="11.75" kX="-2" kY="-3.75" cX="1" cY="1" z="11" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="sry-sc-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Monster_xiaoyuren-sry-ss-1" twE="0" dr="17"/>
+          <f x="1.1" y="4.75" kX="3" kY="2.34" cX="1" cY="1" z="12" twE="0" dr="2"/>
+          <f x="0.9" y="3.75" kX="2.53" kY="2.65" cX="1" cY="1" z="12" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="17"/>
+          <f x="1.1" y="4.75" kX="3" kY="2.34" cX="1" cY="1" z="12" twE="0" dr="2"/>
+          <f x="0.9" y="3.75" kX="2.53" kY="2.65" cX="1" cY="1" z="12" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" dr="1"/>
+        </b>
+        <b name="sry-zj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="Monster_xiaoyuren-sry-zj-2" twE="0" dr="17"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="17"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.87" cY="2.87" z="14" img="Monster_xiaoyuren-qipao" twE="0" dr="1"/>
+          <f x="1.55" y="-4.2" kX="0" kY="0" cX="2.87" cY="2.87" z="14" twE="0" dr="1"/>
+          <f x="2.7" y="-8.55" kX="0" kY="0" cX="2.87" cY="2.87" z="14" twE="0" dr="1"/>
+          <f x="3.25" y="-12.95" kX="0" kY="0" cX="2.87" cY="2.87" z="14" twE="0" dr="1"/>
+          <f x="3.2" y="-17.45" kX="0" kY="0" cX="2.87" cY="2.87" z="14" twE="0" dr="1"/>
+          <f x="2.45" y="-21.9" kX="0" kY="0" cX="2.86" cY="2.86" z="14" twE="0" dr="1"/>
+          <f x="1.3" y="-26.3" kX="0" kY="0" cX="2.85" cY="2.85" z="14" twE="0" dr="1"/>
+          <f x="-0.25" y="-30.6" kX="0" kY="0" cX="2.84" cY="2.84" z="14" twE="0" dr="1"/>
+          <f x="-2.05" y="-34.8" kX="0" kY="0" cX="2.83" cY="2.83" z="14" twE="0" dr="1"/>
+          <f x="-3.95" y="-38.95" kX="0" kY="0" cX="2.82" cY="2.82" z="14" twE="0" dr="1"/>
+          <f x="-5.9" y="-43.1" kX="0" kY="0" cX="2.81" cY="2.81" z="14" twE="0" dr="1"/>
+          <f x="-7.8" y="-47.25" kX="0" kY="0" cX="2.8" cY="2.8" z="14" twE="0" dr="1"/>
+          <f x="-9.4" y="-51.55" kX="0" kY="0" cX="2.78" cY="2.78" z="14" twE="0" dr="1"/>
+          <f x="-10.45" y="-56.05" kX="0" kY="0" cX="2.77" cY="2.77" z="14" twE="0" dr="1"/>
+          <f x="-11" y="-60.6" kX="0" kY="0" cX="2.76" cY="2.76" z="14" twE="0" dr="1"/>
+          <f x="-11.1" y="-65.2" kX="0" kY="0" cX="2.75" cY="2.75" z="14" twE="0" dr="1"/>
+          <f x="-10.85" y="-69.8" kX="0" kY="0" cX="2.74" cY="2.74" z="14" twE="0" dr="1"/>
+          <f x="-10.15" y="-74.4" kX="0" kY="0" cX="2.73" cY="2.73" z="14" twE="0" dr="1"/>
+          <f x="-9" y="-78.85" kX="0" kY="0" cX="2.72" cY="2.72" z="14" twE="0" dr="1"/>
+          <f x="-7.5" y="-83.2" kX="0" kY="0" cX="2.71" cY="2.71" z="14" twE="0" dr="1"/>
+          <f x="-5.8" y="-87.45" kX="0" kY="0" cX="2.7" cY="2.7" z="14" twE="0" dr="1"/>
+          <f x="-4.1" y="-91.7" kX="0" kY="0" cX="2.69" cY="2.69" z="14" twE="0" dr="1"/>
+          <f x="-2.2" y="-95.9" kX="0" kY="0" cX="2.68" cY="2.68" z="14" twE="0" dr="1"/>
+          <f x="-0.25" y="-100.05" kX="0" kY="0" cX="2.67" cY="2.67" z="14" twE="0" dr="1"/>
+          <f x="1.75" y="-104.25" kX="0" kY="0" cX="2.66" cY="2.66" z="14" twE="0" dr="1"/>
+          <f x="3.7" y="-108.4" kX="0" kY="0" cX="2.65" cY="2.65" z="14" twE="0" dr="1"/>
+          <f x="5.6" y="-112.6" kX="0" kY="0" cX="2.64" cY="2.64" z="14" twE="0" dr="1"/>
+          <f x="7.5" y="-116.75" kX="0" kY="0" cX="2.63" cY="2.63" z="14" twE="0" dr="1"/>
+          <f x="9.25" y="-121" kX="0" kY="0" cX="2.62" cY="2.62" z="14" twE="0" dr="1"/>
+          <f x="10.75" y="-125.35" kX="0" kY="0" cX="2.61" cY="2.61" z="14" twE="0" dr="1"/>
+          <f x="11.85" y="-129.8" kX="0" kY="0" cX="2.6" cY="2.6" z="14" twE="0" dr="1"/>
+          <f x="12.65" y="-134.35" kX="0" kY="0" cX="2.59" cY="2.59" z="14" twE="0" dr="1"/>
+          <f x="13.1" y="-138.85" kX="0" kY="0" cX="2.58" cY="2.58" z="14" twE="0" dr="1"/>
+          <f x="13.2" y="-143.4" kX="0" kY="0" cX="2.57" cY="2.56" z="14" twE="0" dr="1"/>
+          <f x="12.85" y="-147.95" kX="0" kY="0" cX="2.55" cY="2.55" z="14" twE="0" dr="1"/>
+          <f x="12.1" y="-152.4" kX="0" kY="0" cX="2.54" cY="2.54" z="14" twE="0" dr="1"/>
+          <f x="10.9" y="-156.8" kX="0" kY="0" cX="2.53" cY="2.53" z="14" twE="0" dr="1"/>
+          <f x="9.4" y="-161.15" kX="0" kY="0" cX="2.52" cY="2.52" z="14" twE="0" dr="1"/>
+          <f x="7.9" y="-165.45" kX="0" kY="0" cX="2.51" cY="2.51" z="14" twE="0" dr="1"/>
+          <f x="6.3" y="-169.75" kX="0" kY="0" cX="2.5" cY="2.5" z="14" twE="0" dr="1"/>
+          <f x="4.8" y="-174.1" kX="0" kY="0" cX="2.49" cY="2.49" z="14" twE="0" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.77" cY="1.77" z="15" img="Monster_xiaoyuren-qipao" twE="0" dr="1"/>
+          <f x="0" y="-4.9" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="0.4" y="-9.8" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="1.15" y="-14.65" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="2.05" y="-19.55" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="3.05" y="-24.35" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="4.1" y="-29.2" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="5.1" y="-34" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="6.05" y="-38.85" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="6.85" y="-43.75" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="7.5" y="-48.6" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="7.55" y="-53.6" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="7.5" y="-57.3" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="7.1" y="-61" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="6.4" y="-64.6" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="5.5" y="-68.2" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="4.25" y="-71.7" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="2.7" y="-75.05" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="0.85" y="-78.3" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-1.2" y="-81.35" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-3.2" y="-84.45" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-5.25" y="-87.5" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-9.75" y="-94.3" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-13.85" y="-101.4" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-15.9" y="-105.65" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-17.6" y="-110.05" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-18.6" y="-114.65" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-18.8" y="-119.4" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-18.35" y="-124.1" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-17.4" y="-128.75" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-16.15" y="-133.25" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-14.5" y="-137.65" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-12.5" y="-141.9" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-10.25" y="-146.05" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-8" y="-150.2" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="-5.7" y="-154.35" kX="0" kY="0" cX="1.77" cY="1.77" z="14" twE="0" dr="1"/>
+          <f x="-3.4" y="-158.45" kX="0" kY="0" cX="1.77" cY="1.77" z="14" twE="0" dr="1"/>
+          <f x="-0.95" y="-162.5" kX="0" kY="0" cX="1.77" cY="1.77" z="14" dr="1"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="图层 22" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="16" img="Monster_xiaoyuren-qipao" twE="0" dr="1"/>
+          <f x="1.65" y="-3.25" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="3.25" y="-6.55" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="4.7" y="-9.85" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="6" y="-13.25" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="7.1" y="-16.75" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="7.85" y="-20.3" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="8.1" y="-23.95" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="7.75" y="-27.6" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="7.05" y="-31.15" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="6.2" y="-34.1" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="5.2" y="-36.85" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="4.05" y="-39.6" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="2.95" y="-42.35" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="1.8" y="-45.1" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="0.65" y="-47.95" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="-0.5" y="-51.05" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="-1.55" y="-54.35" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="-2.5" y="-57.9" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="-3.25" y="-62.8" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="-3" y="-67.9" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="-2.15" y="-72" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="-0.95" y="-75.85" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="0.5" y="-79.25" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="2.1" y="-82.2" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="3.55" y="-84.6" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="4.95" y="-86.95" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="6.4" y="-89.3" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="7.8" y="-91.6" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="9.25" y="-93.95" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="10.7" y="-96.5" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="12.1" y="-99.15" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="1"/>
+          <f x="13.5" y="-101.95" kX="0" kY="0" cX="1.2" cY="1.2" z="15" twE="0" dr="1"/>
+          <f x="14.8" y="-105" kX="0" kY="0" cX="1.2" cY="1.2" z="15" twE="0" dr="1"/>
+          <f x="16.2" y="-109.6" kX="0" kY="0" cX="1.2" cY="1.2" z="15" twE="0" dr="1"/>
+          <f x="6.75" y="-114.7" kX="0" kY="0" cX="1.2" cY="1.2" z="14" twE="0" dr="1"/>
+          <f x="16.4" y="-119.3" kX="0" kY="0" cX="1.2" cY="1.2" z="14" twE="0" dr="1"/>
+          <f x="15.75" y="-123" kX="0" kY="0" cX="1.2" cY="1.2" z="14" twE="0" dr="1"/>
+          <f x="14.95" y="-126.55" kX="0" kY="0" cX="1.2" cY="1.2" z="14" twE="0" dr="1"/>
+          <f x="13.9" y="-129.95" kX="0" kY="0" cX="1.2" cY="1.2" z="14" twE="0" dr="1"/>
+          <f x="12.75" y="-133.1" kX="0" kY="0" cX="1.2" cY="1.2" z="14" twE="0" dr="1"/>
+          <f x="6.65" y="-134" kX="0" kY="0" cX="1.2" cY="1.2" z="14" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="run">
+      <mov name="run" to="1" dr="35" drTW="35" lp="1">
+        <b name="图层 42" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_xiaoyuren-yizi" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="sry-yl2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_xiaoyuren-sry-yl2-1" twE="0" dr="18"/>
+          <f x="-3.4" y="6.6" kX="-5.95" kY="0" cX="1" cY="1.01" z="1" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="sry-yl1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_xiaoyuren-sry-yl1-1" twE="0" dr="18"/>
+          <f x="-1.4" y="6.2" kX="-8.91" kY="2.59" cX="1.11" cY="1.03" z="2" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="尾巴.psd" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" twE="0" dr="5"/>
+          <f x="0" y="2" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-2" twE="0" dr="6"/>
+          <f x="0" y="4.4" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-3" twE="0" dr="7"/>
+          <f x="0" y="6.75" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-4" twE="0" dr="5"/>
+          <f x="0" y="4.5" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-5" twE="0" dr="6"/>
+          <f x="0" y="2.25" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-6" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" twE="0" dr="1"/>
+        </b>
+        <b name="sry-st-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Monster_xiaoyuren-sry-st-1" twE="0" dr="18"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="sry-xb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="Monster_xiaoyuren-sry-xb2-1" twE="0" dr="18"/>
+          <f x="0" y="7.15" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="2"/>
+          <f x="0" y="7" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="sry-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Monster_xiaoyuren-sry-tb-1" twE="0" dr="18"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="sry-yl4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Monster_xiaoyuren-sry-yl4-1" twE="0" dr="18"/>
+          <f x="1.15" y="6.75" kX="3.43" kY="-1.4" cX="0.86" cY="1" z="7" twE="0" dr="2"/>
+          <f x="1.35" y="6.1" kX="3" kY="-2.91" cX="0.85" cY="1" z="7" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="sry-yj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Monster_xiaoyuren-sry-yj1-1" twE="0" dr="18"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="sry-yj-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Monster_xiaoyuren-sry-yj2-1" twE="0" dr="18"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="sry-k-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Monster_xiaoyuren-sry-k-1" twE="0" dr="18"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="sry-xc-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="Monster_xiaoyuren-sry-xs-1" twE="0" dr="18"/>
+          <f x="-0.65" y="12.25" kX="-1.95" kY="-3.94" cX="1" cY="1" z="11" twE="0" dr="2"/>
+          <f x="-0.65" y="11.75" kX="-2" kY="-3.75" cX="1" cY="1" z="11" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="sry-sc-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Monster_xiaoyuren-sry-ss-1" twE="0" dr="18"/>
+          <f x="1.1" y="4.75" kX="3" kY="2.34" cX="1" cY="1" z="12" twE="0" dr="2"/>
+          <f x="0.9" y="3.75" kX="2.53" kY="2.65" cX="1" cY="1" z="12" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" dr="1"/>
+        </b>
+        <b name="sry-zj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="Monster_xiaoyuren-sry-zj-2" twE="0" dr="18"/>
+          <f x="0" y="6.6" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.87" cY="2.87" z="14" img="Monster_xiaoyuren-qipao" twE="0" dr="1"/>
+          <f x="1.45" y="-5.5" kX="0" kY="0" cX="2.85" cY="2.85" z="14" twE="0" dr="1"/>
+          <f x="2.6" y="-10.95" kX="0" kY="0" cX="2.84" cY="2.84" z="14" twE="0" dr="1"/>
+          <f x="4.1" y="-16.4" kX="0" kY="0" cX="2.82" cY="2.82" z="14" twE="0" dr="1"/>
+          <f x="5.95" y="-21.7" kX="0" kY="0" cX="2.81" cY="2.81" z="14" twE="0" dr="1"/>
+          <f x="8.3" y="-26.9" kX="0" kY="0" cX="2.79" cY="2.79" z="14" twE="0" dr="1"/>
+          <f x="11.05" y="-31.85" kX="0" kY="0" cX="2.78" cY="2.78" z="14" twE="0" dr="1"/>
+          <f x="14.35" y="-36.6" kX="0" kY="0" cX="2.76" cY="2.76" z="14" twE="0" dr="1"/>
+          <f x="18.05" y="-40.95" kX="0" kY="0" cX="2.75" cY="2.75" z="14" twE="0" dr="1"/>
+          <f x="22.3" y="-44.85" kX="0" kY="0" cX="2.73" cY="2.73" z="14" twE="0" dr="1"/>
+          <f x="26.9" y="-48.3" kX="0" kY="0" cX="2.71" cY="2.71" z="14" twE="0" dr="1"/>
+          <f x="31.85" y="-51.25" kX="0" kY="0" cX="2.7" cY="2.7" z="14" twE="0" dr="1"/>
+          <f x="37.05" y="-53.85" kX="0" kY="0" cX="2.68" cY="2.68" z="14" twE="0" dr="1"/>
+          <f x="42.45" y="-55.95" kX="0" kY="0" cX="2.67" cY="2.67" z="14" twE="0" dr="1"/>
+          <f x="48" y="-57.65" kX="0" kY="0" cX="2.65" cY="2.65" z="14" twE="0" dr="1"/>
+          <f x="53.65" y="-58.95" kX="0" kY="0" cX="2.64" cY="2.64" z="14" twE="0" dr="1"/>
+          <f x="59.4" y="-59.75" kX="0" kY="0" cX="2.62" cY="2.62" z="14" twE="0" dr="1"/>
+          <f x="65.15" y="-60.6" kX="0" kY="0" cX="2.61" cY="2.61" z="14" twE="0" dr="1"/>
+          <f x="70.65" y="-62.1" kX="0" kY="0" cX="2.59" cY="2.59" z="14" twE="0" dr="1"/>
+          <f x="76" y="-64.45" kX="0" kY="0" cX="2.58" cY="2.58" z="14" twE="0" dr="1"/>
+          <f x="80.85" y="-67.5" kX="0" kY="0" cX="2.56" cY="2.56" z="14" twE="0" dr="1"/>
+          <f x="85.3" y="-71.3" kX="0" kY="0" cX="2.55" cY="2.55" z="14" twE="0" dr="1"/>
+          <f x="89.05" y="-75.6" kX="0" kY="0" cX="2.53" cY="2.53" z="14" twE="0" dr="1"/>
+          <f x="92.45" y="-80.3" kX="0" kY="0" cX="2.52" cY="2.52" z="14" twE="0" dr="1"/>
+          <f x="96.1" y="-84.65" kX="0" kY="0" cX="2.5" cY="2.5" z="14" twE="0" dr="1"/>
+          <f x="100.15" y="-88.65" kX="0" kY="0" cX="2.48" cY="2.48" z="14" twE="0" dr="1"/>
+          <f x="104.55" y="-92.35" kX="0" kY="0" cX="2.47" cY="2.47" z="14" twE="0" dr="1"/>
+          <f x="109.35" y="-95.55" kX="0" kY="0" cX="2.45" cY="2.45" z="14" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.88" cY="1.88" z="15" img="Monster_xiaoyuren-qipao" twE="0" dr="1"/>
+          <f x="0.05" y="-5.35" kX="0" kY="0" cX="1.87" cY="1.87" z="15" twE="0" dr="1"/>
+          <f x="0.1" y="-10.6" kX="0" kY="0" cX="1.86" cY="1.86" z="15" twE="0" dr="1"/>
+          <f x="0.25" y="-16.1" kX="0" kY="0" cX="1.86" cY="1.86" z="15" twE="0" dr="1"/>
+          <f x="0.3" y="-21.5" kX="0" kY="0" cX="1.85" cY="1.85" z="15" twE="0" dr="1"/>
+          <f x="0.4" y="-27" kX="0" kY="0" cX="1.84" cY="1.84" z="15" twE="0" dr="1"/>
+          <f x="0.5" y="-32.5" kX="0" kY="0" cX="1.84" cY="1.84" z="15" twE="0" dr="1"/>
+          <f x="0.65" y="-37.95" kX="0" kY="0" cX="1.83" cY="1.83" z="15" twE="0" dr="1"/>
+          <f x="1.3" y="-43.4" kX="0" kY="0" cX="1.82" cY="1.82" z="15" twE="0" dr="1"/>
+          <f x="2.95" y="-48.6" kX="0" kY="0" cX="1.82" cY="1.82" z="15" twE="0" dr="1"/>
+          <f x="5.4" y="-53.55" kX="0" kY="0" cX="1.81" cY="1.81" z="15" twE="0" dr="1"/>
+          <f x="8.6" y="-58" kX="0" kY="0" cX="1.8" cY="1.8" z="15" twE="0" dr="1"/>
+          <f x="12.3" y="-62" kX="0" kY="0" cX="1.8" cY="1.8" z="15" twE="0" dr="1"/>
+          <f x="16.45" y="-65.6" kX="0" kY="0" cX="1.79" cY="1.79" z="15" twE="0" dr="1"/>
+          <f x="21.1" y="-68.65" kX="0" kY="0" cX="1.78" cY="1.78" z="15" twE="0" dr="1"/>
+          <f x="26" y="-71.15" kX="0" kY="0" cX="1.78" cY="1.78" z="15" twE="0" dr="1"/>
+          <f x="31.15" y="-73.15" kX="0" kY="0" cX="1.77" cY="1.77" z="15" twE="0" dr="1"/>
+          <f x="36.45" y="-74.45" kX="0" kY="0" cX="1.76" cY="1.76" z="15" twE="0" dr="1"/>
+          <f x="41.9" y="-75.55" kX="0" kY="0" cX="1.76" cY="1.76" z="15" twE="0" dr="1"/>
+          <f x="47.35" y="-76.55" kX="0" kY="0" cX="1.75" cY="1.75" z="15" twE="0" dr="1"/>
+          <f x="52.8" y="-77.2" kX="0" kY="0" cX="1.74" cY="1.74" z="15" twE="0" dr="1"/>
+          <f x="58.35" y="-77.6" kX="0" kY="0" cX="1.74" cY="1.74" z="15" twE="0" dr="1"/>
+          <f x="63.85" y="-78" kX="0" kY="0" cX="1.73" cY="1.73" z="15" twE="0" dr="1"/>
+          <f x="69.35" y="-78.5" kX="0" kY="0" cX="1.72" cY="1.72" z="15" twE="0" dr="1"/>
+          <f x="74.85" y="-78.7" kX="0" kY="0" cX="1.72" cY="1.72" z="15" twE="0" dr="1"/>
+          <f x="80.35" y="-79.25" kX="0" kY="0" cX="1.71" cY="1.71" z="14" twE="0" dr="1"/>
+          <f x="85.85" y="-80.2" kX="0" kY="0" cX="1.7" cY="1.7" z="14" twE="0" dr="1"/>
+          <f x="91.1" y="-81.6" kX="0" kY="0" cX="1.7" cY="1.7" z="14" twE="0" dr="1"/>
+          <f x="96.5" y="-82.6" kX="0" kY="0" cX="1.69" cY="1.69" z="14" twE="0" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.55" cY="1.55" z="16" img="Monster_xiaoyuren-qipao" twE="0" dr="1"/>
+          <f x="2.35" y="-4.25" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="4.45" y="-8.6" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="6.75" y="-12.85" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="9.25" y="-16.95" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="12" y="-20.9" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="14.9" y="-24.75" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="18" y="-28.45" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="21.3" y="-32" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="24.7" y="-35.35" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="28.3" y="-38.6" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="32.1" y="-41.6" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="36.1" y="-44.4" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="40.3" y="-46.95" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="44.6" y="-49.3" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="49" y="-51.4" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="53.45" y="-53.3" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="58" y="-55" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="62.6" y="-56.5" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="67.25" y="-57.85" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="71.95" y="-59.1" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="76.6" y="-60.15" kX="0" kY="0" cX="1.55" cY="1.55" z="16" twE="0" dr="1"/>
+          <f x="81.35" y="-61.05" kX="0" kY="0" cX="1.55" cY="1.55" z="15" twE="0" dr="1"/>
+          <f x="86.1" y="-61.75" kX="0" kY="0" cX="1.55" cY="1.55" z="15" twE="0" dr="1"/>
+          <f x="90.9" y="-62.35" kX="0" kY="0" cX="1.55" cY="1.55" z="15" twE="0" dr="1"/>
+          <f x="95.7" y="-62.85" kX="0" kY="0" cX="1.55" cY="1.55" z="15" twE="0" dr="1"/>
+          <f x="100.5" y="-63.25" kX="0" kY="0" cX="1.55" cY="1.55" z="14" twE="0" dr="1"/>
+          <f x="105.25" y="-64" kX="0" kY="0" cX="1.55" cY="1.55" z="14" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_1">
+      <mov name="physical_1" to="1" dr="54" drTW="54">
+        <b name="图层 42" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_xiaoyuren-yizi" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.88" cY="0.88" z="0" twE="0" dr="5"/>
+          <f x="30" y="0" kX="0" kY="0" cX="0.66" cY="0.66" z="0" twE="0" dr="4"/>
+          <f x="37.5" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="0" twE="0" dr="4"/>
+          <f x="37.5" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="0" twE="0" dr="6"/>
+          <f x="37.5" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="0" twE="0" dr="3"/>
+          <f x="-90" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="-99.75" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="-99.75" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="-90" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="-99.75" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="-99.75" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="4"/>
+          <f x="-90" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="-99.75" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="-99.75" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="4"/>
+          <f x="-99.75" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="-102.75" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="sry-yl2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_xiaoyuren-sry-yl2-1" twE="0" dr="3"/>
+          <f x="3.45" y="10" kX="6.04" kY="0" cX="1" cY="1.01" z="1" twE="0" dr="5"/>
+          <f x="22.8" y="-62.15" kX="-6.71" kY="0" cX="1" cY="1.01" z="1" twE="0" dr="4"/>
+          <f x="37.6" y="-76.5" kX="9.75" kY="0" cX="1" cY="1.01" z="1" twE="0" dr="4"/>
+          <f x="32.95" y="-81" kX="1.67" kY="0" cX="1" cY="1" z="1" twE="0" dr="6"/>
+          <f x="28.1" y="-76.5" kX="-6.82" kY="0" cX="1" cY="1.01" z="1" twE="0" dr="3"/>
+          <f x="-114.4" y="6.8" kX="-11.5" kY="-11.5" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="-129.8" y="15.45" kX="-19.43" kY="-12.61" cX="1" cY="1.01" z="1" twE="0" dr="1"/>
+          <f x="-129.8" y="15.45" kX="-19.43" kY="-12.61" cX="1" cY="1.01" z="1" twE="0" dr="3"/>
+          <f x="-114.4" y="6.8" kX="-11.5" kY="-11.5" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="-129.8" y="15.45" kX="-19.43" kY="-12.61" cX="1" cY="1.01" z="1" twE="0" dr="1"/>
+          <f x="-129.8" y="15.45" kX="-19.43" kY="-12.61" cX="1" cY="1.01" z="1" twE="0" dr="4"/>
+          <f x="-114.4" y="6.8" kX="-11.5" kY="-11.5" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="-133.55" y="18.45" kX="-19.43" kY="-12.61" cX="1" cY="1.01" z="1" twE="0" dr="1"/>
+          <f x="-132.05" y="16.95" kX="-19.43" kY="-12.61" cX="1" cY="1.01" z="1" twE="0" dr="4"/>
+          <f x="-132.05" y="16.95" kX="-19.43" kY="-12.61" cX="1" cY="1.01" z="1" twE="0" dr="2"/>
+          <f x="-137.3" y="19.95" kX="-19.43" kY="-12.61" cX="1" cY="1.01" z="1" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="sry-yl1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_xiaoyuren-sry-yl1-1" twE="0" dr="3"/>
+          <f x="0" y="11.35" kX="0" kY="-12.29" cX="1.02" cY="1" z="2" twE="0" dr="5"/>
+          <f x="26.25" y="-62.75" kX="11.46" kY="5.39" cX="1.22" cY="1" z="2" twE="0" dr="4"/>
+          <f x="30.35" y="-73.95" kX="0" kY="-17.85" cX="1.32" cY="1" z="2" twE="0" dr="4"/>
+          <f x="30.35" y="-82.35" kX="0" kY="9.81" cX="1.28" cY="1" z="2" twE="0" dr="6"/>
+          <f x="30.35" y="-75.8" kX="0" kY="-5.04" cX="1.27" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-101.05" y="-0.35" kX="-11.5" kY="-11.5" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="-112.75" y="7.75" kX="-12.61" kY="-17.65" cX="1.27" cY="1" z="2" twE="0" dr="1"/>
+          <f x="-112.75" y="7.75" kX="-12.61" kY="-17.65" cX="1.27" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-101.05" y="-0.35" kX="-11.5" kY="-11.5" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="-112.75" y="7.75" kX="-12.61" kY="-17.65" cX="1.27" cY="1" z="2" twE="0" dr="1"/>
+          <f x="-112.75" y="7.75" kX="-12.61" kY="-17.65" cX="1.27" cY="1" z="2" twE="0" dr="4"/>
+          <f x="-101.05" y="-0.35" kX="-11.5" kY="-11.5" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="-116.5" y="10.75" kX="-12.61" kY="-17.65" cX="1.27" cY="1" z="2" twE="0" dr="1"/>
+          <f x="-115" y="9.25" kX="-12.61" kY="-17.65" cX="1.27" cY="1" z="2" twE="0" dr="4"/>
+          <f x="-115" y="9.25" kX="-12.61" kY="-17.65" cX="1.27" cY="1" z="2" twE="0" dr="2"/>
+          <f x="-120.25" y="12.25" kX="-12.61" kY="-17.65" cX="1.27" cY="1" z="2" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="sry-wb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" twE="0" dr="3"/>
+          <f x="0" y="10" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-2" twE="0" dr="5"/>
+          <f x="26.65" y="-62.1" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-3" twE="0" dr="4"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-4" twE="0" dr="4"/>
+          <f x="32" y="-81" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-5" twE="0" dr="6"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-6" twE="0" dr="3"/>
+          <f x="-109.15" y="-2.55" kX="-11.5" kY="-11.5" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" twE="0" dr="1"/>
+          <f x="-120.25" y="4.45" kX="-12.61" kY="-12.61" cX="1" cY="1" z="3" twE="0" dr="1"/>
+          <f x="-120.25" y="4.45" kX="-12.61" kY="-12.61" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="-109.15" y="-2.55" kX="-11.5" kY="-11.5" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-2" twE="0" dr="1"/>
+          <f x="-120.25" y="4.45" kX="-12.61" kY="-12.61" cX="1" cY="1" z="3" twE="0" dr="1"/>
+          <f x="-120.25" y="4.45" kX="-12.61" kY="-12.61" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="-109.15" y="-2.55" kX="-11.5" kY="-11.5" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-3" twE="0" dr="1"/>
+          <f x="-124" y="7.45" kX="-12.61" kY="-12.61" cX="1" cY="1" z="3" twE="0" dr="1"/>
+          <f x="-122.5" y="5.95" kX="-12.61" kY="-12.61" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="-122.5" y="5.95" kX="-12.61" kY="-12.61" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-4" twE="0" dr="2"/>
+          <f x="-127.75" y="8.95" kX="-12.61" kY="-12.61" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="-70.95" y="4.85" kX="-7" kY="-7" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-5" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-6" twE="0" dr="1"/>
+        </b>
+        <b name="sry-st-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Monster_xiaoyuren-sry-st-1" twE="0" dr="3"/>
+          <f x="0" y="10" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="26.65" y="-62.1" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="32" y="-81" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="6"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="-105.75" y="8.85" kX="-11.5" kY="-11.5" cX="0.95" cY="1" z="4" twE="0" dr="1"/>
+          <f x="-119.9" y="17.5" kX="-12.61" kY="-12.61" cX="1" cY="1" z="4" twE="0" dr="1"/>
+          <f x="-119.9" y="17.5" kX="-12.61" kY="-12.61" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="-105.75" y="8.85" kX="-11.5" kY="-11.5" cX="0.95" cY="1" z="4" twE="0" dr="1"/>
+          <f x="-119.9" y="17.5" kX="-12.61" kY="-12.61" cX="1" cY="1" z="4" twE="0" dr="1"/>
+          <f x="-119.9" y="17.5" kX="-12.61" kY="-12.61" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="-105.75" y="8.85" kX="-11.5" kY="-11.5" cX="0.95" cY="1" z="4" twE="0" dr="1"/>
+          <f x="-123.65" y="20.5" kX="-12.61" kY="-12.61" cX="1" cY="1" z="4" twE="0" dr="1"/>
+          <f x="-122.15" y="19" kX="-12.61" kY="-12.61" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="-122.15" y="19" kX="-12.61" kY="-12.61" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="-127.4" y="22" kX="-12.61" kY="-12.61" cX="1" cY="1" z="4" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="sry-xb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="Monster_xiaoyuren-sry-xb2-1" twE="0" dr="3"/>
+          <f x="0" y="10" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="26.65" y="-62.1" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="32" y="-81" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="6"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="-95.25" y="30.55" kX="-36.69" kY="-36.69" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f x="-110.55" y="20.1" kX="-12.61" kY="-12.61" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f x="-110.55" y="20.1" kX="-12.61" kY="-12.61" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="-95.25" y="30.55" kX="-36.69" kY="-36.69" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f x="-110.55" y="20.1" kX="-12.61" kY="-12.61" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f x="-110.55" y="20.1" kX="-12.61" kY="-12.61" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="-95.25" y="30.55" kX="-36.69" kY="-36.69" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f x="-114.3" y="23.1" kX="-12.61" kY="-12.61" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f x="-112.8" y="21.6" kX="-12.61" kY="-12.61" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="-112.8" y="21.6" kX="-12.61" kY="-12.61" cX="1" cY="1" z="5" twE="0" dr="2"/>
+          <f x="-118.05" y="24.6" kX="-12.61" kY="-12.61" cX="1" cY="1" z="5" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="sry-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Monster_xiaoyuren-sry-tb-1" twE="0" dr="3"/>
+          <f x="0" y="10" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="5"/>
+          <f x="26.65" y="-62.1" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="32" y="-81" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="6"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-102.4" y="2.35" kX="3.2" kY="3.2" cX="1" cY="1" z="6" twE="0" dr="1"/>
+          <f x="-119.8" y="20.2" kX="-12.61" kY="-12.61" cX="1" cY="1" z="6" twE="0" dr="1"/>
+          <f x="-119.8" y="20.2" kX="-12.61" kY="-12.61" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-102.4" y="2.35" kX="3.2" kY="3.2" cX="1" cY="1" z="6" twE="0" dr="1"/>
+          <f x="-119.8" y="20.2" kX="-12.61" kY="-12.61" cX="1" cY="1" z="6" twE="0" dr="1"/>
+          <f x="-119.8" y="20.2" kX="-12.61" kY="-12.61" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="-102.4" y="2.35" kX="3.2" kY="3.2" cX="1" cY="1" z="6" twE="0" dr="1"/>
+          <f x="-123.55" y="23.2" kX="-12.61" kY="-12.61" cX="1" cY="1" z="6" twE="0" dr="1"/>
+          <f x="-122.05" y="21.7" kX="-12.61" kY="-12.61" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="-122.05" y="21.7" kX="-12.61" kY="-12.61" cX="1" cY="1" z="6" twE="0" dr="2"/>
+          <f x="-127.3" y="24.7" kX="-12.61" kY="-12.61" cX="1" cY="1" z="6" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="sry-yl4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Monster_xiaoyuren-sry-yl4-1" twE="0" dr="3"/>
+          <f x="1.1" y="9.65" kX="0" kY="3.27" cX="0.84" cY="1" z="7" twE="0" dr="5"/>
+          <f x="26.9" y="-63.3" kX="13.54" kY="9.01" cX="1.12" cY="1" z="7" twE="0" dr="4"/>
+          <f x="30.8" y="-75.6" kX="0" kY="-6.2" cX="1.18" cY="1" z="7" twE="0" dr="4"/>
+          <f x="30.8" y="-82.5" kX="0" kY="10.35" cX="1.19" cY="1" z="7" twE="0" dr="6"/>
+          <f x="30.8" y="-75.6" kX="0" kY="-6.2" cX="1.18" cY="1" z="7" twE="0" dr="3"/>
+          <f x="-101.65" y="4.15" kX="-11.5" kY="-11.5" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="-112.9" y="12.75" kX="-12.61" kY="-18.81" cX="1.18" cY="1" z="7" twE="0" dr="1"/>
+          <f x="-112.9" y="12.75" kX="-12.61" kY="-18.81" cX="1.18" cY="1" z="7" twE="0" dr="3"/>
+          <f x="-101.65" y="4.15" kX="-11.5" kY="-11.5" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="-112.9" y="12.75" kX="-12.61" kY="-18.81" cX="1.18" cY="1" z="7" twE="0" dr="1"/>
+          <f x="-112.9" y="12.75" kX="-12.61" kY="-18.81" cX="1.18" cY="1" z="7" twE="0" dr="4"/>
+          <f x="-101.65" y="4.15" kX="-11.5" kY="-11.5" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="-116.65" y="15.75" kX="-12.61" kY="-18.81" cX="1.18" cY="1" z="7" twE="0" dr="1"/>
+          <f x="-115.15" y="14.25" kX="-12.61" kY="-18.81" cX="1.18" cY="1" z="7" twE="0" dr="4"/>
+          <f x="-115.15" y="14.25" kX="-12.61" kY="-18.81" cX="1.18" cY="1" z="7" twE="0" dr="2"/>
+          <f x="-120.4" y="17.25" kX="-12.61" kY="-18.81" cX="1.18" cY="1" z="7" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="1"/>
+        </b>
+        <b name="sry-yj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Monster_xiaoyuren-sry-yj1-1" twE="0" dr="3"/>
+          <f x="0" y="10" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="26.65" y="-62.1" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="32" y="-81" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="6"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-102.55" y="2.45" kX="3.2" kY="3.2" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="-119.4" y="19.7" kX="-12.61" kY="-12.61" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="-119.4" y="19.7" kX="-12.61" kY="-12.61" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-102.55" y="2.45" kX="3.2" kY="3.2" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="-119.4" y="19.7" kX="-12.61" kY="-12.61" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="-119.4" y="19.7" kX="-12.61" kY="-12.61" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="-102.55" y="2.45" kX="3.2" kY="3.2" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="-123.15" y="22.7" kX="-12.61" kY="-12.61" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="-121.65" y="21.2" kX="-12.61" kY="-12.61" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="-121.65" y="21.2" kX="-12.61" kY="-12.61" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="-126.9" y="24.2" kX="-12.61" kY="-12.61" cX="1" cY="1" z="8" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="sry-yj-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Monster_xiaoyuren-sry-yj2-1" twE="0" dr="3"/>
+          <f x="0" y="10" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="5"/>
+          <f x="26.65" y="-62.1" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="32" y="-81" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="6"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="-102.55" y="3.2" kX="3.2" kY="3.2" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="-119.95" y="16.45" kX="-12.61" kY="-12.61" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="-119.95" y="16.45" kX="-12.61" kY="-12.61" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="-102.55" y="3.2" kX="3.2" kY="3.2" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="-119.95" y="16.45" kX="-12.61" kY="-12.61" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="-119.95" y="16.45" kX="-12.61" kY="-12.61" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="-102.55" y="3.2" kX="3.2" kY="3.2" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="-123.7" y="19.45" kX="-12.61" kY="-12.61" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="-122.2" y="17.95" kX="-12.61" kY="-12.61" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="-122.2" y="17.95" kX="-12.61" kY="-12.61" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="-127.45" y="20.95" kX="-12.61" kY="-12.61" cX="1" cY="1" z="9" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="1"/>
+        </b>
+        <b name="sry-k-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Monster_xiaoyuren-sry-k-1" twE="0" dr="3"/>
+          <f x="0" y="10" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="26.65" y="-62.1" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="32" y="-81" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="6"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="2"/>
+          <f x="-53.8" y="-24.8" kX="-2.97" kY="-2.97" cX="0.75" cY="1.29" z="10" twE="0" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-114.75" y="20.35" kX="-12.61" kY="-12.61" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="-114.75" y="20.35" kX="-12.61" kY="-12.61" cX="1" cY="1" z="10" twE="0" dr="2"/>
+          <f x="-107.15" y="10.3" kX="-6.65" kY="-6.65" cX="1" cY="1.08" z="10" twE="0" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-114.75" y="20.35" kX="-12.61" kY="-12.61" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="-114.75" y="20.35" kX="-12.61" kY="-12.61" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="-106.6" y="8.4" kX="-6.9" kY="-6.9" cX="1" cY="1.18" z="10" twE="0" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-118.5" y="23.35" kX="-12.61" kY="-12.61" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="-117" y="21.85" kX="-12.61" kY="-12.61" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="-117" y="21.85" kX="-12.61" kY="-12.61" cX="1" cY="1" z="10" twE="0" dr="2"/>
+          <f x="-122.25" y="24.85" kX="-12.61" kY="-12.61" cX="1" cY="1" z="10" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="1"/>
+        </b>
+        <b name="sry-xc-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="Monster_xiaoyuren-sry-xs-1" twE="0" dr="3"/>
+          <f x="0" y="10" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="5"/>
+          <f x="26.65" y="-62.1" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="32" y="-81" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="6"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="-104.6" y="33.85" kX="-33.43" kY="-33.43" cX="1" cY="1" z="10" img="Monster_xiaoyuren-sry-xs-2" twE="0" dr="1"/>
+          <f x="-114.7" y="21.9" kX="-12.61" kY="-12.61" cX="1" cY="1" z="11" img="Monster_xiaoyuren-sry-xs-1" twE="0" dr="1"/>
+          <f x="-114.7" y="21.9" kX="-12.61" kY="-12.61" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="-104.6" y="33.85" kX="-33.43" kY="-33.43" cX="1" cY="1" z="10" img="Monster_xiaoyuren-sry-xs-2" twE="0" dr="1"/>
+          <f x="-114.7" y="21.9" kX="-12.61" kY="-12.61" cX="1" cY="1" z="11" img="Monster_xiaoyuren-sry-xs-1" twE="0" dr="1"/>
+          <f x="-114.7" y="21.9" kX="-12.61" kY="-12.61" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="-104.6" y="33.85" kX="-33.43" kY="-33.43" cX="1" cY="1" z="10" img="Monster_xiaoyuren-sry-xs-2" twE="0" dr="1"/>
+          <f x="-118.45" y="24.9" kX="-12.61" kY="-12.61" cX="1" cY="1" z="11" img="Monster_xiaoyuren-sry-xs-1" twE="0" dr="1"/>
+          <f x="-116.95" y="23.4" kX="-12.61" kY="-12.61" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="-116.95" y="23.4" kX="-12.61" kY="-12.61" cX="1" cY="1" z="11" twE="0" dr="2"/>
+          <f x="-122.2" y="26.4" kX="-12.61" kY="-12.61" cX="1" cY="1" z="11" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="1"/>
+        </b>
+        <b name="sry-sc-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Monster_xiaoyuren-sry-ss-1" twE="0" dr="3"/>
+          <f x="0" y="10" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="5"/>
+          <f x="26.65" y="-62.1" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="32" y="-81" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="6"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-100.7" y="1.15" kX="4.7" kY="4.7" cX="1" cY="1" z="11" img="Monster_xiaoyuren-sry-sc-20" twE="0" dr="1"/>
+          <f x="-115.3" y="20.9" kX="-12.61" kY="-12.61" cX="1" cY="1" z="12" img="Monster_xiaoyuren-sry-ss-1" twE="0" dr="1"/>
+          <f x="-115.3" y="20.9" kX="-12.61" kY="-12.61" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-100.7" y="1.15" kX="4.7" kY="4.7" cX="1" cY="1" z="11" img="Monster_xiaoyuren-sry-sc-20" twE="0" dr="1"/>
+          <f x="-115.3" y="20.9" kX="-12.61" kY="-12.61" cX="1" cY="1" z="12" img="Monster_xiaoyuren-sry-ss-1" twE="0" dr="1"/>
+          <f x="-115.3" y="20.9" kX="-12.61" kY="-12.61" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="-100.7" y="1.15" kX="4.7" kY="4.7" cX="1" cY="1" z="11" img="Monster_xiaoyuren-sry-sc-20" twE="0" dr="1"/>
+          <f x="-119.05" y="23.9" kX="-12.61" kY="-12.61" cX="1" cY="1" z="12" img="Monster_xiaoyuren-sry-ss-1" twE="0" dr="1"/>
+          <f x="-117.55" y="22.4" kX="-12.61" kY="-12.61" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="-117.55" y="22.4" kX="-12.61" kY="-12.61" cX="1" cY="1" z="12" twE="0" dr="2"/>
+          <f x="-122.8" y="25.4" kX="-12.61" kY="-12.61" cX="1" cY="1" z="12" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="1"/>
+        </b>
+        <b name="sry-zj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="Monster_xiaoyuren-sry-zj-2" twE="0" dr="3"/>
+          <f x="0" y="10" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="5"/>
+          <f x="26.65" y="-62.1" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="32" y="-81" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="6"/>
+          <f x="32" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-103.45" y="6.25" kX="-11.5" kY="-11.5" cX="1" cY="1" z="12" twE="0" dr="1"/>
+          <f x="-113.1" y="12.3" kX="-12.61" kY="-12.61" cX="1" cY="1" z="13" twE="0" dr="1"/>
+          <f x="-113.1" y="12.3" kX="-12.61" kY="-12.61" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-103.45" y="6.25" kX="-11.5" kY="-11.5" cX="1" cY="1" z="12" twE="0" dr="1"/>
+          <f x="-113.1" y="12.3" kX="-12.61" kY="-12.61" cX="1" cY="1" z="13" twE="0" dr="1"/>
+          <f x="-113.1" y="12.3" kX="-12.61" kY="-12.61" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="-103.45" y="6.25" kX="-11.5" kY="-11.5" cX="1" cY="1" z="12" twE="0" dr="1"/>
+          <f x="-116.85" y="15.3" kX="-12.61" kY="-12.61" cX="1" cY="1" z="13" twE="0" dr="1"/>
+          <f x="-115.35" y="13.8" kX="-12.61" kY="-12.61" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="-115.35" y="13.8" kX="-12.61" kY="-12.61" cX="1" cY="1" z="13" twE="0" dr="2"/>
+          <f x="-120.6" y="16.8" kX="-12.61" kY="-12.61" cX="1" cY="1" z="13" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="fell">
+      <mov name="fell" to="1" dr="61" drTW="61">
+        <b name="图层 42" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_xiaoyuren-yizi" twE="0" dr="4"/>
+          <f x="70" y="0" kX="0" kY="0" cX="0.81" cY="0.81" z="0" twE="0" dr="9"/>
+          <f x="105" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="0" twE="0" dr="3"/>
+          <f x="105" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="0" twE="0" dr="3"/>
+          <f x="110.5" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="0" twE="0" dr="4"/>
+          <f x="110.5" y="0" kX="0" kY="0" cX="0.93" cY="0.93" z="0" twE="0" dr="4"/>
+          <f x="110.5" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="0" twE="0" dr="3"/>
+          <f x="110.5" y="0" kX="0" kY="0" cX="1.03" cY="1.03" z="0" twE="0" dr="4"/>
+          <f x="110.5" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="0" twE="0" dr="4"/>
+          <f x="110.5" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="0" twE="0" dr="8"/>
+          <f x="100.5" y="0" kX="0" kY="0" cX="1.02" cY="1.02" z="0" twE="0" dr="3"/>
+          <f x="100.5" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="0" twE="0" dr="8"/>
+          <f x="-4" y="0" kX="0" kY="0" cX="0.88" cY="0.88" z="0" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="sry-yl2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_xiaoyuren-sry-yl2-1" twE="0" dr="4"/>
+          <f x="76.1" y="-34.75" kX="2.53" kY="24.42" cX="1" cY="1.08" z="1" twE="0" dr="4"/>
+          <f x="114.25" y="-32.45" kX="37.41" kY="33.04" cX="1" cY="1.02" z="1" twE="0" dr="5"/>
+          <f x="129.55" y="-46.65" kX="25.81" kY="37.4" cX="1" cY="1.02" z="1" twE="0" dr="3"/>
+          <f x="138.95" y="-26.9" kX="37.36" kY="37.36" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="88.3" y="49.6" kX="-24.25" kY="-6.25" cX="1" cY="1.05" z="1" twE="0" dr="4"/>
+          <f x="136.65" y="12.1" kX="30.68" kY="19.34" cX="0.92" cY="1.03" z="1" twE="0" dr="4"/>
+          <f x="100" y="46.45" kX="-14.2" kY="-5.25" cX="1" cY="1.01" z="1" twE="0" dr="3"/>
+          <f x="118.6" y="35.7" kX="9.19" kY="4.76" cX="0.97" cY="1.01" z="1" twE="0" dr="4"/>
+          <f x="105.15" y="52.9" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="1" dr="4"/>
+          <f x="105.15" y="52.9" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="1" twE="0" dr="4"/>
+          <f x="108.75" y="21.1" kX="9.74" kY="-1.06" cX="1" cY="1.04" z="1" twE="0" dr="4"/>
+          <f x="91.8" y="-2.35" kX="-9.43" kY="-0.54" cX="1" cY="0.99" z="1" twE="0" dr="3"/>
+          <f x="97.15" y="1.65" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="5"/>
+          <f x="44.85" y="1.3" kX="19.2" kY="2.72" cX="1" cY="1.04" z="1" twE="0" dr="3"/>
+          <f x="-16.35" y="0" kX="-11.72" kY="0" cX="1" cY="1.02" z="1" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="sry-yl1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_xiaoyuren-sry-yl1-1" twE="0" dr="4"/>
+          <f x="53.5" y="-28.55" kX="-2.53" kY="-21.04" cX="1.05" cY="1" z="2" twE="0" dr="4"/>
+          <f x="65.75" y="-39.45" kX="34.15" kY="29.52" cX="1.08" cY="1.06" z="2" twE="0" dr="5"/>
+          <f x="83.25" y="-41.6" kX="16.68" kY="-11.73" cX="1.14" cY="1.19" z="2" twE="0" dr="3"/>
+          <f x="83.3" y="-31.8" kX="25.62" kY="5.84" cX="1" cY="1.06" z="2" twE="0" dr="3"/>
+          <f x="112.8" y="42.5" kX="12.71" kY="-2.73" cX="1" cY="1.37" z="2" twE="0" dr="4"/>
+          <f x="98.85" y="7.6" kX="15.23" kY="-10.19" cX="1.02" cY="1.01" z="2" twE="0" dr="4"/>
+          <f x="111.45" y="43.05" kX="-5.25" kY="-5.25" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="108.6" y="29.45" kX="14.95" kY="6.64" cX="1.01" cY="1" z="2" twE="0" dr="4"/>
+          <f x="111.45" y="45.15" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="2" dr="4"/>
+          <f x="111.45" y="45.15" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="2" twE="0" dr="3"/>
+          <f x="107.15" y="27.85" kX="21.75" kY="4.19" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="95.45" y="3" kX="1.52" kY="-5.5" cX="1" cY="1" z="2" twE="0" dr="2"/>
+          <f x="93.5" y="-7.75" kX="26.16" kY="12.68" cX="1" cY="1.03" z="2" twE="0" dr="3"/>
+          <f x="95.3" y="-2.55" kX="1.22" kY="1.22" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="56.35" y="2.6" kX="-21.22" kY="-35.71" cX="1.03" cY="1" z="2" twE="0" dr="3"/>
+          <f x="19.7" y="1.4" kX="-8.31" kY="-20.99" cX="1.34" cY="1" z="2" twE="0" dr="2"/>
+          <f x="-9.4" y="-0.85" kX="-13.97" kY="-13.97" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="sry-wb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" twE="0" dr="4"/>
+          <f x="72.8" y="-13.25" kX="24.42" kY="24.42" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-2" twE="0" dr="4"/>
+          <f x="89.1" y="-16.55" kX="30.09" kY="30.09" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-3" twE="0" dr="5"/>
+          <f x="109.4" y="-20.4" kX="37.4" kY="37.4" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-4" twE="0" dr="3"/>
+          <f x="111.1" y="-6.55" kX="37.36" kY="37.36" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="106.6" y="42.95" kX="-6.25" kY="-6.25" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-5" twE="0" dr="4"/>
+          <f x="113.4" y="19.3" kX="15.23" kY="16.39" cX="0.92" cY="1.01" z="3" img="Monster_xiaoyuren-weiba-6" twE="0" dr="4"/>
+          <f x="107.8" y="40.7" kX="-5.25" kY="-5.25" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" twE="0" dr="3"/>
+          <f x="111.3" y="37.1" kX="3.48" kY="3.76" cX="0.97" cY="1" z="3" twE="0" dr="4"/>
+          <f x="107.8" y="45.75" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="3" dr="4"/>
+          <f x="107.8" y="45.75" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="3" twE="0" dr="4"/>
+          <f x="102.85" y="20.65" kX="-1.53" kY="-1.06" cX="1" cY="0.96" z="3" img="Monster_xiaoyuren-weiba-2" twE="0" dr="4"/>
+          <f x="97.85" y="-4.35" kX="2.43" kY="2.43" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-3" twE="0" dr="3"/>
+          <f x="97.15" y="1.65" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-4" twE="0" dr="4"/>
+          <f x="45.3" y="0.85" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-5" twE="0" dr="4"/>
+          <f x="-6.6" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-6" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" dr="1"/>
+        </b>
+        <b name="sry-st-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Monster_xiaoyuren-sry-st-1" twE="0" dr="4"/>
+          <f x="80.2" y="-37.6" kX="24.42" kY="24.42" cX="1" cY="1" z="4" twE="0" dr="9"/>
+          <f x="124.7" y="-55.85" kX="37.4" kY="37.4" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="126.4" y="-41.9" kX="37.36" kY="37.36" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="106.4" y="49.6" kX="-6.25" kY="-6.25" cX="1" cY="0.96" z="4" twE="0" dr="4"/>
+          <f x="121.9" y="3.9" kX="15.23" kY="16.39" cX="0.92" cY="1.01" z="4" twE="0" dr="4"/>
+          <f x="107.55" y="47.25" kX="-5.25" kY="-5.25" cX="1" cY="0.95" z="4" twE="0" dr="3"/>
+          <f x="113.75" y="34.15" kX="3.48" kY="3.76" cX="0.97" cY="0.97" z="4" twE="0" dr="4"/>
+          <f x="107.55" y="52.2" kX="-5.66" kY="-4.88" cX="1" cY="0.88" z="4" dr="4"/>
+          <f x="107.55" y="52.2" kX="-5.66" kY="-4.88" cX="1" cY="0.88" z="4" twE="0" dr="8"/>
+          <f x="98.1" y="-6.9" kX="2.43" kY="2.43" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="97.15" y="1.65" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="8"/>
+          <f x="-6.6" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="sry-xb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="Monster_xiaoyuren-sry-xb2-1" twE="0" dr="4"/>
+          <f x="63.05" y="-41.1" kX="27.21" kY="15.68" cX="1" cY="1.1" z="5" twE="0" dr="4"/>
+          <f x="78.4" y="-50.95" kX="5.96" kY="15.58" cX="1" cY="1.01" z="5" twE="0" dr="5"/>
+          <f x="97.5" y="-63.45" kX="21.96" kY="21.96" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="99.3" y="-49.4" kX="39.43" kY="21.83" cX="1" cY="1.16" z="5" twE="0" dr="3"/>
+          <f x="112.05" y="49.15" kX="-3.48" kY="-3.48" cX="1" cY="0.85" z="5" twE="0" dr="4"/>
+          <f x="111.85" y="8.5" kX="14.36" kY="1.44" cX="0.92" cY="1.13" z="5" twE="0" dr="4"/>
+          <f x="111.45" y="48.65" kX="-1.66" kY="-5.25" cX="1" cY="0.87" z="5" twE="0" dr="3"/>
+          <f x="111.85" y="36.55" kX="5.5" kY="-1.05" cX="0.97" cY="0.96" z="5" twE="0" dr="4"/>
+          <f x="111.45" y="50.55" kX="-1.79" kY="-4.88" cX="1" cY="0.81" z="5" dr="4"/>
+          <f x="111.45" y="50.55" kX="-1.79" kY="-4.88" cX="1" cY="0.81" z="5" twE="0" dr="4"/>
+          <f x="104" y="27.15" kX="-7.43" kY="-8.75" cX="1" cY="0.9" z="5" twE="0" dr="4"/>
+          <f x="96.75" y="-10.15" kX="6.12" kY="6.12" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="97.15" y="4.45" kX="-3.72" kY="-3.72" cX="1" cY="1" z="5" twE="0" dr="8"/>
+          <f x="-6.4" y="-3" kX="3.95" kY="3.95" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="sry-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Monster_xiaoyuren-sry-tb-1" twE="0" dr="4"/>
+          <f x="82.05" y="-44.9" kX="27.43" kY="27.43" cX="1" cY="1" z="6" twE="0" dr="9"/>
+          <f x="138.7" y="-65.35" kX="50.37" kY="50.37" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="140.45" y="-51.4" kX="50.39" kY="50.39" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="112.6" y="41.5" kX="6.72" kY="6.72" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="125.6" y="-2.45" kX="19.94" kY="21.1" cX="0.92" cY="1.01" z="6" twE="0" dr="4"/>
+          <f x="107.6" y="48.45" kX="-5.25" kY="-5.25" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="115.2" y="32.2" kX="4.99" kY="5.47" cX="0.97" cY="1" z="6" twE="0" dr="4"/>
+          <f x="107.6" y="53.35" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="6" dr="4"/>
+          <f x="107.6" y="53.35" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="6" twE="0" dr="8"/>
+          <f x="98.2" y="-7.4" kX="2.43" kY="2.43" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="97.15" y="1.65" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="8"/>
+          <f x="-6.6" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="sry-yl4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Monster_xiaoyuren-sry-yl4-1" twE="0" dr="4"/>
+          <f x="61.15" y="-33.4" kX="22.52" kY="28.56" cX="1.21" cY="1.16" z="7" twE="0" dr="4"/>
+          <f x="77.3" y="-36.95" kX="21.88" kY="0.12" cX="0.79" cY="1.09" z="7" twE="0" dr="5"/>
+          <f x="96.25" y="-49.9" kX="37.4" kY="37.4" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="98.7" y="-33.15" kX="37.36" kY="14.68" cX="0.71" cY="1" z="7" twE="0" dr="3"/>
+          <f x="109.85" y="45.3" kX="6.25" kY="0.88" cX="1.22" cY="1.15" z="7" twE="0" dr="4"/>
+          <f x="109.15" y="11.95" kX="15.23" kY="-13.29" cX="0.85" cY="1.01" z="7" twE="0" dr="4"/>
+          <f x="111" y="45.05" kX="-5.25" kY="-5.25" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="111.95" y="37.85" kX="3.48" kY="-17.52" cX="0.85" cY="1" z="7" twE="0" dr="4"/>
+          <f x="111" y="47.35" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="7" dr="4"/>
+          <f x="111" y="47.35" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="7" twE="0" dr="3"/>
+          <f x="107.35" y="25.4" kX="27.05" kY="13.16" cX="1.08" cY="1.1" z="7" twE="0" dr="3"/>
+          <f x="101.5" y="8.7" kX="9.53" kY="-14.02" cX="0.92" cY="1.09" z="7" twE="0" dr="2"/>
+          <f x="97.55" y="-5.95" kX="16.87" kY="2.88" cX="1" cY="1.03" z="7" twE="0" dr="3"/>
+          <f x="98.15" y="2.9" kX="13.93" kY="-11.5" cX="1.04" cY="1.07" z="7" twE="0" dr="3"/>
+          <f x="58.85" y="1.2" kX="7.75" kY="-8.72" cX="1.02" cY="1.24" z="7" twE="0" dr="3"/>
+          <f x="16.95" y="2.1" kX="-23.74" kY="-10.82" cX="1.1" cY="1.02" z="7" twE="0" dr="2"/>
+          <f x="-5.45" y="0.7" kX="14.4" kY="-7.73" cX="1" cY="1.08" z="7" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="sry-yj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Monster_xiaoyuren-sry-yj1-1" twE="0" dr="4"/>
+          <f x="80.9" y="-44.2" kX="27.43" kY="27.43" cX="1" cY="1" z="8" twE="0" dr="9"/>
+          <f x="136.5" y="-64.5" kX="50.37" kY="50.37" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="138.25" y="-50.6" kX="50.39" kY="50.39" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="112.35" y="41.8" kX="6.72" kY="6.72" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="124.55" y="-1.9" kX="19.94" kY="21.1" cX="0.92" cY="1.01" z="8" twE="0" dr="4"/>
+          <f x="107.75" y="48.25" kX="-5.25" kY="-5.25" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="115.1" y="32.9" kX="4.99" kY="5.47" cX="0.97" cY="1" z="8" img="Monster_xiaoyuren-sry-yj1-2" twE="0" dr="4"/>
+          <f x="107.75" y="53.05" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="8" dr="4"/>
+          <f x="107.75" y="53.05" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="8" img="Monster_xiaoyuren-sry-yj1-1" twE="0" dr="8"/>
+          <f x="98.1" y="-7.3" kX="2.43" kY="2.43" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="97.15" y="1.65" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="8"/>
+          <f x="-6.6" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="sry-yj-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Monster_xiaoyuren-sry-yj2-1" twE="0" dr="4"/>
+          <f x="79.7" y="-37.2" kX="27.43" kY="27.43" cX="1" cY="1" z="9" twE="0" dr="9"/>
+          <f x="131.8" y="-52.6" kX="50.37" kY="50.37" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="133.5" y="-38.7" kX="50.39" kY="50.39" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="112.45" y="43.5" kX="6.72" kY="6.72" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="122.75" y="3.1" kX="19.94" kY="21.1" cX="0.92" cY="1.01" z="9" twE="0" dr="4"/>
+          <f x="107.6" y="46.9" kX="-5.25" kY="-5.25" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="114.35" y="34.05" kX="4.99" kY="5.47" cX="0.97" cY="1" z="9" img="Monster_xiaoyuren-sry-yj2-3" twE="0" dr="4"/>
+          <f x="107.6" y="51.85" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="9" dr="4"/>
+          <f x="107.6" y="51.85" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="9" img="Monster_xiaoyuren-sry-yj2-1" twE="0" dr="8"/>
+          <f x="98.1" y="-6.7" kX="2.43" kY="2.43" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="97.15" y="1.65" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="8"/>
+          <f x="-6.6" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="sry-k-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Monster_xiaoyuren-sry-k-1" twE="0" dr="4"/>
+          <f x="75.8" y="-48.85" kX="29.6" kY="30.34" cX="0.98" cY="1.12" z="10" twE="0" dr="9"/>
+          <f x="118.4" y="-71.8" kX="42.59" kY="43.33" cX="0.98" cY="1.12" z="10" twE="0" dr="3"/>
+          <f x="120.15" y="-57.95" kX="42.61" kY="43.36" cX="0.97" cY="1.12" z="10" twE="0" dr="3"/>
+          <f x="110.55" y="40.75" kX="4.18" kY="4.92" cX="0.98" cY="1.12" z="10" twE="0" dr="4"/>
+          <f x="116.05" y="-0.55" kX="12.7" kY="13.85" cX="0.92" cY="1.01" z="10" twE="0" dr="4"/>
+          <f x="109.6" y="48.6" kX="-5.25" kY="-5.25" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="112.7" y="33.25" kX="2.52" kY="2.99" cX="0.97" cY="1" z="10" twE="0" dr="4"/>
+          <f x="109.6" y="51.85" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="10" dr="4"/>
+          <f x="109.6" y="51.85" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="10" twE="0" dr="8"/>
+          <f x="97.5" y="-10.95" kX="6.89" kY="6.89" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="97.15" y="1.65" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="8"/>
+          <f x="-6.55" y="-2.3" kX="3" kY="3" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="sry-xc-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="Monster_xiaoyuren-sry-xs-1" twE="0" dr="4"/>
+          <f x="68.65" y="-42.05" kX="15.68" kY="15.68" cX="1" cY="1" z="11" twE="0" dr="9"/>
+          <f x="105.4" y="-64.3" kX="21.96" kY="21.96" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="107.1" y="-50.35" kX="21.83" kY="21.83" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="110.8" y="49.5" kX="-3.48" kY="-3.48" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="112.3" y="8.1" kX="0.28" kY="1.44" cX="0.92" cY="1.01" z="11" twE="0" dr="4"/>
+          <f x="109.5" y="49.25" kX="-5.25" kY="-5.25" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="111.7" y="36.6" kX="-1.33" kY="-1.05" cX="0.97" cY="1" z="11" twE="0" dr="4"/>
+          <f x="109.5" y="52.55" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="11" dr="4"/>
+          <f x="109.5" y="52.55" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="11" twE="0" dr="4"/>
+          <f x="100.7" y="29" kX="-9.22" kY="-8.75" cX="1" cY="0.96" z="11" twE="0" dr="4"/>
+          <f x="98.9" y="-10.7" kX="6.12" kY="6.12" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="95.85" y="4.9" kX="-3.72" kY="-3.72" cX="1" cY="1" z="11" twE="0" dr="8"/>
+          <f x="-5" y="-3.35" kX="3.95" kY="3.95" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="sry-sc-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Monster_xiaoyuren-sry-ss-1" twE="0" dr="4"/>
+          <f x="73.35" y="-49.45" kX="27.43" kY="27.43" cX="1" cY="1" z="12" twE="0" dr="9"/>
+          <f x="125.1" y="-76.5" kX="50.37" kY="50.37" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="126.8" y="-62.6" kX="50.39" kY="50.39" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="110.3" y="40.75" kX="6.72" kY="6.72" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="119.25" y="-5.15" kX="19.94" kY="21.1" cX="0.92" cY="1.01" z="12" twE="0" dr="4"/>
+          <f x="109.4" y="48.8" kX="-5.25" kY="-5.25" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="113.15" y="31.25" kX="4.99" kY="5.47" cX="0.97" cY="1" z="12" twE="0" dr="4"/>
+          <f x="109.4" y="52.25" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="12" dr="4"/>
+          <f x="109.4" y="52.25" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="12" twE="0" dr="8"/>
+          <f x="97.35" y="-7.6" kX="2.43" kY="2.43" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="97.15" y="1.65" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="8"/>
+          <f x="-6.6" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" dr="1"/>
+        </b>
+        <b name="sry-zj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="Monster_xiaoyuren-sry-zj-2" twE="0" dr="4"/>
+          <f x="64.75" y="-31.9" kX="24.42" kY="24.42" cX="1" cY="1" z="13" twE="0" dr="9"/>
+          <f x="100.4" y="-49.9" kX="37.4" kY="37.4" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="102.15" y="-36.05" kX="37.36" kY="37.36" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="109.95" y="47" kX="-6.25" kY="-6.25" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="110.65" y="8.5" kX="15.23" kY="16.39" cX="0.92" cY="1.01" z="13" twE="0" dr="4"/>
+          <f x="110.55" y="45.25" kX="-5.25" kY="-5.25" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="111.35" y="35.35" kX="3.48" kY="3.76" cX="0.97" cY="1" z="13" twE="0" dr="4"/>
+          <f x="110.55" y="47.95" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="13" dr="4"/>
+          <f x="110.55" y="47.95" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="13" twE="0" dr="8"/>
+          <f x="96.7" y="-6.05" kX="2.43" kY="2.43" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="97.15" y="1.65" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="8"/>
+          <f x="-6.6" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dead">
+      <mov name="dead" to="1" dr="35" drTW="35">
+        <b name="图层 42" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_xiaoyuren-yizi" twE="0" dr="4"/>
+          <f x="70" y="0" kX="0" kY="0" cX="0.81" cY="0.81" z="0" twE="0" dr="9"/>
+          <f x="105" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="0" twE="0" dr="3"/>
+          <f x="105" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="0" twE="0" dr="3"/>
+          <f x="110.5" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="0" twE="0" dr="4"/>
+          <f x="110.5" y="0" kX="0" kY="0" cX="0.93" cY="0.93" z="0" twE="0" dr="4"/>
+          <f x="110.5" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="0" twE="0" dr="3"/>
+          <f x="110.5" y="0" kX="0" kY="0" cX="1.03" cY="1.03" z="0" twE="0" dr="4"/>
+          <f x="110.5" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="sry-yl1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_xiaoyuren-sry-yl2-1" twE="0" dr="4"/>
+          <f x="76.1" y="-34.75" kX="2.53" kY="24.42" cX="1" cY="1.08" z="1" twE="0" dr="4"/>
+          <f x="114.25" y="-32.45" kX="37.41" kY="33.04" cX="1" cY="1.02" z="1" twE="0" dr="5"/>
+          <f x="129.55" y="-46.65" kX="25.81" kY="37.4" cX="1" cY="1.02" z="1" twE="0" dr="3"/>
+          <f x="138.95" y="-26.9" kX="37.36" kY="37.36" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="88.3" y="49.6" kX="-24.25" kY="-6.25" cX="1" cY="1.05" z="1" twE="0" dr="4"/>
+          <f x="136.65" y="12.1" kX="30.68" kY="19.34" cX="0.92" cY="1.03" z="1" twE="0" dr="4"/>
+          <f x="100" y="46.45" kX="-14.2" kY="-5.25" cX="1" cY="1.01" z="1" twE="0" dr="3"/>
+          <f x="118.6" y="35.7" kX="9.19" kY="4.76" cX="0.97" cY="1.01" z="1" twE="0" dr="4"/>
+          <f x="105.15" y="52.9" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="1" dr="1"/>
+        </b>
+        <b name="sry-yl5-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_xiaoyuren-sry-yl1-1" twE="0" dr="4"/>
+          <f x="53.5" y="-28.55" kX="-2.53" kY="-21.04" cX="1.05" cY="1" z="2" twE="0" dr="4"/>
+          <f x="65.75" y="-39.45" kX="34.15" kY="29.52" cX="1.08" cY="1.06" z="2" twE="0" dr="5"/>
+          <f x="83.25" y="-41.6" kX="16.68" kY="-11.73" cX="1.14" cY="1.19" z="2" twE="0" dr="3"/>
+          <f x="83.3" y="-31.8" kX="25.62" kY="5.84" cX="1" cY="1.06" z="2" twE="0" dr="3"/>
+          <f x="112.8" y="42.5" kX="12.71" kY="-2.73" cX="1" cY="1.37" z="2" twE="0" dr="4"/>
+          <f x="98.85" y="7.6" kX="15.23" kY="-10.19" cX="1.02" cY="1.01" z="2" twE="0" dr="4"/>
+          <f x="111.45" y="43.05" kX="-5.25" kY="-5.25" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="108.6" y="29.45" kX="14.95" kY="6.64" cX="1.01" cY="1" z="2" twE="0" dr="4"/>
+          <f x="111.45" y="45.15" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="2" dr="1"/>
+        </b>
+        <b name="sry-wb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" twE="0" dr="4"/>
+          <f x="72.8" y="-13.25" kX="24.42" kY="24.42" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-2" twE="0" dr="4"/>
+          <f x="89.1" y="-16.55" kX="30.09" kY="30.09" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-3" twE="0" dr="5"/>
+          <f x="109.4" y="-20.4" kX="37.4" kY="37.4" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-4" twE="0" dr="3"/>
+          <f x="111.1" y="-6.55" kX="37.36" kY="37.36" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="106.6" y="42.95" kX="-6.25" kY="-6.25" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-5" twE="0" dr="4"/>
+          <f x="113.4" y="19.3" kX="15.23" kY="16.39" cX="0.92" cY="1.01" z="3" img="Monster_xiaoyuren-weiba-6" twE="0" dr="4"/>
+          <f x="107.8" y="40.7" kX="-5.25" kY="-5.25" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" twE="0" dr="3"/>
+          <f x="111.3" y="37.1" kX="3.48" kY="3.76" cX="0.97" cY="1" z="3" twE="0" dr="4"/>
+          <f x="107.8" y="45.75" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="3" dr="1"/>
+        </b>
+        <b name="sry-st-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Monster_xiaoyuren-sry-st-1" twE="0" dr="4"/>
+          <f x="80.2" y="-37.6" kX="24.42" kY="24.42" cX="1" cY="1" z="4" twE="0" dr="9"/>
+          <f x="124.7" y="-55.85" kX="37.4" kY="37.4" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="126.4" y="-41.9" kX="37.36" kY="37.36" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="106.4" y="49.6" kX="-6.25" kY="-6.25" cX="1" cY="0.96" z="4" twE="0" dr="4"/>
+          <f x="121.9" y="3.9" kX="15.23" kY="16.39" cX="0.92" cY="1.01" z="4" twE="0" dr="4"/>
+          <f x="107.55" y="47.25" kX="-5.25" kY="-5.25" cX="1" cY="0.95" z="4" twE="0" dr="3"/>
+          <f x="113.75" y="34.15" kX="3.48" kY="3.76" cX="0.97" cY="0.97" z="4" twE="0" dr="4"/>
+          <f x="107.55" y="52.2" kX="-5.66" kY="-4.88" cX="1" cY="0.88" z="4" dr="1"/>
+        </b>
+        <b name="sry-xb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="Monster_xiaoyuren-sry-xb2-1" twE="0" dr="4"/>
+          <f x="63.05" y="-41.1" kX="27.21" kY="15.68" cX="1" cY="1.1" z="5" twE="0" dr="4"/>
+          <f x="78.4" y="-50.95" kX="5.96" kY="15.58" cX="1" cY="1.01" z="5" twE="0" dr="5"/>
+          <f x="97.5" y="-63.45" kX="21.96" kY="21.96" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="99.3" y="-49.4" kX="39.43" kY="21.83" cX="1" cY="1.16" z="5" twE="0" dr="3"/>
+          <f x="112.05" y="49.15" kX="-3.48" kY="-3.48" cX="1" cY="0.85" z="5" twE="0" dr="4"/>
+          <f x="111.85" y="8.5" kX="14.36" kY="1.44" cX="0.92" cY="1.13" z="5" twE="0" dr="4"/>
+          <f x="111.45" y="48.65" kX="-1.66" kY="-5.25" cX="1" cY="0.87" z="5" twE="0" dr="3"/>
+          <f x="111.85" y="36.55" kX="5.5" kY="-1.05" cX="0.97" cY="0.96" z="5" twE="0" dr="4"/>
+          <f x="111.45" y="50.55" kX="-1.79" kY="-4.88" cX="1" cY="0.81" z="5" dr="1"/>
+        </b>
+        <b name="sry-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Monster_xiaoyuren-sry-tb-1" twE="0" dr="4"/>
+          <f x="82.05" y="-44.9" kX="27.43" kY="27.43" cX="1" cY="1" z="6" twE="0" dr="9"/>
+          <f x="138.7" y="-65.35" kX="50.37" kY="50.37" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="140.45" y="-51.4" kX="50.39" kY="50.39" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="112.6" y="41.5" kX="6.72" kY="6.72" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="125.6" y="-2.45" kX="19.94" kY="21.1" cX="0.92" cY="1.01" z="6" twE="0" dr="4"/>
+          <f x="107.6" y="48.45" kX="-5.25" kY="-5.25" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="115.2" y="32.2" kX="4.99" kY="5.47" cX="0.97" cY="1" z="6" twE="0" dr="4"/>
+          <f x="107.6" y="53.35" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="6" dr="1"/>
+        </b>
+        <b name="sry-yl4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Monster_xiaoyuren-sry-yl4-1" twE="0" dr="4"/>
+          <f x="61.15" y="-33.4" kX="22.52" kY="28.56" cX="1.21" cY="1.16" z="7" twE="0" dr="4"/>
+          <f x="77.3" y="-36.95" kX="21.88" kY="0.12" cX="0.79" cY="1.09" z="7" twE="0" dr="5"/>
+          <f x="96.25" y="-49.9" kX="37.4" kY="37.4" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="98.7" y="-33.15" kX="37.36" kY="14.68" cX="0.71" cY="1" z="7" twE="0" dr="3"/>
+          <f x="109.85" y="45.3" kX="6.25" kY="0.88" cX="1.22" cY="1.15" z="7" twE="0" dr="4"/>
+          <f x="109.15" y="11.95" kX="15.23" kY="-13.29" cX="0.85" cY="1.01" z="7" twE="0" dr="4"/>
+          <f x="111" y="45.05" kX="-5.25" kY="-5.25" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="111.95" y="37.85" kX="3.48" kY="-17.52" cX="0.85" cY="1" z="7" twE="0" dr="4"/>
+          <f x="111" y="47.35" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="7" dr="1"/>
+        </b>
+        <b name="sry-yj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Monster_xiaoyuren-sry-yj1-1" twE="0" dr="4"/>
+          <f x="80.9" y="-44.2" kX="27.43" kY="27.43" cX="1" cY="1" z="8" twE="0" dr="9"/>
+          <f x="136.5" y="-64.5" kX="50.37" kY="50.37" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="138.25" y="-50.6" kX="50.39" kY="50.39" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="112.35" y="41.8" kX="6.72" kY="6.72" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="124.55" y="-1.9" kX="19.94" kY="21.1" cX="0.92" cY="1.01" z="8" twE="0" dr="4"/>
+          <f x="107.75" y="48.25" kX="-5.25" kY="-5.25" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="115.1" y="32.9" kX="4.99" kY="5.47" cX="0.97" cY="1" z="8" img="Monster_xiaoyuren-sry-yj1-2" twE="0" dr="4"/>
+          <f x="107.75" y="53.05" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="8" dr="1"/>
+        </b>
+        <b name="sry-yj-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Monster_xiaoyuren-sry-yj2-1" twE="0" dr="4"/>
+          <f x="79.7" y="-37.2" kX="27.43" kY="27.43" cX="1" cY="1" z="9" twE="0" dr="9"/>
+          <f x="131.8" y="-52.6" kX="50.37" kY="50.37" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="133.5" y="-38.7" kX="50.39" kY="50.39" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="112.45" y="43.5" kX="6.72" kY="6.72" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="122.75" y="3.1" kX="19.94" kY="21.1" cX="0.92" cY="1.01" z="9" twE="0" dr="4"/>
+          <f x="107.6" y="46.9" kX="-5.25" kY="-5.25" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="114.35" y="34.05" kX="4.99" kY="5.47" cX="0.97" cY="1" z="9" img="Monster_xiaoyuren-sry-yj2-3" twE="0" dr="4"/>
+          <f x="107.6" y="51.85" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="9" dr="1"/>
+        </b>
+        <b name="sry-k-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Monster_xiaoyuren-sry-k-1" twE="0" dr="4"/>
+          <f x="75.8" y="-48.85" kX="29.6" kY="30.34" cX="0.98" cY="1.12" z="10" twE="0" dr="9"/>
+          <f x="118.4" y="-71.8" kX="42.59" kY="43.33" cX="0.98" cY="1.12" z="10" twE="0" dr="3"/>
+          <f x="120.15" y="-57.95" kX="42.61" kY="43.36" cX="0.97" cY="1.12" z="10" twE="0" dr="3"/>
+          <f x="110.55" y="40.75" kX="4.18" kY="4.92" cX="0.98" cY="1.12" z="10" twE="0" dr="4"/>
+          <f x="116.05" y="-0.55" kX="12.7" kY="13.85" cX="0.92" cY="1.01" z="10" twE="0" dr="4"/>
+          <f x="109.6" y="48.6" kX="-5.25" kY="-5.25" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="112.7" y="33.25" kX="2.52" kY="2.99" cX="0.97" cY="1" z="10" twE="0" dr="4"/>
+          <f x="109.6" y="51.85" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="10" dr="1"/>
+        </b>
+        <b name="sry-xc-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="Monster_xiaoyuren-sry-xs-1" twE="0" dr="4"/>
+          <f x="68.65" y="-42.05" kX="15.68" kY="15.68" cX="1" cY="1" z="11" twE="0" dr="9"/>
+          <f x="105.4" y="-64.3" kX="21.96" kY="21.96" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="107.1" y="-50.35" kX="21.83" kY="21.83" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="110.8" y="49.5" kX="-3.48" kY="-3.48" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="112.3" y="8.1" kX="0.28" kY="1.44" cX="0.92" cY="1.01" z="11" twE="0" dr="4"/>
+          <f x="109.5" y="49.25" kX="-5.25" kY="-5.25" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="111.7" y="36.6" kX="-1.33" kY="-1.05" cX="0.97" cY="1" z="11" twE="0" dr="4"/>
+          <f x="109.5" y="52.55" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="11" dr="1"/>
+        </b>
+        <b name="sry-sc-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Monster_xiaoyuren-sry-ss-1" twE="0" dr="4"/>
+          <f x="73.35" y="-49.45" kX="27.43" kY="27.43" cX="1" cY="1" z="12" twE="0" dr="9"/>
+          <f x="125.1" y="-76.5" kX="50.37" kY="50.37" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="126.8" y="-62.6" kX="50.39" kY="50.39" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="110.3" y="40.75" kX="6.72" kY="6.72" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="119.25" y="-5.15" kX="19.94" kY="21.1" cX="0.92" cY="1.01" z="12" twE="0" dr="4"/>
+          <f x="109.4" y="48.8" kX="-5.25" kY="-5.25" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="113.15" y="31.25" kX="4.99" kY="5.47" cX="0.97" cY="1" z="12" twE="0" dr="4"/>
+          <f x="109.4" y="52.25" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="12" dr="1"/>
+        </b>
+        <b name="sry-zj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="Monster_xiaoyuren-sry-zj-2" twE="0" dr="4"/>
+          <f x="64.75" y="-31.9" kX="24.42" kY="24.42" cX="1" cY="1" z="13" twE="0" dr="9"/>
+          <f x="100.4" y="-49.9" kX="37.4" kY="37.4" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="102.15" y="-36.05" kX="37.36" kY="37.36" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="109.95" y="47" kX="-6.25" kY="-6.25" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="110.65" y="8.5" kX="15.23" kY="16.39" cX="0.92" cY="1.01" z="13" twE="0" dr="4"/>
+          <f x="110.55" y="45.25" kX="-5.25" kY="-5.25" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="111.35" y="35.35" kX="3.48" kY="3.76" cX="0.97" cY="1" z="13" twE="0" dr="4"/>
+          <f x="110.55" y="47.95" kX="-5.66" kY="-4.88" cX="1" cY="0.93" z="13" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="bruise">
+      <mov name="bruise" to="1" dr="18" drTW="18">
+        <b name="图层 42" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_xiaoyuren-yizi" twE="0" dr="2"/>
+          <f x="20" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="35" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="20" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="35" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="20" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="sry-yl2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_xiaoyuren-sry-yl2-1" twE="0" dr="2"/>
+          <f x="0.65" y="22.75" kX="-17.73" kY="-12.49" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="15.65" y="27.75" kX="-17.73" kY="-12.49" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="0.65" y="22.75" kX="-17.73" kY="-12.49" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="15.65" y="27.75" kX="-17.73" kY="-12.49" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="0.65" y="22.75" kX="-17.73" kY="-12.49" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="sry-yl1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_xiaoyuren-sry-yl1-1" twE="0" dr="2"/>
+          <f x="17.85" y="12.65" kX="-10.3" kY="1.58" cX="1.02" cY="1" z="2" twE="0" dr="3"/>
+          <f x="32.85" y="17.65" kX="-10.3" kY="1.58" cX="1.02" cY="1" z="2" twE="0" dr="3"/>
+          <f x="17.85" y="12.65" kX="-10.3" kY="1.58" cX="1.02" cY="1" z="2" twE="0" dr="3"/>
+          <f x="32.85" y="17.65" kX="-10.3" kY="1.58" cX="1.02" cY="1" z="2" twE="0" dr="3"/>
+          <f x="17.85" y="12.65" kX="-10.3" kY="1.58" cX="1.02" cY="1" z="2" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="sry-wb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_xiaoyuren-weiba-1" twE="0" dr="2"/>
+          <f x="9.2" y="11.9" kX="-12.49" kY="-12.49" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="24.2" y="16.9" kX="-12.49" kY="-12.49" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="9.2" y="11.9" kX="-12.49" kY="-12.49" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="24.2" y="16.9" kX="-12.49" kY="-12.49" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="9.2" y="11.9" kX="-12.49" kY="-12.49" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="sry-st-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Monster_xiaoyuren-sry-st-1" twE="0" dr="2"/>
+          <f x="9.55" y="25" kX="-12.49" kY="-12.49" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="24.55" y="30" kX="-12.49" kY="-12.49" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="9.55" y="25" kX="-12.49" kY="-12.49" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="24.55" y="30" kX="-12.49" kY="-12.49" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="9.55" y="25" kX="-12.49" kY="-12.49" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="sry-xb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="Monster_xiaoyuren-sry-xb2-1" twE="0" dr="2"/>
+          <f x="19.7" y="32.6" kX="-16.94" kY="-16.94" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="33.9" y="30.7" kX="-11.53" kY="-11.53" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="19.7" y="32.6" kX="-16.94" kY="-16.94" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="33.9" y="30.7" kX="-11.53" kY="-11.53" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="19.7" y="32.6" kX="-16.94" kY="-16.94" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="sry-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Monster_xiaoyuren-sry-tb-1" twE="0" dr="2"/>
+          <f x="9.65" y="27.6" kX="-12.49" kY="-12.49" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="24.65" y="32.6" kX="-12.49" kY="-12.49" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="9.65" y="27.6" kX="-12.49" kY="-12.49" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="24.65" y="32.6" kX="-12.49" kY="-12.49" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="9.65" y="27.6" kX="-12.49" kY="-12.49" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="sry-yl4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Monster_xiaoyuren-sry-yl4-1" twE="0" dr="2"/>
+          <f x="17.15" y="17.2" kX="-2.3" kY="2.02" cX="1.13" cY="1" z="7" twE="0" dr="3"/>
+          <f x="32.15" y="22.2" kX="-2.3" kY="2.02" cX="1.13" cY="1" z="7" twE="0" dr="3"/>
+          <f x="17.15" y="17.2" kX="-2.3" kY="2.02" cX="1.13" cY="1" z="7" twE="0" dr="3"/>
+          <f x="32.15" y="22.2" kX="-2.3" kY="2.02" cX="1.13" cY="1" z="7" twE="0" dr="3"/>
+          <f x="17.15" y="17.2" kX="-2.3" kY="2.02" cX="1.13" cY="1" z="7" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="sry-yj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Monster_xiaoyuren-sry-yj1-1" twE="0" dr="2"/>
+          <f x="10" y="27.1" kX="-12.49" kY="-12.49" cX="1" cY="1" z="8" img="Monster_xiaoyuren-sry-yj1-20" twE="0" dr="3"/>
+          <f x="25" y="32.1" kX="-12.49" kY="-12.49" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="10" y="27.1" kX="-12.49" kY="-12.49" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="25" y="32.1" kX="-12.49" kY="-12.49" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="10" y="27.1" kX="-12.49" kY="-12.49" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Monster_xiaoyuren-sry-yj1-1" dr="1"/>
+        </b>
+        <b name="sry-yj-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Monster_xiaoyuren-sry-yj2-1" twE="0" dr="2"/>
+          <f x="9.45" y="23.9" kX="-12.49" kY="-12.49" cX="1" cY="1" z="9" img="Monster_xiaoyuren-sry-yj2-2" twE="0" dr="3"/>
+          <f x="24.45" y="28.9" kX="-12.49" kY="-12.49" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="9.45" y="23.9" kX="-12.49" kY="-12.49" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="24.45" y="28.9" kX="-12.49" kY="-12.49" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="9.45" y="23.9" kX="-12.49" kY="-12.49" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Monster_xiaoyuren-sry-yj2-1" dr="1"/>
+        </b>
+        <b name="sry-k-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Monster_xiaoyuren-sry-k-1" twE="0" dr="2"/>
+          <f x="14.65" y="27.7" kX="-12.49" kY="-12.49" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="29.65" y="32.7" kX="-12.49" kY="-12.49" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="14.65" y="27.7" kX="-12.49" kY="-12.49" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="29.65" y="32.7" kX="-12.49" kY="-12.49" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="14.65" y="27.7" kX="-12.49" kY="-12.49" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="sry-xc-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="Monster_xiaoyuren-sry-xs-1" twE="0" dr="2"/>
+          <f x="14.1" y="35.25" kX="-16.94" kY="-16.94" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="29.95" y="32.4" kX="-11.53" kY="-11.53" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="14.1" y="35.25" kX="-16.94" kY="-16.94" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="29.95" y="32.4" kX="-11.53" kY="-11.53" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="14.1" y="35.25" kX="-16.94" kY="-16.94" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="sry-sc-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Monster_xiaoyuren-sry-ss-1" twE="0" dr="2"/>
+          <f x="14.05" y="28.2" kX="-12.49" kY="-12.49" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="29.05" y="33.2" kX="-12.49" kY="-12.49" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="14.05" y="28.2" kX="-12.49" kY="-12.49" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="29.05" y="33.2" kX="-12.49" kY="-12.49" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="14.05" y="28.2" kX="-12.49" kY="-12.49" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" dr="1"/>
+        </b>
+        <b name="sry-zj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="Monster_xiaoyuren-sry-zj-2" twE="0" dr="2"/>
+          <f x="16.2" y="19.65" kX="-12.49" kY="-12.49" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="31.2" y="24.65" kX="-12.49" kY="-12.49" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="16.2" y="19.65" kX="-12.49" kY="-12.49" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="31.2" y="24.65" kX="-12.49" kY="-12.49" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="16.2" y="19.65" kX="-12.49" kY="-12.49" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="食人鱼源文件" width="512" height="128">
+    <SubTexture name="Monster_xiaoyuren-qipao" x="443" y="34" width="10" height="10" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-xs-2" x="108" y="0" width="66" height="65" pX="10.75" pY="10.4"/>
+    <SubTexture name="Monster_xiaoyuren-sry-sc-20" x="240" y="0" width="61" height="51" pX="7.1" pY="11.4"/>
+    <SubTexture name="Monster_xiaoyuren-weiba-2" x="77" y="34" width="27" height="41" pX="-0.1" pY="-2"/>
+    <SubTexture name="Monster_xiaoyuren-weiba-3" x="302" y="49" width="21" height="42" pX="0" pY="0.95"/>
+    <SubTexture name="Monster_xiaoyuren-weiba-4" x="324" y="49" width="20" height="42" pX="0" pY="2.95"/>
+    <SubTexture name="Monster_xiaoyuren-weiba-5" x="380" y="48" width="22" height="41" pX="0" pY="0.95"/>
+    <SubTexture name="Monster_xiaoyuren-weiba-6" x="356" y="48" width="23" height="44" pX="0" pY="2"/>
+    <SubTexture name="Monster_xiaoyuren-sry-yj1-2" x="472" y="57" width="21" height="21" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-yj2-3" x="443" y="57" width="28" height="25" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-yizi" x="0" y="0" width="107" height="33" pX="52.6" pY="15.8"/>
+    <SubTexture name="Monster_xiaoyuren-sry-yl2-1" x="302" y="0" width="53" height="48" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-yl1-1" x="105" y="66" width="19" height="19" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-weiba-1" x="49" y="34" width="27" height="46" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-st-1" x="175" y="0" width="64" height="65" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-xb2-1" x="457" y="0" width="52" height="24" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-tb-1" x="356" y="0" width="50" height="47" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-yl4-1" x="407" y="34" width="35" height="33" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-yj1-1" x="0" y="62" width="21" height="21" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-yj1-20" x="22" y="62" width="21" height="21" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-yj2-1" x="240" y="52" width="28" height="25" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-yj2-2" x="269" y="52" width="28" height="25" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-k-1" x="457" y="25" width="45" height="31" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-xs-1" x="407" y="0" width="49" height="33" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-ss-1" x="0" y="34" width="48" height="27" pX="0" pY="0"/>
+    <SubTexture name="Monster_xiaoyuren-sry-zj-2" x="494" y="57" width="15" height="16" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html><head>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://google.com/jsapi"></script>
+<script type="text/javascript">
+var section = 0;
+var single = 1;
+var allkeys = [];
+function parse(root, keys, depth){
+	if (keys.length == 0){
+		return;
+	}
+
+	var i = 0;
+	while (i < keys.length){
+
+		var segs = keys[i].split(':');
+		if (segs.length <= depth + 1){
+			var node = {};
+			node.type = single;
+			node.str = keys[i];
+			node.children = [];
+			root.children.push(node);
+			i++;
+			continue;
+		}
+
+		var curseg = segs[depth];
+		var subkeys = [];
+		subkeys.push(keys[i]);
+		var j = i + 1;
+		while (j < keys.length){
+			var segs = keys[j].split(':');
+			if (segs.length <= depth + 1 || segs[depth] != curseg){
+				break;
+			}
+
+			subkeys.push(keys[j]);
+			j++;
+		}
+
+		i = j;
+
+		console.log(curseg);
+		var node = {};
+		node.type = section;
+		node.str = curseg;
+		node.children = [];
+		root.children.push(node);
+		parse(node, subkeys, depth + 1);
+	}
+}
+
+function triggerVisible(obj){
+	obj = obj.parentNode;
+	var children = obj.childNodes;
+	for (var i = 0; i < children.length; i++){
+		var child = children[i];
+		if (child.tagName && child.tagName.toUpperCase() == 'DIV'){
+			if (child.style.visibility == 'hidden'){
+				child.style.visibility = 'visible';
+				child.style.height = 'auto';
+			}
+			else{
+				child.style.visibility = 'hidden';
+				child.style.height = '0';
+			}
+			break;
+		}
+	}
+}
+
+function getKeyInfo(key){
+	$.get("querykey?key=" + key, function(data, status){
+		$("#right-content").html(data);
+	})
+}
+
+function updateHash(obj){
+	obj = obj.parentNode;
+
+	var key = obj.className;
+	var hkey = document.getElementById('hkey').value;
+	var val = document.getElementById('val').value;
+
+	$.get("updatehash?key=" + key + "&hkey=" + hkey + "&val=" + val, function(data, status){
+		getKeyInfo(key);
+	});
+}
+
+function updateString(obj){
+	obj = obj.parentNode;
+
+	var key = obj.className;
+	var val = document.getElementById('val').value;
+
+	$.get("updatestring?key=" + key + "&val=" + val, function(data, status){
+		getKeyInfo(key);
+	});
+}
+
+function formatNodeHtml(node){
+	var html = "";
+	if (node.type == single){
+		var embedstr = "<a  href='#' onclick='getKeyInfo(\"" + node.str + "\");return false;'>" + node.str + "</a>"
+
+		html = "<li class='single'>" + embedstr + "</a></li>";
+	}
+	else{
+		var embedstr = "<a  href='#' onclick='triggerVisible(this);return false;'>" + node.str + "</a>"
+		html = "<li class='section'>" + embedstr + "<div><ul>";
+		for (var i = 0; i < node.children.length; i++){
+			html += formatNodeHtml(node.children[i]);
+		}
+		html += "</ul></div></li>";
+	}
+	return html;
+}
+
+function formatNode(allkeys){
+	var node = {};
+	node.type = section;
+	node.str = "";
+	node.children = [];
+	parse(node, allkeys, 0);
+	return node;
+}
+
+function formatKeyHtml(keys, str){
+	var retkeys = [];
+	if (str == undefined || str == ""){
+		retkeys = keys;
+	}
+	else{
+		for (var i = 0; i < keys.length; i++){
+			if (keys[i].search(str) >= 0){
+				retkeys.push(keys[i]);
+			}
+		}
+	}
+
+	var node = formatNode(retkeys);
+
+	var html = [];
+	html.push("<ul id='tree'>");
+	for (var i = 0; i < node.children.length; i++){
+		html.push(formatNodeHtml(node.children[i]));
+	}
+	html.push("</ul>");
+	return html.join("");
+}
+
+function search(str){
+	var html = formatKeyHtml(allkeys, str)
+	$('#keycontainer').html(html);
+}
+
+$(document).ready(function(){
+	allkeys = [];
+	$.post("query", {"cmd":"keys", "params":["*"]}, function(data, status){
+		var json = eval("(" + data + ")");
+
+		if (json.data){
+			allkeys = json.data.split(",");
+			var html = "<div style='margin-left:20px;margin-top:5px;'>Search:<input type='text' onkeyup='search(this.value)' width='100px'></div>";
+			html += "<div id='keycontainer'>";
+			html += formatKeyHtml(allkeys);
+			html += "</div>";
+			$("#left-content").html(html);
+		}
+	});
+});
+</script>
+
+<style type="text/css">
+#header{
+	text-align:center;
+}
+#left-content{
+	height:800px;
+	width:25%;
+	border:solid 1px gray;
+	margin-right:5px;
+	overflow:scroll;
+	float:left;
+}
+
+#right-content{
+	height:800px;
+	width:70%;
+	border:solid 1px gray;
+	overflow:scroll;
+}
+
+td{
+	border:solid 1px gray;
+}
+
+#tree {color: #333; line-height: 15px}
+.section {}
+.single {}
+</style>
+
+</head>
+<body>
+<div id="header">
+<h1>Redis management</h1>
+</div>
+<hr />
+<div id="content">
+<div id="left-content">
+</div>
+<div id="right-content"></div>
+</div>
+<div id="tail">
+</div>
+
+
+</body></html>

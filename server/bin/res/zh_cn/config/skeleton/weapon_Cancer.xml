@@ -1,0 +1,15 @@
+<skeleton name="巨蟹座武器">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_Cancer" bT="0" bi="weapon_Cancer-weapon-fs_Cancer" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Cancer-weapon-fs_Cancer"/>
+      <b name="weapon-ck_Cancer" bT="0" bi="weapon_Cancer-weapon-ck_Cancer" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Cancer-weapon-ck_Cancer"/>
+      <b name="weapon-zs_Cancer" bT="0" bi="weapon_Cancer-weapon-zs_Cancer" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Cancer-weapon-zs_Cancer"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="巨蟹座武器" width="512" height="256">
+    <SubTexture name="weapon_Cancer-weapon-fs_Cancer" x="0" y="0" width="71" height="207" pX="33.05" pY="112.5"/>
+    <SubTexture name="weapon_Cancer-weapon-ck_Cancer" x="247" y="0" width="56" height="111" pX="35.7" pY="63.05"/>
+    <SubTexture name="weapon_Cancer-weapon-zs_Cancer" x="72" y="0" width="174" height="66" pX="24.6" pY="26.35"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,1802 @@
+<skeleton name="宝石凤凰特效">
+  <armatures>
+    <armature name="physical_3">
+      <b name="图层 6" bT="0" bi="Phoenix_skill_darkgold-guagnzhaojian" x="190.25" y="65.15" kX="0" kY="0" z="0"/>
+      <b name="图层 5" bT="0" bi="Phoenix_skill_darkgold-fenghuagndanda" x="176.7" y="65.8" kX="0" kY="0" z="1"/>
+      <b name="图层 4" bT="0" bi="Phoenix_skill_darkgold-pk1" x="567.75" y="163.35" kX="0" kY="0" z="0"/>
+      <b name="图层 3" bT="0" bi="Phoenix_skill_darkgold-pk9" x="-114.2" y="14.05" kX="0" kY="180" z="0"/>
+      <b name="图层 2" bT="0" bi="Phoenix_skill_darkgold-fhdh1" x="409.5" y="275.8" kX="0" kY="0" z="3"/>
+    </armature>
+    <armature name="physical_2">
+      <b name="图层 477" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="183.5" y="268" kX="-93.65" kY="-93.65" z="0"/>
+      <b name="图层 476" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="178.6" y="210.55" kX="-93.65" kY="-93.65" z="1"/>
+      <b name="图层 475" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="172.55" y="101.1" kX="-93.65" kY="-93.65" z="2"/>
+      <b name="图层 474" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="161.3" y="-15.65" kX="-93.65" kY="-93.65" z="3"/>
+      <b name="图层 6 复制" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="158.55" y="-60.65" kX="-1.71" kY="-1.71" z="2"/>
+      <b name="图层 41 复制" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="161.7" y="255.45" kX="0" kY="0" z="4"/>
+      <b name="图层 471" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-40.85" y="275.2" kX="-63.65" kY="-63.65" z="1"/>
+      <b name="图层 470" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-16.4" y="223" kX="-63.65" kY="-63.65" z="2"/>
+      <b name="图层 469" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="33.05" y="125.2" kX="-63.65" kY="-63.65" z="3"/>
+      <b name="图层 468" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="81.75" y="18.45" kX="-63.65" kY="-63.65" z="5"/>
+      <b name="图层 41 复制0" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="-84.2" y="274.75" kX="0" kY="0" z="6"/>
+      <b name="图层 465" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="314.6" y="281.65" kX="-106.66" kY="-106.66" z="3"/>
+      <b name="图层 464" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="296.95" y="226.85" kX="-106.66" kY="-106.66" z="5"/>
+      <b name="图层 463" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="266.35" y="121.6" kX="-106.66" kY="-106.66" z="7"/>
+      <b name="图层 462" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="229.15" y="10.3" kX="-106.66" kY="-106.66" z="10"/>
+      <b name="图层 6 复制0" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="216.3" y="-32.85" kX="-14.72" kY="-14.72" z="10"/>
+      <b name="图层 7 复制" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="322.1" y="289.15" kX="0" kY="0" z="11"/>
+      <b name="图层 459" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-269" y="302.7" kX="-43.69" kY="-43.69" z="3"/>
+      <b name="图层 458" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-228.2" y="262" kX="-43.69" kY="-43.69" z="6"/>
+      <b name="图层 457" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-148.25" y="187" kX="-43.69" kY="-43.69" z="9"/>
+      <b name="图层 456" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-66.15" y="103.25" kX="-43.69" kY="-43.69" z="12"/>
+      <b name="图层 6 复制1" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="-33.45" y="72.2" kX="48.25" kY="48.25" z="14"/>
+      <b name="图层 7 复制0" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="-313.25" y="274.75" kX="0" kY="0" z="13"/>
+      <b name="图层 453" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="248.3" y="237.6" kX="-106.15" kY="-106.15" z="4"/>
+      <b name="图层 452" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="234.6" y="193.55" kX="-106.15" kY="-106.15" z="6"/>
+      <b name="图层 451" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="210.85" y="109.1" kX="-106.15" kY="-106.15" z="11"/>
+      <b name="图层 450" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="181.9" y="19.85" kX="-106.15" kY="-106.15" z="15"/>
+      <b name="图层 7 复制1" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="234.2" y="214.75" kX="0" kY="0" z="16"/>
+      <b name="图层 447" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="49.4" y="254.4" kX="-74.38" kY="-74.38" z="6"/>
+      <b name="图层 446" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="60.85" y="209.75" kX="-74.38" kY="-74.38" z="9"/>
+      <b name="图层 445" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="85.15" y="125.5" kX="-74.38" kY="-74.38" z="15"/>
+      <b name="图层 444" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="107.45" y="34.3" kX="-74.38" kY="-74.38" z="20"/>
+      <b name="图层 6 复制2" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="117.25" y="-0.35" kX="17.56" kY="17.56" z="20"/>
+      <b name="图层 41 复制1" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="53.7" y="237.25" kX="0" kY="0" z="21"/>
+      <b name="图层 441" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="253.9" y="239.05" kX="-101.75" kY="-101.75" z="13"/>
+      <b name="图层 440" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="217.35" y="146.1" kX="-101.75" kY="-101.75" z="9"/>
+      <b name="图层 439" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="195" y="34.2" kX="-101.75" kY="-101.75" z="7"/>
+      <b name="图层 438" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="166.2" y="-84.55" kX="-101.75" kY="-101.75" z="8"/>
+      <b name="图层 6 复制3" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="176.2" y="-46.8" kX="-9.81" kY="-9.81" z="4"/>
+      <b name="图层 41 复制2" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="251.7" y="247.15" kX="0" kY="0" z="9"/>
+      <b name="图层 435" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-80.75" y="239.1" kX="-56.76" kY="-56.76" z="11"/>
+      <b name="图层 434" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-40.85" y="147.55" kX="-56.76" kY="-56.76" z="10"/>
+      <b name="图层 433" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="22.45" y="52.6" kX="-56.76" kY="-56.76" z="11"/>
+      <b name="图层 432" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="86.05" y="-51.75" kX="-56.76" kY="-56.76" z="11"/>
+      <b name="图层 41 复制00" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="-110.4" y="174.9" kX="0" kY="0" z="12"/>
+      <b name="图层 429" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="22.4" y="275.25" kX="108.76" kY="-71.24" z="21"/>
+      <b name="图层 428" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="70.05" y="187.4" kX="108.76" kY="-71.24" z="18"/>
+      <b name="图层 427" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="105.9" y="79.15" kX="108.76" kY="-71.24" z="14"/>
+      <b name="图层 426" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="148.95" y="-35.25" kX="108.76" kY="-71.24" z="16"/>
+      <b name="图层 41 复制10" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="-262.75" y="207.95" kX="0" kY="0" z="15"/>
+      <b name="图层 41 复制20" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="-384.75" y="201.2" kX="0" kY="0" z="18"/>
+      <b name="图层 41 复制3" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="9.5" y="170.2" kX="0" kY="0" z="15"/>
+      <b name="图层 41 复制4" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="45.6" y="234.95" kX="0" kY="0" z="18"/>
+      <b name="图层 420" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-210.4" y="237.2" kX="-41.76" kY="-41.76" z="30"/>
+      <b name="图层 419" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-148.2" y="159.05" kX="-41.76" kY="-41.76" z="28"/>
+      <b name="图层 418" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-67.9" y="83.4" kX="139.3" kY="-40.7" z="26"/>
+      <b name="图层 417" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="25.9" y="-0.55" kX="-41.76" kY="-41.76" z="24"/>
+      <b name="图层 415" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="310.3" y="160.05" kX="-116.75" kY="-116.75" z="30"/>
+      <b name="图层 414" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="287.8" y="117.6" kX="-116.75" kY="-116.75" z="28"/>
+      <b name="图层 413" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="247.35" y="35.8" kX="-116.75" kY="-116.75" z="27"/>
+      <b name="图层 412" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="200.55" y="-50" kX="-116.75" kY="-116.75" z="25"/>
+      <b name="图层 410" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="325.9" y="143.9" kX="0" kY="0" z="26"/>
+      <b name="图层 409" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="21.65" y="190.4" kX="-63.7" kY="-63.7" z="32"/>
+      <b name="图层 408" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="42" y="146.9" kX="-63.7" kY="-63.7" z="31"/>
+      <b name="图层 407" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="83.2" y="65.4" kX="-63.7" kY="-63.7" z="31"/>
+      <b name="图层 406" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="123.6" y="-23.55" kX="-63.7" kY="-63.7" z="30"/>
+      <b name="图层 6 复制30" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="111.3" y="5.2" kX="28.24" kY="28.24" z="24"/>
+      <b name="图层 404" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-332.8" y="227" kX="-38.5" kY="-38.5" z="33"/>
+      <b name="图层 403" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-288.5" y="190.15" kX="-38.5" kY="-38.5" z="34"/>
+      <b name="图层 402" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-202.2" y="122.6" kX="-38.5" kY="-38.5" z="33"/>
+      <b name="图层 401" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-112.8" y="46.65" kX="-38.5" kY="-38.5" z="33"/>
+      <b name="图层 6 复制4" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="-77.4" y="18.65" kX="53.43" kY="53.43" z="32"/>
+      <b name="图层 6  复制 2" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="253.9" y="239.05" kX="-101.75" kY="-101.75" z="12"/>
+      <b name="图层 5 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="217.35" y="146.1" kX="-101.75" kY="-101.75" z="17"/>
+      <b name="图层 4 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="195" y="34.2" kX="-101.75" kY="-101.75" z="25"/>
+      <b name="图层 3 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="166.2" y="-84.55" kX="-101.75" kY="-101.75" z="31"/>
+      <b name="图层 38 复制" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="273.75" y="224.8" kX="0" kY="0" z="32"/>
+      <b name="图层 12 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-80.75" y="239.1" kX="-56.76" kY="-56.76" z="16"/>
+      <b name="图层 11 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-40.85" y="147.55" kX="-56.76" kY="-56.76" z="21"/>
+      <b name="图层 10 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="22.45" y="52.6" kX="-56.76" kY="-56.76" z="30"/>
+      <b name="图层 9 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="86.05" y="-51.75" kX="-56.76" kY="-56.76" z="38"/>
+      <b name="图层 6  复制 20" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="66.45" y="-17.95" kX="35.18" kY="35.18" z="38"/>
+      <b name="图层 42 复制" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="-94.7" y="185.45" kX="0" kY="0" z="39"/>
+      <b name="图层 17 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="22.4" y="275.25" kX="108.76" kY="-71.24" z="9"/>
+      <b name="图层 16 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="70.05" y="187.4" kX="108.76" kY="-71.24" z="17"/>
+      <b name="图层 15 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="105.9" y="79.15" kX="108.76" kY="-71.24" z="25"/>
+      <b name="图层 14 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="148.95" y="-35.25" kX="108.76" kY="-71.24" z="35"/>
+      <b name="图层 6  复制 21" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="134.4" y="1" kX="16.82" kY="-163.18" z="42"/>
+      <b name="图层 42 复制0" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="-242.7" y="200.55" kX="0" kY="0" z="20"/>
+      <b name="图层 44 复制" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="-396.75" y="197.2" kX="0" kY="0" z="26"/>
+      <b name="图层 43 复制" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="5.25" y="174.55" kX="0" kY="0" z="31"/>
+      <b name="图层 22 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-210.4" y="237.2" kX="-41.76" kY="-41.76" z="10"/>
+      <b name="图层 21 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-148.2" y="159.05" kX="-41.76" kY="-41.76" z="12"/>
+      <b name="图层 20 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-67.9" y="83.4" kX="139.3" kY="-40.7" z="18"/>
+      <b name="图层 19 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="25.9" y="-0.55" kX="-41.76" kY="-41.76" z="31"/>
+      <b name="图层 6  复制 22" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="-1.8" y="27" kX="50.18" kY="50.18" z="38"/>
+      <b name="图层 27 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="310.3" y="160.05" kX="-116.75" kY="-116.75" z="15"/>
+      <b name="图层 26 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="287.8" y="117.6" kX="-116.75" kY="-116.75" z="20"/>
+      <b name="图层 25 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="247.35" y="35.8" kX="-116.75" kY="-116.75" z="34"/>
+      <b name="图层 24 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="200.55" y="-50" kX="-116.75" kY="-116.75" z="42"/>
+      <b name="图层 6  复制 23" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="216.1" y="-22.95" kX="-24.81" kY="-24.81" z="44"/>
+      <b name="图层 41 复制5" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="327.7" y="131.5" kX="0" kY="0" z="43"/>
+      <b name="图层 32 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="21.65" y="190.4" kX="-63.7" kY="-63.7" z="17"/>
+      <b name="图层 31 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="42" y="146.9" kX="-63.7" kY="-63.7" z="23"/>
+      <b name="图层 30 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="83.2" y="65.4" kX="-63.7" kY="-63.7" z="38"/>
+      <b name="图层 29 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="123.6" y="-23.55" kX="-63.7" kY="-63.7" z="47"/>
+      <b name="图层 6  复制 24" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="111.3" y="5.2" kX="28.24" kY="28.24" z="47"/>
+      <b name="图层 37 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-332.8" y="227" kX="-38.5" kY="-38.5" z="13"/>
+      <b name="图层 36 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-288.5" y="190.15" kX="-38.5" kY="-38.5" z="19"/>
+      <b name="图层 35 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-202.2" y="122.6" kX="-38.5" kY="-38.5" z="31"/>
+      <b name="图层 34 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-112.8" y="46.65" kX="-38.5" kY="-38.5" z="43"/>
+      <b name="图层 6  复制 25" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="-77.4" y="18.65" kX="53.43" kY="53.43" z="50"/>
+      <b name="图层 356" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="183.5" y="268" kX="-93.65" kY="-93.65" z="38"/>
+      <b name="图层 355" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="178.6" y="210.55" kX="-93.65" kY="-93.65" z="35"/>
+      <b name="图层 354" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="172.55" y="101.1" kX="-93.65" kY="-93.65" z="36"/>
+      <b name="图层 353" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="161.3" y="-15.65" kX="-93.65" kY="-93.65" z="36"/>
+      <b name="图层 6 复制5" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="158.55" y="-60.65" kX="-1.71" kY="-1.71" z="22"/>
+      <b name="图层 41 复制6" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="161.7" y="258.85" kX="0" kY="0" z="37"/>
+      <b name="图层 350" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-40.85" y="275.2" kX="-63.65" kY="-63.65" z="52"/>
+      <b name="图层 349" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-16.4" y="223" kX="-63.65" kY="-63.65" z="52"/>
+      <b name="图层 348" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="33.05" y="125.2" kX="-63.65" kY="-63.65" z="47"/>
+      <b name="图层 347" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="81.75" y="18.45" kX="-63.65" kY="-63.65" z="43"/>
+      <b name="图层 6 复制40" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="101.8" y="-21.9" kX="28.29" kY="28.29" z="38"/>
+      <b name="图层 41 复制7" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="-84.15" y="267.95" kX="0" kY="0" z="44"/>
+      <b name="图层 344" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="314.6" y="281.65" kX="-106.66" kY="-106.66" z="55"/>
+      <b name="图层 343" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="296.95" y="226.85" kX="-106.66" kY="-106.66" z="57"/>
+      <b name="图层 342" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="266.35" y="121.6" kX="-106.66" kY="-106.66" z="56"/>
+      <b name="图层 341" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="229.15" y="10.3" kX="-106.66" kY="-106.66" z="49"/>
+      <b name="图层 6 复制6" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="216.3" y="-32.85" kX="-14.72" kY="-14.72" z="44"/>
+      <b name="图层 7 复制2" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="322.1" y="283.5" kX="0" kY="0" z="50"/>
+      <b name="图层 338" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-269" y="302.7" kX="-43.69" kY="-43.69" z="47"/>
+      <b name="图层 337" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-228.2" y="262" kX="-43.69" kY="-43.69" z="58"/>
+      <b name="图层 336" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-148.25" y="187" kX="-43.69" kY="-43.69" z="59"/>
+      <b name="图层 335" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-66.15" y="103.25" kX="-43.69" kY="-43.69" z="56"/>
+      <b name="图层 6 复制7" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="-33.45" y="72.2" kX="48.25" kY="48.25" z="52"/>
+      <b name="图层 7 复制00" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="-313.15" y="262.3" kX="0" kY="0" z="57"/>
+      <b name="图层 332" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="248.3" y="237.6" kX="-106.15" kY="-106.15" z="41"/>
+      <b name="图层 331" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="234.6" y="193.55" kX="-106.15" kY="-106.15" z="50"/>
+      <b name="图层 330" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="210.85" y="109.1" kX="-106.15" kY="-106.15" z="62"/>
+      <b name="图层 329" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="181.9" y="19.85" kX="-106.15" kY="-106.15" z="62"/>
+      <b name="图层 6 复制50" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="171.9" y="-14.8" kX="-14.21" kY="-14.21" z="56"/>
+      <b name="图层 7 复制10" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="234.2" y="214.75" kX="0" kY="0" z="63"/>
+      <b name="图层 326" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="49.4" y="254.4" kX="-74.38" kY="-74.38" z="43"/>
+      <b name="图层 325" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="60.85" y="209.75" kX="-74.38" kY="-74.38" z="53"/>
+      <b name="图层 324" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="85.15" y="125.5" kX="-74.38" kY="-74.38" z="66"/>
+      <b name="图层 323" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="107.45" y="34.3" kX="-74.38" kY="-74.38" z="67"/>
+      <b name="图层 6 复制8" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="117.25" y="-0.35" kX="17.56" kY="17.56" z="59"/>
+      <b name="图层 41 复制8" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="53.75" y="231.6" kX="0" kY="0" z="68"/>
+      <b name="图层 49 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="101" y="298.75" kX="-82.21" kY="-82.21" z="19"/>
+      <b name="图层 48 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="107.6" y="241.45" kX="-82.21" kY="-82.21" z="26"/>
+      <b name="图层 47 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="123.3" y="133" kX="-82.21" kY="-82.21" z="41"/>
+      <b name="图层 46 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="135.45" y="16.35" kX="-82.21" kY="-82.21" z="58"/>
+      <b name="图层 6  复制 26" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="141.65" y="-28.35" kX="9.73" kY="9.73" z="70"/>
+      <b name="图层 41 复制9" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="59.35" y="264" kX="0" kY="0" z="59"/>
+      <b name="图层 54 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-120.4" y="261.3" kX="-52.21" kY="-52.21" z="6"/>
+      <b name="图层 53 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-86.05" y="215" kX="-52.21" kY="-52.21" z="12"/>
+      <b name="图层 52 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-18.15" y="129" kX="-52.21" kY="-52.21" z="17"/>
+      <b name="图层 51 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="50.75" y="34.05" kX="-52.21" kY="-52.21" z="24"/>
+      <b name="图层 6  复制 27" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="78.4" y="-1.6" kX="39.73" kY="39.73" z="33"/>
+      <b name="图层 59 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="226.8" y="338.2" kX="-95.22" kY="-95.22" z="7"/>
+      <b name="图层 58 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="220.3" y="280.9" kX="-95.22" kY="-95.22" z="15"/>
+      <b name="图层 57 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="211.2" y="171.65" kX="-95.22" kY="-95.22" z="19"/>
+      <b name="图层 56 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="196.8" y="55.25" kX="-95.22" kY="-95.22" z="28"/>
+      <b name="图层 6  复制 28" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="192.8" y="10.4" kX="-3.28" kY="-3.28" z="35"/>
+      <b name="图层 7 复制20" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="230.25" y="324.5" kX="0" kY="0" z="29"/>
+      <b name="图层 64 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-349.45" y="243.05" kX="-32.25" kY="-32.25" z="7"/>
+      <b name="图层 63 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-301.4" y="211.3" kX="-32.25" kY="-32.25" z="10"/>
+      <b name="图层 62 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-208.15" y="153.6" kX="-32.25" kY="-32.25" z="19"/>
+      <b name="图层 61 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-111" y="87.8" kX="-32.25" kY="-32.25" z="26"/>
+      <b name="图层 41 复制11" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="-65.4" y="281.9" kX="0" kY="0" z="21"/>
+      <b name="图层 41 复制12" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="-395.65" y="218.85" kX="0" kY="0" z="27"/>
+      <b name="图层 7 复制3" bT="0" bi="Phoenix_skill_darkgold-sbs1" x="317.3" y="155.4" kX="0" kY="0" z="28"/>
+      <b name="图层 69 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="170.5" y="281.8" kX="-94.71" kY="-94.71" z="9"/>
+      <b name="图层 68 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="165.75" y="235.9" kX="-94.71" kY="-94.71" z="13"/>
+      <b name="图层 67 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="159.3" y="148.45" kX="-94.71" kY="-94.71" z="19"/>
+      <b name="图层 66 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="148.6" y="55.2" kX="-94.71" kY="-94.71" z="30"/>
+      <b name="图层 6  复制 29" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="145.7" y="19.3" kX="-2.77" kY="-2.77" z="35"/>
+      <b name="图层 74 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-27.8" y="258.85" kX="-62.94" kY="-62.94" z="10"/>
+      <b name="图层 73 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="-7.65" y="217.35" kX="-62.94" kY="-62.94" z="15"/>
+      <b name="图层 72 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="32.8" y="139.55" kX="-62.94" kY="-62.94" z="22"/>
+      <b name="图层 71 复制" bT="0" bi="Phoenix_skill_darkgold-tuoweiguiji" x="72.8" y="54.6" kX="-62.94" kY="-62.94" z="34"/>
+      <b name="图层 6  复制 210" bT="0" bi="Phoenix_skill_darkgold-baoshizhui" x="89.25" y="22.6" kX="28.99" kY="28.99" z="38"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="physical_3">
+      <mov name="physical_3" to="1" dr="108" drTW="109">
+        <b name="yinying" sc="1" dl="0"/>
+        <b name="r_dabi" sc="1" dl="0"/>
+        <b name="r_xiaobi" sc="1" dl="0"/>
+        <b name="r_quantou" sc="1" dl="0"/>
+        <b name="toufa" sc="1" dl="0"/>
+        <b name="r_xiaotui" sc="1" dl="0"/>
+        <b name="r_datui" sc="1" dl="0"/>
+        <b name="r_jiao" sc="1" dl="0"/>
+        <b name="r_ku" sc="1" dl="0"/>
+        <b name="l_jiao" sc="1" dl="0"/>
+        <b name="l_xiaotui" sc="1" dl="0"/>
+        <b name="l_datui" sc="1" dl="0"/>
+        <b name="r_jiao0" sc="1" dl="0"/>
+        <b name="r_xiaotui0" sc="1" dl="0"/>
+        <b name="r_datui0" sc="1" dl="0"/>
+        <b name="l_ku" sc="1" dl="0"/>
+        <b name="pigu" sc="1" dl="0"/>
+        <b name="x" sc="1" dl="0"/>
+        <b name="yao" sc="1" dl="0"/>
+        <b name="yaodai" sc="1" dl="0"/>
+        <b name="shangshen" sc="1" dl="0"/>
+        <b name="r_xiong" sc="1" dl="0"/>
+        <b name="l_xiong" sc="1" dl="0"/>
+        <b name="bozi" sc="1" dl="0"/>
+        <b name="tou" sc="1" dl="0"/>
+        <b name="l_mei" sc="1" dl="0"/>
+        <b name="r_mei" sc="1" dl="0"/>
+        <b name="l_yan" sc="1" dl="0"/>
+        <b name="r_yan" sc="1" dl="0"/>
+        <b name="bizi" sc="1" dl="0"/>
+        <b name="zui" sc="1" dl="0"/>
+        <b name="l_er" sc="1" dl="0"/>
+        <b name="l_dabi" sc="1" dl="0"/>
+        <b name="l_xiaobi" sc="1" dl="0"/>
+        <b name="l_quantou" sc="1" dl="0"/>
+        <b name="1" sc="1" dl="0"/>
+        <b name="10" sc="1" dl="0"/>
+        <b name="11" sc="1" dl="0"/>
+        <b name="12" sc="1" dl="0"/>
+        <b name="13" sc="1" dl="0"/>
+        <b name="wei_2_a" sc="1" dl="0"/>
+        <b name="wei_2_b" sc="1" dl="0"/>
+        <b name="wei_1" sc="1" dl="0"/>
+        <b name="r_tui" sc="1" dl="0"/>
+        <b name="r_tui_kuijia" sc="1" dl="0"/>
+        <b name="r_zhi2_b" sc="1" dl="0"/>
+        <b name="r_zhi2_b0" sc="1" dl="0"/>
+        <b name="r_zhi1_a" sc="1" dl="0"/>
+        <b name="r_zhi2_b1" sc="1" dl="0"/>
+        <b name="r_zhi1_b" sc="1" dl="0"/>
+        <b name="r_zhi2_a" sc="1" dl="0"/>
+        <b name="r_zhi2_a0" sc="1" dl="0"/>
+        <b name="r_zhang" sc="1" dl="0"/>
+        <b name="r_zhi2_a1" sc="1" dl="0"/>
+        <b name="duzi" sc="1" dl="0"/>
+        <b name="r_chibang1" sc="1" dl="0"/>
+        <b name="r_chibang10" sc="1" dl="0"/>
+        <b name="l_chibang_kuijia" sc="1" dl="0"/>
+        <b name="xiong" sc="1" dl="0"/>
+        <b name="r_chujiao" sc="1" dl="0"/>
+        <b name="l_chujiap" sc="1" dl="0"/>
+        <b name="l_xiaotui_b" sc="1" dl="0"/>
+        <b name="l_xiaotui_a" sc="1" dl="0"/>
+        <b name="l_tui_kuijia" sc="1" dl="0"/>
+        <b name="l_zhua" sc="1" dl="0"/>
+        <b name="l_zhua_a" sc="1" dl="0"/>
+        <b name="l_zhua_b" sc="1" dl="0"/>
+        <b name="l_zhua_c" sc="1" dl="0"/>
+        <b name="l_zhua_d" sc="1" dl="0"/>
+        <b name="l_chibang1" sc="1" dl="0"/>
+        <b name="l_chibang10" sc="1" dl="0"/>
+        <b name="l_chibang_kuijia0" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.53" cY="2.53" z="0" img="Phoenix_skill_darkgold-guagnzhaojian" twE="0" dr="8"/>
+          <f x="-16" y="-16" kX="0" kY="0" cX="9.4" cY="9.4" z="0" twE="0" dr="7"/>
+          <f x="-16" y="-16" kX="0" kY="0" cX="7.52" cY="7.52" z="0" twE="0" dr="4"/>
+          <f x="-16" y="-16" kX="0" kY="0" cX="9.4" cY="9.4" z="0" twE="0" dr="3"/>
+          <f x="-16" y="-16" kX="0" kY="0" cX="7.52" cY="7.52" z="0" twE="0" dr="3"/>
+          <f x="-16" y="-16" kX="0" kY="0" cX="9.4" cY="9.4" z="0" twE="0" dr="3"/>
+          <f x="-16" y="-16" kX="0" kY="0" cX="7.52" cY="7.52" z="0" twE="0" dr="3"/>
+          <f x="-16" y="-16" kX="0" kY="0" cX="9.4" cY="9.4" z="0" twE="0" dr="3"/>
+          <f x="-16" y="-16" kX="0" kY="0" cX="7.52" cY="7.52" z="0" twE="0" dr="3"/>
+          <f x="-16" y="-16" kX="0" kY="0" cX="9.4" cY="9.4" z="0" twE="0" dr="3"/>
+          <f x="-16" y="-16" kX="0" kY="0" cX="7.52" cY="7.52" z="0" twE="0" dr="3"/>
+          <f x="-16" y="-16" kX="0" kY="0" cX="9.4" cY="9.4" z="0" twE="0" dr="3"/>
+          <f x="-16" y="-16" kX="0" kY="0" cX="7.52" cY="7.52" z="0" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.13" cY="2.13" z="1" img="Phoenix_skill_darkgold-fenghuagndanda" twE="0" dr="13"/>
+          <f x="2.15" y="4.2" kX="2.01" kY="0" cX="2.11" cY="2.11" z="1" twE="0" dr="12"/>
+          <f x="0" y="0" kX="-1.87" kY="0" cX="2.13" cY="2.13" z="1" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.13" cY="2.13" z="1" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.83" cY="5.83" z="0" img="Phoenix_skill_darkgold-pk1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.83" cY="5.83" z="1" img="Phoenix_skill_darkgold-pk2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.83" cY="5.83" z="1" img="Phoenix_skill_darkgold-pk3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.83" cY="5.83" z="1" img="Phoenix_skill_darkgold-pk4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.83" cY="5.83" z="1" img="Phoenix_skill_darkgold-pk5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.83" cY="5.83" z="2" img="Phoenix_skill_darkgold-pk6" dr="2"/>
+          <f dr="86" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="59" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.37" cY="4.37" z="0" img="Phoenix_skill_darkgold-pk9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.37" cY="4.37" z="0" img="Phoenix_skill_darkgold-pk10" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.37" cY="4.37" z="0" img="Phoenix_skill_darkgold-pk12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.37" cY="4.37" z="0" img="Phoenix_skill_darkgold-pk13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.37" cY="4.37" z="0" img="Phoenix_skill_darkgold-pk14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.37" cY="4.37" z="0" img="Phoenix_skill_darkgold-pk15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.37" cY="4.37" z="0" img="Phoenix_skill_darkgold-pk16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.37" cY="4.37" z="0" img="Phoenix_skill_darkgold-pk17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.37" cY="4.37" z="0" img="Phoenix_skill_darkgold-pk18" dr="2"/>
+          <f dr="29" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="3" img="Phoenix_skill_darkgold-fhdh1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.14" z="2" img="Phoenix_skill_darkgold-fhdh8" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_2">
+      <mov name="physical_2" to="1" dr="99" drTW="100">
+        <b name="yinying" sc="1" dl="0"/>
+        <b name="r_xiaotui" sc="1" dl="0"/>
+        <b name="r_datui" sc="1" dl="0"/>
+        <b name="r_jiao" sc="1" dl="0"/>
+        <b name="r_jiao1" sc="1" dl="0"/>
+        <b name="r_xiaotui1" sc="1" dl="0"/>
+        <b name="r_datui1" sc="1" dl="0"/>
+        <b name="r_ku" sc="1" dl="0"/>
+        <b name="l_jiao" sc="1" dl="0"/>
+        <b name="l_xiaotui" sc="1" dl="0"/>
+        <b name="l_datui" sc="1" dl="0"/>
+        <b name="r_dabi" sc="1" dl="0"/>
+        <b name="r_xiaobi" sc="1" dl="0"/>
+        <b name="toufa" sc="1" dl="0"/>
+        <b name="l_ku" sc="1" dl="0"/>
+        <b name="pigu" sc="1" dl="0"/>
+        <b name="x" sc="1" dl="0"/>
+        <b name="yao" sc="1" dl="0"/>
+        <b name="yaodai" sc="1" dl="0"/>
+        <b name="r_quantou" sc="1" dl="0"/>
+        <b name="shangshen" sc="1" dl="0"/>
+        <b name="r_xiong" sc="1" dl="0"/>
+        <b name="l_xiong" sc="1" dl="0"/>
+        <b name="bozi" sc="1" dl="0"/>
+        <b name="tou" sc="1" dl="0"/>
+        <b name="l_mei" sc="1" dl="0"/>
+        <b name="r_mei" sc="1" dl="0"/>
+        <b name="l_yan" sc="1" dl="0"/>
+        <b name="r_yan" sc="1" dl="0"/>
+        <b name="bizi" sc="1" dl="0"/>
+        <b name="zui" sc="1" dl="0"/>
+        <b name="l_er" sc="1" dl="0"/>
+        <b name="l_dabi" sc="1" dl="0"/>
+        <b name="l_xiaobi" sc="1" dl="0"/>
+        <b name="l_quantou" sc="1" dl="0"/>
+        <b name="1" sc="1" dl="0"/>
+        <b name="10" sc="1" dl="0"/>
+        <b name="11" sc="1" dl="0"/>
+        <b name="12" sc="1" dl="0"/>
+        <b name="13" sc="1" dl="0"/>
+        <b name="wei_2_a" sc="1" dl="0"/>
+        <b name="wei_2_b" sc="1" dl="0"/>
+        <b name="wei_1" sc="1" dl="0"/>
+        <b name="r_tui" sc="1" dl="0"/>
+        <b name="r_tui_kuijia" sc="1" dl="0"/>
+        <b name="r_zhi2_b" sc="1" dl="0"/>
+        <b name="r_zhi2_b0" sc="1" dl="0"/>
+        <b name="r_zhi1_a" sc="1" dl="0"/>
+        <b name="r_zhi2_b1" sc="1" dl="0"/>
+        <b name="r_zhi1_b" sc="1" dl="0"/>
+        <b name="r_zhi2_a" sc="1" dl="0"/>
+        <b name="r_zhi2_a0" sc="1" dl="0"/>
+        <b name="r_zhang" sc="1" dl="0"/>
+        <b name="r_zhi2_a1" sc="1" dl="0"/>
+        <b name="duzi" sc="1" dl="0"/>
+        <b name="r_chibang1" sc="1" dl="0"/>
+        <b name="l_chibang_kuijia" sc="1" dl="0"/>
+        <b name="xiong" sc="1" dl="0"/>
+        <b name="r_chujiao" sc="1" dl="0"/>
+        <b name="l_chujiap" sc="1" dl="0"/>
+        <b name="l_xiaotui_b" sc="1" dl="0"/>
+        <b name="l_xiaotui_a" sc="1" dl="0"/>
+        <b name="l_tui_kuijia" sc="1" dl="0"/>
+        <b name="l_zhua" sc="1" dl="0"/>
+        <b name="l_zhua_a" sc="1" dl="0"/>
+        <b name="l_zhua_b" sc="1" dl="0"/>
+        <b name="l_zhua_c" sc="1" dl="0"/>
+        <b name="l_zhua_d" sc="1" dl="0"/>
+        <b name="l_chibang1" sc="1" dl="0"/>
+        <b name="l_chibang_kuijia0" sc="1" dl="0"/>
+        <b name="图层 477" sc="1" dl="0">
+          <f dr="35" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="0" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="8.5" y="-38.4" kX="0" kY="0" cX="0.77" cY="0.77" z="0" dr="1"/>
+          <f dr="53" hide="1"/>
+        </b>
+        <b name="图层 476" sc="1" dl="0">
+          <f dr="34" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="1" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="-0.1" y="-20.35" kX="0" kY="0" cX="0.77" cY="0.77" z="1" dr="1"/>
+          <f dr="55" hide="1"/>
+        </b>
+        <b name="图层 475" sc="1" dl="0">
+          <f dr="33" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="2" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="-0.2" y="-20.25" kX="0" kY="0" cX="0.77" cY="0.77" z="2" dr="1"/>
+          <f dr="58" hide="1"/>
+        </b>
+        <b name="图层 474" sc="1" dl="0">
+          <f dr="31" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="3" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="-0.3" y="-20.2" kX="0" kY="0" cX="0.77" cY="0.77" z="3" dr="1"/>
+          <f dr="61" hide="1"/>
+        </b>
+        <b name="图层 6 复制" sc="1" dl="0">
+          <f dr="31" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="2" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="16.05" y="329.45" kX="0" kY="0" cX="0.77" cY="0.77" z="3" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="-56.75" y="38.75" kX="30" kY="30" cX="0.77" cY="0.77" z="5" twE="0" dr="3"/>
+          <f x="-207.55" y="332.15" kX="30" kY="30" cX="0.77" cY="0.77" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="13.35" y="45.85" kX="-12.5" kY="-12.5" cX="0.61" cY="0.61" z="17" twE="0" dr="3"/>
+          <f x="82.95" y="300.45" kX="-12.5" kY="-12.5" cX="0.61" cY="0.61" z="17" dr="1"/>
+          <f x="-160.35" y="87.65" kX="51.89" kY="51.89" cX="0.8" cY="0.8" z="21" twE="0" dr="3"/>
+          <f x="-387.3" y="298.6" kX="51.89" kY="51.89" cX="0.8" cY="0.8" z="20" dr="1"/>
+          <f dr="60" hide="1"/>
+        </b>
+        <b name="图层 41 复制" sc="1" dl="0">
+          <f dr="34" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="-304.1" y="-6.75" kX="0" kY="0" cX="1.44" cY="1.44" z="25" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="-304.1" y="-6.75" kX="0" kY="0" cX="1.44" cY="1.44" z="18" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="-304.1" y="-6.75" kX="0" kY="0" cX="1.44" cY="1.44" z="13" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="-304.1" y="-6.75" kX="0" kY="0" cX="1.44" cY="1.44" z="6" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="-304.1" y="-6.75" kX="0" kY="0" cX="1.44" cY="1.44" z="4" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="-304.1" y="-6.75" kX="0" kY="0" cX="1.44" cY="1.44" z="1" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="-304.1" y="-6.75" kX="0" kY="0" cX="1.44" cY="1.44" z="0" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="-304.1" y="-6.75" kX="0" kY="0" cX="1.44" cY="1.44" z="0" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="-304.1" y="-6.75" kX="0" kY="0" cX="1.44" cY="1.44" z="0" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 471" sc="1" dl="0">
+          <f dr="43" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="1" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="26.5" y="-29" kX="0" kY="0" cX="0.77" cY="0.77" z="1" dr="1"/>
+          <f dr="45" hide="1"/>
+        </b>
+        <b name="图层 470" sc="1" dl="0">
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="2" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="10.05" y="-17.6" kX="0" kY="0" cX="0.77" cY="0.77" z="2" dr="1"/>
+          <f dr="47" hide="1"/>
+        </b>
+        <b name="图层 469" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="3" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="9.95" y="-17.6" kX="0" kY="0" cX="0.77" cY="0.77" z="3" dr="1"/>
+          <f dr="50" hide="1"/>
+        </b>
+        <b name="图层 468" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="5" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="9.85" y="-17.65" kX="0" kY="0" cX="0.77" cY="0.77" z="5" dr="1"/>
+          <f dr="53" hide="1"/>
+        </b>
+        <b name="图层 41 复制0" sc="1" dl="0">
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="6" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="33" hide="1"/>
+        </b>
+        <b name="图层 465" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="3" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="-0.4" y="-39.25" kX="0" kY="0" cX="0.77" cY="0.77" z="2" dr="1"/>
+          <f dr="44" hide="1"/>
+        </b>
+        <b name="图层 464" sc="1" dl="0">
+          <f dr="43" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="5" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="-4.7" y="-19.75" kX="0" kY="0" cX="0.77" cY="0.77" z="4" dr="1"/>
+          <f dr="46" hide="1"/>
+        </b>
+        <b name="图层 463" sc="1" dl="0">
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="7" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="-4.75" y="-19.65" kX="0" kY="0" cX="0.77" cY="0.77" z="6" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="图层 462" sc="1" dl="0">
+          <f dr="40" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="10" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="-4.8" y="-19.6" kX="0" kY="0" cX="0.77" cY="0.77" z="8" dr="1"/>
+          <f dr="52" hide="1"/>
+        </b>
+        <b name="图层 6 复制0" sc="1" dl="0">
+          <f dr="40" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="10" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="89.8" y="317.35" kX="0" kY="0" cX="0.77" cY="0.77" z="11" dr="1"/>
+          <f x="-149.85" y="14.9" kX="49.9" kY="49.9" cX="0.8" cY="0.8" z="4" twE="0" dr="3"/>
+          <f x="-297" y="226.45" kX="49.9" kY="49.9" cX="0.8" cY="0.8" z="8" dr="1"/>
+          <f dr="67" hide="1"/>
+        </b>
+        <b name="图层 7 复制" sc="1" dl="0">
+          <f dr="43" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="32" hide="1"/>
+        </b>
+        <b name="图层 459" sc="1" dl="0">
+          <f dr="46" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="3" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="34.8" y="-18.15" kX="0" kY="0" cX="0.77" cY="0.77" z="3" dr="1"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="图层 458" sc="1" dl="0">
+          <f dr="45" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="6" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="15.5" y="-13.1" kX="0" kY="0" cX="0.77" cY="0.77" z="5" dr="1"/>
+          <f dr="44" hide="1"/>
+        </b>
+        <b name="图层 457" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="9" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="15.3" y="-13.2" kX="0" kY="0" cX="0.77" cY="0.77" z="9" dr="1"/>
+          <f dr="47" hide="1"/>
+        </b>
+        <b name="图层 456" sc="1" dl="0">
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="12" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="15.25" y="-13.2" kX="0" kY="0" cX="0.77" cY="0.77" z="12" dr="1"/>
+          <f dr="50" hide="1"/>
+        </b>
+        <b name="图层 6 复制1" sc="1" dl="0">
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="14" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-241.95" y="224.2" kX="0" kY="0" cX="0.77" cY="0.77" z="15" dr="1"/>
+          <f x="167.85" y="-71.2" kX="-31.43" kY="-211.43" cX="0.8" cY="0.8" z="15" twE="0" dr="3"/>
+          <f x="91.7" y="175" kX="-31.43" kY="-211.43" cX="0.8" cY="0.8" z="18" dr="1"/>
+          <f dr="64" hide="1"/>
+        </b>
+        <b name="图层 7 复制0" sc="1" dl="0">
+          <f dr="45" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 453" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="4" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="0" y="-31.45" kX="0" kY="0" cX="0.61" cY="0.61" z="3" dr="1"/>
+          <f dr="40" hide="1"/>
+        </b>
+        <b name="图层 452" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="6" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="-3.65" y="-15.85" kX="0" kY="0" cX="0.61" cY="0.61" z="6" dr="1"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="图层 451" sc="1" dl="0">
+          <f dr="46" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="11" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="-3.65" y="-15.7" kX="0" kY="0" cX="0.61" cY="0.61" z="10" dr="1"/>
+          <f dr="45" hide="1"/>
+        </b>
+        <b name="图层 450" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="15" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="-3.7" y="-15.65" kX="0" kY="0" cX="0.61" cY="0.61" z="14" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="图层 7 复制1" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="28" hide="1"/>
+        </b>
+        <b name="图层 447" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="6" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="16.5" y="-26.75" kX="0" kY="0" cX="0.61" cY="0.61" z="5" dr="1"/>
+          <f dr="40" hide="1"/>
+        </b>
+        <b name="图层 446" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="9" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="5.25" y="-15.35" kX="0" kY="0" cX="0.61" cY="0.61" z="9" dr="1"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="图层 445" sc="1" dl="0">
+          <f dr="46" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="15" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="5.2" y="-15.35" kX="0" kY="0" cX="0.61" cY="0.61" z="14" dr="1"/>
+          <f dr="45" hide="1"/>
+        </b>
+        <b name="图层 444" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="20" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="5.15" y="-15.3" kX="0" kY="0" cX="0.61" cY="0.61" z="19" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="图层 6 复制2" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.61" z="20" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-74.85" y="253.05" kX="0" kY="0" cX="0.61" cY="0.61" z="22" dr="1"/>
+          <f x="98.85" y="-22.6" kX="-42.37" kY="-42.37" cX="0.64" cY="0.64" z="21" twE="0" dr="3"/>
+          <f x="186.55" y="163.95" kX="-42.37" kY="-42.37" cX="0.64" cY="0.64" z="24" dr="1"/>
+          <f dr="63" hide="1"/>
+        </b>
+        <b name="图层 41 复制1" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="28" hide="1"/>
+        </b>
+        <b name="图层 441" sc="1" dl="0">
+          <f dr="33" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="13" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="-20" y="-75.2" kX="0" kY="0" cX="0.8" cY="0.8" z="15" dr="1"/>
+          <f dr="55" hide="1"/>
+        </b>
+        <b name="图层 440" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="9" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="-3.2" y="-20.8" kX="0" kY="0" cX="0.8" cY="0.8" z="9" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="图层 439" sc="1" dl="0">
+          <f dr="31" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="7" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="-3.2" y="-20.8" kX="0" kY="0" cX="0.8" cY="0.8" z="6" dr="1"/>
+          <f dr="60" hide="1"/>
+        </b>
+        <b name="图层 438" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="8" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="-3.2" y="-20.8" kX="0" kY="0" cX="0.8" cY="0.8" z="8" dr="1"/>
+          <f dr="63" hide="1"/>
+        </b>
+        <b name="图层 6 复制3" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="4" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="45.6" y="253.65" kX="0" kY="0" cX="0.8" cY="0.8" z="5" dr="1"/>
+          <f dr="66" hide="1"/>
+        </b>
+        <b name="图层 41 复制2" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="9" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="8" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="10" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="16" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="21" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="22" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="17" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="13" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="11" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="43" hide="1"/>
+        </b>
+        <b name="图层 435" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="11" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="39.05" y="-67.3" kX="0" kY="0" cX="0.8" cY="0.8" z="15" dr="1"/>
+          <f dr="56" hide="1"/>
+        </b>
+        <b name="图层 434" sc="1" dl="0">
+          <f dr="31" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="10" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="12.45" y="-17" kX="0" kY="0" cX="0.8" cY="0.8" z="12" dr="1"/>
+          <f dr="58" hide="1"/>
+        </b>
+        <b name="图层 433" sc="1" dl="0">
+          <f dr="30" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="11" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="12.45" y="-17" kX="0" kY="0" cX="0.8" cY="0.8" z="11" dr="1"/>
+          <f dr="61" hide="1"/>
+        </b>
+        <b name="图层 432" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="11" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="12.45" y="-16.95" kX="0" kY="0" cX="0.8" cY="0.8" z="13" dr="1"/>
+          <f dr="64" hide="1"/>
+        </b>
+        <b name="图层 41 复制00" sc="1" dl="0">
+          <f dr="31" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="12" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="12" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="11" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="16" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="22" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="25" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="20" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="17" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="14" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="44" hide="1"/>
+        </b>
+        <b name="图层 429" sc="1" dl="0">
+          <f dr="35" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="21" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="29.05" y="-72.2" kX="0" kY="0" cX="0.8" cY="0.8" z="23" dr="1"/>
+          <f dr="53" hide="1"/>
+        </b>
+        <b name="图层 428" sc="1" dl="0">
+          <f dr="34" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="18" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="5.75" y="-20.2" kX="0" kY="0" cX="0.8" cY="0.8" z="19" dr="1"/>
+          <f dr="55" hide="1"/>
+        </b>
+        <b name="图层 427" sc="1" dl="0">
+          <f dr="33" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="14" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="5.7" y="-20.3" kX="0" kY="0" cX="0.8" cY="0.8" z="16" dr="1"/>
+          <f dr="58" hide="1"/>
+        </b>
+        <b name="图层 426" sc="1" dl="0">
+          <f dr="31" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="16" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="5.7" y="-20.2" kX="0" kY="0" cX="0.8" cY="0.8" z="16" dr="1"/>
+          <f dr="61" hide="1"/>
+        </b>
+        <b name="图层 41 复制10" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="15" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="22" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="26" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="23" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="18" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="11" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="5" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="5" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="5" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="427.75" y="59.5" kX="0" kY="0" cX="1.44" cY="1.44" z="20" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="427.75" y="59.5" kX="0" kY="0" cX="1.44" cY="1.44" z="11" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="427.75" y="59.5" kX="0" kY="0" cX="1.44" cY="1.44" z="7" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="427.75" y="59.5" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="427.75" y="59.5" kX="0" kY="0" cX="1.44" cY="1.44" z="2" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="427.75" y="59.5" kX="0" kY="0" cX="1.44" cY="1.44" z="2" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="427.75" y="59.5" kX="0" kY="0" cX="1.44" cY="1.44" z="0" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="427.75" y="59.5" kX="0" kY="0" cX="1.44" cY="1.44" z="0" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="427.7" y="66.25" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 41 复制20" sc="1" dl="0">
+          <f dr="38" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="18" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="21" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="24" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="25" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="20" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="13" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="8" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="6" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="6" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="37" hide="1"/>
+        </b>
+        <b name="图层 41 复制3" sc="1" dl="0">
+          <f dr="36" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="15" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="17" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="24" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="28" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="25" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="20" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="13" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="9" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="7" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="39" hide="1"/>
+        </b>
+        <b name="图层 41 复制4" sc="1" dl="0">
+          <f dr="35" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="18" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="20" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="23" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="26" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="27" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="22" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="15" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="11" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="10" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="40" hide="1"/>
+        </b>
+        <b name="图层 420" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="30" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="55.1" y="-54.9" kX="0" kY="0" cX="0.8" cY="0.8" z="28" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="图层 419" sc="1" dl="0">
+          <f dr="38" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="28" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="16.4" y="-13.15" kX="0" kY="0" cX="0.8" cY="0.8" z="31" dr="1"/>
+          <f dr="51" hide="1"/>
+        </b>
+        <b name="图层 418" sc="1" dl="0">
+          <f dr="37" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="26" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="15.25" y="-14.55" kX="0" kY="0" cX="0.8" cY="0.8" z="28" dr="1"/>
+          <f dr="54" hide="1"/>
+        </b>
+        <b name="图层 417" sc="1" dl="0">
+          <f dr="35" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="24" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="16.4" y="-13.2" kX="0" kY="0" cX="0.8" cY="0.8" z="22" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="图层 415" sc="1" dl="0">
+          <f dr="36" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="30" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="-6.05" y="-32.15" kX="0" kY="0" cX="0.64" cY="0.64" z="29" dr="1"/>
+          <f dr="52" hide="1"/>
+        </b>
+        <b name="图层 414" sc="1" dl="0">
+          <f dr="35" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="28" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="-6.8" y="-15.4" kX="0" kY="0" cX="0.64" cY="0.64" z="30" dr="1"/>
+          <f dr="54" hide="1"/>
+        </b>
+        <b name="图层 413" sc="1" dl="0">
+          <f dr="34" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="27" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="-6.75" y="-15.4" kX="0" kY="0" cX="0.64" cY="0.64" z="25" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="图层 412" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="25" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="-6.85" y="-15.4" kX="0" kY="0" cX="0.64" cY="0.64" z="24" dr="1"/>
+          <f dr="60" hide="1"/>
+        </b>
+        <b name="图层 410" sc="1" dl="0">
+          <f dr="35" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="26" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="28" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="29" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="30" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="29" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="23" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="16" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="12" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="11" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="40" hide="1"/>
+        </b>
+        <b name="图层 409" sc="1" dl="0">
+          <f dr="36" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="32" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="22.1" y="-24.15" kX="0" kY="0" cX="0.64" cY="0.64" z="31" dr="1"/>
+          <f dr="52" hide="1"/>
+        </b>
+        <b name="图层 408" sc="1" dl="0">
+          <f dr="35" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="31" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="8.3" y="-14.65" kX="0" kY="0" cX="0.64" cY="0.64" z="33" dr="1"/>
+          <f dr="54" hide="1"/>
+        </b>
+        <b name="图层 407" sc="1" dl="0">
+          <f dr="34" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="31" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="8.15" y="-14.65" kX="0" kY="0" cX="0.64" cY="0.64" z="29" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="图层 406" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="30" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="8.2" y="-14.75" kX="0" kY="0" cX="0.64" cY="0.64" z="29" dr="1"/>
+          <f dr="60" hide="1"/>
+        </b>
+        <b name="图层 6 复制30" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="24" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-96.4" y="182.2" kX="0" kY="0" cX="0.64" cY="0.64" z="29" dr="1"/>
+          <f dr="63" hide="1"/>
+        </b>
+        <b name="图层 404" sc="1" dl="0">
+          <f dr="38" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="33" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="36.25" y="-15" kX="0" kY="0" cX="0.77" cY="0.77" z="32" dr="1"/>
+          <f dr="50" hide="1"/>
+        </b>
+        <b name="图层 403" sc="1" dl="0">
+          <f dr="37" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="34" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="16.55" y="-11.75" kX="0" kY="0" cX="0.77" cY="0.77" z="33" dr="1"/>
+          <f dr="52" hide="1"/>
+        </b>
+        <b name="图层 402" sc="1" dl="0">
+          <f dr="36" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="33" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="16.5" y="-11.7" kX="0" kY="0" cX="0.77" cY="0.77" z="34" dr="1"/>
+          <f dr="55" hide="1"/>
+        </b>
+        <b name="图层 401" sc="1" dl="0">
+          <f dr="34" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="33" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="16.4" y="-11.8" kX="0" kY="0" cX="0.77" cY="0.77" z="35" dr="1"/>
+          <f dr="58" hide="1"/>
+        </b>
+        <b name="图层 6 复制4" sc="1" dl="0">
+          <f dr="34" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="32" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-261.2" y="201.5" kX="0" kY="0" cX="0.77" cY="0.77" z="34" dr="1"/>
+          <f dr="61" hide="1"/>
+        </b>
+        <b name="图层 6  复制 2" sc="1" dl="0">
+          <f dr="49" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="12" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="-20" y="-75.2" kX="0" kY="0" cX="0.8" cY="0.8" z="8" dr="1"/>
+          <f x="-77.7" y="-285.85" kX="91.94" kY="91.94" cX="0.8" cY="0.8" z="36" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-32.1" y="-32.2" kX="91.94" kY="91.94" cX="0.8" cY="0.8" z="36" dr="1"/>
+          <f dr="12" hide="1"/>
+          <f x="-326.75" y="-175.25" kX="161.43" kY="161.43" cX="0.77" cY="0.77" z="33" twE="0" dr="3"/>
+          <f x="-608.35" y="-3.45" kX="161.43" kY="161.43" cX="0.77" cY="0.77" z="33" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 5 复制" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="17" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="-3.2" y="-20.8" kX="0" kY="0" cX="0.8" cY="0.8" z="14" dr="1"/>
+          <f dr="41" hide="1"/>
+        </b>
+        <b name="图层 4 复制" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="25" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="-3.2" y="-20.8" kX="0" kY="0" cX="0.8" cY="0.8" z="22" dr="1"/>
+          <f dr="44" hide="1"/>
+        </b>
+        <b name="图层 3 复制" sc="1" dl="0">
+          <f dr="45" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="31" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="-3.2" y="-20.8" kX="0" kY="0" cX="0.8" cY="0.8" z="29" dr="1"/>
+          <f dr="47" hide="1"/>
+        </b>
+        <b name="图层 38 复制" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="32" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="26" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="18" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="9" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="6" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="图层 12 复制" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="16" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="39.05" y="-67.3" kX="0" kY="0" cX="0.8" cY="0.8" z="14" dr="1"/>
+          <f dr="40" hide="1"/>
+        </b>
+        <b name="图层 11 复制" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="21" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="12.45" y="-17" kX="0" kY="0" cX="0.8" cY="0.8" z="20" dr="1"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="图层 10 复制" sc="1" dl="0">
+          <f dr="46" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="30" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="12.45" y="-17" kX="0" kY="0" cX="0.8" cY="0.8" z="29" dr="1"/>
+          <f dr="45" hide="1"/>
+        </b>
+        <b name="图层 9 复制" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="38" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="12.45" y="-16.95" kX="0" kY="0" cX="0.8" cY="0.8" z="36" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="图层 6  复制 20" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="38" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-147.15" y="211.55" kX="0" kY="0" cX="0.8" cY="0.8" z="40" dr="1"/>
+          <f dr="51" hide="1"/>
+        </b>
+        <b name="图层 42 复制" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="39" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="31" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="22" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="15" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="8" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="6" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="28" hide="1"/>
+        </b>
+        <b name="图层 17 复制" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="9" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="29.05" y="-72.2" kX="0" kY="0" cX="0.8" cY="0.8" z="9" dr="1"/>
+          <f dr="37" hide="1"/>
+        </b>
+        <b name="图层 16 复制" sc="1" dl="0">
+          <f dr="50" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="17" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="5.75" y="-20.2" kX="0" kY="0" cX="0.8" cY="0.8" z="12" dr="1"/>
+          <f dr="39" hide="1"/>
+        </b>
+        <b name="图层 15 复制" sc="1" dl="0">
+          <f dr="49" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="25" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="5.7" y="-20.3" kX="0" kY="0" cX="0.8" cY="0.8" z="24" dr="1"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="图层 14 复制" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="35" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="5.7" y="-20.2" kX="0" kY="0" cX="0.8" cY="0.8" z="34" dr="1"/>
+          <f dr="45" hide="1"/>
+        </b>
+        <b name="图层 6  复制 21" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="42" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-76.15" y="246.2" kX="0" kY="0" cX="0.8" cY="0.8" z="41" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="图层 42 复制0" sc="1" dl="0">
+          <f dr="55" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="20" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="10" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="7" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="6" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="4" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="0" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="0" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="0" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.32" z="0" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 44 复制" sc="1" dl="0">
+          <f dr="54" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="26" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="14" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="9" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="8" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="6" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="2" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="1" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="1" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="1" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="图层 43 复制" sc="1" dl="0">
+          <f dr="52" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="31" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="22" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="12" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="9" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="8" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="6" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="2" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="2" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="2" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 22 复制" sc="1" dl="0">
+          <f dr="55" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="10" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="55.1" y="-54.9" kX="0" kY="0" cX="0.8" cY="0.8" z="10" dr="1"/>
+          <f dr="33" hide="1"/>
+        </b>
+        <b name="图层 21 复制" sc="1" dl="0">
+          <f dr="54" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="12" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="16.4" y="-13.15" kX="0" kY="0" cX="0.8" cY="0.8" z="11" dr="1"/>
+          <f dr="35" hide="1"/>
+        </b>
+        <b name="图层 20 复制" sc="1" dl="0">
+          <f dr="53" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="18" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="15.25" y="-14.55" kX="0" kY="0" cX="0.8" cY="0.8" z="15" dr="1"/>
+          <f dr="38" hide="1"/>
+        </b>
+        <b name="图层 19 复制" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="31" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="16.4" y="-13.2" kX="0" kY="0" cX="0.8" cY="0.8" z="26" dr="1"/>
+          <f dr="41" hide="1"/>
+        </b>
+        <b name="图层 6  复制 22" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="38" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-226.95" y="210.95" kX="0" kY="0" cX="0.8" cY="0.8" z="35" dr="1"/>
+          <f dr="44" hide="1"/>
+        </b>
+        <b name="图层 27 复制" sc="1" dl="0">
+          <f dr="52" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="15" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="-6.05" y="-32.15" kX="0" kY="0" cX="0.64" cY="0.64" z="13" dr="1"/>
+          <f dr="36" hide="1"/>
+        </b>
+        <b name="图层 26 复制" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="20" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="-6.8" y="-15.4" kX="0" kY="0" cX="0.64" cY="0.64" z="17" dr="1"/>
+          <f dr="38" hide="1"/>
+        </b>
+        <b name="图层 25 复制" sc="1" dl="0">
+          <f dr="50" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="34" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="-6.75" y="-15.4" kX="0" kY="0" cX="0.64" cY="0.64" z="29" dr="1"/>
+          <f dr="41" hide="1"/>
+        </b>
+        <b name="图层 24 复制" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="42" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="-6.85" y="-15.4" kX="0" kY="0" cX="0.64" cY="0.64" z="39" dr="1"/>
+          <f dr="44" hide="1"/>
+        </b>
+        <b name="图层 6  复制 23" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="44" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="87.7" y="186.55" kX="0" kY="0" cX="0.64" cY="0.64" z="44" dr="1"/>
+          <f dr="47" hide="1"/>
+        </b>
+        <b name="图层 41 复制5" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="43" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="35" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="21" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="14" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="11" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="8" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="图层 32 复制" sc="1" dl="0">
+          <f dr="52" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="17" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="22.1" y="-24.15" kX="0" kY="0" cX="0.64" cY="0.64" z="15" dr="1"/>
+          <f dr="36" hide="1"/>
+        </b>
+        <b name="图层 31 复制" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="23" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="8.3" y="-14.65" kX="0" kY="0" cX="0.64" cY="0.64" z="20" dr="1"/>
+          <f dr="38" hide="1"/>
+        </b>
+        <b name="图层 30 复制" sc="1" dl="0">
+          <f dr="50" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="38" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="8.15" y="-14.65" kX="0" kY="0" cX="0.64" cY="0.64" z="33" dr="1"/>
+          <f dr="41" hide="1"/>
+        </b>
+        <b name="图层 29 复制" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.44" z="47" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="8.2" y="-14.75" kX="0" kY="0" cX="0.64" cY="0.64" z="44" dr="1"/>
+          <f dr="44" hide="1"/>
+        </b>
+        <b name="图层 6  复制 24" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="47" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-96.4" y="182.2" kX="0" kY="0" cX="0.64" cY="0.64" z="49" dr="1"/>
+          <f dr="47" hide="1"/>
+        </b>
+        <b name="图层 37 复制" sc="1" dl="0">
+          <f dr="54" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="13" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="36.25" y="-15" kX="0" kY="0" cX="0.77" cY="0.77" z="12" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 36 复制" sc="1" dl="0">
+          <f dr="53" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="19" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="16.55" y="-11.75" kX="0" kY="0" cX="0.77" cY="0.77" z="17" dr="1"/>
+          <f dr="36" hide="1"/>
+        </b>
+        <b name="图层 35 复制" sc="1" dl="0">
+          <f dr="52" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="31" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="16.5" y="-11.7" kX="0" kY="0" cX="0.77" cY="0.77" z="26" dr="1"/>
+          <f dr="39" hide="1"/>
+        </b>
+        <b name="图层 34 复制" sc="1" dl="0">
+          <f dr="50" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="43" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="16.4" y="-11.8" kX="0" kY="0" cX="0.77" cY="0.77" z="42" dr="1"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="图层 6  复制 25" sc="1" dl="0">
+          <f dr="50" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="50" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-261.2" y="201.5" kX="0" kY="0" cX="0.77" cY="0.77" z="51" dr="1"/>
+          <f dr="45" hide="1"/>
+        </b>
+        <b name="图层 356" sc="1" dl="0">
+          <f dr="35" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="38" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="8.5" y="-38.4" kX="0" kY="0" cX="0.77" cY="0.77" z="39" dr="1"/>
+          <f dr="53" hide="1"/>
+        </b>
+        <b name="图层 355" sc="1" dl="0">
+          <f dr="34" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="35" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="-0.1" y="-20.35" kX="0" kY="0" cX="0.77" cY="0.77" z="36" dr="1"/>
+          <f dr="55" hide="1"/>
+        </b>
+        <b name="图层 354" sc="1" dl="0">
+          <f dr="33" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="36" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="-0.2" y="-20.25" kX="0" kY="0" cX="0.77" cY="0.77" z="38" dr="1"/>
+          <f dr="58" hide="1"/>
+        </b>
+        <b name="图层 353" sc="1" dl="0">
+          <f dr="31" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="36" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="-0.3" y="-20.2" kX="0" kY="0" cX="0.77" cY="0.77" z="38" dr="1"/>
+          <f dr="61" hide="1"/>
+        </b>
+        <b name="图层 6 复制5" sc="1" dl="0">
+          <f dr="31" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="22" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="16.05" y="329.45" kX="0" kY="0" cX="0.77" cY="0.77" z="30" dr="1"/>
+          <f dr="64" hide="1"/>
+        </b>
+        <b name="图层 41 复制6" sc="1" dl="0">
+          <f dr="34" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="37" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="37" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="36" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="40" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="49" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="52" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="49" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="43" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="37" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="41" hide="1"/>
+        </b>
+        <b name="图层 350" sc="1" dl="0">
+          <f dr="43" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="52" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="26.5" y="-29" kX="0" kY="0" cX="0.77" cY="0.77" z="53" dr="1"/>
+          <f dr="45" hide="1"/>
+        </b>
+        <b name="图层 349" sc="1" dl="0">
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="52" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="10.05" y="-17.6" kX="0" kY="0" cX="0.77" cY="0.77" z="54" dr="1"/>
+          <f dr="47" hide="1"/>
+        </b>
+        <b name="图层 348" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="47" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="9.95" y="-17.6" kX="0" kY="0" cX="0.77" cY="0.77" z="52" dr="1"/>
+          <f dr="50" hide="1"/>
+        </b>
+        <b name="图层 347" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="43" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="9.85" y="-17.65" kX="0" kY="0" cX="0.77" cY="0.77" z="44" dr="1"/>
+          <f dr="53" hide="1"/>
+        </b>
+        <b name="图层 6 复制40" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="38" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-150.8" y="293.4" kX="0" kY="0" cX="0.77" cY="0.77" z="40" dr="1"/>
+          <f dr="56" hide="1"/>
+        </b>
+        <b name="图层 41 复制7" sc="1" dl="0">
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="44" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="48" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="53" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="54" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="44" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="27" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="18" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="13" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="12" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="33" hide="1"/>
+        </b>
+        <b name="图层 344" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="55" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="-0.4" y="-39.25" kX="0" kY="0" cX="0.77" cY="0.77" z="51" dr="1"/>
+          <f dr="44" hide="1"/>
+        </b>
+        <b name="图层 343" sc="1" dl="0">
+          <f dr="43" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="57" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="-4.7" y="-19.75" kX="0" kY="0" cX="0.77" cY="0.77" z="55" dr="1"/>
+          <f dr="46" hide="1"/>
+        </b>
+        <b name="图层 342" sc="1" dl="0">
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="56" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="-4.75" y="-19.65" kX="0" kY="0" cX="0.77" cY="0.77" z="53" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="图层 341" sc="1" dl="0">
+          <f dr="40" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="49" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="-4.8" y="-19.6" kX="0" kY="0" cX="0.77" cY="0.77" z="47" dr="1"/>
+          <f dr="52" hide="1"/>
+        </b>
+        <b name="图层 6 复制6" sc="1" dl="0">
+          <f dr="40" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="44" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="89.8" y="317.35" kX="0" kY="0" cX="0.77" cY="0.77" z="46" dr="1"/>
+          <f dr="55" hide="1"/>
+        </b>
+        <b name="图层 7 复制2" sc="1" dl="0">
+          <f dr="43" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="50" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="57" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="58" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="52" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="39" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="24" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="15" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="13" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="10" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="32" hide="1"/>
+        </b>
+        <b name="图层 338" sc="1" dl="0">
+          <f dr="46" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="47" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="34.8" y="-18.15" kX="0" kY="0" cX="0.77" cY="0.77" z="46" dr="1"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="图层 337" sc="1" dl="0">
+          <f dr="45" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="58" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="15.5" y="-13.1" kX="0" kY="0" cX="0.77" cY="0.77" z="54" dr="1"/>
+          <f dr="44" hide="1"/>
+        </b>
+        <b name="图层 336" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="59" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="15.3" y="-13.2" kX="0" kY="0" cX="0.77" cY="0.77" z="61" dr="1"/>
+          <f dr="47" hide="1"/>
+        </b>
+        <b name="图层 335" sc="1" dl="0">
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="56" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="15.25" y="-13.2" kX="0" kY="0" cX="0.77" cY="0.77" z="61" dr="1"/>
+          <f dr="50" hide="1"/>
+        </b>
+        <b name="图层 6 复制7" sc="1" dl="0">
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="52" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-241.95" y="224.2" kX="0" kY="0" cX="0.77" cY="0.77" z="54" dr="1"/>
+          <f dr="53" hide="1"/>
+        </b>
+        <b name="图层 7 复制00" sc="1" dl="0">
+          <f dr="45" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="57" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="60" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="59" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="47" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="29" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="20" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="14" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="9" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="9" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 332" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="41" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="0" y="-31.45" kX="0" kY="0" cX="0.61" cY="0.61" z="35" dr="1"/>
+          <f dr="40" hide="1"/>
+        </b>
+        <b name="图层 331" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="50" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="-3.65" y="-15.85" kX="0" kY="0" cX="0.61" cY="0.61" z="49" dr="1"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="图层 330" sc="1" dl="0">
+          <f dr="46" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="62" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="-3.65" y="-15.7" kX="0" kY="0" cX="0.61" cY="0.61" z="62" dr="1"/>
+          <f dr="45" hide="1"/>
+        </b>
+        <b name="图层 329" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="62" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="-3.7" y="-15.65" kX="0" kY="0" cX="0.61" cY="0.61" z="64" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="图层 6 复制50" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.61" z="56" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="69.6" y="254.6" kX="0" kY="0" cX="0.61" cY="0.61" z="61" dr="1"/>
+          <f dr="51" hide="1"/>
+        </b>
+        <b name="图层 7 复制10" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="63" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="63" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="51" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="36" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="28" hide="1"/>
+        </b>
+        <b name="图层 326" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="43" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="16.5" y="-26.75" kX="0" kY="0" cX="0.61" cY="0.61" z="37" dr="1"/>
+          <f dr="40" hide="1"/>
+        </b>
+        <b name="图层 325" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="53" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="5.25" y="-15.35" kX="0" kY="0" cX="0.61" cY="0.61" z="52" dr="1"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="图层 324" sc="1" dl="0">
+          <f dr="46" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="66" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="5.2" y="-15.35" kX="0" kY="0" cX="0.61" cY="0.61" z="66" dr="1"/>
+          <f dr="45" hide="1"/>
+        </b>
+        <b name="图层 323" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="67" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="5.15" y="-15.3" kX="0" kY="0" cX="0.61" cY="0.61" z="69" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="图层 6 复制8" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.61" z="59" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-74.85" y="253.05" kX="0" kY="0" cX="0.61" cY="0.61" z="66" dr="1"/>
+          <f dr="51" hide="1"/>
+        </b>
+        <b name="图层 41 复制8" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="68" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="67" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="54" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="38" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="24" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="17" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="11" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="9" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="9" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="28" hide="1"/>
+        </b>
+        <b name="图层 49 复制" sc="1" dl="0">
+          <f dr="54" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="19" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="15.9" y="-35.95" kX="0" kY="0" cX="0.77" cY="0.77" z="18" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 48 复制" sc="1" dl="0">
+          <f dr="53" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="26" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="3.9" y="-19.85" kX="0" kY="0" cX="0.77" cY="0.77" z="24" dr="1"/>
+          <f dr="36" hide="1"/>
+        </b>
+        <b name="图层 47 复制" sc="1" dl="0">
+          <f dr="52" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="41" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="3.9" y="-19.9" kX="0" kY="0" cX="0.77" cY="0.77" z="34" dr="1"/>
+          <f dr="39" hide="1"/>
+        </b>
+        <b name="图层 46 复制" sc="1" dl="0">
+          <f dr="50" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="58" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="3.75" y="-19.9" kX="0" kY="0" cX="0.77" cY="0.77" z="57" dr="1"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="图层 6  复制 26" sc="1" dl="0">
+          <f dr="50" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="70" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-49.65" y="326.15" kX="0" kY="0" cX="0.77" cY="0.77" z="71" dr="1"/>
+          <f dr="45" hide="1"/>
+        </b>
+        <b name="图层 41 复制9" sc="1" dl="0">
+          <f dr="53" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="59" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="42" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="27" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="19" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="12" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="10" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="4" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="2" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 54 复制" sc="1" dl="0">
+          <f dr="62" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="6" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="31.8" y="-23.1" kX="0" kY="0" cX="0.77" cY="0.77" z="5" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="图层 53 复制" sc="1" dl="0">
+          <f dr="61" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="12" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="13.35" y="-15.3" kX="0" kY="0" cX="0.77" cY="0.77" z="12" dr="1"/>
+          <f dr="28" hide="1"/>
+        </b>
+        <b name="图层 52 复制" sc="1" dl="0">
+          <f dr="60" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="17" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="13.2" y="-15.3" kX="0" kY="0" cX="0.77" cY="0.77" z="15" dr="1"/>
+          <f dr="31" hide="1"/>
+        </b>
+        <b name="图层 51 复制" sc="1" dl="0">
+          <f dr="58" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="24" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="13.15" y="-15.4" kX="0" kY="0" cX="0.77" cY="0.77" z="23" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 6  复制 27" sc="1" dl="0">
+          <f dr="58" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="33" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-206" y="257.7" kX="0" kY="0" cX="0.77" cY="0.77" z="31" dr="1"/>
+          <f dr="37" hide="1"/>
+        </b>
+        <b name="图层 59 复制" sc="1" dl="0">
+          <f dr="63" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="7" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="7.35" y="-38.6" kX="0" kY="0" cX="0.77" cY="0.77" z="6" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+        <b name="图层 58 复制" sc="1" dl="0">
+          <f dr="62" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="15" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="-0.65" y="-20.25" kX="0" kY="0" cX="0.77" cY="0.77" z="9" dr="1"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="图层 57 复制" sc="1" dl="0">
+          <f dr="61" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="19" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="-0.75" y="-20.2" kX="0" kY="0" cX="0.77" cY="0.77" z="18" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 56 复制" sc="1" dl="0">
+          <f dr="59" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="28" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="-0.8" y="-20.15" kX="0" kY="0" cX="0.77" cY="0.77" z="25" dr="1"/>
+          <f dr="33" hide="1"/>
+        </b>
+        <b name="图层 6  复制 28" sc="1" dl="0">
+          <f dr="59" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="35" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="25.1" y="328.8" kX="0" kY="0" cX="0.77" cY="0.77" z="34" dr="1"/>
+          <f dr="36" hide="1"/>
+        </b>
+        <b name="图层 7 复制20" sc="1" dl="0">
+          <f dr="62" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="29" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="20" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="16" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="7" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 64 复制" sc="1" dl="0">
+          <f dr="65" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="7" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="37.75" y="-10.9" kX="0" kY="0" cX="0.77" cY="0.77" z="6" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 63 复制" sc="1" dl="0">
+          <f dr="64" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="10" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="17.8" y="-9.8" kX="0" kY="0" cX="0.77" cY="0.77" z="9" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+        <b name="图层 62 复制" sc="1" dl="0">
+          <f dr="63" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="19" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="17.6" y="-9.9" kX="0" kY="0" cX="0.77" cY="0.77" z="19" dr="1"/>
+          <f dr="28" hide="1"/>
+        </b>
+        <b name="图层 61 复制" sc="1" dl="0">
+          <f dr="61" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="26" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="17.5" y="-9.9" kX="0" kY="0" cX="0.77" cY="0.77" z="24" dr="1"/>
+          <f dr="31" hide="1"/>
+        </b>
+        <b name="图层 41 复制11" sc="1" dl="0">
+          <f dr="67" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="21" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="12" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="8" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="4" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="1" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="1" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="6.75" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 41 复制12" sc="1" dl="0">
+          <f dr="64" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="27" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="22" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="13" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="9" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 7 复制3" sc="1" dl="0">
+          <f dr="64" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="28" img="Phoenix_skill_darkgold-sbs1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="23" img="Phoenix_skill_darkgold-sbs2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="14" img="Phoenix_skill_darkgold-sbs3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="10" img="Phoenix_skill_darkgold-sbs4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="6" img="Phoenix_skill_darkgold-sbs5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="Phoenix_skill_darkgold-sbs6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="Phoenix_skill_darkgold-sbs7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Phoenix_skill_darkgold-sbs8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Phoenix_skill_darkgold-sbs9" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 69 复制" sc="1" dl="0">
+          <f dr="67" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="9" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="6.2" y="-30.8" kX="0" kY="0" cX="0.61" cY="0.61" z="8" dr="1"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="图层 68 复制" sc="1" dl="0">
+          <f dr="66" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="13" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="-0.35" y="-16.25" kX="0" kY="0" cX="0.61" cY="0.61" z="12" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 67 复制" sc="1" dl="0">
+          <f dr="65" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="19" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="-0.5" y="-16.15" kX="0" kY="0" cX="0.61" cY="0.61" z="17" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="图层 66 复制" sc="1" dl="0">
+          <f dr="63" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="30" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="-0.55" y="-16" kX="0" kY="0" cX="0.61" cY="0.61" z="27" dr="1"/>
+          <f dr="29" hide="1"/>
+        </b>
+        <b name="图层 6  复制 29" sc="1" dl="0">
+          <f dr="63" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.61" z="35" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="17.7" y="263.3" kX="0" kY="0" cX="0.61" cY="0.61" z="32" dr="1"/>
+          <f dr="32" hide="1"/>
+        </b>
+        <b name="图层 74 复制" sc="1" dl="0">
+          <f dr="67" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="10" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="10"/>
+          <f x="21.5" y="-22.95" kX="0" kY="0" cX="0.61" cY="0.61" z="9" dr="1"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="图层 73 复制" sc="1" dl="0">
+          <f dr="66" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="15" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="9"/>
+          <f x="8.15" y="-14" kX="0" kY="0" cX="0.61" cY="0.61" z="14" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 72 复制" sc="1" dl="0">
+          <f dr="65" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="22" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="7"/>
+          <f x="8.2" y="-14" kX="0" kY="0" cX="0.61" cY="0.61" z="20" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="图层 71 复制" sc="1" dl="0">
+          <f dr="63" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="34" img="Phoenix_skill_darkgold-tuoweiguiji" twE="0" dr="6"/>
+          <f x="8.05" y="-13.95" kX="0" kY="0" cX="0.61" cY="0.61" z="31" dr="1"/>
+          <f dr="29" hide="1"/>
+        </b>
+        <b name="图层 6  复制 210" sc="1" dl="0">
+          <f dr="63" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.61" z="38" img="Phoenix_skill_darkgold-baoshizhui" twE="0" dr="3"/>
+          <f x="-123.5" y="233.2" kX="0" kY="0" cX="0.61" cY="0.61" z="36" dr="1"/>
+          <f dr="32" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="宝石凤凰特效" width="512" height="2048">
+    <SubTexture name="Phoenix_skill_darkgold-guagnzhaojian" x="459" y="171" width="48" height="48" pX="24" pY="23.5"/>
+    <SubTexture name="Phoenix_skill_darkgold-fenghuagndanda" x="0" y="1088" width="124" height="126" pX="58" pY="62.1"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk1" x="204" y="192" width="73" height="65" pX="98.1" pY="52.55"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk2" x="204" y="117" width="75" height="74" pX="101.9" pY="52.55"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk3" x="204" y="258" width="70" height="67" pX="99.85" pY="50.15"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk4" x="204" y="386" width="64" height="58" pX="95.7" pY="47.05"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk5" x="204" y="445" width="63" height="60" pX="97.1" pY="47.05"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk6" x="204" y="326" width="65" height="59" pX="98.8" pY="47.4"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk9" x="405" y="735" width="99" height="36" pX="114.3" pY="35.5"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk10" x="0" y="1215" width="114" height="54" pX="115.7" pY="42.35"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk12" x="268" y="470" width="167" height="127" pX="143.6" pY="96.75"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk13" x="0" y="669" width="148" height="136" pX="144.5" pY="107.75"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk14" x="0" y="529" width="149" height="139" pX="145.85" pY="110.95"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk15" x="257" y="598" width="151" height="135" pX="146.8" pY="111.4"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk16" x="253" y="734" width="151" height="131" pX="147.25" pY="110.95"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk17" x="0" y="806" width="150" height="131" pX="146.35" pY="109.6"/>
+    <SubTexture name="Phoenix_skill_darkgold-pk18" x="150" y="529" width="106" height="119" pX="122.1" pY="99.5"/>
+    <SubTexture name="Phoenix_skill_darkgold-fhdh1" x="269" y="1133" width="142" height="128" pX="135.35" pY="137.2"/>
+    <SubTexture name="Phoenix_skill_darkgold-fhdh2" x="140" y="1396" width="137" height="131" pX="132" pY="140.2"/>
+    <SubTexture name="Phoenix_skill_darkgold-fhdh3" x="270" y="999" width="139" height="133" pX="132.45" pY="141.2"/>
+    <SubTexture name="Phoenix_skill_darkgold-fhdh4" x="278" y="1396" width="140" height="125" pX="136.5" pY="136.2"/>
+    <SubTexture name="Phoenix_skill_darkgold-fhdh5" x="278" y="1522" width="141" height="122" pX="141.95" pY="132.65"/>
+    <SubTexture name="Phoenix_skill_darkgold-fhdh6" x="125" y="1209" width="139" height="131" pX="144.5" pY="133.65"/>
+    <SubTexture name="Phoenix_skill_darkgold-fhdh7" x="128" y="944" width="141" height="132" pX="143.9" pY="134.65"/>
+    <SubTexture name="Phoenix_skill_darkgold-fhdh8" x="265" y="1262" width="136" height="133" pX="144.5" pY="133.85"/>
+    <SubTexture name="Phoenix_skill_darkgold-fhdh9" x="0" y="1341" width="139" height="129" pX="144.5" pY="134.15"/>
+    <SubTexture name="Phoenix_skill_darkgold-fhdh10" x="353" y="866" width="147" height="132" pX="144.4" pY="135.2"/>
+    <SubTexture name="Phoenix_skill_darkgold-fhdh11" x="128" y="1077" width="140" height="131" pX="138.45" pY="137.65"/>
+    <SubTexture name="Phoenix_skill_darkgold-fhdh12" x="0" y="1471" width="130" height="123" pX="128.9" pY="134.2"/>
+    <SubTexture name="Phoenix_skill_darkgold-tuoweiguiji" x="0" y="0" width="280" height="116" pX="139.5" pY="57.5"/>
+    <SubTexture name="Phoenix_skill_darkgold-baoshizhui" x="409" y="598" width="80" height="136" pX="39.6" pY="66.7"/>
+    <SubTexture name="Phoenix_skill_darkgold-sbs1" x="150" y="649" width="102" height="91" pX="37.05" pY="5.55"/>
+    <SubTexture name="Phoenix_skill_darkgold-sbs2" x="0" y="938" width="127" height="149" pX="61.05" pY="52.6"/>
+    <SubTexture name="Phoenix_skill_darkgold-sbs3" x="280" y="171" width="178" height="164" pX="93.05" pY="62.55"/>
+    <SubTexture name="Phoenix_skill_darkgold-sbs4" x="281" y="0" width="200" height="170" pX="101.05" pY="70.55"/>
+    <SubTexture name="Phoenix_skill_darkgold-sbs5" x="0" y="264" width="203" height="133" pX="101.05" pY="30.6"/>
+    <SubTexture name="Phoenix_skill_darkgold-sbs6" x="270" y="336" width="203" height="133" pX="101.05" pY="30.6"/>
+    <SubTexture name="Phoenix_skill_darkgold-sbs7" x="0" y="398" width="203" height="130" pX="101.05" pY="25.55"/>
+    <SubTexture name="Phoenix_skill_darkgold-sbs8" x="0" y="117" width="203" height="146" pX="101.05" pY="38.55"/>
+    <SubTexture name="Phoenix_skill_darkgold-sbs9" x="151" y="866" width="201" height="77" pX="101.05" pY="-22.45"/>
+  </TextureAtlas>
+</skeleton>

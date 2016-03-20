@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="124" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="1" tilewidth="64" tileheight="64">
+  <image source="heyanzhimen_1.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="17" name="2" tilewidth="64" tileheight="64">
+  <image source="heyanzhimen_2.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="33" name="4" tilewidth="64" tileheight="64">
+  <image source="heyanzhimen_4.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="49" name="5" tilewidth="64" tileheight="64">
+  <image source="heyanzhimen_5.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="65" name="3" tilewidth="64" tileheight="64">
+  <image source="heyanzhimen_3.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="81" name="7 (2)" tilewidth="64" tileheight="64">
+  <image source="longxihuoshan_7.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="97" name="9" tilewidth="64" tileheight="64">
+  <image source="heyanzhimen_9.png" width="256" height="256"/>
+ </tileset>
+ <layer name="块层 5" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkEEKgEAQw/ZLKiIi4v9/pR/womnpoYE5bhp2jO/Mzy0/3jtIb3T0kRsb5FGS3ujoozYOyKMkvdHRR21ckEdJeqOjj9qYII+S9EZHH7WxQh4l6Y2OPmpjhzxK0hsdfdTGCXmUpDc6+tL/oJRSSinv3Pl1B8k=
+  </data>
+ </layer>
+ <layer name="块层 4" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkMkNhAAQw2iF+2a3/+pICTxiEYmx5G9kpWmKr9PKQY5vhzyAbk38gmhajFs0dGviF+6mw7xHQrcmfuFu6mRv3qSgWxO/cDdNcjbukdCtiV84m1a5yd20R0K3Jn7hbjrlJX/yb9qkoFsTv0hsKoqiKIqC4wYhegoh
+  </data>
+ </layer>
+ <layer name="块层 1" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8kNgDAQwMAlkIOb/qvFTeSz8kh+OEKSJEmSJM22UKGVNj/9V2rUafjpf6eDTrr89H/TQy99fvr/AT0jEHk=
+  </data>
+ </layer>
+ <layer name="块层 2" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8ENwCAQBDHaSIBA/1WyZYSTLc1jWgMAAP7iSW/qafjyP9OXVtq+/AMA9znv5xud
+  </data>
+ </layer>
+ <layer name="块层 3" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0UkKwCAQRFGvkMEkx+2jp5YiOHWDq/+gNqJ2iSmNHcqpXMrd2FOvl2d28HT06t2j+aYepj4WmTHzntVus7LyKK/yNfbU6+WZHTwdvXr3aL6ph+Xgf8+8Z7UbAAAAAAAAgJgfd8YGjQ==
+  </data>
+ </layer>
+ <layer name="块层 6" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzjsOgCAUBVHWRqHB//5X461fgVCI12ROMv2kBAAA/ix/PRC4/UTOfy1vk5rfHung9hM5/z29FbWoVW1DjurcfiLnv5a3XR3qVNegrxq3n8j5z/kNAAD0uwGaRQzN
+  </data>
+ </layer>
+ <layer name="块层 7" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0LEJACAQA8DfTd1/Jb/XVghyB6nShFSdRmd21qVL83pr4heJmwAAAAAAfrMBQKkDMQ==
+  </data>
+ </layer>
+ <layer name="块层 8" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0VkKgDAMRdFs0RmH/a/DCC2UUO2ggsI98PCnGVpFAAAAAPxR676zpnm459s1h7O9a/uVzkm5s0fuzD7jzKJZNaNm0nSaIdJnK1nQ1fiekqj3O4ipKRHb2/YL3yOc+cQcy/bPuZd/I/vfrmbW3gMAAHzDDvSAEIU=
+  </data>
+ </layer>
+ <layer name="块层 9" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0lsOgjAQRmG2ioCCN1jCLN3zgEnTWDVCfTpf8r80nc5MoGkkSZIkSZIkbdGSA+lIn5xP5Ewu5PqHfu/sNcsvvZ+4H9QF9cE7UWO+Lb7dbSBHciJjcn4jdzKTZT3bY69Sv1Te59UstXqXcD+oC+pjyL53ab7a/0H+/qfdHoK6JCQ=
+  </data>
+ </layer>
+ <objectgroup name="bg" width="124" height="12" visible="0">
+  <object name="heyanzhimen_bg1" x="0" y="0" width="512" height="512"/>
+  <object name="heyanzhimen_bg2" x="512" y="0" width="512" height="512"/>
+  <object name="heyanzhimen_bg1" x="1024" y="0" width="512" height="512"/>
+  <object name="heyanzhimen_bg2" x="1536" y="0" width="512" height="512"/>
+  <object name="heyanzhimen_bg1" x="2048" y="0" width="512" height="512"/>
+  <object name="heyanzhimen_bg2" x="2560" y="0" width="512" height="512"/>
+  <object name="heyanzhimen_bg1" x="3072" y="0" width="512" height="512"/>
+  <object name="heyanzhimen_bg2" x="3584" y="0" width="512" height="512"/>
+  <object name="heyanzhimen_bg1" x="4096" y="0" width="512" height="512"/>
+  <object name="heyanzhimen_bg2" x="4608" y="0" width="512" height="512"/>
+ </objectgroup>
+ <objectgroup name="mg" width="124" height="12" visible="0">
+  <object name="heyanzhimen_mg1" x="124" y="250" width="256" height="256"/>
+  <object name="heyanzhimen_mg1" x="714" y="220" width="256" height="256"/>
+  <object name="heyanzhimen_mg2" x="1206" y="216" width="256" height="256"/>
+  <object name="heyanzhimen_mg3" x="1796" y="222" width="256" height="256"/>
+  <object name="heyanzhimen_mg1" x="2252" y="216" width="256" height="256"/>
+  <object name="heyanzhimen_mg2" x="2830" y="212" width="256" height="256"/>
+  <object name="heyanzhimen_mg2" x="3514" y="212" width="256" height="256"/>
+  <object name="heyanzhimen_mg3" x="4156" y="216" width="256" height="256"/>
+  <object name="heyanzhimen_mg1" x="4798" y="212" width="256" height="256"/>
+  <object name="heyanzhimen_mg3" x="5416" y="206" width="256" height="256"/>
+  <object name="heyanzhimen_mg2" x="5998" y="210" width="256" height="256"/>
+  <object name="heyanzhimen_mg3" x="6571" y="209" width="256" height="256"/>
+ </objectgroup>
+ <objectgroup name="area" width="78" height="12">
+  <object x="15" y="454" width="1536" height="307"/>
+  <object x="1745" y="454" width="1536" height="307"/>
+ </objectgroup>
+ <objectgroup name="AreaBornPoint" width="78" height="12">
+  <object x="1806" y="610"/>
+ </objectgroup>
+ <objectgroup name="monster" width="78" height="12">
+  <object name="133161" x="2440" y="479"/>
+  <object name="133161" x="2436" y="601"/>
+  <object name="133161" x="2436" y="735"/>
+  <object name="133161" x="2620" y="475"/>
+  <object name="133161" x="2617" y="597"/>
+  <object name="133161" x="2617" y="735"/>
+  <object name="133162" x="2801" y="473"/>
+  <object name="133162" x="2801" y="588"/>
+  <object name="133162" x="2801" y="736"/>
+  <object name="133162" x="2997" y="480"/>
+  <object name="133166" x="2991" y="584"/>
+  <object name="133165" x="2996" y="721"/>
+  <object name="133161" x="800" y="483"/>
+  <object name="133161" x="796" y="605"/>
+  <object name="133161" x="795" y="736"/>
+  <object name="133161" x="989" y="487"/>
+  <object name="133161" x="993" y="607"/>
+  <object name="133161" x="995" y="735"/>
+  <object name="133163" x="1173" y="487"/>
+  <object name="133163" x="1175" y="607"/>
+  <object name="133163" x="1171" y="735"/>
+  <object name="133164" x="1339" y="603"/>
+ </objectgroup>
+</map>

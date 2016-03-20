@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ListServer" />
+		<Option pch_mode="0" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../Debug/ListServer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Debug" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-W" />
+					<Add option="-O0" />
+					<Add option="-D_DEBUG" />
+					<Add option="-D_CONSOLE" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="../Utils" />
+				</ResourceCompiler>
+				<Linker>
+					<Add library="../Debug/libutils.a" />
+					<Add library="dl" />
+					<Add library="pthread" />
+					<Add directory="../Debug/" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="../Release/ListServer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Release" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-W" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_CONSOLE" />
+					<Add directory="../Utils" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="../Utils" />
+				</ResourceCompiler>
+				<Linker>
+					<Add library="../Debug/libutils.a" />
+					<Add library="dl" />
+					<Add library="pthread" />
+					<Add directory="../Debug/" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-fshort-wchar" />
+			<Add option="-DLINUX_" />
+			<Add directory="../Utils" />
+		</Compiler>
+		<Linker>
+			<Add library="pthread" />
+			<Add library="dl" />
+		</Linker>
+		<Unit filename="ListServer.cpp" />
+		<Unit filename="NanoWeb.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

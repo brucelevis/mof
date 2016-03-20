@@ -1,0 +1,85 @@
+<skeleton name="加攻击持续粒子(2)">
+  <armatures>
+    <armature name="jiagongji">
+      <b name="图层 13" bT="0" bi="getatk_last-llelel" x="-102.65" y="-6.25" kX="0" kY="0" z="0"/>
+      <b name="图层 12" bT="0" bi="getatk_last-llelel" x="3" y="-6.25" kX="0" kY="0" z="1"/>
+      <b name="图层 11" bT="0" bi="getatk_last-llelel" x="-38.45" y="-21.75" kX="0" kY="0" z="2"/>
+      <b name="图层 10" bT="0" bi="getatk_last-llelel" x="-38.05" y="-6.25" kX="0" kY="0" z="3"/>
+      <b name="图层 9" bT="0" bi="getatk_last-llelel" x="67.75" y="-6.25" kX="0" kY="0" z="4"/>
+      <b name="图层 8" bT="0" bi="getatk_last-llelel" x="67.75" y="-6.25" kX="0" kY="0" z="5"/>
+      <b name="图层 14" bT="0" bi="getatk_last-llelel" x="-38.05" y="-6.25" kX="0" kY="0" z="6"/>
+      <b name="图层 15" bT="0" bi="getatk_last-llelel" x="67.75" y="-6.25" kX="0" kY="0" z="7"/>
+      <b name="图层 16" bT="0" bi="getatk_last-llelel" x="67.75" y="-6.25" kX="0" kY="0" z="8"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="jiagongji">
+      <mov name="jiagongji" to="1" dr="23" drTW="35" lp="1">
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="0" img="getatk_last-llelel" twE="0" dr="6"/>
+          <f x="16.8" y="-54" kX="0" kY="0" cX="2.49" cY="2.49" z="0" twE="0" dr="10"/>
+          <f x="29.65" y="-117" kX="0" kY="0" cX="0.62" cY="0.62" z="0" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="1" img="getatk_last-llelel" twE="0" dr="5"/>
+          <f x="-3.05" y="-47.3" kX="0" kY="0" cX="2.49" cY="2.49" z="1" twE="0" dr="10"/>
+          <f x="-32.2" y="-169.65" kX="0" kY="0" cX="0.62" cY="0.62" z="1" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="2" img="getatk_last-llelel" twE="0" dr="5"/>
+          <f x="7.25" y="-73.3" kX="0" kY="0" cX="2.49" cY="2.49" z="2" twE="0" dr="10"/>
+          <f x="29.95" y="-154.15" kX="0" kY="0" cX="0.62" cY="0.62" z="2" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="3" img="getatk_last-llelel" twE="0" dr="6"/>
+          <f x="16.85" y="-28.05" kX="0" kY="0" cX="2.49" cY="2.49" z="0" twE="0" dr="10"/>
+          <f x="24.5" y="-96.2" kX="0" kY="0" cX="0.62" cY="0.62" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="4" img="getatk_last-llelel" twE="0" dr="6"/>
+          <f x="7.25" y="-36.95" kX="0" kY="0" cX="2.49" cY="2.49" z="2" twE="0" dr="10"/>
+          <f x="34.55" y="-118.3" kX="0" kY="0" cX="0.62" cY="0.62" z="1" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="5" img="getatk_last-llelel" twE="0" dr="6"/>
+          <f x="2.1" y="-52.55" kX="0" kY="0" cX="2.49" cY="2.49" z="3" twE="0" dr="10"/>
+          <f x="45.4" y="-107.45" kX="0" kY="0" cX="0.62" cY="0.62" z="3" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="6" img="getatk_last-llelel" twE="0" dr="6"/>
+          <f x="1.35" y="-74.7" kX="0" kY="0" cX="2.49" cY="2.49" z="1" twE="0" dr="10"/>
+          <f x="40.05" y="-132.5" kX="0" kY="0" cX="0.62" cY="0.62" z="0" dr="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="7" img="getatk_last-llelel" twE="0" dr="6"/>
+          <f x="-8.3" y="-68.1" kX="0" kY="0" cX="2.49" cY="2.49" z="3" twE="0" dr="10"/>
+          <f x="-6.9" y="-165" kX="0" kY="0" cX="0.62" cY="0.62" z="2" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="8" img="getatk_last-llelel" twE="0" dr="6"/>
+          <f x="-23.85" y="-83.6" kX="0" kY="0" cX="2.49" cY="2.49" z="6" twE="0" dr="10"/>
+          <f x="-32.35" y="-169.65" kX="0" kY="0" cX="0.62" cY="0.62" z="4" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="加攻击持续粒子(2)" width="512" height="32">
+    <SubTexture name="getatk_last-llelel" x="0" y="0" width="21" height="22" pX="8.9" pY="8.55"/>
+  </TextureAtlas>
+</skeleton>

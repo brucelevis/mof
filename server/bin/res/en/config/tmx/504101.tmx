@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="48" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="1" tilewidth="64" tileheight="64">
+  <image source="MajorCity4_1.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="5" name="2" tilewidth="64" tileheight="64">
+  <image source="MajorCity4_2.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="69" name="3" tilewidth="64" tileheight="64">
+  <image source="MajorCity4_3.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="73" name="4" tilewidth="64" tileheight="64">
+  <image source="MajorCity4_4.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="89" name="7" tilewidth="64" tileheight="64">
+  <image source="MajorCity4_7.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="93" name="11" tilewidth="64" tileheight="64">
+  <image source="501214_11.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="109" name="12" tilewidth="64" tileheight="64">
+  <image source="501214_12.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="125" name="13" tilewidth="64" tileheight="64">
+  <image source="501214_13.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="141" name="501214_4" tilewidth="64" tileheight="64">
+  <image source="501214_4.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="157" name="501214_5" tilewidth="64" tileheight="64">
+  <image source="501214_5.png" width="256" height="256"/>
+ </tileset>
+ <layer name="块层 7" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztjcENgDAMAzO6FygohYG5AYBGefTlk+4TW3GEMWbggedPh0x0RFedH5WN7nbixAvvl5ybyERH2fyxyr+obBtjzG4ec9UaxQ==
+  </data>
+ </layer>
+ <layer name="块层 8" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztjTsKACAMQ73/HQQX/x7SDBWkVHEV8uANSSh1jhDyKxl6WCRHmKRf7LuVT90Lt3/Wpu86DHBIX2GTfrHvVj51L9z+WZu+I4T8ywRZBxyW
+  </data>
+ </layer>
+ <layer name="块层 1" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztylcKAkEQRdH5MYJjANOAEYxgXGEt3bOIASnoBwea21VVZWVlZf9Zhy49+gwYJuojasZMmDJL1OcsWLJiTZOob9iyY8+BY6J+4syFKzfuifqDJy/efPi22Anv0MJfuAm30Vb/AV78KvE=
+  </data>
+ </layer>
+ <layer name="块层 4" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztz1EKgCAQhGGvZ2FlZXmcOXoDc4KCTRb2hw/2zTEluzaB4ROmnYLRO77WBaN3vC3TRLOAN7KjfxRaaBXwRnG0v9JOh4A3qqP9jS66BbzRHO2PouifHr4fEPk=
+  </data>
+ </layer>
+ <layer name="块层 5" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYKANcEVlN9DIGpoBN1R2w0C5gxzgDsQeSHwgu8F9iPlhFIyCUTAKRsEooCUAAEnIBDU=
+  </data>
+ </layer>
+ <layer name="块层 2" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzksKgDAMRdFuyk+FqlUX9pbeC6HzjtRALhwIySQpRVEURX9owowFqxGz2ImbPn1uoIIdB04jZrFTcfB/xYUbjxGz2Kk6+L+XsRllR3+/XQOFZA2j
+  </data>
+ </layer>
+ <layer name="块层 3" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDFXASANMT7uYaYBxAXraNQpGwSgY/AAA3u4AqQ==
+  </data>
+ </layer>
+ <layer name="块层 6" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztjSEOgEAQA9cfDhw4cODAwf/fdWsqaIJrBck2qZkm0xYRQ7zTxMzhBBuzE21q5nCCzdmFNjVzOMHW7EabmjmcYHv2oE3NHE6wM3vRpmYOJ9idfWhTM4fz66dSqfwnHdl6E2s=
+  </data>
+ </layer>
+ <layer name="Foreground1" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztz7sOgCAMRmFeFEFF8fb+s2fpQkLZdPlP8g0dGkoISimllPqrDTsqjg932yImJGTnDZutExduPIP72tnb7dX784wFK4pzn80vEWQTPQ==
+  </data>
+ </layer>
+ <layer name="Foreground2" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzbsNwCAAA1EWJZDwC4H9a24EEBJK4ZNeaxujlFJKqT9kccHBH9pNyCh4N39uPAiIm1uzuxUfGvrC5gD2eglN
+  </data>
+ </layer>
+ <layer name="Foreground3" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSggDUQCcRQQR9OIDcQNQHYDUKyBFmwAszgc4Q==
+  </data>
+ </layer>
+ <layer name="Foreground4" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztj8sKgDAQA/eXfVRFPeTTHRRBCkqLBxEyEChtls5GGGOMMf+jJR3pvxapBF/hrYHzSKbsvYl3u9XMny70xZxKevgKb83cL2TNuonc7Vbyd+l8HO+7C32lB/9rD1/hrQ2dPyJx
+  </data>
+ </layer>
+ <layer name="Foreground5" width="48" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwUCCWiCuA+J6EuUoUUsN0ArEbUDcDsRNQNyMRU0jkhxQXQNQfQNQXwM285DVMhChHp97YACXGQBEwBTa
+  </data>
+ </layer>
+ <objectgroup name="area" width="45" height="14">
+  <object x="64" y="430" width="2944" height="322"/>
+ </objectgroup>
+ <objectgroup name="portal" width="45" height="14">
+  <object name="2401" type="1" x="128" y="595"/>
+  <object name="2402" type="1" x="2944" y="512"/>
+  <object name="2403" type="1" x="2944" y="672"/>
+ </objectgroup>
+ <objectgroup name="npc" width="45" height="14">
+  <object name="1010" x="576" y="468"/>
+  <object name="1011" x="1344" y="447"/>
+  <object name="1012" x="2486" y="464"/>
+  <object name="1016" x="1805" y="429"/>
+ </objectgroup>
+ <objectgroup name="bg" width="45" height="14">
+  <object name="MajorCity4_bg" x="0" y="0" width="512" height="512"/>
+  <object name="MajorCity4_bg" x="512" y="0" width="512" height="512"/>
+  <object name="MajorCity4_bg" x="1024" y="0" width="512" height="512"/>
+ </objectgroup>
+</map>

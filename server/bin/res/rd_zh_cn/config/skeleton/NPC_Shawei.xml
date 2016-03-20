@@ -1,0 +1,389 @@
+<skeleton name="沙威">
+  <armatures>
+    <armature name="stand">
+      <b name="图层 1" bT="0" bi="NPC_Shawei-yz1" x="149.8" y="251.65" kX="0" kY="0" z="0"/>
+      <b name="图层 26" bT="0" bi="NPC_Shawei-swxt1" x="183" y="231.55" kX="0" kY="0" z="1"/>
+      <b name="图层 13" bT="0" bi="NPC_Shawei-swjb1" x="164" y="170.75" kX="0" kY="0" z="2"/>
+      <b name="图层 25" bT="0" bi="NPC_Shawei-swnb1" x="181.85" y="215.95" kX="0" kY="0" z="3"/>
+      <b name="图层 22" bT="0" bi="NPC_Shawei-swst1" x="186.4" y="176.45" kX="0" kY="0" z="4"/>
+      <b name="图层 24" bT="0" bi="NPC_Shawei-swdtj2" x="201.15" y="216.85" kX="-16.92" kY="-16.92" z="5"/>
+      <b name="图层 23" bT="0" bi="NPC_Shawei-swdtj1" x="168.65" y="217.4" kX="4.98" kY="4.98" z="6"/>
+      <b name="图层 19" bT="0" bi="NPC_Shawei-swt1" x="185.2" y="144.3" kX="0" kY="0" z="7"/>
+      <b name="图层 17" bT="0" bi="NPC_Shawei-swyj3" x="174.9" y="149.35" kX="0" kY="0" z="8"/>
+      <b name="图层 21" bT="0" bi="NPC_Shawei-swmm2" x="174.75" y="145.7" kX="0" kY="0" z="9"/>
+      <b name="图层 20" bT="0" bi="NPC_Shawei-swmm1" x="186.4" y="145.05" kX="0" kY="0" z="10"/>
+      <b name="图层 18" bT="0" bi="NPC_Shawei-swyj1" x="186.75" y="148.85" kX="0" kY="0" z="11"/>
+      <b name="图层 12" bT="0" bi="NPC_Shawei-sws2" x="160.75" y="188.75" kX="-25.51" kY="-25.51" z="12"/>
+      <b name="图层 15" bT="0" bi="NPC_Shawei-swsb1" x="202" y="183" kX="23.19" kY="23.19" z="13"/>
+      <b name="图层 16" bT="0" bi="NPC_Shawei-swj2" x="204.8" y="167.45" kX="0" kY="0" z="14"/>
+      <b name="图层 14" bT="0" bi="NPC_Shawei-swwq1" x="175.95" y="223.65" kX="0" kY="0" z="15"/>
+      <b name="sws1" bT="0" bi="NPC_Shawei-sws1" x="195.7" y="189.1" kX="11.28" kY="11.28" z="16"/>
+      <b name="swsz1" bT="0" bi="NPC_Shawei-swsz1" x="179.1" y="187.4" kX="14.49" kY="14.49" z="17"/>
+      <b name="图层 11" bT="0" bi="NPC_Shawei-swsz2" x="173.8" y="182.25" kX="-132.5" kY="-132.5" z="18"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="40" drTW="40" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="NPC_Shawei-yz1" dr="39"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" dr="1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Shawei-swxt1" dr="39"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Shawei-swjb1" twE="0" dr="20"/>
+          <f x="0" y="0.9" kX="1.7" kY="1.7" cX="1" cY="1" z="2" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="图层 25" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Shawei-swnb1" twE="0" dr="20"/>
+          <f x="0" y="0.6" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="图层 22" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Shawei-swst1" twE="0" dr="20"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Shawei-swdtj2" twE="0" dr="20"/>
+          <f x="0.75" y="-0.2" kX="-2.75" kY="-2.75" cX="1" cY="1" z="5" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Shawei-swdtj1" twE="0" dr="20"/>
+          <f x="-0.75" y="-0.1" kX="2.7" kY="2.7" cX="1" cY="1" z="6" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Shawei-swt1" twE="0" dr="20"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Shawei-swyj3" twE="0" dr="20"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="NPC_Shawei-swmm2" twE="0" dr="20"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="NPC_Shawei-swmm1" twE="0" dr="20"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="NPC_Shawei-swyj1" twE="0" dr="20"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="NPC_Shawei-sws2" twE="0" dr="20"/>
+          <f x="0" y="0.6" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" dr="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="NPC_Shawei-swsb1" twE="0" dr="20"/>
+          <f x="0" y="0.6" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="NPC_Shawei-swj2" twE="0" dr="20"/>
+          <f x="-0.15" y="0.9" kX="-1.48" kY="-1.48" cX="1" cY="1" z="14" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" dr="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="NPC_Shawei-swwq1" twE="0" dr="39"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" dr="1"/>
+        </b>
+        <b name="sws1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="NPC_Shawei-sws1" twE="0" dr="20"/>
+          <f x="0" y="0.6" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" dr="1"/>
+        </b>
+        <b name="swsz1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="NPC_Shawei-swsz1" twE="0" dr="39"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" dr="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="NPC_Shawei-swsz2" twE="0" dr="39"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" dr="1"/>
+        </b>
+      </mov>
+      <mov name="physical_1" to="1" dr="93" drTW="93">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="NPC_Shawei-yz1" dr="92"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" dr="1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Shawei-swxt1" dr="92"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Shawei-swjb1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-1.15" y="-1.85" kX="8.56" kY="8.56" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-0.1" y="-2.05" kX="6.76" kY="6.76" cX="1" cY="1" z="2" dr="6"/>
+          <f x="-0.1" y="-2.05" kX="6.76" kY="6.76" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="0" y="0.65" kX="0.3" kY="0.3" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="0" y="0.65" kX="0.3" kY="0.3" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-0.05" y="-0.55" kX="2.75" kY="2.75" cX="1" cY="1" z="2" dr="53"/>
+          <f x="-0.05" y="-0.55" kX="2.75" kY="2.75" cX="1" cY="1" z="2" twE="0" dr="7"/>
+          <f x="-0.1" y="-2.05" kX="6.76" kY="6.76" cX="1" cY="1" z="2" twE="0" dr="4"/>
+          <f x="-1.15" y="-1.85" kX="8.56" kY="8.56" cX="1" cY="1" z="2" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="图层 25" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Shawei-swnb1" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="-1.4" kX="0" kY="0" cX="1" cY="1" z="3" dr="6"/>
+          <f x="0" y="-1.4" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="0.8" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="0.8" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="53"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="7"/>
+          <f x="0" y="-1.4" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="图层 22" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Shawei-swst1" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="0" y="-1.4" kX="0" kY="0" cX="1" cY="1" z="4" dr="6"/>
+          <f x="0" y="-1.4" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="0" y="0.7" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="0" y="0.7" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="53"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="7"/>
+          <f x="0" y="-1.4" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Shawei-swdtj2" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="0" y="-1.6" kX="0" kY="0" cX="1" cY="1" z="5" dr="6"/>
+          <f x="0" y="-1.6" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="1.25" y="-0.25" kX="-4.71" kY="-4.71" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="1.25" y="-0.25" kX="-4.71" kY="-4.71" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="53"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="7"/>
+          <f x="0" y="-1.6" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Shawei-swdtj1" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="0" y="-1.6" kX="0" kY="0" cX="1" cY="1" z="6" dr="6"/>
+          <f x="0" y="-1.6" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-0.8" y="-0.1" kX="2.74" kY="2.74" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-0.8" y="-0.1" kX="2.74" kY="2.74" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="53"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="7"/>
+          <f x="0" y="-1.6" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Shawei-swt1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="0" y="-0.9" kX="0" kY="0" cX="1" cY="1" z="7" dr="6"/>
+          <f x="0" y="-0.9" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="0" y="1.2" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="0" y="1.2" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="7" dr="53"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="7"/>
+          <f x="0" y="-0.9" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Shawei-swyj3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0" y="-0.9" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Shawei-swyj4" dr="6"/>
+          <f x="0" y="-0.9" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0" y="1.2" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0" y="1.2" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="8" dr="53"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="7"/>
+          <f x="0" y="-0.9" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Shawei-swyj3" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="NPC_Shawei-swmm2" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="0" y="-0.1" kX="5.98" kY="5.98" cX="1" cY="1" z="9" dr="6"/>
+          <f x="0" y="-0.1" kX="5.98" kY="5.98" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="0" y="2" kX="5.98" kY="5.98" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="0" y="2" kX="5.98" kY="5.98" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="0" y="1.3" kX="5.98" kY="5.98" cX="1" cY="1" z="9" dr="53"/>
+          <f x="0" y="1.3" kX="5.98" kY="5.98" cX="1" cY="1" z="9" twE="0" dr="7"/>
+          <f x="0" y="-0.1" kX="5.98" kY="5.98" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="NPC_Shawei-swmm1" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="0" y="-0.1" kX="-3.99" kY="-3.99" cX="1" cY="1" z="10" dr="6"/>
+          <f x="0" y="-0.1" kX="-3.99" kY="-3.99" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="0" y="2" kX="-3.99" kY="-3.99" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="0" y="2" kX="-3.99" kY="-3.99" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="0" y="1.3" kX="-3.99" kY="-3.99" cX="1" cY="1" z="10" dr="53"/>
+          <f x="0" y="1.3" kX="-3.99" kY="-3.99" cX="1" cY="1" z="10" twE="0" dr="7"/>
+          <f x="0" y="-0.1" kX="-3.99" kY="-3.99" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="NPC_Shawei-swyj1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="0" y="-0.9" kX="0" kY="0" cX="1" cY="1" z="11" img="NPC_Shawei-swyj2" dr="6"/>
+          <f x="0" y="-0.9" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="0" y="1.2" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="0" y="1.2" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="11" dr="53"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="7"/>
+          <f x="0" y="-0.9" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="11" img="NPC_Shawei-swyj1" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="NPC_Shawei-sws2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="0.1" y="-6.3" kX="-12.7" kY="-12.7" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-3.1" y="-2.6" kX="11.49" kY="11.49" cX="1" cY="1" z="12" dr="6"/>
+          <f x="-3.1" y="-2.6" kX="11.49" kY="11.49" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-2.4" y="2.7" kX="19.7" kY="19.7" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-2.4" y="2.7" kX="19.7" kY="19.7" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-2.4" y="1.3" kX="19.7" kY="19.7" cX="1" cY="1" z="12" dr="53"/>
+          <f x="-2.4" y="1.3" kX="19.7" kY="19.7" cX="1" cY="1" z="12" twE="0" dr="7"/>
+          <f x="-3.1" y="-2.6" kX="11.49" kY="11.49" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="0.1" y="-6.3" kX="-12.7" kY="-12.7" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" dr="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="NPC_Shawei-swsb1" twE="0" dr="3"/>
+          <f x="-0.5" y="-0.4" kX="6.23" kY="6.23" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-1.15" y="-0.25" kX="9.23" kY="9.23" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-2.7" y="-1.25" kX="3.46" kY="3.46" cX="1" cY="1" z="13" dr="6"/>
+          <f x="-2.7" y="-1.25" kX="3.46" kY="3.46" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-2.9" y="0.4" kX="5.47" kY="5.47" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-2.9" y="0.4" kX="5.47" kY="5.47" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-3.1" y="-0.45" kX="8.21" kY="8.21" cX="1" cY="1" z="13" dr="53"/>
+          <f x="-3.1" y="-0.45" kX="8.21" kY="8.21" cX="1" cY="1" z="13" twE="0" dr="7"/>
+          <f x="-2.7" y="-1.25" kX="3.46" kY="3.46" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="-1.15" y="-0.25" kX="9.23" kY="9.23" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="NPC_Shawei-swj2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="0.15" y="0.35" kX="3" kY="3" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="0.4" y="-2.15" kX="-4.2" kY="-4.2" cX="1" cY="1" z="14" dr="6"/>
+          <f x="0.4" y="-2.15" kX="-4.2" kY="-4.2" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="0" y="0.7" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="0" y="0.7" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="-0.1" y="-0.35" kX="-1.45" kY="-1.45" cX="1" cY="1" z="14" dr="53"/>
+          <f x="-0.1" y="-0.35" kX="-1.45" kY="-1.45" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="0.4" y="-2.15" kX="-4.2" kY="-4.2" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="0.15" y="0.35" kX="3" kY="3" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" dr="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="NPC_Shawei-swwq1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="-20.2" y="-12.05" kX="39.71" kY="39.71" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="-3.55" y="-72.7" kX="180" kY="180" cX="1" cY="1" z="15" dr="6"/>
+          <f x="-3.55" y="-72.7" kX="180" kY="180" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="-4.1" y="-67.4" kX="180" kY="180" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="-4.1" y="-67.4" kX="180" kY="180" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="-4.1" y="-68.8" kX="180" kY="180" cX="1" cY="1" z="15" dr="53"/>
+          <f x="-4.1" y="-68.8" kX="180" kY="180" cX="1" cY="1" z="15" twE="0" dr="7"/>
+          <f x="-3.55" y="-72.7" kX="180" kY="180" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="-20.2" y="-12.05" kX="39.71" kY="39.71" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" dr="1"/>
+        </b>
+        <b name="sws1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="NPC_Shawei-sws1" twE="0" dr="3"/>
+          <f x="-1.75" y="1.4" kX="-18.4" kY="-18.4" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="-2.55" y="-0.1" kX="-14.15" kY="-14.15" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="-6.45" y="-2.4" kX="0.49" kY="0.49" cX="1" cY="1" z="16" dr="6"/>
+          <f x="-6.45" y="-2.4" kX="0.49" kY="0.49" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="-7" y="1.4" kX="-8.74" kY="-8.74" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="-7" y="1.4" kX="-8.74" kY="-8.74" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="-7" y="0" kX="-8.74" kY="-8.74" cX="1" cY="1" z="16" dr="53"/>
+          <f x="-7" y="0" kX="-8.74" kY="-8.74" cX="1" cY="1" z="16" twE="0" dr="7"/>
+          <f x="-6.45" y="-2.4" kX="0.49" kY="0.49" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="-2.55" y="-0.1" kX="-14.15" kY="-14.15" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="1"/>
+        </b>
+        <b name="swsz1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="NPC_Shawei-swsz1" twE="0" dr="3"/>
+          <f x="-3.1" y="6.9" kX="-18.71" kY="-18.71" cX="1" cY="1" z="17" img="NPC_Shawei-swsz3" twE="0" dr="3"/>
+          <f x="-4.25" y="1.9" kX="9.76" kY="9.76" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="-6.55" y="-1.35" kX="-8.74" kY="-8.74" cX="1" cY="1" z="17" img="NPC_Shawei-swsz4" dr="6"/>
+          <f x="-6.55" y="-1.35" kX="-8.74" kY="-8.74" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="-7.1" y="3.95" kX="-8.74" kY="-8.74" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="-7.1" y="3.95" kX="-8.74" kY="-8.74" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="-7.1" y="2.55" kX="-8.74" kY="-8.74" cX="1" cY="1" z="17" dr="53"/>
+          <f x="-7.1" y="2.55" kX="-8.74" kY="-8.74" cX="1" cY="1" z="17" twE="0" dr="7"/>
+          <f x="-6.55" y="-1.35" kX="-8.74" kY="-8.74" cX="1" cY="1" z="17" twE="0" dr="4"/>
+          <f x="-4.25" y="1.9" kX="9.76" kY="9.76" cX="1" cY="1" z="17" img="NPC_Shawei-swsz3" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="NPC_Shawei-swsz1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="NPC_Shawei-swsz2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="3"/>
+          <f x="-2" y="-10.3" kX="-30.65" kY="-30.65" cX="1" cY="1" z="18" twE="0" dr="3"/>
+          <f x="-5.6" y="0.95" kX="6.53" kY="6.53" cX="1" cY="1" z="18" img="NPC_Shawei-swsz5" dr="6"/>
+          <f x="-5.6" y="0.95" kX="6.53" kY="6.53" cX="1" cY="1" z="18" twE="0" dr="3"/>
+          <f x="-5" y="7.15" kX="6.53" kY="6.53" cX="1" cY="1" z="18" twE="0" dr="3"/>
+          <f x="-5" y="7.15" kX="6.53" kY="6.53" cX="1" cY="1" z="18" twE="0" dr="3"/>
+          <f x="-5" y="5.75" kX="6.53" kY="6.53" cX="1" cY="1" z="18" dr="53"/>
+          <f x="-5" y="5.75" kX="6.53" kY="6.53" cX="1" cY="1" z="18" twE="0" dr="7"/>
+          <f x="-5.6" y="0.95" kX="6.53" kY="6.53" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="-2" y="-10.3" kX="-30.65" kY="-30.65" cX="1" cY="1" z="18" img="NPC_Shawei-swsz2" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="沙威" width="512" height="128">
+    <SubTexture name="NPC_Shawei-yz1" x="127" y="0" width="71" height="20" pX="5.8" pY="3.3"/>
+    <SubTexture name="NPC_Shawei-swxt1" x="0" y="0" width="59" height="67" pX="28.6" pY="32.75"/>
+    <SubTexture name="NPC_Shawei-swjb1" x="273" y="0" width="25" height="42" pX="11.55" pY="20.25"/>
+    <SubTexture name="NPC_Shawei-swnb1" x="315" y="0" width="16" height="34" pX="7.15" pY="16.1"/>
+    <SubTexture name="NPC_Shawei-swst1" x="88" y="0" width="38" height="56" pX="18.45" pY="22.1"/>
+    <SubTexture name="NPC_Shawei-swdtj2" x="299" y="0" width="15" height="41" pX="6.75" pY="19.75"/>
+    <SubTexture name="NPC_Shawei-swdtj1" x="332" y="0" width="8" height="39" pX="3.5" pY="18.65"/>
+    <SubTexture name="NPC_Shawei-swt1" x="199" y="0" width="39" height="44" pX="18.95" pY="21.5"/>
+    <SubTexture name="NPC_Shawei-swyj3" x="485" y="7" width="6" height="5" pX="2.5" pY="2"/>
+    <SubTexture name="NPC_Shawei-swmm2" x="497" y="0" width="9" height="5" pX="3.75" pY="2"/>
+    <SubTexture name="NPC_Shawei-swmm1" x="485" y="0" width="11" height="6" pX="4.95" pY="2.15"/>
+    <SubTexture name="NPC_Shawei-swyj1" x="497" y="6" width="8" height="6" pX="3.4" pY="2.1"/>
+    <SubTexture name="NPC_Shawei-sws2" x="368" y="0" width="20" height="14" pX="9" pY="6.25"/>
+    <SubTexture name="NPC_Shawei-swsb1" x="455" y="0" width="14" height="16" pX="6.3" pY="7.2"/>
+    <SubTexture name="NPC_Shawei-swj2" x="239" y="0" width="33" height="36" pX="15.7" pY="17.45"/>
+    <SubTexture name="NPC_Shawei-swwq1" x="60" y="0" width="27" height="90" pX="12.9" pY="42.2"/>
+    <SubTexture name="NPC_Shawei-sws1" x="341" y="0" width="26" height="15" pX="12.45" pY="6.7"/>
+    <SubTexture name="NPC_Shawei-swsz1" x="389" y="0" width="16" height="17" pX="7.45" pY="7.6"/>
+    <SubTexture name="NPC_Shawei-swsz2" x="406" y="0" width="15" height="17" pX="6.65" pY="7.65"/>
+    <SubTexture name="NPC_Shawei-swyj4" x="485" y="13" width="6" height="2" pX="2.4" pY="-0.5"/>
+    <SubTexture name="NPC_Shawei-swyj2" x="492" y="13" width="8" height="2" pX="3.55" pY="-0.5"/>
+    <SubTexture name="NPC_Shawei-swsz3" x="470" y="0" width="14" height="14" pX="5.1" pY="8.9"/>
+    <SubTexture name="NPC_Shawei-swsz4" x="438" y="0" width="16" height="14" pX="6.65" pY="9.65"/>
+    <SubTexture name="NPC_Shawei-swsz5" x="422" y="0" width="15" height="17" pX="6.7" pY="7.65"/>
+  </TextureAtlas>
+</skeleton>

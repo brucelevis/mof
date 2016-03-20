@@ -1,0 +1,35 @@
+<skeleton name="蝎子座buff">
+  <armatures>
+    <armature name="fengshabuff">
+      <b name="图层 1" bT="0" bi="Scorpio_skill-scr1" x="0.35" y="-3.15" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="fengshabuff">
+      <mov name="fengshabuff" to="1" dr="18" drTW="18" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Scorpio_skill-scr1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Scorpio_skill-scr2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Scorpio_skill-scr3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Scorpio_skill-scr4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Scorpio_skill-scr5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Scorpio_skill-scr6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Scorpio_skill-scr7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Scorpio_skill-scr8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Scorpio_skill-scr9" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="蝎子座buff" width="512" height="1024">
+    <SubTexture name="Scorpio_skill-scr1" x="190" y="613" width="192" height="148" pX="98" pY="64.5"/>
+    <SubTexture name="Scorpio_skill-scr2" x="204" y="312" width="200" height="148" pX="96" pY="67.5"/>
+    <SubTexture name="Scorpio_skill-scr3" x="195" y="461" width="191" height="151" pX="96" pY="66.5"/>
+    <SubTexture name="Scorpio_skill-scr4" x="0" y="314" width="194" height="148" pX="96" pY="63.5"/>
+    <SubTexture name="Scorpio_skill-scr5" x="0" y="463" width="189" height="151" pX="95" pY="66.5"/>
+    <SubTexture name="Scorpio_skill-scr6" x="0" y="158" width="203" height="155" pX="97" pY="70.5"/>
+    <SubTexture name="Scorpio_skill-scr7" x="212" y="0" width="204" height="159" pX="103" pY="74.5"/>
+    <SubTexture name="Scorpio_skill-scr8" x="0" y="0" width="211" height="157" pX="106" pY="74.5"/>
+    <SubTexture name="Scorpio_skill-scr9" x="204" y="160" width="201" height="151" pX="103" pY="71.5"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,68 @@
+<skeleton name="结算光效">
+  <armatures>
+    <armature name="jiesuanguangxiao">
+      <b name="Layer 1 复制4510" bT="0" bi="jiesuanUI-888" x="-26.35" y="22.95" kX="-0.19" kY="179.72" z="0"/>
+      <b name="Layer 1 复制45100" bT="0" bi="jiesuanUI-888" x="22.65" y="-16.05" kX="-0.19" kY="179.72" z="1"/>
+      <b name="Layer 1 复制45101" bT="0" bi="jiesuanUI-888" x="27.65" y="12.4" kX="-0.19" kY="179.72" z="2"/>
+      <b name="Layer 1 复制45102" bT="0" bi="jiesuanUI-888" x="-27.35" y="-19.6" kX="-0.19" kY="179.72" z="2"/>
+      <b name="Layer 1 复制45103" bT="0" bi="jiesuanUI-888" x="-7.25" y="-24.55" kX="-0.19" kY="179.72" z="4"/>
+      <b name="图层 1" bT="0" bi="jiesuanUI-888" x="-8.1" y="21.65" kX="-0.19" kY="179.72" z="2"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="jiesuanguangxiao">
+      <mov name="jiesuanguangxiao" to="1" dr="26" drTW="26" lp="0">
+        <b name="Layer 1 复制4510" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.78" z="0" img="jiesuanUI-888" twE="0" dr="4"/>
+          <f x="16.65" y="-15.5" kX="0.01" kY="0" cX="2.28" cY="2.81" z="0" twE="0" dr="1"/>
+          <f x="15.8" y="-14.35" kX="0.01" kY="0" cX="2.11" cY="2.6" z="0" twE="0" dr="5"/>
+          <f x="9.1" y="-6.35" kX="0.01" kY="0.01" cX="0.28" cY="0.34" z="0" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="Layer 1 复制45100" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.78" z="1" img="jiesuanUI-888" twE="0" dr="5"/>
+          <f x="16.65" y="-15.5" kX="0.01" kY="0" cX="2.28" cY="2.81" z="1" twE="0" dr="1"/>
+          <f x="15.8" y="-14.35" kX="0.01" kY="0" cX="2.11" cY="2.6" z="0" twE="0" dr="5"/>
+          <f x="9.1" y="-6.35" kX="0.01" kY="0.01" cX="0.28" cY="0.34" z="0" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="Layer 1 复制45101" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.78" z="2" img="jiesuanUI-888" twE="0" dr="5"/>
+          <f x="16.65" y="-15.5" kX="0.01" kY="0" cX="2.28" cY="2.81" z="1" twE="0" dr="1"/>
+          <f x="15.8" y="-14.35" kX="0.01" kY="0" cX="2.11" cY="2.6" z="0" twE="0" dr="6"/>
+          <f x="8.1" y="-5.35" kX="0.01" kY="0.01" cX="0.28" cY="0.34" z="0" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="Layer 1 复制45102" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.78" z="2" img="jiesuanUI-888" twE="0" dr="5"/>
+          <f x="16.65" y="-15.5" kX="0.01" kY="0" cX="2.28" cY="2.81" z="2" twE="0" dr="1"/>
+          <f x="15.8" y="-14.35" kX="0.01" kY="0" cX="2.11" cY="2.6" z="0" twE="0" dr="5"/>
+          <f x="9.1" y="-6.35" kX="0.01" kY="0.01" cX="0.28" cY="0.34" z="0" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer 1 复制45103" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.76" cY="0.94" z="4" img="jiesuanUI-888" twE="0" dr="5"/>
+          <f x="20" y="-18.6" kX="0.01" kY="0" cX="2.74" cY="3.37" z="4" twE="0" dr="1"/>
+          <f x="18.95" y="-17.25" kX="0.01" kY="0" cX="2.54" cY="3.12" z="2" twE="0" dr="5"/>
+          <f x="12.1" y="-8.85" kX="0.01" kY="0.01" cX="0.33" cY="0.41" z="2" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="1.13" z="2" img="jiesuanUI-888" twE="0" dr="5"/>
+          <f x="24" y="-22.35" kX="0.01" kY="0" cX="3.28" cY="4.04" z="2" twE="0" dr="1"/>
+          <f x="22.75" y="-20.7" kX="0.01" kY="0" cX="3.04" cY="3.75" z="0" twE="0" dr="5"/>
+          <f x="14.35" y="-10.45" kX="0.01" kY="0.01" cX="0.4" cY="0.49" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="结算光效" width="512" height="16">
+    <SubTexture name="jiesuanUI-888" x="0" y="0" width="13" height="12" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

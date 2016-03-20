@@ -1,0 +1,1047 @@
+<skeleton name="男新版时装4（圣诞）2(10)">
+  <armatures>
+    <armature name="stand">
+      <b name="图层 58" bT="0" bi="Christmasdress_man-yz1" x="155.7" y="253" kX="0" kY="0" z="0"/>
+      <b name="图层 57" bT="0" bi="Christmasdress_man-qunz-1" x="175.7" y="193" kX="0" kY="0" z="1"/>
+      <b name="sz4-2a-2" bT="0" bi="Christmasdress_man-sz4-2a-2" x="189.9" y="161.35" kX="-6.58" kY="-6.58" z="2"/>
+      <b name="sz4-4a-2" bT="0" bi="Christmasdress_man-sz4-4a-2" x="199.75" y="193.7" kX="-11.24" kY="-11.24" z="3"/>
+      <b name="sz4-3a-2" bT="0" bi="Christmasdress_man-sz4-3a-2" x="191" y="182.7" kX="-21.99" kY="-21.99" z="4"/>
+      <b name="sz4-5a-1" bT="0" bi="Christmasdress_man-sz4-5a-1" x="182.95" y="191.65" kX="5.87" kY="5.87" z="5"/>
+      <b name="sz4-6a-1" bT="0" bi="Christmasdress_man-sz4-6a-1" x="181.05" y="227.05" kX="2.71" kY="2.71" z="6"/>
+      <b name="sz4-7a-1" bT="0" bi="Christmasdress_man-sz4-7a-1" x="183.35" y="241.8" kX="0" kY="0" z="7"/>
+      <b name="sz4-5a-2" bT="0" bi="Christmasdress_man-sz4-5a-2" x="171.65" y="186.35" kX="12.84" kY="12.84" z="8"/>
+      <b name="sz4-6a-2" bT="0" bi="Christmasdress_man-sz4-6a-2" x="161.7" y="225.45" kX="10.9" kY="10.9" z="9"/>
+      <b name="sz4-7a-2" bT="0" bi="Christmasdress_man-sz4-7a-2" x="159.2" y="245.75" kX="0" kY="0" z="10"/>
+      <b name="图层 47" bT="0" bi="Christmasdress_man-jsnan3-79a-1" x="176.25" y="188.9" kX="-0.39" kY="-0.98" z="11"/>
+      <b name="sz4-qz1-1" bT="0" bi="Christmasdress_man-sz4-qz1-1" x="189.15" y="188.4" kX="-13.29" kY="-13.29" z="12"/>
+      <b name="sz4-qz2-1" bT="0" bi="Christmasdress_man-sz4-qz2-1" x="170.75" y="179.95" kX="21.42" kY="21.42" z="13"/>
+      <b name="sz4-8a-1" bT="0" bi="Christmasdress_man-sz4-8a-1" x="171.65" y="156" kX="0" kY="0" z="14"/>
+      <b name="sz4-pd-1" bT="0" bi="Christmasdress_man-sz4-pd-1" x="175.25" y="184.65" kX="0" kY="0" z="15"/>
+      <b name="sz4-yl2-1" bT="0" bi="Christmasdress_man-sz4-yl2-1" x="193.25" y="151.7" kX="35.52" kY="35.52" z="16"/>
+      <b name="sz4-bm1-1" bT="0" bi="Christmasdress_man-sz4-bm1-1" x="149.4" y="88.45" kX="0" kY="0" z="17"/>
+      <b name="sz4-1a-1" bT="0" bi="Christmasdress_man-sz4-1a-1" x="155.75" y="98.75" kX="0" kY="0" z="18"/>
+      <b name="sz4-yj1-2" bT="0" bi="Christmasdress_man-sz4-yj2-1" x="196.5" y="134.7" kX="0" kY="0" z="19"/>
+      <b name="sz4-yj1-1" bT="0" bi="Christmasdress_man-sz4-yj1-1" x="177.45" y="132.75" kX="0" kY="0" z="20"/>
+      <b name="sz4-tf1-1" bT="0" bi="Christmasdress_man-sz4-tf1-1" x="194.55" y="127.1" kX="-2.74" kY="-2.74" z="21"/>
+      <b name="sz4-yl1-1" bT="0" bi="Christmasdress_man-sz4-yl1-1" x="172.15" y="154" kX="0" kY="0" z="22"/>
+      <b name="sz4-bm2-1" bT="0" bi="Christmasdress_man-sz4-bm2-1" x="158.9" y="153.55" kX="0" kY="0" z="23"/>
+      <b name="sz4-2a-1" bT="0" bi="Christmasdress_man-sz4-2a-1" x="167.3" y="160.5" kX="21.75" kY="21.75" z="24"/>
+      <b name="图层 32" bT="0" bi="Christmasdress_man-sz4-bm3-1" x="162.25" y="159.15" kX="0" kY="0" z="25"/>
+      <b name="sz4-4a-1" bT="0" bi="Christmasdress_man-sz4-4a-1" x="168.85" y="183.55" kX="0" kY="0" z="26"/>
+      <b name="sz4-3a-1" bT="0" bi="Christmasdress_man-sz4-3a-0" x="164.7" y="178.55" kX="32.42" kY="32.42" z="27"/>
+      <b name="图层 29" bT="0" bi="Christmasdress_man-888ex" x="210.45" y="155.35" kX="-42.93" kY="136.97" z="28"/>
+      <b name="图层 28" bT="0" bi="Christmasdress_man-888ex" x="216.3" y="114.4" kX="-42.93" kY="136.98" z="29"/>
+      <b name="图层 27" bT="0" bi="Christmasdress_man-888ex" x="192" y="65.55" kX="42.46" kY="42.47" z="30"/>
+      <b name="图层 26" bT="0" bi="Christmasdress_man-888ex" x="202.8" y="34.65" kX="-42.46" kY="137.53" z="31"/>
+      <b name="图层 25" bT="0" bi="Christmasdress_man-888ex" x="203.9" y="84.45" kX="42.93" kY="43.02" z="32"/>
+      <b name="xue268 复制" bT="0" bi="Christmasdress_man-xue" x="209.6" y="92.75" kX="3.5" kY="-176.5" z="33"/>
+      <b name="xue268 复制0" bT="0" bi="Christmasdress_man-xue" x="168" y="59.3" kX="3.5" kY="-176.5" z="33"/>
+      <b name="xue268 复制1" bT="0" bi="Christmasdress_man-xue" x="206.45" y="126.3" kX="-3.5" kY="-3.5" z="34"/>
+      <b name="xue268 复制2" bT="0" bi="Christmasdress_man-xue" x="138" y="144.8" kX="-3.5" kY="-3.5" z="35"/>
+      <b name="xue268 复制3" bT="0" bi="Christmasdress_man-xue" x="188" y="162.8" kX="3.5" kY="-176.5" z="36"/>
+      <b name="xue268 复制4" bT="0" bi="Christmasdress_man-xue" x="154.2" y="32.45" kX="-3.5" kY="-3.5" z="37"/>
+      <b name="xue268 复制5" bT="0" bi="Christmasdress_man-xue" x="237.7" y="154.5" kX="-3.5" kY="-3.5" z="38"/>
+      <b name="xue268 复制6" bT="0" bi="Christmasdress_man-xue" x="146.1" y="0.45" kX="3.5" kY="-176.5" z="39"/>
+      <b name="xue268 复制7" bT="0" bi="Christmasdress_man-xue" x="210.25" y="-11.05" kX="-3.5" kY="-3.5" z="40"/>
+      <b name="xue268 复制8" bT="0" bi="Christmasdress_man-xue" x="186.25" y="27.95" kX="-3.5" kY="-3.5" z="41"/>
+      <b name="图层 14" bT="0" bi="Christmasdress_man-888ex" x="223.4" y="25.75" kX="-0.18" kY="179.72" z="39"/>
+      <b name="图层 13" bT="0" bi="Christmasdress_man-888ex" x="233.9" y="95.3" kX="-0.18" kY="179.72" z="41"/>
+      <b name="图层 12" bT="0" bi="Christmasdress_man-888ex" x="124.1" y="47.55" kX="0.18" kY="0.28" z="38"/>
+      <b name="图层 11" bT="0" bi="Christmasdress_man-888ex" x="204.5" y="5.1" kX="0.18" kY="0.28" z="44"/>
+      <b name="图层 10" bT="0" bi="Christmasdress_man-888ex" x="142.7" y="145.25" kX="0.18" kY="0.28" z="46"/>
+      <b name="图层 9" bT="0" bi="Christmasdress_man-888ex" x="141.5" y="21.7" kX="0.18" kY="0.28" z="43"/>
+      <b name="图层 8" bT="0" bi="Christmasdress_man-888ex" x="131.3" y="185.55" kX="0.18" kY="0.28" z="44"/>
+      <b name="图层 7" bT="0" bi="Christmasdress_man-888ex" x="215.25" y="156.6" kX="0.18" kY="0.28" z="45"/>
+      <b name="图层 6" bT="0" bi="Christmasdress_man-888ex" x="186.85" y="152.8" kX="0.18" kY="0.28" z="47"/>
+      <b name="图层 5" bT="0" bi="Christmasdress_man-888ex" x="148.45" y="131.55" kX="0.18" kY="0.28" z="45"/>
+      <b name="图层 4" bT="0" bi="Christmasdress_man-888ex" x="194.55" y="107.6" kX="0.18" kY="0.28" z="49"/>
+    </armature>
+    <armature name="run">
+      <b name="图层 35" bT="0" bi="Christmasdress_man-yz1" x="155.7" y="253" kX="0" kY="0" z="0"/>
+      <b name="图层 7" bT="0" bi="Christmasdress_man-qunz-1" x="175.95" y="191.25" kX="0" kY="0" z="1"/>
+      <b name="sz4-2a-2" bT="0" bi="Christmasdress_man-sz4-2a-2" x="190.3" y="159.5" kX="-5.67" kY="-5.67" z="2"/>
+      <b name="sz4-4a-2" bT="0" bi="Christmasdress_man-sz4-4a-2" x="199.6" y="192" kX="-10.33" kY="-10.33" z="3"/>
+      <b name="sz4-3a-2" bT="0" bi="Christmasdress_man-sz4-3a-2" x="191.05" y="180.9" kX="-21.08" kY="-21.08" z="4"/>
+      <b name="sz4-5a-1" bT="0" bi="Christmasdress_man-sz4-5a-1" x="183.25" y="195.6" kX="-23" kY="-23" z="5"/>
+      <b name="sz4-6a-1" bT="0" bi="Christmasdress_man-sz4-6a-1" x="197.55" y="216.35" kX="25.95" kY="25.95" z="6"/>
+      <b name="sz4-7a-1" bT="0" bi="Christmasdress_man-sz4-7a-1" x="193.8" y="230.8" kX="23.24" kY="23.24" z="7"/>
+      <b name="sz4-5a-2" bT="0" bi="Christmasdress_man-sz4-5a-2" x="169.5" y="188.45" kX="2.53" kY="2.53" z="8"/>
+      <b name="sz4-6a-2" bT="0" bi="Christmasdress_man-sz4-6a-1" x="166.7" y="226.65" kX="2.34" kY="2.34" z="9"/>
+      <b name="sz4-7a-2" bT="0" bi="Christmasdress_man-sz4-7a-1" x="168.8" y="244.1" kX="-1.55" kY="-1.55" z="10"/>
+      <b name="图层 6" bT="0" bi="Christmasdress_man-jsnan3-79a-1" x="176" y="187.4" kX="-0.39" kY="-0.98" z="11"/>
+      <b name="sz4-qz1-1" bT="0" bi="Christmasdress_man-sz4-qz1-1" x="188.1" y="188.15" kX="-32.89" kY="-32.89" z="12"/>
+      <b name="sz4-qz2-1" bT="0" bi="Christmasdress_man-sz4-qz2-1" x="170.75" y="178.1" kX="21.61" kY="21.61" z="13"/>
+      <b name="sz4-8a-1" bT="0" bi="Christmasdress_man-sz4-8a-1" x="172.1" y="153.85" kX="0.91" kY="0.91" z="14"/>
+      <b name="sz4-pd-1" bT="0" bi="Christmasdress_man-sz4-pd-1" x="175.2" y="182.9" kX="-0.32" kY="-0.32" z="15"/>
+      <b name="sz4-yl2-1" bT="0" bi="Christmasdress_man-sz4-yl2-1" x="193.8" y="149.95" kX="36.43" kY="36.43" z="16"/>
+      <b name="sz4-bm1-1" bT="0" bi="Christmasdress_man-sz4-bm1-1" x="150.95" y="85.95" kX="0.91" kY="0.91" z="17"/>
+      <b name="sz4-1a-1" bT="0" bi="Christmasdress_man-sz4-1a-1" x="157.15" y="96.4" kX="0.91" kY="0.91" z="18"/>
+      <b name="sz4-yj1-2" bT="0" bi="Christmasdress_man-sz4-yj2-1" x="197.3" y="132.95" kX="0.91" kY="0.91" z="19"/>
+      <b name="sz4-yj1-1" bT="0" bi="Christmasdress_man-sz4-yj1-1" x="178.25" y="130.7" kX="0.91" kY="0.91" z="20"/>
+      <b name="sz4-tf1-1" bT="0" bi="Christmasdress_man-sz4-tf1-1" x="195.45" y="125.25" kX="-1.83" kY="-1.83" z="21"/>
+      <b name="sz4-yl1-1" bT="0" bi="Christmasdress_man-sz4-yl1-1" x="172.65" y="151.9" kX="0.91" kY="0.91" z="22"/>
+      <b name="sz4-bm2-1" bT="0" bi="Christmasdress_man-sz4-bm2-1" x="159.4" y="151.2" kX="0.91" kY="0.91" z="23"/>
+      <b name="sz4-2a-1" bT="0" bi="Christmasdress_man-sz4-2a-1" x="167.65" y="158.3" kX="22.66" kY="22.66" z="24"/>
+      <b name="图层 2" bT="0" bi="Christmasdress_man-sz4-bm3-1" x="162.55" y="156.95" kX="0" kY="0" z="25"/>
+      <b name="sz4-4a-1" bT="0" bi="Christmasdress_man-sz4-4a-1" x="168.8" y="181.8" kX="-0.32" kY="-0.32" z="26"/>
+      <b name="sz4-3a-1" bT="0" bi="Christmasdress_man-sz4-3a-0" x="164.95" y="176.25" kX="34.81" kY="34.81" z="27"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="109" drTW="109" lp="1">
+        <b name="图层 58" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Christmasdress_man-yz1" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="图层 57" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Christmasdress_man-qunz-1" twE="0" dr="18"/>
+          <f x="0" y="-1.4" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="5"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="8"/>
+          <f x="-4.15" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="-4.15" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="13"/>
+          <f x="-4.15" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="18"/>
+          <f x="0" y="-1.4" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="sz4-2a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Christmasdress_man-sz4-2a-2" twE="0" dr="18"/>
+          <f x="0.15" y="-2" kX="1.97" kY="1.97" cX="1" cY="1" z="2" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="5"/>
+          <f x="0.25" y="2.15" kX="-8.15" kY="-8.15" cX="1" cY="1" z="2" twE="0" dr="8"/>
+          <f x="2" y="3.9" kX="-144.35" kY="-144.35" cX="1" cY="1" z="2" twE="0" dr="2"/>
+          <f x="2.15" y="4.1" kX="-142.65" kY="-142.65" cX="1" cY="1" z="2" dr="13"/>
+          <f x="2.15" y="4.1" kX="-142.65" kY="-142.65" cX="1" cY="1" z="2" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="18"/>
+          <f x="0.15" y="-2" kX="1.97" kY="1.97" cX="1" cY="1" z="2" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="sz4-4a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Christmasdress_man-sz4-4a-2" twE="0" dr="18"/>
+          <f x="-1.6" y="-0.45" kX="4.17" kY="4.17" cX="1" cY="1" z="3" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+          <f x="2.8" y="1.95" kX="-7.06" kY="-7.06" cX="1" cY="1" z="3" img="Christmasdress_man-sz4-4a-6" twE="0" dr="4"/>
+          <f x="14.3" y="-2.85" kX="-42.85" kY="-42.85" cX="1" cY="1" z="3" twE="0" dr="2"/>
+          <f x="23.05" y="-16.1" kX="-68.74" kY="-68.74" cX="1" cY="1" z="3" twE="0" dr="2"/>
+          <f x="24.95" y="-33.7" kX="-94.58" kY="-94.58" cX="1" cY="1" z="3" twE="0" dr="2"/>
+          <f x="18.95" y="-49.35" kX="-111.4" kY="-111.4" cX="1" cY="1" z="3" img="Christmasdress_man-sz4-4a-7" twE="0" dr="2"/>
+          <f x="7.25" y="-62.65" kX="-134.4" kY="-134.4" cX="1" cY="1" z="3" twE="0" dr="2"/>
+          <f x="9.05" y="-62.1" kX="-142.16" kY="-142.16" cX="1" cY="1" z="3" dr="13"/>
+          <f x="9.05" y="-62.1" kX="-142.16" kY="-142.16" cX="1" cY="1" z="3" twE="0" dr="5"/>
+          <f x="22.7" y="-25.1" kX="-71.21" kY="-71.21" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="10.75" y="-8.1" kX="-28.39" kY="-28.39" cX="1" cY="1" z="3" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Christmasdress_man-sz4-4a-2" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="18"/>
+          <f x="-1.6" y="-0.45" kX="4.17" kY="4.17" cX="1" cY="1" z="3" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="sz4-3a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Christmasdress_man-sz4-3a-2" twE="0" dr="18"/>
+          <f x="-0.55" y="-2.25" kX="4.17" kY="4.17" cX="1" cY="1" z="4" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="3.75" y="3.5" kX="-40.62" kY="-40.62" cX="1.09" cY="1.27" z="4" twE="0" dr="2"/>
+          <f x="12.6" y="-1.55" kX="-64.97" kY="-64.97" cX="1.09" cY="1.27" z="4" twE="0" dr="2"/>
+          <f x="17.9" y="-11.15" kX="-89.07" kY="-89.07" cX="1.09" cY="1.27" z="4" twE="0" dr="2"/>
+          <f x="17.55" y="-22.95" kX="-112.11" kY="-112.1" cX="1.09" cY="1.27" z="4" twE="0" dr="2"/>
+          <f x="12.3" y="-33.55" kX="-134.98" kY="-134.97" cX="1.09" cY="1.27" z="4" twE="0" dr="2"/>
+          <f x="12.95" y="-33.05" kX="-133.27" kY="-133.27" cX="1.09" cY="1.27" z="4" dr="13"/>
+          <f x="12.95" y="-33.05" kX="-133.27" kY="-133.27" cX="1.09" cY="1.27" z="4" twE="0" dr="5"/>
+          <f x="15.4" y="-10.9" kX="-66.73" kY="-66.73" cX="1.04" cY="1.14" z="4" twE="0" dr="3"/>
+          <f x="7.3" y="-2.25" kX="-26.66" kY="-26.66" cX="1.02" cY="1.05" z="4" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="18"/>
+          <f x="-0.55" y="-2.25" kX="4.17" kY="4.17" cX="1" cY="1" z="4" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="sz4-5a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="Christmasdress_man-sz4-5a-1" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="-0.05" y="1.7" kX="-1.2" kY="-1.2" cX="1" cY="1" z="5" twE="0" dr="8"/>
+          <f x="-4.3" y="0.95" kX="-5" kY="-5" cX="1" cY="1" z="5" twE="0" dr="2"/>
+          <f x="-4.3" y="0.95" kX="-5" kY="-5" cX="1" cY="1" z="5" dr="13"/>
+          <f x="-4.3" y="0.95" kX="-5" kY="-5" cX="1" cY="1" z="5" twE="0" dr="10"/>
+          <f x="0" y="0.05" kX="-0.45" kY="-0.45" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f x="0" y="0.05" kX="-0.45" kY="-0.45" cX="1" cY="1" z="5" twE="0" dr="18"/>
+          <f x="0" y="0.05" kX="-0.45" kY="-0.45" cX="1" cY="1" z="5" twE="0" dr="16"/>
+          <f x="0" y="0.05" kX="-0.45" kY="-0.45" cX="1" cY="1" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="sz4-6a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Christmasdress_man-sz4-6a-1" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="5"/>
+          <f x="0.85" y="-0.3" kX="2.24" kY="2.24" cX="1" cY="1" z="6" twE="0" dr="8"/>
+          <f x="-1.9" y="0.8" kX="-5.23" kY="-5.23" cX="1" cY="1" z="6" twE="0" dr="2"/>
+          <f x="-1.9" y="0.8" kX="-5.23" kY="-5.23" cX="1" cY="1" z="6" dr="13"/>
+          <f x="-1.9" y="0.8" kX="-5.23" kY="-5.23" cX="1" cY="1" z="6" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="sz4-7a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Christmasdress_man-sz4-7a-1" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="sz4-5a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Christmasdress_man-sz4-5a-2" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="-0.2" y="1.85" kX="-1.73" kY="-1.73" cX="1" cY="1" z="8" twE="0" dr="8"/>
+          <f x="-4.7" y="0.95" kX="-4.46" kY="-4.46" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="-4.7" y="0.95" kX="-4.46" kY="-4.46" cX="1" cY="1" z="8" twE="0" dr="13"/>
+          <f x="-4.7" y="0.95" kX="-4.46" kY="-4.46" cX="1" cY="1" z="8" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="sz4-6a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Christmasdress_man-sz4-6a-2" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="5"/>
+          <f x="0.95" y="-0.2" kX="1.98" kY="1.98" cX="1" cY="1" z="9" twE="0" dr="8"/>
+          <f x="-1.35" y="0.35" kX="-3" kY="-3" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="-1.35" y="0.35" kX="-3" kY="-3" cX="1" cY="1" z="9" dr="13"/>
+          <f x="-1.35" y="0.35" kX="-3" kY="-3" cX="1" cY="1" z="9" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="sz4-7a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Christmasdress_man-sz4-7a-2" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="图层 47" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="Christmasdress_man-jsnan3-79a-1" twE="0" dr="18"/>
+          <f x="0" y="-0.45" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="5"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="8"/>
+          <f x="-4.15" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="2"/>
+          <f x="-4.15" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="13"/>
+          <f x="-4.15" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="18"/>
+          <f x="0" y="-0.45" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="sz4-qz1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Christmasdress_man-sz4-qz1-1" twE="0" dr="4"/>
+          <f x="0" y="-0.4" kX="-0.45" kY="-0.45" cX="1" cY="1" z="12" twE="0" dr="14"/>
+          <f x="0" y="-2.1" kX="3.45" kY="3.45" cX="1" cY="1" z="12" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="5"/>
+          <f x="0" y="1.75" kX="-2.74" kY="-2.74" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="-2" y="0.9" kX="-1.26" kY="-1.26" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="-4.1" y="0.4" kX="-4.48" kY="-4.48" cX="1" cY="1" z="12" twE="0" dr="2"/>
+          <f x="-4.15" y="0.3" kX="-3.74" kY="-3.74" cX="1" cY="1" z="12" twE="0" dr="5"/>
+          <f x="-4.15" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="8"/>
+          <f x="-4.15" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="0" y="-0.4" kX="-0.45" kY="-0.45" cX="1" cY="1" z="12" twE="0" dr="14"/>
+          <f x="0" y="-2.1" kX="3.45" kY="3.45" cX="1" cY="1" z="12" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" dr="1"/>
+        </b>
+        <b name="sz4-qz2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="Christmasdress_man-sz4-qz2-1" twE="0" dr="4"/>
+          <f x="0.1" y="-0.45" kX="0.56" kY="0.56" cX="1" cY="1" z="13" twE="0" dr="14"/>
+          <f x="-0.4" y="-1.15" kX="-2.7" kY="-2.7" cX="1" cY="1" z="13" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="5"/>
+          <f x="0.2" y="1.1" kX="1.77" kY="1.77" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="-1.95" y="0.6" kX="0.87" kY="0.87" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="-3.6" y="-0.9" kX="3.74" kY="3.74" cX="1" cY="1" z="13" twE="0" dr="2"/>
+          <f x="-3.65" y="-0.8" kX="3.46" kY="3.46" cX="1" cY="1" z="13" twE="0" dr="5"/>
+          <f x="-4.15" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="8"/>
+          <f x="-4.15" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="0.1" y="-0.45" kX="0.56" kY="0.56" cX="1" cY="1" z="13" twE="0" dr="14"/>
+          <f x="-0.4" y="-1.15" kX="-2.7" kY="-2.7" cX="1" cY="1" z="13" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="1"/>
+        </b>
+        <b name="sz4-8a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="Christmasdress_man-sz4-8a-1" twE="0" dr="18"/>
+          <f x="-0.5" y="-1.8" kX="0" kY="0" cX="1.03" cY="1" z="14" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="8"/>
+          <f x="-8.5" y="2.75" kX="-7.94" kY="-7.94" cX="1" cY="1" z="14" twE="0" dr="2"/>
+          <f x="-8.15" y="2.5" kX="-7.24" kY="-7.24" cX="1" cY="1" z="14" dr="13"/>
+          <f x="-8.15" y="2.5" kX="-7.24" kY="-7.24" cX="1" cY="1" z="14" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="18"/>
+          <f x="-0.5" y="-1.8" kX="0" kY="0" cX="1.03" cY="1" z="14" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" dr="1"/>
+        </b>
+        <b name="sz4-pd-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="Christmasdress_man-sz4-pd-1" twE="0" dr="18"/>
+          <f x="0" y="-1.8" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="5"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="8"/>
+          <f x="-4.6" y="1.85" kX="-7.24" kY="-7.24" cX="1" cY="1" z="15" twE="0" dr="2"/>
+          <f x="-4.6" y="1.85" kX="-7.24" kY="-7.24" cX="1" cY="1" z="15" dr="13"/>
+          <f x="-4.6" y="1.85" kX="-7.24" kY="-7.24" cX="1" cY="1" z="15" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="18"/>
+          <f x="0" y="-1.8" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" dr="1"/>
+        </b>
+        <b name="sz4-yl2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="Christmasdress_man-sz4-yl2-1" twE="0" dr="18"/>
+          <f x="1.85" y="-0.85" kX="8.14" kY="3.2" cX="1" cY="1" z="16" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="5"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="8"/>
+          <f x="-9.35" y="-0.25" kX="-7.94" kY="-7.94" cX="1" cY="1" z="16" twE="0" dr="2"/>
+          <f x="-8.9" y="-0.2" kX="-7.24" kY="-7.24" cX="1" cY="1" z="16" dr="13"/>
+          <f x="-8.9" y="-0.2" kX="-7.24" kY="-7.24" cX="1" cY="1" z="16" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="18"/>
+          <f x="1.85" y="-0.85" kX="8.14" kY="3.2" cX="1" cY="1" z="16" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" dr="1"/>
+        </b>
+        <b name="sz4-bm1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="Christmasdress_man-sz4-bm1-1" twE="0" dr="18"/>
+          <f x="-0.05" y="-1.3" kX="-2.05" kY="0.5" cX="1" cY="0.96" z="17" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="5"/>
+          <f x="6.4" y="-1.35" kX="5.17" kY="5.17" cX="1" cY="1" z="17" twE="0" dr="8"/>
+          <f x="-29.1" y="16.2" kX="-19.1" kY="-19.1" cX="1" cY="1" z="17" twE="0" dr="2"/>
+          <f x="-27.7" y="15.25" kX="-18.14" kY="-18.14" cX="1" cY="1" z="17" dr="13"/>
+          <f x="-27.7" y="15.25" kX="-18.14" kY="-18.14" cX="1" cY="1" z="17" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="18"/>
+          <f x="-0.05" y="-1.3" kX="-2.05" kY="0.5" cX="1" cY="0.96" z="17" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" dr="1"/>
+        </b>
+        <b name="sz4-1a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="Christmasdress_man-sz4-1a-1" twE="0" dr="18"/>
+          <f x="0.6" y="-2" kX="0.5" kY="0.5" cX="1" cY="1" z="18" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="5"/>
+          <f x="5.5" y="-0.85" kX="5.17" kY="5.17" cX="1" cY="1" z="18" twE="0" dr="8"/>
+          <f x="-26.05" y="13.5" kX="-19.1" kY="-19.1" cX="1" cY="1" z="18" img="Christmasdress_man-sz4-1a-2" twE="0" dr="2"/>
+          <f x="-24.85" y="12.7" kX="-18.14" kY="-18.14" cX="1" cY="1" z="18" dr="13"/>
+          <f x="-24.85" y="12.7" kX="-18.14" kY="-18.14" cX="1" cY="1" z="18" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="Christmasdress_man-sz4-1a-1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="18"/>
+          <f x="0.6" y="-2" kX="0.5" kY="0.5" cX="1" cY="1" z="18" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" dr="1"/>
+        </b>
+        <b name="sz4-yj1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="Christmasdress_man-sz4-yj2-1" twE="0" dr="18"/>
+          <f x="0.25" y="-1.7" kX="0.5" kY="0.5" cX="1" cY="1" z="19" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="5"/>
+          <f x="2.05" y="2.65" kX="5.17" kY="5.17" cX="1" cY="1" z="19" twE="0" dr="8"/>
+          <f x="-16.6" y="-1.75" kX="-19.1" kY="-19.1" cX="1" cY="1" z="19" twE="0" dr="2"/>
+          <f x="-15.65" y="-1.7" kX="-18.14" kY="-18.14" cX="1" cY="1" z="19" dr="13"/>
+          <f x="-15.65" y="-1.7" kX="-18.14" kY="-18.14" cX="1" cY="1" z="19" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="Christmasdress_man-sz4-yj2-2" twE="0" dr="3"/>
+          <f x="0.05" y="-0.25" kX="0.02" kY="0.02" cX="1" cY="1" z="19" img="Christmasdress_man-sz4-yj2-3" twE="0" dr="7"/>
+          <f x="0.15" y="-0.95" kX="0.01" kY="0.01" cX="1" cY="1" z="19" img="Christmasdress_man-sz4-yj2-2" twE="0" dr="3"/>
+          <f x="0.15" y="-1.2" kX="0.04" kY="0.04" cX="1" cY="1" z="19" img="Christmasdress_man-sz4-yj2-1" twE="0" dr="5"/>
+          <f x="0.25" y="-1.7" kX="0.5" kY="0.5" cX="1" cY="1" z="19" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" dr="1"/>
+        </b>
+        <b name="sz4-yj1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="Christmasdress_man-sz4-yj1-1" twE="0" dr="18"/>
+          <f x="0.3" y="-1.85" kX="0.5" kY="0.5" cX="1" cY="1" z="20" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="5"/>
+          <f x="2.25" y="0.95" kX="5.17" kY="5.17" cX="1" cY="1" z="20" twE="0" dr="8"/>
+          <f x="-16.15" y="4.6" kX="-19.1" kY="-19.1" cX="1" cY="1" z="20" twE="0" dr="2"/>
+          <f x="-15.35" y="4.3" kX="-18.14" kY="-18.14" cX="1" cY="1" z="20" dr="13"/>
+          <f x="-15.35" y="4.3" kX="-18.14" kY="-18.14" cX="1" cY="1" z="20" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="Christmasdress_man-sz4-yj1-2" twE="0" dr="3"/>
+          <f x="0.05" y="-0.3" kX="0.02" kY="0.02" cX="1" cY="1" z="20" img="Christmasdress_man-sz4-yj1-3" twE="0" dr="7"/>
+          <f x="0.15" y="-1.05" kX="0.01" kY="0.01" cX="1" cY="1" z="20" img="Christmasdress_man-sz4-yj1-2" twE="0" dr="3"/>
+          <f x="0.15" y="-1.3" kX="0.04" kY="0.04" cX="1" cY="1" z="20" img="Christmasdress_man-sz4-yj1-1" twE="0" dr="5"/>
+          <f x="0.3" y="-1.85" kX="0.5" kY="0.5" cX="1" cY="1" z="20" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" dr="1"/>
+        </b>
+        <b name="sz4-tf1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="Christmasdress_man-sz4-tf1-1" twE="0" dr="4"/>
+          <f x="-0.1" y="-0.4" kX="-0.77" kY="-0.77" cX="1" cY="1" z="21" twE="0" dr="14"/>
+          <f x="0.8" y="-1.65" kX="6.21" kY="6.21" cX="1" cY="1" z="21" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="5"/>
+          <f x="2.75" y="2.55" kX="5.17" kY="5.17" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="-8.6" y="0.5" kX="-7.04" kY="-7.04" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="-20.35" y="0.95" kX="-46.09" kY="-46.09" cX="1" cY="1" z="21" twE="0" dr="2"/>
+          <f x="-19.6" y="1.15" kX="-47.29" kY="-47.29" cX="1" cY="1" z="21" twE="0" dr="5"/>
+          <f x="-17.95" y="-0.75" kX="-18.14" kY="-18.14" cX="1" cY="1" z="21" twE="0" dr="8"/>
+          <f x="-17.95" y="-0.75" kX="-18.14" kY="-18.14" cX="1" cY="1" z="21" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="-0.1" y="-0.4" kX="-0.77" kY="-0.77" cX="1" cY="1" z="21" twE="0" dr="14"/>
+          <f x="0.8" y="-1.65" kX="6.21" kY="6.21" cX="1" cY="1" z="21" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="1"/>
+        </b>
+        <b name="sz4-yl1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="Christmasdress_man-sz4-yl1-1" twE="0" dr="18"/>
+          <f x="-1.65" y="-1.8" kX="-11.24" kY="0" cX="1" cY="1.02" z="22" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="8"/>
+          <f x="-8.75" y="2.65" kX="-7.94" kY="-7.94" cX="1" cY="1" z="22" twE="0" dr="2"/>
+          <f x="-8.4" y="2.4" kX="-7.24" kY="-7.24" cX="1" cY="1" z="22" dr="13"/>
+          <f x="-8.4" y="2.4" kX="-7.24" kY="-7.24" cX="1" cY="1" z="22" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="18"/>
+          <f x="-1.65" y="-1.8" kX="-11.24" kY="0" cX="1" cY="1.02" z="22" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" dr="1"/>
+        </b>
+        <b name="sz4-bm2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="Christmasdress_man-sz4-bm2-1" twE="0" dr="18"/>
+          <f x="1.5" y="-1.9" kX="6.63" kY="0" cX="1" cY="1.01" z="23" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="5"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="8"/>
+          <f x="-8.7" y="4.55" kX="-7.94" kY="-7.94" cX="1" cY="1" z="23" twE="0" dr="2"/>
+          <f x="-8.35" y="4.15" kX="-7.24" kY="-7.24" cX="1" cY="1" z="23" dr="13"/>
+          <f x="-8.35" y="4.15" kX="-7.24" kY="-7.24" cX="1" cY="1" z="23" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="18"/>
+          <f x="1.5" y="-1.9" kX="6.63" kY="0" cX="1" cY="1.01" z="23" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" dr="1"/>
+        </b>
+        <b name="sz4-2a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="Christmasdress_man-sz4-2a-1" twE="0" dr="18"/>
+          <f x="0" y="-1.8" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="5"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="8"/>
+          <f x="-7.9" y="3.3" kX="-7.94" kY="-7.94" cX="1" cY="1" z="24" twE="0" dr="2"/>
+          <f x="-7.6" y="3" kX="-7.23" kY="-7.23" cX="1" cY="1" z="24" dr="13"/>
+          <f x="-7.6" y="3" kX="-7.23" kY="-7.23" cX="1" cY="1" z="24" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="18"/>
+          <f x="0" y="-1.8" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" dr="1"/>
+        </b>
+        <b name="图层 32" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="Christmasdress_man-sz4-bm3-1" twE="0" dr="18"/>
+          <f x="0" y="-2" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="5"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="8"/>
+          <f x="-7.2" y="3.85" kX="-5.23" kY="-5.23" cX="1" cY="1" z="25" twE="0" dr="2"/>
+          <f x="-6.5" y="3.65" kX="-3.75" kY="-3.75" cX="1" cY="1" z="25" dr="13"/>
+          <f x="-6.5" y="3.65" kX="-3.75" kY="-3.75" cX="1" cY="1" z="25" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="18"/>
+          <f x="0" y="-2" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" dr="1"/>
+        </b>
+        <b name="sz4-4a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="Christmasdress_man-sz4-4a-1" twE="0" dr="18"/>
+          <f x="0" y="-1.8" kX="0" kY="0" cX="1" cY="1" z="26" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" twE="0" dr="5"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="26" twE="0" dr="8"/>
+          <f x="-4.7" y="2.65" kX="-7.24" kY="-7.24" cX="1" cY="1" z="26" twE="0" dr="2"/>
+          <f x="-4.7" y="2.65" kX="-7.24" kY="-7.24" cX="1" cY="1" z="26" dr="13"/>
+          <f x="-4.7" y="2.65" kX="-7.24" kY="-7.24" cX="1" cY="1" z="26" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" twE="0" dr="18"/>
+          <f x="0" y="-1.8" kX="0" kY="0" cX="1" cY="1" z="26" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" dr="1"/>
+        </b>
+        <b name="sz4-3a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" img="Christmasdress_man-sz4-3a-0" twE="0" dr="18"/>
+          <f x="0" y="-1.8" kX="0" kY="0" cX="1" cY="1" z="27" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" twE="0" dr="5"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="27" twE="0" dr="8"/>
+          <f x="-5.4" y="3.6" kX="-8.72" kY="-8.72" cX="1" cY="1" z="27" twE="0" dr="2"/>
+          <f x="-5.25" y="3.15" kX="-7.23" kY="-7.23" cX="1" cY="1" z="27" dr="13"/>
+          <f x="-5.25" y="3.15" kX="-7.23" kY="-7.23" cX="1" cY="1" z="27" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" twE="0" dr="18"/>
+          <f x="0" y="-1.8" kX="0" kY="0" cX="1" cY="1" z="27" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" dr="1"/>
+        </b>
+        <b name="图层 29" sc="1" dl="0">
+          <f dr="40" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.51" cY="4.33" z="28" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="28.1" y="1.3" kX="0" kY="0.01" cX="0.69" cY="0.85" z="28" twE="0" dr="3"/>
+          <f x="18" y="-74.1" kX="0" kY="0" cX="3.51" cY="4.33" z="28" twE="0" dr="3"/>
+          <f x="18.1" y="-79" kX="0" kY="0" cX="1.04" cY="1.28" z="28" twE="0" dr="6"/>
+          <f x="15.65" y="-83.95" kX="0" kY="0" cX="0.17" cY="0.21" z="28" dr="1"/>
+          <f dr="53" hide="1"/>
+        </b>
+        <b name="图层 28" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.85" z="29" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="-0.1" y="-49.1" kX="0" kY="0" cX="1.74" cY="2.14" z="29" twE="0" dr="4"/>
+          <f x="-7.5" y="-48.7" kX="0.01" kY="-0.02" cX="0.54" cY="0.66" z="28" twE="0" dr="4"/>
+          <f x="-3.3" y="-79.3" kX="0.05" kY="-0.08" cX="1.75" cY="2.15" z="28" twE="0" dr="4"/>
+          <f x="1" y="-88.7" kX="0.01" kY="-0.02" cX="0.54" cY="0.66" z="28" twE="0" dr="4"/>
+          <f x="4.65" y="-92.8" kX="0.05" kY="-0.08" cX="2.18" cY="2.69" z="28" twE="0" dr="5"/>
+          <f x="9.2" y="-67.2" kX="0.06" kY="-0.09" cX="0.72" cY="0.88" z="28" twE="0" dr="6"/>
+          <f x="14.7" y="-64.8" kX="0.05" kY="-0.08" cX="2.18" cY="2.69" z="28" twE="0" dr="6"/>
+          <f x="15.7" y="-29.9" kX="0.06" kY="-0.09" cX="0.71" cY="0.88" z="28" twE="0" dr="7"/>
+          <f x="16.8" y="-13.9" kX="0.06" kY="-0.09" cX="1.82" cY="2.24" z="28" twE="0" dr="7"/>
+          <f x="15.9" y="9.65" kX="0.06" kY="-0.08" cX="0.59" cY="0.72" z="28" twE="0" dr="4"/>
+          <f x="15.35" y="5.5" kX="0.06" kY="-0.08" cX="1.89" cY="2.33" z="28" twE="0" dr="3"/>
+          <f x="14.95" y="22.8" kX="0.01" kY="-0.02" cX="0.54" cY="0.66" z="28" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 27" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.86" z="30" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="0.1" y="-49.1" kX="0" kY="0" cX="1.72" cY="2.16" z="30" twE="0" dr="4"/>
+          <f x="-7.5" y="-48.7" kX="-0.01" kY="0.02" cX="0.54" cY="0.67" z="29" twE="0" dr="4"/>
+          <f x="-11.7" y="-79.2" kX="-0.05" kY="0.08" cX="1.73" cY="2.17" z="29" twE="0" dr="4"/>
+          <f x="-16" y="-88.55" kX="-0.01" kY="0.02" cX="0.54" cY="0.67" z="29" twE="0" dr="4"/>
+          <f x="-32.65" y="-92.55" kX="-0.05" kY="0.08" cX="2.16" cY="2.71" z="29" twE="0" dr="5"/>
+          <f x="-37.2" y="-66.9" kX="-0.06" kY="0.09" cX="0.71" cY="0.89" z="29" twE="0" dr="6"/>
+          <f x="-42.7" y="-64.4" kX="-0.05" kY="0.08" cX="2.16" cY="2.71" z="29" twE="0" dr="6"/>
+          <f x="-43.7" y="-29.45" kX="-0.06" kY="0.09" cX="0.7" cY="0.88" z="29" twE="0" dr="7"/>
+          <f x="-44.8" y="-13.45" kX="-0.05" kY="0.09" cX="1.8" cY="2.26" z="29" twE="0" dr="7"/>
+          <f x="-43.9" y="10.1" kX="-0.06" kY="0.08" cX="0.58" cY="0.73" z="29" twE="0" dr="4"/>
+          <f x="-43.35" y="5.95" kX="-0.06" kY="0.08" cX="1.87" cY="2.35" z="29" twE="0" dr="3"/>
+          <f x="-42.95" y="23.2" kX="-0.01" kY="0.02" cX="0.54" cY="0.67" z="29" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f dr="50" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.86" z="31" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="-7.6" y="-49.1" kX="0" kY="0" cX="1.72" cY="2.16" z="30" twE="0" dr="4"/>
+          <f x="-7.5" y="-48.7" kX="0.01" kY="-0.02" cX="0.54" cY="0.67" z="30" twE="0" dr="4"/>
+          <f x="-3.3" y="-79.2" kX="0.05" kY="-0.08" cX="1.73" cY="2.17" z="30" twE="0" dr="4"/>
+          <f x="1" y="-88.55" kX="0.01" kY="-0.02" cX="0.54" cY="0.67" z="30" twE="0" dr="4"/>
+          <f x="17.65" y="-92.55" kX="0.05" kY="-0.08" cX="2.16" cY="2.71" z="30" twE="0" dr="5"/>
+          <f x="22.2" y="-66.9" kX="0.06" kY="-0.09" cX="0.71" cY="0.89" z="30" twE="0" dr="6"/>
+          <f x="27.7" y="-64.4" kX="0.05" kY="-0.08" cX="2.16" cY="2.71" z="30" twE="0" dr="6"/>
+          <f x="28.7" y="-29.45" kX="0.06" kY="-0.09" cX="0.7" cY="0.88" z="30" twE="0" dr="7"/>
+          <f x="29.8" y="-13.45" kX="0.05" kY="-0.09" cX="1.8" cY="2.26" z="30" twE="0" dr="7"/>
+          <f x="28.9" y="10.1" kX="0.06" kY="-0.08" cX="0.58" cY="0.73" z="30" twE="0" dr="4"/>
+          <f x="28.35" y="5.95" kX="0.06" kY="-0.08" cX="1.87" cY="2.35" z="28" twE="0" dr="3"/>
+          <f x="27.95" y="23.2" kX="0.01" kY="-0.02" cX="0.54" cY="0.67" z="28" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 25" sc="1" dl="0">
+          <f dr="49" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.85" z="32" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="0.1" y="-49.1" kX="0" kY="0" cX="1.74" cY="2.14" z="32" twE="0" dr="4"/>
+          <f x="-7.5" y="-48.7" kX="-0.01" kY="0.02" cX="0.54" cY="0.66" z="31" twE="0" dr="4"/>
+          <f x="-11.7" y="-79.3" kX="-0.05" kY="0.08" cX="1.75" cY="2.15" z="31" twE="0" dr="4"/>
+          <f x="-16" y="-88.7" kX="-0.01" kY="0.02" cX="0.54" cY="0.66" z="31" twE="0" dr="4"/>
+          <f x="-19.65" y="-92.8" kX="-0.05" kY="0.08" cX="2.18" cY="2.69" z="31" twE="0" dr="5"/>
+          <f x="-24.2" y="-67.2" kX="-0.06" kY="0.09" cX="0.72" cY="0.88" z="31" twE="0" dr="6"/>
+          <f x="-29.7" y="-64.8" kX="-0.05" kY="0.08" cX="2.18" cY="2.69" z="31" twE="0" dr="6"/>
+          <f x="-30.7" y="-29.9" kX="-0.06" kY="0.09" cX="0.71" cY="0.88" z="31" twE="0" dr="7"/>
+          <f x="-31.8" y="-13.9" kX="-0.06" kY="0.09" cX="1.82" cY="2.24" z="31" twE="0" dr="7"/>
+          <f x="-30.9" y="9.65" kX="-0.06" kY="0.08" cX="0.59" cY="0.72" z="31" twE="0" dr="4"/>
+          <f x="-30.35" y="5.5" kX="-0.06" kY="0.08" cX="1.89" cY="2.33" z="29" twE="0" dr="3"/>
+          <f x="-29.95" y="22.8" kX="-0.01" kY="0.02" cX="0.54" cY="0.66" z="29" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="xue268 复制" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.28" cY="0.28" z="33" img="Christmasdress_man-xue" twE="0" dr="8"/>
+          <f x="15.1" y="-29.6" kX="0" kY="0" cX="0.42" cY="0.42" z="32" twE="0" dr="5"/>
+          <f x="33.4" y="-13.45" kX="0" kY="0" cX="0.51" cY="0.51" z="32" twE="0" dr="12"/>
+          <f x="41.45" y="11.15" kX="0.01" kY="0.01" cX="0.56" cY="0.56" z="32" twE="0" dr="15"/>
+          <f x="28.6" y="32.8" kX="0.01" kY="0.01" cX="0.56" cY="0.56" z="32" twE="0" dr="14"/>
+          <f x="27.6" y="61.8" kX="0.01" kY="0" cX="0.14" cY="0.14" z="32" twE="0" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="xue268 复制0" sc="1" dl="0">
+          <f dr="56" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.51" z="33" img="Christmasdress_man-xue" twE="0" dr="12"/>
+          <f x="8.05" y="24.6" kX="0.01" kY="0.01" cX="0.56" cY="0.56" z="33" twE="0" dr="15"/>
+          <f x="-4.8" y="46.25" kX="0.01" kY="0.01" cX="0.56" cY="0.56" z="33" twE="0" dr="14"/>
+          <f x="-5.8" y="75.25" kX="0.01" kY="0" cX="0.14" cY="0.14" z="33" twE="0" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="xue268 复制1" sc="1" dl="0">
+          <f dr="59" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.51" z="34" img="Christmasdress_man-xue" twE="0" dr="12"/>
+          <f x="-8.05" y="24.6" kX="-0.01" kY="-0.01" cX="0.56" cY="0.56" z="34" twE="0" dr="15"/>
+          <f x="4.8" y="46.25" kX="-0.01" kY="-0.01" cX="0.56" cY="0.56" z="33" twE="0" dr="14"/>
+          <f x="5.8" y="75.25" kX="-0.01" kY="0" cX="0.14" cY="0.14" z="33" twE="0" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="xue268 复制2" sc="1" dl="0">
+          <f dr="57" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.51" z="35" img="Christmasdress_man-xue" twE="0" dr="12"/>
+          <f x="-8.05" y="24.6" kX="-0.01" kY="-0.01" cX="0.56" cY="0.56" z="35" twE="0" dr="15"/>
+          <f x="4.8" y="46.25" kX="-0.01" kY="-0.01" cX="0.56" cY="0.56" z="35" twE="0" dr="14"/>
+          <f x="5.8" y="75.25" kX="-0.01" kY="0" cX="0.14" cY="0.14" z="34" twE="0" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="xue268 复制3" sc="1" dl="0">
+          <f dr="64" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.51" z="36" img="Christmasdress_man-xue" twE="0" dr="12"/>
+          <f x="8.05" y="24.6" kX="0.01" kY="0.01" cX="0.56" cY="0.56" z="36" twE="0" dr="15"/>
+          <f x="-4.8" y="46.25" kX="0.01" kY="0.01" cX="0.56" cY="0.56" z="32" twE="0" dr="14"/>
+          <f x="-5.8" y="75.25" kX="0.01" kY="0" cX="0.14" cY="0.14" z="30" twE="0" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="xue268 复制4" sc="1" dl="0">
+          <f dr="57" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.51" z="37" img="Christmasdress_man-xue" twE="0" dr="12"/>
+          <f x="-8.05" y="24.6" kX="-0.01" kY="-0.01" cX="0.56" cY="0.56" z="37" twE="0" dr="15"/>
+          <f x="4.8" y="46.25" kX="-0.01" kY="-0.01" cX="0.56" cY="0.56" z="37" twE="0" dr="14"/>
+          <f x="5.8" y="75.25" kX="-0.01" kY="0" cX="0.14" cY="0.14" z="36" twE="0" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="xue268 复制5" sc="1" dl="0">
+          <f dr="65" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.51" z="38" img="Christmasdress_man-xue" twE="0" dr="12"/>
+          <f x="-8.05" y="24.6" kX="-0.01" kY="-0.01" cX="0.56" cY="0.56" z="38" twE="0" dr="15"/>
+          <f x="4.8" y="46.25" kX="-0.01" kY="-0.01" cX="0.56" cY="0.56" z="31" twE="0" dr="14"/>
+          <f x="5.8" y="75.25" kX="-0.01" kY="0" cX="0.14" cY="0.14" z="30" twE="0" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="xue268 复制6" sc="1" dl="0">
+          <f dr="56" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.51" z="39" img="Christmasdress_man-xue" twE="0" dr="12"/>
+          <f x="8.05" y="24.6" kX="0.01" kY="0.01" cX="0.56" cY="0.56" z="39" twE="0" dr="15"/>
+          <f x="-4.8" y="46.25" kX="0.01" kY="0.01" cX="0.56" cY="0.56" z="39" twE="0" dr="14"/>
+          <f x="-5.8" y="75.25" kX="0.01" kY="0" cX="0.14" cY="0.14" z="39" twE="0" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="xue268 复制7" sc="1" dl="0">
+          <f dr="59" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.51" z="40" img="Christmasdress_man-xue" twE="0" dr="12"/>
+          <f x="-8.05" y="24.6" kX="-0.01" kY="-0.01" cX="0.56" cY="0.56" z="40" twE="0" dr="15"/>
+          <f x="4.8" y="46.25" kX="-0.01" kY="-0.01" cX="0.56" cY="0.56" z="36" twE="0" dr="14"/>
+          <f x="5.8" y="75.25" kX="-0.01" kY="0" cX="0.14" cY="0.14" z="36" twE="0" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="xue268 复制8" sc="1" dl="0">
+          <f dr="60" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.51" z="41" img="Christmasdress_man-xue" twE="0" dr="12"/>
+          <f x="-8.05" y="24.6" kX="-0.01" kY="-0.01" cX="0.56" cY="0.56" z="41" twE="0" dr="15"/>
+          <f x="4.8" y="46.25" kX="-0.01" kY="-0.01" cX="0.56" cY="0.56" z="37" twE="0" dr="14"/>
+          <f x="5.8" y="75.25" kX="-0.01" kY="0" cX="0.14" cY="0.14" z="35" twE="0" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="57" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.34" cY="2.88" z="39" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="-9" y="4.25" kX="0.13" kY="0.02" cX="0.42" cY="0.52" z="40" twE="0" dr="3"/>
+          <f x="4.85" y="-16.3" kX="0.15" kY="0.03" cX="2.5" cY="3.08" z="42" twE="0" dr="10"/>
+          <f x="-5.1" y="-11.45" kX="0" kY="0.01" cX="0.2" cY="0.25" z="42" dr="1"/>
+          <f dr="35" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="60" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.34" cY="2.88" z="41" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="-9.5" y="24.25" kX="0.13" kY="0.02" cX="0.42" cY="0.52" z="43" twE="0" dr="3"/>
+          <f x="4.85" y="13.2" kX="0.15" kY="0.03" cX="2.5" cY="3.08" z="42" twE="0" dr="10"/>
+          <f x="-5.1" y="44.05" kX="0" kY="0.01" cX="0.2" cY="0.25" z="42" dr="1"/>
+          <f dr="32" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="56" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.34" cY="2.88" z="38" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="10.5" y="22.25" kX="-0.13" kY="-0.02" cX="0.42" cY="0.52" z="42" twE="0" dr="3"/>
+          <f x="-2.85" y="15.7" kX="-0.15" kY="-0.03" cX="2.5" cY="3.08" z="43" twE="0" dr="3"/>
+          <f x="9.25" y="35.7" kX="-0.17" kY="-0.03" cX="0.52" cY="0.65" z="44" twE="0" dr="3"/>
+          <f x="2.35" y="34.7" kX="-0.17" kY="-0.03" cX="1.85" cY="2.27" z="44" twE="0" dr="3"/>
+          <f x="11.1" y="51.05" kX="-0.17" kY="-0.03" cX="0.43" cY="0.53" z="43" twE="0" dr="4"/>
+          <f x="7.1" y="55.55" kX="-0.15" kY="-0.03" cX="1.29" cY="1.59" z="42" twE="0" dr="4"/>
+          <f x="13.85" y="72.3" kX="0" kY="-0.01" cX="0.2" cY="0.25" z="42" dr="1"/>
+          <f dr="29" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="72" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.34" cY="2.88" z="44" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="10.5" y="22.25" kX="-0.13" kY="-0.02" cX="0.42" cY="0.52" z="43" twE="0" dr="3"/>
+          <f x="-2.85" y="15.7" kX="-0.15" kY="-0.03" cX="2.5" cY="3.08" z="42" twE="0" dr="3"/>
+          <f x="9.25" y="35.7" kX="-0.17" kY="-0.03" cX="0.52" cY="0.65" z="42" twE="0" dr="3"/>
+          <f x="2.35" y="34.7" kX="-0.17" kY="-0.03" cX="1.85" cY="2.27" z="42" twE="0" dr="3"/>
+          <f x="11.1" y="51.05" kX="-0.17" kY="-0.03" cX="0.43" cY="0.53" z="42" twE="0" dr="4"/>
+          <f x="7.1" y="55.55" kX="-0.15" kY="-0.03" cX="1.29" cY="1.59" z="42" twE="0" dr="4"/>
+          <f x="13.85" y="72.3" kX="0" kY="-0.01" cX="0.2" cY="0.25" z="42" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="71" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.34" cY="2.88" z="46" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="10.5" y="22.25" kX="-0.13" kY="-0.02" cX="0.42" cY="0.52" z="45" twE="0" dr="3"/>
+          <f x="-2.85" y="15.7" kX="-0.15" kY="-0.03" cX="2.5" cY="3.08" z="44" twE="0" dr="3"/>
+          <f x="9.25" y="35.7" kX="-0.17" kY="-0.03" cX="0.52" cY="0.65" z="43" twE="0" dr="3"/>
+          <f x="2.35" y="34.7" kX="-0.17" kY="-0.03" cX="1.85" cY="2.27" z="43" twE="0" dr="3"/>
+          <f x="11.1" y="51.05" kX="-0.17" kY="-0.03" cX="0.43" cY="0.53" z="43" twE="0" dr="4"/>
+          <f x="7.1" y="55.55" kX="-0.15" kY="-0.03" cX="1.29" cY="1.59" z="43" twE="0" dr="4"/>
+          <f x="13.85" y="72.3" kX="0" kY="-0.01" cX="0.2" cY="0.25" z="43" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="58" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.34" cY="2.88" z="43" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="10.5" y="22.25" kX="-0.13" kY="-0.02" cX="0.42" cY="0.52" z="43" twE="0" dr="3"/>
+          <f x="-2.85" y="15.7" kX="-0.15" kY="-0.03" cX="2.5" cY="3.08" z="47" twE="0" dr="10"/>
+          <f x="8.6" y="49.05" kX="0" kY="-0.01" cX="0.2" cY="0.25" z="46" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="81" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.34" cY="2.88" z="44" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="10.5" y="22.25" kX="-0.13" kY="-0.02" cX="0.42" cY="0.52" z="44" twE="0" dr="3"/>
+          <f x="-2.85" y="15.7" kX="-0.15" kY="-0.03" cX="2.5" cY="3.08" z="42" twE="0" dr="10"/>
+          <f x="8.6" y="49.05" kX="0" kY="-0.01" cX="0.2" cY="0.25" z="42" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="83" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.34" cY="2.88" z="45" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="10.5" y="22.25" kX="-0.13" kY="-0.02" cX="0.42" cY="0.52" z="45" twE="0" dr="3"/>
+          <f x="-2.85" y="15.7" kX="-0.15" kY="-0.03" cX="2.5" cY="3.08" z="45" twE="0" dr="3"/>
+          <f x="9.25" y="35.7" kX="-0.17" kY="-0.03" cX="0.52" cY="0.65" z="45" twE="0" dr="3"/>
+          <f x="2.35" y="34.7" kX="-0.17" kY="-0.03" cX="1.85" cY="2.27" z="43" twE="0" dr="3"/>
+          <f x="11.1" y="51.05" kX="-0.17" kY="-0.03" cX="0.43" cY="0.53" z="36" twE="0" dr="4"/>
+          <f x="7.1" y="55.55" kX="-0.15" kY="-0.03" cX="1.29" cY="1.59" z="32" twE="0" dr="4"/>
+          <f x="13.85" y="72.3" kX="0" kY="-0.01" cX="0.2" cY="0.25" z="31" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="69" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.34" cY="2.88" z="47" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="10.5" y="22.25" kX="-0.13" kY="-0.02" cX="0.42" cY="0.52" z="47" twE="0" dr="3"/>
+          <f x="-2.85" y="15.7" kX="-0.15" kY="-0.03" cX="2.5" cY="3.08" z="46" twE="0" dr="10"/>
+          <f x="8.6" y="49.05" kX="0" kY="-0.01" cX="0.2" cY="0.25" z="46" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="78" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.34" cY="2.88" z="45" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="10.5" y="22.25" kX="-0.13" kY="-0.02" cX="0.42" cY="0.52" z="47" twE="0" dr="3"/>
+          <f x="-2.85" y="15.7" kX="-0.15" kY="-0.03" cX="2.5" cY="3.08" z="46" twE="0" dr="10"/>
+          <f x="8.6" y="49.05" kX="0" kY="-0.01" cX="0.2" cY="0.25" z="46" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="71" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.34" cY="2.88" z="49" img="Christmasdress_man-888ex" twE="0" dr="3"/>
+          <f x="12" y="20.75" kX="-0.13" kY="-0.02" cX="0.42" cY="0.52" z="47" twE="0" dr="3"/>
+          <f x="1.65" y="15.7" kX="-0.15" kY="-0.03" cX="2.5" cY="3.08" z="47" twE="0" dr="10"/>
+          <f x="15.1" y="45.05" kX="0" kY="-0.01" cX="0.2" cY="0.25" z="47" dr="1"/>
+          <f dr="21" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="run">
+      <mov name="run" to="1" dr="22" drTW="22" lp="1">
+        <b name="图层 35" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Christmasdress_man-yz1" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="3"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Christmasdress_man-qunz-1" twE="0" dr="4"/>
+          <f x="-0.5" y="5.7" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="-0.25" y="2.7" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="0" y="0.45" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="0.5" y="4.95" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="0.25" y="2.7" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-2a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Christmasdress_man-sz4-2a-2" twE="0" dr="4"/>
+          <f x="0.1" y="4.9" kX="4.56" kY="4.56" cX="1" cY="1" z="2" twE="0" dr="4"/>
+          <f x="0" y="2.3" kX="1.27" kY="1.27" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-0.05" y="0.2" kX="-0.2" kY="-0.2" cX="1" cY="1" z="2" twE="0" dr="4"/>
+          <f x="-0.9" y="5.6" kX="-7.9" kY="-7.9" cX="1" cY="1" z="2" twE="0" dr="4"/>
+          <f x="-0.35" y="3" kX="-3.83" kY="-3.83" cX="1" cY="1" z="2" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-4a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Christmasdress_man-sz4-4a-2" twE="0" dr="4"/>
+          <f x="-3.25" y="5.6" kX="8.53" kY="8.53" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="-1.3" y="2.5" kX="4.01" kY="4.01" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0.1" y="0.2" kX="0.11" kY="0.11" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="5.1" y="3.3" kX="-16.85" kY="-16.85" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="1.6" y="2.65" kX="-10.81" kY="-10.81" cX="1" cY="1" z="3" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-3a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Christmasdress_man-sz4-3a-2" twE="0" dr="4"/>
+          <f x="-1.5" y="4.35" kX="8.53" kY="8.53" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="-0.5" y="1.9" kX="4.01" kY="4.01" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="0" y="0.15" kX="-0.2" kY="-0.2" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="2.25" y="6.2" kX="-16.85" kY="-16.85" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="1" y="2.6" kX="-2.35" kY="-2.35" cX="1" cY="1" z="4" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-5a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="Christmasdress_man-sz4-5a-1" twE="0" dr="4"/>
+          <f x="-1.1" y="3.65" kX="8.68" kY="8.68" cX="1" cY="0.96" z="5" twE="0" dr="4"/>
+          <f x="-0.05" y="-1.15" kX="17.89" kY="17.89" cX="1" cY="0.98" z="5" twE="0" dr="3"/>
+          <f x="0.45" y="-5.95" kX="30.84" kY="30.84" cX="1" cY="0.98" z="5" twE="0" dr="4"/>
+          <f x="1.9" y="-3.7" kX="44.59" kY="44.59" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="0.3" y="-3" kX="27.88" kY="27.88" cX="1" cY="1" z="5" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-6a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Christmasdress_man-sz4-6a-1" twE="0" dr="4"/>
+          <f x="-5.95" y="14.35" kX="-39.76" kY="-39.76" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="-10.05" y="10.85" kX="-26.31" kY="-26.31" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-16.85" y="8.5" kX="-21.64" kY="-21.64" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="-22" y="2.95" kX="0.04" kY="0.04" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="-11.9" y="2.8" kX="28.09" kY="28.09" cX="1" cY="1" z="6" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-7a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Christmasdress_man-sz4-7a-1" twE="0" dr="4"/>
+          <f x="4.6" y="12.75" kX="-35.28" kY="-35.28" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="-3.2" y="10.9" kX="-26.05" kY="-26.05" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="-11.6" y="10.2" kX="-25.61" kY="-25.61" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="-22.4" y="3.15" kX="-4.95" kY="-4.95" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="-17.7" y="-0.95" kX="27.03" kY="27.03" cX="1" cY="1" z="7" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-5a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Christmasdress_man-sz4-5a-2" twE="0" dr="4"/>
+          <f x="2.45" y="0.35" kX="16.47" kY="16.47" cX="1" cY="0.98" z="8" twE="0" dr="4"/>
+          <f x="0" y="1.15" kX="-3.33" kY="-3.33" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-1.8" y="5.95" kX="-31.27" kY="-31.27" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="-0.65" y="8.15" kX="-21.35" kY="-21.35" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="-0.55" y="3.8" kX="-12.65" kY="-12.65" cX="1" cY="1" z="8" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-6a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.13" z="9" img="Christmasdress_man-sz4-6a-1" twE="0" dr="4"/>
+          <f x="-7.1" y="-3.2" kX="21.4" kY="21.4" cX="1.08" cY="1.13" z="9" twE="0" dr="4"/>
+          <f x="7.35" y="-8.7" kX="49.63" kY="49.63" cX="1.08" cY="1.13" z="9" twE="0" dr="3"/>
+          <f x="17.55" y="-8.8" kX="23.82" kY="23.82" cX="1.08" cY="1.13" z="9" twE="0" dr="4"/>
+          <f x="13.9" y="7.1" kX="-21.56" kY="-21.56" cX="1.08" cY="1.13" z="9" twE="0" dr="4"/>
+          <f x="8.6" y="3.15" kX="-6.46" kY="-6.46" cX="1.08" cY="1.13" z="9" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-7a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="10" img="Christmasdress_man-sz4-7a-1" twE="0" dr="4"/>
+          <f x="-13.3" y="-4.3" kX="12.79" kY="12.79" cX="1.1" cY="1.1" z="10" twE="0" dr="4"/>
+          <f x="-5.45" y="-14" kX="50.57" kY="50.57" cX="1.1" cY="1.1" z="10" twE="0" dr="3"/>
+          <f x="11.5" y="-10.65" kX="27.25" kY="27.25" cX="1.1" cY="1.1" z="10" twE="0" dr="4"/>
+          <f x="20.2" y="3.5" kX="-15.05" kY="-15.05" cX="1.1" cY="1.1" z="10" twE="0" dr="4"/>
+          <f x="10.45" y="1.25" kX="-4.06" kY="-4.06" cX="1.1" cY="1.1" z="10" twE="0" dr="3"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="Christmasdress_man-jsnan3-79a-1" twE="0" dr="4"/>
+          <f x="-0.5" y="5.25" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="-0.25" y="2.3" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="0" y="-0.35" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="0.5" y="4.3" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="0.25" y="2.1" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-qz1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Christmasdress_man-sz4-qz1-1" twE="0" dr="4"/>
+          <f x="0.6" y="4.7" kX="9.14" kY="9.14" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="0.85" y="1.4" kX="13.11" kY="13.11" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="1.05" y="-1.4" kX="19.6" kY="19.6" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="1.55" y="3.25" kX="19.6" kY="19.6" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="0.9" y="1.7" kX="11.85" kY="11.85" cX="1" cY="1" z="12" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-qz2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="Christmasdress_man-sz4-qz2-1" twE="0" dr="4"/>
+          <f x="0.9" y="3.35" kX="8.79" kY="8.79" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="-0.1" y="2.1" kX="1.22" kY="1.22" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-1.35" y="1.3" kX="-4.74" kY="-4.74" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="-0.65" y="6.35" kX="-6.32" kY="-6.32" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="-0.1" y="3.1" kX="-2.92" kY="-2.92" cX="1" cY="1" z="13" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-8a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="Christmasdress_man-sz4-8a-1" twE="0" dr="4"/>
+          <f x="-1.45" y="5.7" kX="-0.91" kY="-0.91" cX="1.03" cY="1" z="14" twE="0" dr="4"/>
+          <f x="-0.75" y="2.7" kX="-0.65" kY="-0.65" cX="1.01" cY="1" z="14" twE="0" dr="3"/>
+          <f x="-0.05" y="0.25" kX="-0.2" kY="-0.2" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="0.6" y="5.15" kX="-0.9" kY="-0.9" cX="0.97" cY="1" z="14" twE="0" dr="4"/>
+          <f x="0.55" y="2.75" kX="-0.16" kY="-0.16" cX="0.98" cY="1" z="14" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-pd-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="Christmasdress_man-sz4-pd-1" twE="0" dr="4"/>
+          <f x="-0.45" y="5.3" kX="0.32" kY="0.32" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="-0.2" y="2.2" kX="0.77" kY="0.77" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="0.1" y="-0.1" kX="1.03" kY="1.03" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="0.55" y="4.75" kX="0.32" kY="0.32" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="0.3" y="2.3" kX="1.13" kY="1.13" cX="1" cY="1" z="15" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-yl2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="Christmasdress_man-sz4-yl2-1" twE="0" dr="4"/>
+          <f x="-2.2" y="5.2" kX="-5.1" kY="-5.1" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="-0.9" y="2.3" kX="-1.69" kY="-1.69" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="-0.1" y="0.15" kX="-0.21" kY="-0.21" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="-1.4" y="4.7" kX="-5.58" kY="-5.58" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="-0.35" y="2.5" kX="-2.23" kY="-2.23" cX="1" cY="1" z="16" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-bm1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="Christmasdress_man-sz4-bm1-1" twE="0" dr="4"/>
+          <f x="-0.35" y="4.55" kX="3.3" kY="3.3" cX="1" cY="1" z="17" twE="0" dr="4"/>
+          <f x="-0.3" y="2.05" kX="1.54" kY="1.54" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="-0.3" y="0.35" kX="-0.2" kY="-0.2" cX="1" cY="1" z="17" twE="0" dr="4"/>
+          <f x="0.45" y="4.2" kX="2.73" kY="2.73" cX="1" cY="1" z="17" twE="0" dr="4"/>
+          <f x="-0.05" y="2.9" kX="-0.64" kY="-0.64" cX="1" cY="1" z="17" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-1a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="Christmasdress_man-sz4-1a-1" twE="0" dr="4"/>
+          <f x="-1.9" y="5.9" kX="-0.91" kY="-0.91" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="-0.95" y="2.65" kX="-0.46" kY="-0.46" cX="1" cY="1" z="18" twE="0" dr="3"/>
+          <f x="-0.3" y="0.25" kX="-0.2" kY="-0.2" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="-0.9" y="5.35" kX="-0.91" kY="-0.91" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="0.2" y="2.65" kX="-0.1" kY="-0.1" cX="1" cY="1" z="18" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-yj1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="Christmasdress_man-sz4-yj2-1" twE="0" dr="4"/>
+          <f x="-1.3" y="5.3" kX="-0.91" kY="-0.91" cX="1" cY="1" z="19" twE="0" dr="4"/>
+          <f x="-0.65" y="2.4" kX="-0.46" kY="-0.46" cX="1" cY="1" z="19" twE="0" dr="3"/>
+          <f x="-0.15" y="0.2" kX="-0.2" kY="-0.2" cX="1" cY="1" z="19" twE="0" dr="4"/>
+          <f x="-0.3" y="4.75" kX="-0.91" kY="-0.91" cX="1" cY="1" z="19" twE="0" dr="4"/>
+          <f x="0.25" y="2.65" kX="-0.1" kY="-0.1" cX="1" cY="1" z="19" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-yj1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="Christmasdress_man-sz4-yj1-1" twE="0" dr="4"/>
+          <f x="-1.3" y="5.6" kX="-0.91" kY="-0.91" cX="1" cY="1" z="20" twE="0" dr="4"/>
+          <f x="-0.65" y="2.55" kX="-0.46" kY="-0.46" cX="1" cY="1" z="20" twE="0" dr="3"/>
+          <f x="-0.1" y="0.25" kX="-0.2" kY="-0.2" cX="1" cY="1" z="20" twE="0" dr="4"/>
+          <f x="-0.3" y="5.05" kX="-0.91" kY="-0.91" cX="1" cY="1" z="20" twE="0" dr="4"/>
+          <f x="0.25" y="2.65" kX="-0.1" kY="-0.1" cX="1" cY="1" z="20" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-tf1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="Christmasdress_man-sz4-tf1-1" twE="0" dr="4"/>
+          <f x="-1.8" y="5.5" kX="-5.88" kY="-5.88" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="-1" y="2.55" kX="-4.36" kY="-4.36" cX="1" cY="1" z="21" twE="0" dr="3"/>
+          <f x="-0.1" y="0.25" kX="0.3" kY="0.3" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="-0.8" y="4.95" kX="-5.87" kY="-5.87" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="0" y="2.7" kX="-2.57" kY="-2.57" cX="1" cY="1" z="21" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-yl1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="Christmasdress_man-sz4-yl1-1" twE="0" dr="4"/>
+          <f x="0.05" y="5.65" kX="6.3" kY="-0.91" cX="1" cY="1.01" z="22" twE="0" dr="4"/>
+          <f x="-0.05" y="2.55" kX="2.64" kY="-0.46" cX="1" cY="1" z="22" twE="0" dr="3"/>
+          <f x="-0.1" y="0.25" kX="-0.2" kY="-0.2" cX="1" cY="1" z="22" twE="0" dr="4"/>
+          <f x="1.35" y="5.1" kX="8.33" kY="-0.91" cX="1" cY="1.01" z="22" twE="0" dr="4"/>
+          <f x="0.7" y="2.65" kX="3.03" kY="-0.1" cX="1" cY="1" z="22" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-bm2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="Christmasdress_man-sz4-bm2-1" twE="0" dr="4"/>
+          <f x="-1.3" y="5.9" kX="-0.91" kY="-0.91" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="-0.65" y="2.7" kX="-0.46" kY="-0.46" cX="1" cY="1" z="23" twE="0" dr="3"/>
+          <f x="-0.1" y="0.3" kX="-0.2" kY="-0.2" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="0.3" y="5.35" kX="-0.91" kY="-0.91" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="0.45" y="2.65" kX="-0.1" kY="-0.1" cX="1" cY="1" z="23" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-2a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="Christmasdress_man-sz4-2a-1" twE="0" dr="4"/>
+          <f x="-1.15" y="5.75" kX="-0.91" kY="-0.91" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="-0.55" y="2.6" kX="-0.46" kY="-0.46" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="0" y="0.2" kX="-0.2" kY="-0.2" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="0.45" y="5.2" kX="-0.91" kY="-0.91" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="0.5" y="2.6" kX="-0.09" kY="-0.09" cX="1" cY="1" z="24" twE="0" dr="3"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="Christmasdress_man-sz4-bm3-1" twE="0" dr="4"/>
+          <f x="-0.7" y="6" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="-0.5" y="2.7" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="3"/>
+          <f x="0.1" y="0.7" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="0.6" y="5.1" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="0.5" y="2.2" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-4a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="Christmasdress_man-sz4-4a-1" twE="0" dr="4"/>
+          <f x="-0.75" y="5.3" kX="0.32" kY="0.32" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="-0.35" y="2.15" kX="0.77" kY="0.77" cX="1" cY="1" z="26" twE="0" dr="3"/>
+          <f x="0.1" y="0" kX="0.64" kY="0.64" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="0.85" y="4.75" kX="0.32" kY="0.32" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="0.4" y="2.5" kX="0.13" kY="0.13" cX="1" cY="1" z="26" twE="0" dr="3"/>
+        </b>
+        <b name="sz4-3a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" img="Christmasdress_man-sz4-3a-0" twE="0" dr="4"/>
+          <f x="-1.05" y="5.85" kX="-2.39" kY="-2.39" cX="1" cY="1" z="27" twE="0" dr="4"/>
+          <f x="-0.6" y="2.7" kX="-1.94" kY="-1.94" cX="1" cY="1" z="27" twE="0" dr="3"/>
+          <f x="-0.15" y="0.55" kX="-2.07" kY="-2.07" cX="1" cY="1" z="27" twE="0" dr="4"/>
+          <f x="0.55" y="5.3" kX="-2.39" kY="-2.39" cX="1" cY="1" z="27" twE="0" dr="4"/>
+          <f x="0.2" y="3.1" kX="-2.58" kY="-2.58" cX="1" cY="1" z="27" twE="0" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="男新版时装4（圣诞）2(10)" width="512" height="64">
+    <SubTexture name="Christmasdress_man-sz4-4a-6" x="376" y="27" width="13" height="15" pX="1.45" pY="-0.4"/>
+    <SubTexture name="Christmasdress_man-sz4-4a-7" x="496" y="22" width="14" height="22" pX="0.25" pY="-1.6"/>
+    <SubTexture name="Christmasdress_man-sz4-6a-2" x="461" y="22" width="16" height="23" pX="-4" pY="-2.6"/>
+    <SubTexture name="Christmasdress_man-sz4-7a-2" x="462" y="0" width="20" height="21" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-1a-2" x="58" y="0" width="57" height="63" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-yj2-2" x="325" y="32" width="10" height="13" pX="0.4" pY="-2.75"/>
+    <SubTexture name="Christmasdress_man-sz4-yj2-3" x="183" y="35" width="10" height="13" pX="0.4" pY="-2.75"/>
+    <SubTexture name="Christmasdress_man-sz4-yj1-2" x="416" y="29" width="15" height="14" pX="-0.45" pY="-2.8"/>
+    <SubTexture name="Christmasdress_man-sz4-yj1-3" x="309" y="32" width="15" height="14" pX="-0.45" pY="-2.8"/>
+    <SubTexture name="Christmasdress_man-888ex" x="169" y="35" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-xue" x="365" y="0" width="24" height="26" pX="11.25" pY="11.75"/>
+    <SubTexture name="Christmasdress_man-yz1" x="116" y="0" width="85" height="24" pX="12.75" pY="5.15"/>
+    <SubTexture name="Christmasdress_man-qunz-1" x="336" y="0" width="28" height="22" pX="2" pY="4.55"/>
+    <SubTexture name="Christmasdress_man-sz4-2a-2" x="157" y="25" width="11" height="25" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-4a-2" x="451" y="18" width="9" height="18" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-3a-2" x="140" y="25" width="16" height="20" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-5a-1" x="274" y="0" width="17" height="44" pX="-3.65" pY="3.05"/>
+    <SubTexture name="Christmasdress_man-sz4-6a-1" x="496" y="0" width="15" height="21" pX="-3.35" pY="-2.15"/>
+    <SubTexture name="Christmasdress_man-sz4-7a-1" x="434" y="0" width="27" height="17" pX="0" pY="-2.85"/>
+    <SubTexture name="Christmasdress_man-sz4-5a-2" x="292" y="0" width="16" height="44" pX="-3.15" pY="-2.65"/>
+    <SubTexture name="Christmasdress_man-jsnan3-79a-1" x="116" y="25" width="23" height="13" pX="-0.05" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-qz1-1" x="416" y="0" width="17" height="28" pX="6.55" pY="-1.7"/>
+    <SubTexture name="Christmasdress_man-sz4-qz2-1" x="309" y="0" width="26" height="31" pX="-4.35" pY="-1.9"/>
+    <SubTexture name="Christmasdress_man-sz4-8a-1" x="240" y="0" width="33" height="36" pX="0" pY="1.4"/>
+    <SubTexture name="Christmasdress_man-sz4-pd-1" x="169" y="25" width="24" height="9" pX="-0.6" pY="-0.05"/>
+    <SubTexture name="Christmasdress_man-sz4-yl2-1" x="390" y="25" width="14" height="17" pX="2.85" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-bm1-1" x="202" y="0" width="37" height="34" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-1a-1" x="0" y="0" width="57" height="63" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-yj2-1" x="405" y="25" width="10" height="13" pX="0.4" pY="-2.75"/>
+    <SubTexture name="Christmasdress_man-sz4-yj1-1" x="478" y="29" width="15" height="14" pX="-0.45" pY="-2.8"/>
+    <SubTexture name="Christmasdress_man-sz4-tf1-1" x="434" y="18" width="16" height="23" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-yl1-1" x="194" y="35" width="14" height="11" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-bm2-1" x="390" y="0" width="25" height="24" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-2a-1" x="483" y="0" width="12" height="28" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-bm3-1" x="209" y="35" width="13" height="8" pX="-2.45" pY="-1.7"/>
+    <SubTexture name="Christmasdress_man-sz4-4a-1" x="336" y="23" width="18" height="19" pX="0" pY="0"/>
+    <SubTexture name="Christmasdress_man-sz4-3a-0" x="355" y="27" width="20" height="10" pX="0" pY="0.05"/>
+  </TextureAtlas>
+</skeleton>

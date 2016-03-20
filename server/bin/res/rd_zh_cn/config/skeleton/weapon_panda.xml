@@ -1,0 +1,15 @@
+<skeleton name="熊猫武器(1)">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_panda" bT="0" bi="weapon_panda-weapon-fs_panda" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_panda-weapon-fs_panda"/>
+      <b name="weapon-ck_pand" bT="0" bi="weapon_panda-weapon-ck_pand" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_panda-weapon-ck_pand"/>
+      <b name="weapon-zs_panda" bT="0" bi="weapon_panda-weapon-zs_panda" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_panda-weapon-zs_panda"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="熊猫武器(1)" width="512" height="256">
+    <SubTexture name="weapon_panda-weapon-fs_panda" x="0" y="0" width="47" height="172" pX="20.5" pY="76.1"/>
+    <SubTexture name="weapon_panda-weapon-ck_pand" x="207" y="0" width="43" height="102" pX="29.65" pY="56.65"/>
+    <SubTexture name="weapon_panda-weapon-zs_panda" x="48" y="0" width="158" height="62" pX="18.5" pY="30.25"/>
+  </TextureAtlas>
+</skeleton>

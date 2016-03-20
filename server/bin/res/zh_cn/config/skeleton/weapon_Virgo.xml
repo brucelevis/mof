@@ -1,0 +1,15 @@
+<skeleton name="处女座武器修">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_Virgo" bT="0" bi="weapon_Virgo-weapon-fs_Virgo" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Virgo-weapon-fs_Virgo"/>
+      <b name="weapon-ck_Virgo" bT="0" bi="weapon_Virgo-weapon-ck_Virgo" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Virgo-weapon-ck_Virgo"/>
+      <b name="weapon-zs_Virgo" bT="0" bi="weapon_Virgo-weapon-zs_Virgo" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Virgo-weapon-zs_Virgo"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="处女座武器修" width="512" height="256">
+    <SubTexture name="weapon_Virgo-weapon-fs_Virgo" x="0" y="0" width="78" height="222" pX="39.2" pY="115.2"/>
+    <SubTexture name="weapon_Virgo-weapon-ck_Virgo" x="237" y="0" width="59" height="112" pX="42.7" pY="68.5"/>
+    <SubTexture name="weapon_Virgo-weapon-zs_Virgo" x="79" y="0" width="157" height="67" pX="25.45" pY="32.5"/>
+  </TextureAtlas>
+</skeleton>

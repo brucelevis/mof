@@ -1,0 +1,318 @@
+<skeleton name="侍魂冰技能">
+  <armatures>
+    <armature name="shbing">
+      <b name="图层 32" bT="0" bi="retinue_skill1_ice-binghua" x="143.9" y="243" kX="-75" kY="-75" z="0"/>
+      <b name="图层 31" bT="0" bi="retinue_skill1_ice-b1" x="-109.55" y="-157.05" kX="0" kY="0" z="0"/>
+      <b name="图层 30" bT="0" bi="retinue_skill1_ice-b1" x="25.55" y="-24.8" kX="0" kY="0" z="0"/>
+      <b name="图层 29" bT="0" bi="retinue_skill1_ice-b7" x="117.85" y="118.5" kX="0" kY="0" z="0"/>
+      <b name="图层 28" bT="0" bi="retinue_skill1_ice-binghua" x="622.45" y="169.6" kX="45" kY="45" z="1"/>
+      <b name="图层 27" bT="0" bi="retinue_skill1_ice-b1" x="302.55" y="-113.05" kX="0" kY="0" z="0"/>
+      <b name="图层 26" bT="0" bi="retinue_skill1_ice-b1" x="437.65" y="19.2" kX="0" kY="0" z="1"/>
+      <b name="图层 25" bT="0" bi="retinue_skill1_ice-b7" x="529.95" y="162.5" kX="0" kY="0" z="1"/>
+      <b name="图层 24" bT="0" bi="retinue_skill1_ice-binghua" x="453.1" y="116.55" kX="45" kY="45" z="2"/>
+      <b name="图层 23" bT="0" bi="retinue_skill1_ice-b1" x="293.15" y="-24.8" kX="0" kY="0" z="0"/>
+      <b name="图层 22" bT="0" bi="retinue_skill1_ice-b1" x="360.7" y="41.35" kX="0" kY="0" z="2"/>
+      <b name="图层 21" bT="0" bi="retinue_skill1_ice-b7" x="406.85" y="113" kX="0" kY="0" z="2"/>
+      <b name="图层 20" bT="0" bi="retinue_skill1_ice-binghua" x="79.3" y="100.75" kX="45" kY="45" z="3"/>
+      <b name="图层 19" bT="0" bi="retinue_skill1_ice-b1" x="-151.05" y="-102.8" kX="0" kY="0" z="3"/>
+      <b name="图层 18" bT="0" bi="retinue_skill1_ice-b1" x="-53.7" y="-7.5" kX="0" kY="0" z="3"/>
+      <b name="图层 17" bT="0" bi="retinue_skill1_ice-b7" x="12.7" y="95.65" kX="0" kY="0" z="3"/>
+      <b name="图层 16" bT="0" bi="retinue_skill1_ice-binghua" x="393.95" y="195.1" kX="45" kY="45" z="4"/>
+      <b name="图层 15" bT="0" bi="retinue_skill1_ice-b1" x="154.4" y="-16.6" kX="0" kY="0" z="0"/>
+      <b name="图层 14" bT="0" bi="retinue_skill1_ice-b1" x="255.6" y="82.55" kX="0" kY="0" z="5"/>
+      <b name="图层 13" bT="0" bi="retinue_skill1_ice-b7" x="324.7" y="189.8" kX="0" kY="0" z="2"/>
+      <b name="图层 12" bT="0" bi="retinue_skill1_ice-binghua" x="50.8" y="197.45" kX="45" kY="45" z="5"/>
+      <b name="图层 11" bT="0" bi="retinue_skill1_ice-b1" x="-236.7" y="-56.6" kX="0" kY="0" z="6"/>
+      <b name="图层 10" bT="0" bi="retinue_skill1_ice-b1" x="-115.25" y="62.35" kX="0" kY="0" z="5"/>
+      <b name="图层 9" bT="0" bi="retinue_skill1_ice-b7" x="-32.3" y="191.05" kX="0" kY="0" z="2"/>
+      <b name="图层 8" bT="0" bi="retinue_skill1_ice-binghua" x="320.4" y="242.65" kX="45" kY="45" z="8"/>
+      <b name="图层 7" bT="0" bi="retinue_skill1_ice-b1" x="90.4" y="39.4" kX="0" kY="0" z="5"/>
+      <b name="图层 6" bT="0" bi="retinue_skill1_ice-b1" x="187.55" y="134.55" kX="0" kY="0" z="6"/>
+      <b name="图层 5" bT="0" bi="retinue_skill1_ice-b7" x="253.95" y="237.55" kX="0" kY="0" z="3"/>
+      <b name="图层 4" bT="0" bi="retinue_skill1_ice-binghua" x="505.15" y="251.2" kX="45" kY="45" z="8"/>
+      <b name="图层 3" bT="0" bi="retinue_skill1_ice-b1" x="321.15" y="88.6" kX="0" kY="0" z="3"/>
+      <b name="图层 2" bT="0" bi="retinue_skill1_ice-b1" x="398.85" y="164.75" kX="0" kY="0" z="8"/>
+      <b name="图层 1" bT="0" bi="retinue_skill1_ice-b7" x="452" y="247.15" kX="0" kY="0" z="5"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="shbing">
+      <mov name="shbing" to="1" dr="106" drTW="106">
+        <b name="图层 32" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="retinue_skill1_ice-binghua" twE="0" dr="64"/>
+          <f x="11.5" y="-124.05" kX="75" kY="75" cX="1" cY="1" z="0" dr="1"/>
+          <f dr="29" hide="1"/>
+        </b>
+        <b name="图层 31" sc="1" dl="0">
+          <f dr="86" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.73" z="0" img="retinue_skill1_ice-b1" twE="0" dr="5"/>
+          <f x="274.2" y="268.7" kX="0" kY="0" cX="0.54" cY="0.54" z="0" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 30" sc="1" dl="0">
+          <f dr="76" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="0" img="retinue_skill1_ice-b1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="0" img="retinue_skill1_ice-b2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="0" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="0" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="0" img="retinue_skill1_ice-b5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="1" img="retinue_skill1_ice-b6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="1" img="retinue_skill1_ice-b7" dr="2"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 29" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="0" img="retinue_skill1_ice-b7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="0" img="retinue_skill1_ice-b6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="0" img="retinue_skill1_ice-b5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="0" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="0" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="1" img="retinue_skill1_ice-b2 副t" dr="2"/>
+          <f dr="92" hide="1"/>
+        </b>
+        <b name="图层 28" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="retinue_skill1_ice-binghua" twE="0" dr="64"/>
+          <f x="-74.75" y="26.4" kX="-75" kY="-75" cX="1" cY="1" z="1" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="图层 27" sc="1" dl="0">
+          <f dr="89" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.73" z="0" img="retinue_skill1_ice-b1" twE="0" dr="5"/>
+          <f x="274.2" y="268.7" kX="0" kY="0" cX="0.54" cY="0.54" z="0" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f dr="79" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="1" img="retinue_skill1_ice-b1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="1" img="retinue_skill1_ice-b2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="1" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="2" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="2" img="retinue_skill1_ice-b5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="2" img="retinue_skill1_ice-b6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="2.16" z="1" img="retinue_skill1_ice-b7" dr="2"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 25" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="1" img="retinue_skill1_ice-b7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="1" img="retinue_skill1_ice-b6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="1" img="retinue_skill1_ice-b5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="2" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="1" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.09" cY="1.09" z="2" img="retinue_skill1_ice-b2 副t" dr="2"/>
+          <f dr="89" hide="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="2" img="retinue_skill1_ice-binghua" twE="0" dr="57"/>
+          <f x="-33.55" y="3.75" kX="-60" kY="-60" cX="0.5" cY="0.5" z="2" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f dr="92" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.87" cY="1.87" z="0" img="retinue_skill1_ice-b1" twE="0" dr="5"/>
+          <f x="137.1" y="134.35" kX="0" kY="0" cX="0.27" cY="0.27" z="0" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 22" sc="1" dl="0">
+          <f dr="82" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="2" img="retinue_skill1_ice-b1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="2" img="retinue_skill1_ice-b2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="3" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="4" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="3" img="retinue_skill1_ice-b5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="2" img="retinue_skill1_ice-b6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="1" img="retinue_skill1_ice-b7" dr="2"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="2" img="retinue_skill1_ice-b7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="2" img="retinue_skill1_ice-b6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="2" img="retinue_skill1_ice-b5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="2" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="2" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="3" img="retinue_skill1_ice-b2 副t" dr="2"/>
+          <f dr="79" hide="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.72" cY="0.72" z="3" img="retinue_skill1_ice-binghua" twE="0" dr="47"/>
+          <f x="-48.3" y="5.4" kX="-60" kY="-60" cX="0.72" cY="0.72" z="4" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="89" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.69" cY="2.69" z="3" img="retinue_skill1_ice-b1" twE="0" dr="5"/>
+          <f x="200.6" y="197.25" kX="0" kY="0" cX="0.32" cY="0.32" z="3" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="79" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.56" cY="1.56" z="3" img="retinue_skill1_ice-b1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.56" cY="1.56" z="4" img="retinue_skill1_ice-b2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.56" cY="1.56" z="3" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.56" cY="1.56" z="4" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.56" cY="1.56" z="4" img="retinue_skill1_ice-b5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.56" cY="1.56" z="5" img="retinue_skill1_ice-b6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.56" cY="1.56" z="5" img="retinue_skill1_ice-b7" dr="2"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="3" img="retinue_skill1_ice-b7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="3" img="retinue_skill1_ice-b6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="3" img="retinue_skill1_ice-b5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="3" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="3" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="4" img="retinue_skill1_ice-b2 副t" dr="2"/>
+          <f dr="72" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.75" cY="0.75" z="4" img="retinue_skill1_ice-binghua" twE="0" dr="65"/>
+          <f x="-50.25" y="5.6" kX="-60" kY="-60" cX="0.75" cY="0.75" z="5" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="96" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.79" cY="2.79" z="0" img="retinue_skill1_ice-b1" twE="0" dr="5"/>
+          <f x="208.6" y="205.15" kX="0" kY="0" cX="0.34" cY="0.34" z="0" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="86" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.62" z="5" img="retinue_skill1_ice-b1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.62" z="7" img="retinue_skill1_ice-b2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.62" z="6" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.62" z="4" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.62" z="2" img="retinue_skill1_ice-b5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.62" z="2" img="retinue_skill1_ice-b6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.62" z="1" img="retinue_skill1_ice-b7" dr="2"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="0.82" z="2" img="retinue_skill1_ice-b7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="0.82" z="4" img="retinue_skill1_ice-b6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="0.82" z="4" img="retinue_skill1_ice-b5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="0.82" z="3" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="0.82" z="4" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="0.82" z="5" img="retinue_skill1_ice-b2 副t" dr="2"/>
+          <f dr="83" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="5" img="retinue_skill1_ice-binghua" twE="0" dr="58"/>
+          <f x="-60.3" y="6.7" kX="-60" kY="-60" cX="0.9" cY="0.9" z="5" dr="1"/>
+          <f dr="31" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="84" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.35" cY="3.35" z="6" img="retinue_skill1_ice-b1" twE="0" dr="5"/>
+          <f x="250.35" y="246.15" kX="0" kY="0" cX="0.4" cY="0.4" z="8" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="74" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="5" img="retinue_skill1_ice-b1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="5" img="retinue_skill1_ice-b2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="7" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="5" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="5" img="retinue_skill1_ice-b5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="6" img="retinue_skill1_ice-b6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="7" img="retinue_skill1_ice-b7" dr="2"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.98" cY="0.98" z="2" img="retinue_skill1_ice-b7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.98" cY="0.98" z="2" img="retinue_skill1_ice-b6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.98" cY="0.98" z="3" img="retinue_skill1_ice-b5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.98" cY="0.98" z="5" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.98" cY="0.98" z="5" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.98" cY="0.98" z="5" img="retinue_skill1_ice-b2 副t" dr="2"/>
+          <f dr="88" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.72" cY="0.72" z="8" img="retinue_skill1_ice-binghua" twE="0" dr="62"/>
+          <f x="-48.25" y="5.35" kX="-60" kY="-60" cX="0.72" cY="0.72" z="6" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="90" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.68" cY="2.68" z="5" img="retinue_skill1_ice-b1" twE="0" dr="5"/>
+          <f x="200.3" y="196.95" kX="0" kY="0" cX="0.32" cY="0.32" z="3" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="80" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.55" cY="1.55" z="6" img="retinue_skill1_ice-b1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.55" cY="1.55" z="6" img="retinue_skill1_ice-b2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.55" cY="1.55" z="7" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.55" cY="1.55" z="8" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.55" cY="1.55" z="9" img="retinue_skill1_ice-b5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.55" cY="1.55" z="8" img="retinue_skill1_ice-b6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.55" cY="1.55" z="6" img="retinue_skill1_ice-b7" dr="2"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="3" img="retinue_skill1_ice-b7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="4" img="retinue_skill1_ice-b6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="6" img="retinue_skill1_ice-b5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="6" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="6" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="6" img="retinue_skill1_ice-b2 副t" dr="2"/>
+          <f dr="86" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.58" cY="0.58" z="8" img="retinue_skill1_ice-binghua" twE="0" dr="63"/>
+          <f x="-38.6" y="4.3" kX="-60" kY="-60" cX="0.58" cY="0.58" z="7" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="93" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.15" cY="2.15" z="3" img="retinue_skill1_ice-b1" twE="0" dr="5"/>
+          <f x="160.25" y="157.55" kX="0" kY="0" cX="0.26" cY="0.26" z="2" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="83" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.24" cY="1.24" z="8" img="retinue_skill1_ice-b1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.24" cY="1.24" z="10" img="retinue_skill1_ice-b2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.24" cY="1.24" z="8" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.24" cY="1.24" z="9" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.24" cY="1.24" z="9" img="retinue_skill1_ice-b5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.24" cY="1.24" z="7" img="retinue_skill1_ice-b6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.24" cY="1.24" z="4" img="retinue_skill1_ice-b7" dr="2"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="5" img="retinue_skill1_ice-b7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="6" img="retinue_skill1_ice-b6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="7" img="retinue_skill1_ice-b5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="7" img="retinue_skill1_ice-b4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="7" img="retinue_skill1_ice-b3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="9" img="retinue_skill1_ice-b2 副t" dr="2"/>
+          <f dr="84" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="侍魂冰技能" width="512" height="512">
+    <SubTexture name="retinue_skill1_ice-binghua" x="0" y="277" width="112" height="110" pX="0" pY="0"/>
+    <SubTexture name="retinue_skill1_ice-b1" x="425" y="150" width="82" height="80" pX="-45" pY="-46.5"/>
+    <SubTexture name="retinue_skill1_ice-b2" x="160" y="0" width="151" height="149" pX="-9" pY="-11"/>
+    <SubTexture name="retinue_skill1_ice-b3" x="0" y="0" width="159" height="157" pX="-3.5" pY="-4"/>
+    <SubTexture name="retinue_skill1_ice-b4" x="160" y="150" width="137" height="139" pX="-15" pY="-13"/>
+    <SubTexture name="retinue_skill1_ice-b5" x="298" y="150" width="126" height="126" pX="-16.95" pY="-18"/>
+    <SubTexture name="retinue_skill1_ice-b6" x="0" y="158" width="119" height="118" pX="-22.5" pY="-21.5"/>
+    <SubTexture name="retinue_skill1_ice-b7" x="298" y="277" width="117" height="99" pX="-24.5" pY="-23.5"/>
+    <SubTexture name="retinue_skill1_ice-b2 副t" x="312" y="0" width="150" height="149" pX="-10" pY="-10.5"/>
+  </TextureAtlas>
+</skeleton>

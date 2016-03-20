@@ -1,0 +1,23 @@
+<skeleton name="天蝎座被击特效">
+  <armatures>
+    <armature name="ciguang">
+      <b name="图层 4" bT="0" bi="Scorpio_hitted-zhuagaoliang" x="3.15" y="4.05" kX="69.01" kY="-115.02" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ciguang">
+      <mov name="ciguang" to="1" dr="10" drTW="10">
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.45" cY="2.83" z="0" img="Scorpio_hitted-zhuagaoliang" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0.02" cX="0.16" cY="5.53" z="0" twE="0" dr="3"/>
+          <f x="0.3" y="-0.05" kX="0" kY="-0.02" cX="0.04" cY="5.27" z="0" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.03" cY="2.33" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="天蝎座被击特效" width="512" height="64">
+    <SubTexture name="Scorpio_hitted-zhuagaoliang" x="0" y="0" width="100" height="55" pX="49.35" pY="27.85"/>
+  </TextureAtlas>
+</skeleton>

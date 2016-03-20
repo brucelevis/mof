@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="78" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="沙漠1" tilewidth="64" tileheight="64">
+  <image source="503234_1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="65" name="沙漠2" tilewidth="64" tileheight="64">
+  <image source="503234_2.png" width="512" height="512"/>
+ </tileset>
+ <layer name="墙" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0LkKwlAURdH7a9FYGLVwQpwKp4BToVHB8dvdrc9Gb6HwOBtWlce5EDOzCaaYYY4FcnstQQllpKgE3z/Z8N7Jv9z41Z0lVlhjg629V0WGGupoODZiu7PDHgUOOOIUvGmihTY66Do2YrtzxgVX3HDHI3jTxwBDjDB2bMR0p2fKk/6bUkoppf7VExwaUCM=
+  </data>
+ </layer>
+ <layer name="地面" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkrkNACAQw3gqoGX/WbkVrrCUQ7EUyb3TmjFGnQvvV3psxKY95Su2Y8eecrqNwjcIp9sofINwuo/CNwin+yh8g3CFdhVdoV1Ff8GbEIE=
+  </data>
+ </layer>
+ <layer name="沙堆金子" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt1UELgjAYgGEPmpc0tFN5UlNQS6j0//+13ovgRbbmFsS+F57bxz4cA4NAkqR/qESFGjc0aBEiwgHxaj5DjrPGGTp7trK1R5Xpng49BtzxwIgjEqQ4reYvuKLQOENnz1a29qgy3eOyJ154Y8JsOLN3hySZ5PvbUn2/rfvx/Z6X5B6kb/vV/9Pl2/wAvn8XRA==
+  </data>
+ </layer>
+ <layer name="灰尘1" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAoQwASITYHYDIucIRAbAbExHnWWQGwFxNZAbAPEtkBsB8T2VHYnNewh5B9y7RhKYTCY7KEEEJM2hxIg1T+E1I/08IEBaqXf0fDED4Zb2USP+obW+gcbwOcfAJOVHtY=
+  </data>
+ </layer>
+ <layer name="灰尘2" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt08EJAEAIA0Er9uz/pU2cGtyBvCUBzQAAmOWVVwnxG9t0dVbZlj3+udgZUKL0owkd5gpp
+  </data>
+ </layer>
+ <layer name="流沙" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzaENACAQBMEvD4lEIum/AuTbS7ggLjsF7Fa1Ue+URtpnGj5KI+2zDB+lkfbZho/SSPscw0dppH0AAAB+unCbClE=
+  </data>
+ </layer>
+ <layer name="金子脸盆" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztlakOgDAQRBEchsMBhsOBQ8L/fxlTUbPpSZuKpZOM6GY6b0MIFEVWVjodmfNJl2NuhCd4JvMSruAabhT3ZN7EsXW4ZlJybs18IecV3uCdzFu4g3t4UHTIvOA8Go6qg/JtHKlUHKFTwTHJlqf9XDmx8r77cuW4dPjuwpUT4xm79HDjZIWLvrOh/xNunNjfjj9wXm3CCqg=
+  </data>
+ </layer>
+ <layer name="金罐子" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzbsNADAIQ0GmIFRJ9p8SVoj4NHknubNlEQC/0shK7KypP/3zakdOYneb+tM/AAAA1RzyZQLz
+  </data>
+ </layer>
+ <layer name="块层 8" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0jEKACAMA0BfrP5/sqvgqAjhDrI3oa0BwFmvjMr8fUgYu+7s8U7atml9IO2nb/RZHx8JHA==
+  </data>
+ </layer>
+ <objectgroup name="area" width="78" height="12">
+  <object x="4" y="326" width="1530" height="396"/>
+  <object x="1730" y="324" width="1530" height="396"/>
+  <object x="3454" y="324" width="1530" height="396"/>
+ </objectgroup>
+ <objectgroup name="monster" width="78" height="12">
+  <object name="30019" x="1139" y="525"/>
+  <object name="30020" x="1139" y="653"/>
+  <object name="30021" x="717" y="525"/>
+  <object name="30019" x="1293" y="653"/>
+  <object name="30019" x="717" y="397"/>
+  <object name="30020" x="717" y="653"/>
+  <object name="30020" x="1293" y="397"/>
+  <object name="30020" x="973" y="397"/>
+  <object name="30020" x="1139" y="397"/>
+  <object name="30020" x="973" y="653"/>
+  <object name="30020" x="2637" y="653"/>
+  <object name="30020" x="2509" y="397"/>
+  <object name="30020" x="2509" y="525"/>
+  <object name="30019" x="2509" y="653"/>
+  <object name="30019" x="2765" y="397"/>
+  <object name="30019" x="2957" y="653"/>
+  <object name="30019" x="2637" y="397"/>
+  <object name="30030" x="2765" y="653"/>
+  <object name="30021" x="2765" y="525"/>
+  <object name="30021" x="2957" y="397"/>
+  <object name="30021" x="4107" y="375"/>
+  <object name="30020" x="4107" y="657"/>
+  <object name="30019" x="4261" y="375"/>
+  <object name="30021" x="4107" y="503"/>
+  <object name="30021" x="3941" y="657"/>
+  <object name="30020" x="3941" y="375"/>
+  <object name="30021" x="4261" y="657"/>
+  <object name="30019" x="4427" y="375"/>
+  <object name="30019" x="4427" y="503"/>
+  <object name="30020" x="4427" y="657"/>
+ </objectgroup>
+ <objectgroup name="AreaBornPoint" width="78" height="12">
+  <object x="1826" y="514"/>
+  <object x="3556" y="514"/>
+ </objectgroup>
+ <objectgroup name="bg" width="78" height="12">
+  <object name="503234_bg" x="0" y="0" width="1200" height="512"/>
+ </objectgroup>
+</map>

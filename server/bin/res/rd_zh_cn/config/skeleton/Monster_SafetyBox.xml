@@ -1,0 +1,846 @@
+<skeleton name="保卫宝箱">
+  <armatures>
+    <armature name="stand3">
+      <b name="图层 25" bT="0" bi="Monster_SafetyBox-yizi" x="-100.65" y="90.9" kX="0" kY="-1.12" z="0"/>
+      <b name="图层 18" bT="0" bi="Monster_SafetyBox-shousun" x="0" y="0" kX="0" kY="0" z="1"/>
+      <b name="图层 24" bT="0" bi="Monster_SafetyBox-888" x="87.5" y="7.9" kX="173.24" kY="174.49" z="2"/>
+      <b name="图层 23" bT="0" bi="Monster_SafetyBox-888" x="-44.5" y="17.2" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 22" bT="0" bi="Monster_SafetyBox-888" x="74.5" y="45.75" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 21" bT="0" bi="Monster_SafetyBox-888" x="-7.1" y="71.6" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 20" bT="0" bi="Monster_SafetyBox-888" x="-73.9" y="36.15" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 19" bT="0" bi="Monster_SafetyBox-888" x="107.3" y="51.2" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 17" bT="0" bi="Monster_SafetyBox-888" x="10.2" y="50.2" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 16" bT="0" bi="Monster_SafetyBox-888" x="91.85" y="24.3" kX="173.24" kY="174.49" z="5"/>
+      <b name="图层 15" bT="0" bi="Monster_SafetyBox-888" x="-27.55" y="-4.6" kX="173.24" kY="174.49" z="6"/>
+      <b name="图层 14" bT="0" bi="Monster_SafetyBox-888" x="-7.1" y="71.6" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 13" bT="0" bi="Monster_SafetyBox-888" x="74.5" y="45.75" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 12" bT="0" bi="Monster_SafetyBox-888" x="-44.5" y="17.2" kX="173.24" kY="174.49" z="5"/>
+      <b name="Layer 1           复制 460441391" bT="0" bi="Monster_SafetyBox-888" x="-44.8" y="27.5" kX="-89.73" kY="-89.81" z="5"/>
+      <b name="Layer 1           复制 4604413910" bT="0" bi="Monster_SafetyBox-888" x="15.95" y="31.4" kX="-89.73" kY="-89.81" z="7"/>
+      <b name="Layer 1           复制 4604413911" bT="0" bi="Monster_SafetyBox-888" x="39.8" y="64.3" kX="-89.73" kY="-89.81" z="7"/>
+      <b name="Layer 1           复制 4604413912" bT="0" bi="Monster_SafetyBox-888" x="-10.85" y="35.75" kX="-89.73" kY="-89.81" z="7"/>
+    </armature>
+    <armature name="stand2">
+      <b name="图层 35" bT="0" bi="Monster_SafetyBox-yizi" x="-100.65" y="90.9" kX="0" kY="-1.12" z="0"/>
+      <b name="图层 1" bT="0" bi="Monster_SafetyBox-sunhuai" x="0" y="20" kX="0" kY="0" z="1"/>
+      <b name="图层 34" bT="0" bi="Monster_SafetyBox-888" x="87.5" y="7.9" kX="173.24" kY="174.49" z="2"/>
+      <b name="图层 33" bT="0" bi="Monster_SafetyBox-888" x="-44.5" y="17.2" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 32" bT="0" bi="Monster_SafetyBox-888" x="74.5" y="45.75" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 31" bT="0" bi="Monster_SafetyBox-888" x="-7.1" y="71.6" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 30" bT="0" bi="Monster_SafetyBox-888" x="-73.9" y="36.15" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 29" bT="0" bi="Monster_SafetyBox-888" x="107.3" y="51.2" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 28" bT="0" bi="Monster_SafetyBox-888" x="10.2" y="50.2" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 27" bT="0" bi="Monster_SafetyBox-888" x="91.85" y="24.3" kX="173.24" kY="174.49" z="5"/>
+      <b name="图层 26" bT="0" bi="Monster_SafetyBox-888" x="-27.55" y="-4.6" kX="173.24" kY="174.49" z="6"/>
+      <b name="图层 25" bT="0" bi="Monster_SafetyBox-888" x="-7.1" y="71.6" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 24" bT="0" bi="Monster_SafetyBox-888" x="74.5" y="45.75" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 23" bT="0" bi="Monster_SafetyBox-888" x="-44.5" y="17.2" kX="173.24" kY="174.49" z="5"/>
+      <b name="Layer 1           复制 460441391" bT="0" bi="Monster_SafetyBox-888" x="-44.8" y="27.5" kX="-89.73" kY="-89.81" z="5"/>
+      <b name="Layer 1           复制 4604413910" bT="0" bi="Monster_SafetyBox-888" x="15.95" y="31.4" kX="-89.73" kY="-89.81" z="7"/>
+      <b name="Layer 1           复制 4604413911" bT="0" bi="Monster_SafetyBox-888" x="39.8" y="64.3" kX="-89.73" kY="-89.81" z="7"/>
+      <b name="Layer 1           复制 4604413912" bT="0" bi="Monster_SafetyBox-888" x="-10.85" y="35.75" kX="-89.73" kY="-89.81" z="7"/>
+    </armature>
+    <armature name="stand1">
+      <b name="图层 35" bT="0" bi="Monster_SafetyBox-yizi" x="-100.65" y="90.9" kX="0" kY="-1.12" z="0"/>
+      <b name="图层 1" bT="0" bi="Monster_SafetyBox-putong" x="0" y="16" kX="0" kY="0" z="1"/>
+      <b name="图层 34" bT="0" bi="Monster_SafetyBox-888" x="87.5" y="7.9" kX="173.24" kY="174.49" z="2"/>
+      <b name="图层 33" bT="0" bi="Monster_SafetyBox-888" x="-44.5" y="17.2" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 32" bT="0" bi="Monster_SafetyBox-888" x="74.5" y="45.75" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 31" bT="0" bi="Monster_SafetyBox-888" x="-7.1" y="71.6" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 30" bT="0" bi="Monster_SafetyBox-888" x="-73.9" y="36.15" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 29" bT="0" bi="Monster_SafetyBox-888" x="107.3" y="51.2" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 28" bT="0" bi="Monster_SafetyBox-888" x="10.2" y="50.2" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 27" bT="0" bi="Monster_SafetyBox-888" x="91.85" y="24.3" kX="173.24" kY="174.49" z="5"/>
+      <b name="图层 26" bT="0" bi="Monster_SafetyBox-888" x="-27.55" y="-4.6" kX="173.24" kY="174.49" z="6"/>
+      <b name="图层 25" bT="0" bi="Monster_SafetyBox-888" x="-7.1" y="71.6" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 24" bT="0" bi="Monster_SafetyBox-888" x="74.5" y="45.75" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 23" bT="0" bi="Monster_SafetyBox-888" x="-44.5" y="17.2" kX="173.24" kY="174.49" z="5"/>
+      <b name="Layer 1           复制 460441391" bT="0" bi="Monster_SafetyBox-888" x="-44.8" y="27.5" kX="-89.73" kY="-89.81" z="5"/>
+      <b name="Layer 1           复制 4604413910" bT="0" bi="Monster_SafetyBox-888" x="15.95" y="31.4" kX="-89.73" kY="-89.81" z="7"/>
+      <b name="Layer 1           复制 4604413911" bT="0" bi="Monster_SafetyBox-888" x="39.8" y="64.3" kX="-89.73" kY="-89.81" z="7"/>
+      <b name="Layer 1           复制 4604413912" bT="0" bi="Monster_SafetyBox-888" x="-10.85" y="35.75" kX="-89.73" kY="-89.81" z="7"/>
+    </armature>
+    <armature name="dead">
+      <b name="图层 10" bT="0" bi="Monster_SafetyBox-yizi" x="-100.65" y="90.9" kX="0" kY="-1.12" z="0"/>
+      <b name="图层 9" bT="0" bi="Monster_SafetyBox-shousun" x="-0.05" y="-1.45" kX="0" kY="0" z="1"/>
+      <b name="图层 8" bT="0" bi="Monster_SafetyBox-xiaoshikuai 1" x="-95.4" y="30.7" kX="0" kY="180" z="2"/>
+      <b name="图层 12" bT="0" bi="Monster_SafetyBox-xiaoshikuai 1" x="66.75" y="101.6" kX="0" kY="0" z="3"/>
+      <b name="图层 13" bT="0" bi="Monster_SafetyBox-xiaoshikuai 1" x="-96.9" y="95.55" kX="0" kY="180" z="2"/>
+      <b name="图层 14" bT="0" bi="Monster_SafetyBox-xiaoshikuai 1" x="42.45" y="16.5" kX="0" kY="0" z="4"/>
+      <b name="图层 15" bT="0" bi="Monster_SafetyBox-xiaoshikuai 1" x="37.6" y="114.8" kX="0" kY="0" z="6"/>
+      <b name="图层 16" bT="0" bi="Monster_SafetyBox-xiaoshikuai 1" x="18.8" y="136.7" kX="0" kY="0" z="7"/>
+      <b name="图层 17" bT="0" bi="Monster_SafetyBox-xiaoshikuai 1" x="28.2" y="126.65" kX="0" kY="0" z="2"/>
+      <b name="图层 18" bT="0" bi="Monster_SafetyBox-xiaoshikuai 1" x="-93.1" y="117.45" kX="0" kY="180" z="7"/>
+      <b name="图层 19" bT="0" bi="Monster_SafetyBox-xiaoshikuai 1" x="-67.6" y="113.5" kX="0" kY="180" z="9"/>
+      <b name="图层 6" bT="0" bi="Monster_SafetyBox-Smoke 1" x="-20.8" y="11.4" kX="0" kY="0" z="2"/>
+      <b name="图层 11" bT="0" bi="Monster_SafetyBox-Smoke 1" x="-15.7" y="129.7" kX="0" kY="0" z="3"/>
+      <b name="图层 3" bT="0" bi="Monster_SafetyBox-Smoke 1" x="17.35" y="63.8" kX="0" kY="0" z="4"/>
+      <b name="图层 5" bT="0" bi="Monster_SafetyBox-Smoke 1" x="-66.15" y="45.95" kX="0" kY="0" z="5"/>
+      <b name="图层 7" bT="0" bi="Monster_SafetyBox-Smoke 1" x="-66.15" y="91.55" kX="0" kY="0" z="10"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand3">
+      <mov name="stand3" to="1" dr="42" drTW="42" lp="1">
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_SafetyBox-shousun" dr="41"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.3" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="4" twE="0" dr="1"/>
+          <f x="21.45" y="-13.3" kX="0" kY="0.01" cX="5.46" cY="5.45" z="3" dr="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="5" twE="0" dr="1"/>
+          <f x="20.85" y="-13.6" kX="0" kY="0.01" cX="5.46" cY="5.45" z="4" dr="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0"/>
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 9" sc="1" dl="0"/>
+        <b name="图层 8" sc="1" dl="0"/>
+        <b name="图层 25" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.47" cY="5.51" z="0" img="Monster_SafetyBox-yizi" dr="41"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.47" cY="5.51" z="0" dr="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-29.95" y="-65.65" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.95" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 22" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.3" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.9" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.3" y="-5.3" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.9" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.95" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="23" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.3" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.95" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.85" cY="4.83" z="4" img="Monster_SafetyBox-888" twE="0" dr="7"/>
+          <f x="-28.2" y="-56.9" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="4" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.85" cY="4.83" z="5" img="Monster_SafetyBox-888" twE="0" dr="7"/>
+          <f x="-28.25" y="-56.85" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="5" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.85" cY="4.83" z="6" img="Monster_SafetyBox-888" twE="0" dr="7"/>
+          <f x="-27.9" y="-56.5" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="6" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.3" y="-5.3" kX="0" kY="0" cX="6.07" cY="6.07" z="3" twE="0" dr="1"/>
+          <f x="21.45" y="-13.2" kX="0" kY="0.01" cX="5.46" cY="5.45" z="2" dr="1"/>
+        </b>
+        <b name="Layer 1           复制 460441391" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.73" cY="3.9" z="5" img="Monster_SafetyBox-888" twE="0" dr="2"/>
+          <f x="7.65" y="-19.7" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="6" twE="0" dr="2"/>
+          <f x="-2.2" y="-17.25" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="6" twE="0" dr="2"/>
+          <f x="6.45" y="-34.65" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="5" twE="0" dr="2"/>
+          <f x="2.5" y="-33.3" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="5" twE="0" dr="4"/>
+          <f x="17.8" y="-57.5" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-28.45" y="46.65" kX="0" kY="0" cX="4.73" cY="3.9" z="7" twE="0" dr="2"/>
+          <f x="-20.8" y="26.9" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="7" twE="0" dr="2"/>
+          <f x="-30.6" y="29.35" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="6" twE="0" dr="2"/>
+          <f x="-22" y="11.95" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="8" twE="0" dr="2"/>
+          <f x="-25.95" y="13.35" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="7" twE="0" dr="5"/>
+          <f x="-10.65" y="-10.9" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="7" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413910" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.73" cY="3.9" z="7" img="Monster_SafetyBox-888" twE="0" dr="2"/>
+          <f x="7.7" y="-19.7" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="6" twE="0" dr="2"/>
+          <f x="-2.15" y="-17.25" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="5" twE="0" dr="2"/>
+          <f x="6.5" y="-34.65" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="5" twE="0" dr="2"/>
+          <f x="2.55" y="-33.3" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="7" twE="0" dr="4"/>
+          <f x="17.85" y="-57.5" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="7" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413911" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.73" cY="3.9" z="7" img="Monster_SafetyBox-888" twE="0" dr="2"/>
+          <f x="7.65" y="-19.75" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="6" twE="0" dr="2"/>
+          <f x="-2.2" y="-17.3" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="6" twE="0" dr="2"/>
+          <f x="6.45" y="-34.7" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="8" twE="0" dr="2"/>
+          <f x="2.5" y="-33.3" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="6" twE="0" dr="4"/>
+          <f x="17.8" y="-57.55" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="6" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413912" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.73" cY="3.9" z="7" img="Monster_SafetyBox-888" twE="0" dr="2"/>
+          <f x="7.65" y="-19.75" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="7" twE="0" dr="2"/>
+          <f x="-2.15" y="-17.3" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="5" twE="0" dr="2"/>
+          <f x="6.45" y="-34.7" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="5" twE="0" dr="2"/>
+          <f x="2.5" y="-33.3" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="7" twE="0" dr="5"/>
+          <f x="17.8" y="-57.55" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="8" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="stand2">
+      <mov name="stand2" to="1" dr="42" drTW="42" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_SafetyBox-sunhuai" dr="41"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 8" sc="1" dl="0"/>
+        <b name="图层 9" sc="1" dl="0"/>
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 13" sc="1" dl="0"/>
+        <b name="图层 12" sc="1" dl="0"/>
+        <b name="图层 11" sc="1" dl="0"/>
+        <b name="图层 16" sc="1" dl="0"/>
+        <b name="图层 15" sc="1" dl="0"/>
+        <b name="图层 14" sc="1" dl="0"/>
+        <b name="图层 17" sc="1" dl="0"/>
+        <b name="图层 35" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.47" cY="5.51" z="0" img="Monster_SafetyBox-yizi" dr="41"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.47" cY="5.51" z="0" dr="1"/>
+        </b>
+        <b name="图层 34" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-29.95" y="-65.65" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="图层 33" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.95" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 32" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.3" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.9" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 31" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.3" y="-5.3" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.9" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 30" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.95" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 29" sc="1" dl="0">
+          <f dr="23" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.3" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.95" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 28" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.85" cY="4.83" z="4" img="Monster_SafetyBox-888" twE="0" dr="7"/>
+          <f x="-28.2" y="-56.9" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="4" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 27" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.85" cY="4.83" z="5" img="Monster_SafetyBox-888" twE="0" dr="7"/>
+          <f x="-28.25" y="-56.85" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="5" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.85" cY="4.83" z="6" img="Monster_SafetyBox-888" twE="0" dr="7"/>
+          <f x="-27.9" y="-56.5" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="6" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 25" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.3" y="-5.3" kX="0" kY="0" cX="6.07" cY="6.07" z="3" twE="0" dr="1"/>
+          <f x="21.45" y="-13.2" kX="0" kY="0.01" cX="5.46" cY="5.45" z="2" dr="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.3" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="4" twE="0" dr="1"/>
+          <f x="21.45" y="-13.3" kX="0" kY="0.01" cX="5.46" cY="5.45" z="3" dr="1"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="5" twE="0" dr="1"/>
+          <f x="20.85" y="-13.6" kX="0" kY="0.01" cX="5.46" cY="5.45" z="4" dr="1"/>
+        </b>
+        <b name="Layer 1           复制 460441391" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.73" cY="3.9" z="5" img="Monster_SafetyBox-888" twE="0" dr="2"/>
+          <f x="7.65" y="-19.7" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="6" twE="0" dr="2"/>
+          <f x="-2.2" y="-17.25" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="6" twE="0" dr="2"/>
+          <f x="6.45" y="-34.65" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="5" twE="0" dr="2"/>
+          <f x="2.5" y="-33.3" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="5" twE="0" dr="4"/>
+          <f x="17.8" y="-57.5" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-28.45" y="46.65" kX="0" kY="0" cX="4.73" cY="3.9" z="7" twE="0" dr="2"/>
+          <f x="-20.8" y="26.9" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="7" twE="0" dr="2"/>
+          <f x="-30.6" y="29.35" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="6" twE="0" dr="2"/>
+          <f x="-22" y="11.95" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="8" twE="0" dr="2"/>
+          <f x="-25.95" y="13.35" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="7" twE="0" dr="5"/>
+          <f x="-10.65" y="-10.9" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="7" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413910" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.73" cY="3.9" z="7" img="Monster_SafetyBox-888" twE="0" dr="2"/>
+          <f x="7.7" y="-19.7" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="6" twE="0" dr="2"/>
+          <f x="-2.15" y="-17.25" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="5" twE="0" dr="2"/>
+          <f x="6.5" y="-34.65" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="5" twE="0" dr="2"/>
+          <f x="2.55" y="-33.3" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="7" twE="0" dr="4"/>
+          <f x="17.85" y="-57.5" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="7" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413911" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.73" cY="3.9" z="7" img="Monster_SafetyBox-888" twE="0" dr="2"/>
+          <f x="7.65" y="-19.75" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="6" twE="0" dr="2"/>
+          <f x="-2.2" y="-17.3" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="6" twE="0" dr="2"/>
+          <f x="6.45" y="-34.7" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="8" twE="0" dr="2"/>
+          <f x="2.5" y="-33.3" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="6" twE="0" dr="4"/>
+          <f x="17.8" y="-57.55" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="6" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413912" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.73" cY="3.9" z="7" img="Monster_SafetyBox-888" twE="0" dr="2"/>
+          <f x="7.65" y="-19.75" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="7" twE="0" dr="2"/>
+          <f x="-2.15" y="-17.3" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="5" twE="0" dr="2"/>
+          <f x="6.45" y="-34.7" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="5" twE="0" dr="2"/>
+          <f x="2.5" y="-33.3" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="7" twE="0" dr="5"/>
+          <f x="17.8" y="-57.55" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="8" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="stand1">
+      <mov name="stand1" to="1" dr="42" drTW="42" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_SafetyBox-putong" dr="42"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 8" sc="1" dl="0"/>
+        <b name="图层 9" sc="1" dl="0"/>
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 13" sc="1" dl="0"/>
+        <b name="图层 12" sc="1" dl="0"/>
+        <b name="图层 11" sc="1" dl="0"/>
+        <b name="图层 16" sc="1" dl="0"/>
+        <b name="图层 15" sc="1" dl="0"/>
+        <b name="图层 14" sc="1" dl="0"/>
+        <b name="图层 17" sc="1" dl="0"/>
+        <b name="图层 35" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.47" cY="5.51" z="0" img="Monster_SafetyBox-yizi" dr="41"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.47" cY="5.51" z="0" dr="1"/>
+        </b>
+        <b name="图层 34" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-29.95" y="-65.65" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="图层 33" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.95" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 32" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.3" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.9" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 31" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.3" y="-5.3" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.9" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 30" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.95" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 29" sc="1" dl="0">
+          <f dr="23" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.3" kX="0" kY="0" cX="6.07" cY="6.07" z="2" twE="0" dr="9"/>
+          <f x="-10.95" y="-78.3" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="2" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 28" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.85" cY="4.83" z="4" img="Monster_SafetyBox-888" twE="0" dr="7"/>
+          <f x="-28.2" y="-56.9" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="4" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 27" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.85" cY="4.83" z="5" img="Monster_SafetyBox-888" twE="0" dr="7"/>
+          <f x="-28.25" y="-56.85" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="5" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.85" cY="4.83" z="6" img="Monster_SafetyBox-888" twE="0" dr="7"/>
+          <f x="-27.9" y="-56.5" kX="-0.02" kY="-0.01" cX="0.6" cY="0.49" z="6" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 25" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.3" y="-5.3" kX="0" kY="0" cX="6.07" cY="6.07" z="3" twE="0" dr="1"/>
+          <f x="21.45" y="-13.2" kX="0" kY="0.01" cX="5.46" cY="5.45" z="2" dr="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.3" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="4" twE="0" dr="1"/>
+          <f x="21.45" y="-13.3" kX="0" kY="0.01" cX="5.46" cY="5.45" z="3" dr="1"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="Monster_SafetyBox-888" twE="0" dr="8"/>
+          <f x="25.25" y="-5.35" kX="0" kY="0" cX="6.07" cY="6.07" z="5" twE="0" dr="1"/>
+          <f x="20.85" y="-13.6" kX="0" kY="0.01" cX="5.46" cY="5.45" z="4" dr="1"/>
+        </b>
+        <b name="Layer 1           复制 460441391" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.73" cY="3.9" z="5" img="Monster_SafetyBox-888" twE="0" dr="2"/>
+          <f x="7.65" y="-19.7" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="6" twE="0" dr="2"/>
+          <f x="-2.2" y="-17.25" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="6" twE="0" dr="2"/>
+          <f x="6.45" y="-34.65" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="5" twE="0" dr="2"/>
+          <f x="2.5" y="-33.3" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="5" twE="0" dr="4"/>
+          <f x="17.8" y="-57.5" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-28.45" y="46.65" kX="0" kY="0" cX="4.73" cY="3.9" z="7" twE="0" dr="2"/>
+          <f x="-20.8" y="26.9" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="7" twE="0" dr="2"/>
+          <f x="-30.6" y="29.35" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="6" twE="0" dr="2"/>
+          <f x="-22" y="11.95" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="8" twE="0" dr="2"/>
+          <f x="-25.95" y="13.35" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="7" twE="0" dr="5"/>
+          <f x="-10.65" y="-10.9" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="7" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413910" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.73" cY="3.9" z="7" img="Monster_SafetyBox-888" twE="0" dr="2"/>
+          <f x="7.7" y="-19.7" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="6" twE="0" dr="2"/>
+          <f x="-2.15" y="-17.25" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="5" twE="0" dr="2"/>
+          <f x="6.5" y="-34.65" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="5" twE="0" dr="2"/>
+          <f x="2.55" y="-33.3" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="7" twE="0" dr="4"/>
+          <f x="17.85" y="-57.5" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="7" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413911" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.73" cY="3.9" z="7" img="Monster_SafetyBox-888" twE="0" dr="2"/>
+          <f x="7.65" y="-19.75" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="6" twE="0" dr="2"/>
+          <f x="-2.2" y="-17.3" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="6" twE="0" dr="2"/>
+          <f x="6.45" y="-34.7" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="8" twE="0" dr="2"/>
+          <f x="2.5" y="-33.3" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="6" twE="0" dr="4"/>
+          <f x="17.8" y="-57.55" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="6" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413912" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.73" cY="3.9" z="7" img="Monster_SafetyBox-888" twE="0" dr="2"/>
+          <f x="7.65" y="-19.75" kX="-0.2" kY="-0.02" cX="3" cY="2.47" z="7" twE="0" dr="2"/>
+          <f x="-2.15" y="-17.3" kX="0" kY="-0.01" cX="5.07" cY="4.17" z="5" twE="0" dr="2"/>
+          <f x="6.45" y="-34.7" kX="-0.2" kY="-0.02" cX="3.07" cY="2.53" z="5" twE="0" dr="2"/>
+          <f x="2.5" y="-33.3" kX="-0.23" kY="-0.02" cX="3.91" cY="3.22" z="7" twE="0" dr="5"/>
+          <f x="17.8" y="-57.55" kX="-0.02" kY="-0.01" cX="0.41" cY="0.33" z="8" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dead">
+      <mov name="dead" to="1" dr="52" drTW="52" lp="0">
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.29" cY="12.45" z="2" img="Monster_SafetyBox-xiaoshikuai 18" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="3" img="Monster_SafetyBox-xiaoshikuai 17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.31" cY="5.6" z="2" img="Monster_SafetyBox-xiaoshikuai 18" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="2" img="Monster_SafetyBox-xiaoshikuai 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="2" img="Monster_SafetyBox-xiaoshikuai 2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="3" img="Monster_SafetyBox-xiaoshikuai 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.85" cY="6.23" z="4" img="Monster_SafetyBox-xiaoshikuai 18" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="4" img="Monster_SafetyBox-xiaoshikuai 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="5" img="Monster_SafetyBox-xiaoshikuai 16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="4" img="Monster_SafetyBox-xiaoshikuai 17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.8" cY="10.08" z="4" img="Monster_SafetyBox-xiaoshikuai 18" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="6" img="Monster_SafetyBox-xiaoshikuai 15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="5" img="Monster_SafetyBox-xiaoshikuai 16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="3" img="Monster_SafetyBox-xiaoshikuai 17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.9" cY="5.04" z="2" img="Monster_SafetyBox-xiaoshikuai 18" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai 13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="7" img="Monster_SafetyBox-xiaoshikuai14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="6" img="Monster_SafetyBox-xiaoshikuai 15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="4" img="Monster_SafetyBox-xiaoshikuai 16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="2" img="Monster_SafetyBox-xiaoshikuai 17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2.52" z="2" img="Monster_SafetyBox-xiaoshikuai 18" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="2" img="Monster_SafetyBox-xiaoshikuai 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="3" img="Monster_SafetyBox-xiaoshikuai 2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="3" img="Monster_SafetyBox-xiaoshikuai 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="6" img="Monster_SafetyBox-xiaoshikuai 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="7" img="Monster_SafetyBox-xiaoshikuai 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai 10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai 11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai 12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai 13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai 15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai 16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai 17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.14" cY="3.48" z="8" img="Monster_SafetyBox-xiaoshikuai 18" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="7" img="Monster_SafetyBox-xiaoshikuai 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="8" img="Monster_SafetyBox-xiaoshikuai 2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai 10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai 11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai 12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai 13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="9" img="Monster_SafetyBox-xiaoshikuai 15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="7" img="Monster_SafetyBox-xiaoshikuai 16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="7" img="Monster_SafetyBox-xiaoshikuai 17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.71" cY="5.21" z="5" img="Monster_SafetyBox-xiaoshikuai 18" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="9" img="Monster_SafetyBox-xiaoshikuai 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="9" img="Monster_SafetyBox-xiaoshikuai 2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="10" img="Monster_SafetyBox-xiaoshikuai 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="10" img="Monster_SafetyBox-xiaoshikuai 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="10" img="Monster_SafetyBox-xiaoshikuai 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="10" img="Monster_SafetyBox-xiaoshikuai 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="10" img="Monster_SafetyBox-xiaoshikuai 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="10" img="Monster_SafetyBox-xiaoshikuai 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="10" img="Monster_SafetyBox-xiaoshikuai 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="10" img="Monster_SafetyBox-xiaoshikuai 10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="10" img="Monster_SafetyBox-xiaoshikuai 11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="10" img="Monster_SafetyBox-xiaoshikuai 12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="10" img="Monster_SafetyBox-xiaoshikuai 13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="10" img="Monster_SafetyBox-xiaoshikuai14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="9" img="Monster_SafetyBox-xiaoshikuai 15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="8" img="Monster_SafetyBox-xiaoshikuai 16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="6" img="Monster_SafetyBox-xiaoshikuai 17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.59" cY="5.61" z="4" img="Monster_SafetyBox-xiaoshikuai 18" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.47" cY="5.51" z="0" img="Monster_SafetyBox-yizi" dr="51"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.47" cY="5.51" z="0" dr="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0"/>
+        <b name="图层 21" sc="1" dl="0"/>
+        <b name="图层 22" sc="1" dl="0"/>
+        <b name="图层 23" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="9.47" z="2" img="Monster_SafetyBox-Smoke 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="9.47" z="2" img="Monster_SafetyBox-Smoke 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="9.47" z="2" img="Monster_SafetyBox-Smoke 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="9.47" z="2" img="Monster_SafetyBox-Smoke 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="9.47" z="4" img="Monster_SafetyBox-Smoke 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="9.47" z="4" img="Monster_SafetyBox-Smoke 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="9.47" z="8" img="Monster_SafetyBox-Smoke 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="9.47" z="10" img="Monster_SafetyBox-Smoke 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="9.47" z="11" img="Monster_SafetyBox-Smoke 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="9.47" z="11" img="Monster_SafetyBox-Smoke 10" dr="1"/>
+          <f dr="33" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="7.65" z="3" img="Monster_SafetyBox-Smoke 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="7.65" z="3" img="Monster_SafetyBox-Smoke 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="7.65" z="4" img="Monster_SafetyBox-Smoke 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="7.65" z="5" img="Monster_SafetyBox-Smoke 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="7.65" z="7" img="Monster_SafetyBox-Smoke 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="7.65" z="11" img="Monster_SafetyBox-Smoke 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="7.65" z="12" img="Monster_SafetyBox-Smoke 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="7.65" z="12" img="Monster_SafetyBox-Smoke 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="7.65" z="11" img="Monster_SafetyBox-Smoke 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="9.47" cY="7.65" z="11" img="Monster_SafetyBox-Smoke 10" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="12.27" cY="12.27" z="4" img="Monster_SafetyBox-Smoke 1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="12.27" cY="12.27" z="6" img="Monster_SafetyBox-Smoke 2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="12.27" cY="12.27" z="8" img="Monster_SafetyBox-Smoke 3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="12.27" cY="12.27" z="12" img="Monster_SafetyBox-Smoke 4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="12.27" cY="12.27" z="13" img="Monster_SafetyBox-Smoke 5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="12.27" cY="12.27" z="12" img="Monster_SafetyBox-Smoke 6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="12.27" cY="12.27" z="11" img="Monster_SafetyBox-Smoke 7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="12.27" cY="12.27" z="11" img="Monster_SafetyBox-Smoke 8" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="12.27" cY="12.27" z="11" img="Monster_SafetyBox-Smoke 9" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="12.27" cY="12.27" z="11" img="Monster_SafetyBox-Smoke 10" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="5" img="Monster_SafetyBox-Smoke 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="5" img="Monster_SafetyBox-Smoke 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="7" img="Monster_SafetyBox-Smoke 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="7" img="Monster_SafetyBox-Smoke 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="11" img="Monster_SafetyBox-Smoke 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="13" img="Monster_SafetyBox-Smoke 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="14" img="Monster_SafetyBox-Smoke 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="13" img="Monster_SafetyBox-Smoke 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="13" img="Monster_SafetyBox-Smoke 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="12" img="Monster_SafetyBox-Smoke 10" dr="1"/>
+          <f dr="29" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="10" img="Monster_SafetyBox-Smoke 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="14" img="Monster_SafetyBox-Smoke 2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="15" img="Monster_SafetyBox-Smoke 3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="14" img="Monster_SafetyBox-Smoke 4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="12" img="Monster_SafetyBox-Smoke 5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="12" img="Monster_SafetyBox-Smoke 6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="12" img="Monster_SafetyBox-Smoke 7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="11" img="Monster_SafetyBox-Smoke 8" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="11" img="Monster_SafetyBox-Smoke 9" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.39" cY="7.67" z="11" img="Monster_SafetyBox-Smoke 10" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 25" sc="1" dl="0"/>
+        <b name="图层 26" sc="1" dl="0"/>
+        <b name="图层 30" sc="1" dl="0"/>
+        <b name="图层 32" sc="1" dl="0"/>
+        <b name="图层 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_SafetyBox-shousun" dr="8"/>
+          <f x="-0.15" y="-0.1" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_SafetyBox-pohuai" dr="43"/>
+          <f x="-0.15" y="-0.1" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="tudui23" sc="1" dl="0"/>
+        <b name="素体" sc="1" dl="0"/>
+        <b name="图层 28" sc="1" dl="0"/>
+        <b name="素体0" sc="1" dl="0"/>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="保卫宝箱" width="512" height="512">
+    <SubTexture name="Monster_SafetyBox-sunhuai" x="0" y="185" width="221" height="154" pX="108.05" pY="25"/>
+    <SubTexture name="Monster_SafetyBox-putong" x="222" y="208" width="219" height="146" pX="109" pY="15"/>
+    <SubTexture name="Monster_SafetyBox-888" x="488" y="127" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 1" x="488" y="95" width="5" height="5" pX="9.6" pY="6.75"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 2" x="480" y="121" width="7" height="6" pX="9.6" pY="8.1"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 3" x="502" y="127" width="9" height="8" pX="9.6" pY="9.7"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 4" x="499" y="142" width="10" height="8" pX="9.65" pY="9.4"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 5" x="475" y="135" width="12" height="7" pX="9.55" pY="8.75"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 6" x="464" y="121" width="15" height="13" pX="9.5" pY="8.8"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 7" x="494" y="96" width="15" height="16" pX="9.05" pY="8.9"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 8" x="496" y="35" width="15" height="20" pX="8.7" pY="8.8"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 9" x="494" y="76" width="16" height="19" pX="7.95" pY="8.6"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 10" x="496" y="56" width="15" height="19" pX="6.4" pY="8.4"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 11" x="498" y="0" width="11" height="18" pX="1.75" pY="7.95"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 12" x="498" y="19" width="10" height="15" pX="-0.2" pY="4.05"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 13" x="464" y="135" width="10" height="12" pX="-1.85" pY="1.6"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai14" x="488" y="140" width="10" height="8" pX="-2.45" pY="-2.5"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 15" x="464" y="148" width="10" height="6" pX="-3" pY="-4.9"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 16" x="475" y="150" width="11" height="5" pX="-2.4" pY="-5.9"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 17" x="475" y="143" width="12" height="6" pX="-1.75" pY="-4.95"/>
+    <SubTexture name="Monster_SafetyBox-xiaoshikuai 18" x="505" y="113" width="6" height="3" pX="-7.9" pY="-7.7"/>
+    <SubTexture name="Monster_SafetyBox-yizi" x="248" y="187" width="71" height="20" pX="5.8" pY="3.3"/>
+    <SubTexture name="Monster_SafetyBox-Smoke 1" x="502" y="136" width="8" height="5" pX="4.25" pY="2.7"/>
+    <SubTexture name="Monster_SafetyBox-Smoke 2" x="488" y="113" width="16" height="13" pX="7.55" pY="6.75"/>
+    <SubTexture name="Monster_SafetyBox-Smoke 3" x="222" y="185" width="25" height="17" pX="12.1" pY="8.3"/>
+    <SubTexture name="Monster_SafetyBox-Smoke 4" x="464" y="75" width="29" height="19" pX="13.4" pY="9.25"/>
+    <SubTexture name="Monster_SafetyBox-Smoke 5" x="464" y="52" width="31" height="22" pX="14.35" pY="9.85"/>
+    <SubTexture name="Monster_SafetyBox-Smoke 6" x="464" y="180" width="32" height="22" pX="14.7" pY="10.15"/>
+    <SubTexture name="Monster_SafetyBox-Smoke 7" x="464" y="156" width="32" height="23" pX="14.9" pY="10.7"/>
+    <SubTexture name="Monster_SafetyBox-Smoke 8" x="464" y="0" width="33" height="25" pX="15.25" pY="11.2"/>
+    <SubTexture name="Monster_SafetyBox-Smoke 9" x="464" y="26" width="31" height="25" pX="14.65" pY="11.5"/>
+    <SubTexture name="Monster_SafetyBox-Smoke 10" x="464" y="95" width="23" height="25" pX="10.9" pY="11.75"/>
+    <SubTexture name="Monster_SafetyBox-shousun" x="258" y="0" width="205" height="186" pX="99" pY="38"/>
+    <SubTexture name="Monster_SafetyBox-pohuai" x="0" y="0" width="257" height="184" pX="148" pY="-27.95"/>
+  </TextureAtlas>
+</skeleton>

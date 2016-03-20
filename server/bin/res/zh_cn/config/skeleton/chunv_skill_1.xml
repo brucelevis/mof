@@ -1,0 +1,33 @@
+<skeleton name="暗金处女座BUFF">
+  <armatures>
+    <armature name="cnbuff">
+      <b name="图层 1" bT="0" bi="chunv_skill_1-AJCNbuff_1" x="-104.45" y="-179.05" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="cnbuff">
+      <mov name="cnbuff" to="1" dr="16" drTW="16" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="chunv_skill_1-AJCNbuff_1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="chunv_skill_1-AJCNbuff_2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="chunv_skill_1-AJCNbuff_3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="chunv_skill_1-AJCNbuff_4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="chunv_skill_1-AJCNbuff_5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="chunv_skill_1-AJCNbuff_6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="chunv_skill_1-AJCNbuff_7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="chunv_skill_1-AJCNbuff_8" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="暗金处女座BUFF" width="512" height="256">
+    <SubTexture name="chunv_skill_1-AJCNbuff_1" x="369" y="127" width="122" height="126" pX="0" pY="0"/>
+    <SubTexture name="chunv_skill_1-AJCNbuff_2" x="123" y="127" width="122" height="126" pX="0" pY="0"/>
+    <SubTexture name="chunv_skill_1-AJCNbuff_3" x="0" y="127" width="122" height="126" pX="0" pY="0"/>
+    <SubTexture name="chunv_skill_1-AJCNbuff_4" x="369" y="0" width="122" height="126" pX="0" pY="0"/>
+    <SubTexture name="chunv_skill_1-AJCNbuff_5" x="246" y="0" width="122" height="126" pX="0" pY="0"/>
+    <SubTexture name="chunv_skill_1-AJCNbuff_6" x="0" y="0" width="122" height="126" pX="0" pY="0"/>
+    <SubTexture name="chunv_skill_1-AJCNbuff_7" x="123" y="0" width="122" height="126" pX="0" pY="0"/>
+    <SubTexture name="chunv_skill_1-AJCNbuff_8" x="246" y="127" width="122" height="126" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,15 @@
+<skeleton name="金龙武器修改">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_xiongmao" bT="0" bi="weapon_bugdragon-fs_jinlong" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_bugdragon-fs_jinlong"/>
+      <b name="weapon-ck_xiongmao" bT="0" bi="weapon_bugdragon-ck_jinlong" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_bugdragon-ck_jinlong"/>
+      <b name="weapon-zs_xiongmao" bT="0" bi="weapon_bugdragon-js_jinlong" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_bugdragon-js_jinlong"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="金龙武器修改" width="512" height="256">
+    <SubTexture name="weapon_bugdragon-fs_jinlong" x="0" y="0" width="87" height="206" pX="50.65" pY="106.1"/>
+    <SubTexture name="weapon_bugdragon-ck_jinlong" x="266" y="0" width="45" height="119" pX="24.85" pY="72.7"/>
+    <SubTexture name="weapon_bugdragon-js_jinlong" x="88" y="0" width="177" height="50" pX="24.5" pY="24.65"/>
+  </TextureAtlas>
+</skeleton>

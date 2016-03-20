@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ModGM" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../Debug/Module/ModGM" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Debug" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option host_application="../Debug/PublicServer" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-W" />
+					<Add option="-O0" />
+					<Add option="-fPIC" />
+					<Add option="-D_DEBUG" />
+					<Add option="-D_USRDLL" />
+					<Add option="-DModGM_EXPORTS" />
+					<Add directory="../Utils" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="../Utils" />
+				</ResourceCompiler>
+				<Linker>
+					<Add library="../Debug/libutils.a" />
+					<Add directory="../Debug/" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="$(SolutionDir)Release/Module/ModGM" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Release" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-W" />
+					<Add option="-O0" />
+					<Add option="-fPIC" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_USRDLL" />
+					<Add option="-DLINUX_" />
+					<Add option="-DModGM_EXPORTS" />
+					<Add directory="../Utils" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="../Utils" />
+				</ResourceCompiler>
+				<Linker>
+					<Add library="../Debug/libutils.a" />
+					<Add directory="../Release/" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-g" />
+			<Add option="-fshort-wchar" />
+			<Add option="-DLINUX_" />
+			<Add option="-fPIC" />
+		</Compiler>
+		<Unit filename="../CustomDefine/PublicMessage.h" />
+		<Unit filename="../Interface/ShellHandle.h" />
+		<Unit filename="BanChat.cpp" />
+		<Unit filename="BanChat.h" />
+		<Unit filename="BanRole.cpp" />
+		<Unit filename="BanRole.h" />
+		<Unit filename="GMTask.h" />
+		<Unit filename="GmTaskManager" />
+		<Unit filename="GmTaskManager.cpp" />
+		<Unit filename="GmTaskManager.h" />
+		<Unit filename="ModGM.cpp" />
+		<Unit filename="ModGM.def" />
+		<Unit filename="ModGM.h" />
+		<Unit filename="Notify.cpp" />
+		<Unit filename="Notify.h" />
+		<Unit filename="ReadMe.txt" />
+		<Unit filename="TimeTick.cpp" />
+		<Unit filename="TimeTick.h" />
+		<Unit filename="async_func.cpp" />
+		<Unit filename="async_func.h" />
+		<Unit filename="json/config.h" />
+		<Unit filename="json/features.h" />
+		<Unit filename="json/forwards.h" />
+		<Unit filename="json/json.h" />
+		<Unit filename="json/reader.h" />
+		<Unit filename="json/src/json_batchallocator.h" />
+		<Unit filename="json/src/json_reader.cpp" />
+		<Unit filename="json/src/json_value.cpp" />
+		<Unit filename="json/src/json_writer.cpp" />
+		<Unit filename="json/value.h" />
+		<Unit filename="json/writer.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main.h" />
+		<Unit filename="stdafx.cpp" />
+		<Unit filename="stdafx.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

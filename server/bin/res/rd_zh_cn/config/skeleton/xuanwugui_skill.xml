@@ -1,0 +1,41 @@
+<skeleton name="X玄武盾（资源）">
+  <armatures>
+    <armature name="turtle_1">
+      <b name="图层 1" bT="0" bi="xuanwugui_skill-Gdun-1" x="-303.9" y="-168.25" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="turtle_1">
+      <mov name="turtle_1" to="1" dr="24" drTW="24" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.24" cY="3.24" z="0" img="xuanwugui_skill-Gdun-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.24" cY="3.24" z="0" img="xuanwugui_skill-Gdun-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.24" cY="3.24" z="0" img="xuanwugui_skill-Gdun-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.24" cY="3.24" z="0" img="xuanwugui_skill-Gdun-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.24" cY="3.24" z="0" img="xuanwugui_skill-Gdun-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.24" cY="3.24" z="0" img="xuanwugui_skill-Gdun-6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.24" cY="3.24" z="0" img="xuanwugui_skill-Gdun-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.24" cY="3.24" z="0" img="xuanwugui_skill-Gdun-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.24" cY="3.24" z="0" img="xuanwugui_skill-Gdun-9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.24" cY="3.24" z="0" img="xuanwugui_skill-Gdun-10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.24" cY="3.24" z="0" img="xuanwugui_skill-Gdun-11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.24" cY="3.24" z="0" img="xuanwugui_skill-Gdun-12" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="X玄武盾（资源）" width="512" height="512">
+    <SubTexture name="xuanwugui_skill-Gdun-1" x="188" y="410" width="187" height="81" pX="0" pY="0"/>
+    <SubTexture name="xuanwugui_skill-Gdun-2" x="188" y="328" width="187" height="81" pX="0" pY="0"/>
+    <SubTexture name="xuanwugui_skill-Gdun-3" x="0" y="328" width="187" height="81" pX="0" pY="0"/>
+    <SubTexture name="xuanwugui_skill-Gdun-4" x="188" y="246" width="187" height="81" pX="0" pY="0"/>
+    <SubTexture name="xuanwugui_skill-Gdun-5" x="0" y="246" width="187" height="81" pX="0" pY="0"/>
+    <SubTexture name="xuanwugui_skill-Gdun-6" x="188" y="164" width="187" height="81" pX="0" pY="0"/>
+    <SubTexture name="xuanwugui_skill-Gdun-7" x="0" y="164" width="187" height="81" pX="0" pY="0"/>
+    <SubTexture name="xuanwugui_skill-Gdun-8" x="188" y="82" width="187" height="81" pX="0" pY="0"/>
+    <SubTexture name="xuanwugui_skill-Gdun-9" x="0" y="82" width="187" height="81" pX="0" pY="0"/>
+    <SubTexture name="xuanwugui_skill-Gdun-10" x="0" y="0" width="187" height="81" pX="0" pY="0"/>
+    <SubTexture name="xuanwugui_skill-Gdun-11" x="188" y="0" width="187" height="81" pX="0" pY="0"/>
+    <SubTexture name="xuanwugui_skill-Gdun-12" x="0" y="410" width="187" height="81" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

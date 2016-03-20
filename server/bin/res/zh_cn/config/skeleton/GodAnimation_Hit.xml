@@ -1,0 +1,70 @@
+<skeleton name="神像被击(3)">
+  <armatures>
+    <armature name="shenxiangHit">
+      <b name="图层 3" bT="0" bi="GodAnimation_Hit-Smoke 1" x="-1.5" y="-1.3" kX="0" kY="0" z="0"/>
+      <b name="图层 11" bT="0" bi="GodAnimation_Hit-dashitou" x="-8.2" y="-11.45" kX="0" kY="-11.05" z="1"/>
+      <b name="图层 9" bT="0" bi="GodAnimation_Hit-dashitou" x="0.8" y="-4.9" kX="0" kY="-168.01" z="2"/>
+      <b name="图层 7" bT="0" bi="GodAnimation_Hit-dashitou" x="7.55" y="-16.75" kX="15.26" kY="-123.48" z="3"/>
+      <b name="图层 5" bT="0" bi="GodAnimation_Hit-dashitou" x="-5.1" y="-7.55" kX="-18.55" kY="-50.87" z="4"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="shenxiangHit">
+      <mov name="shenxiangHit" to="1" dr="20" drTW="20" lp="0">
+        <b name="图层 1" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.37" cY="3.37" z="0" img="GodAnimation_Hit-Smoke 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.37" cY="3.37" z="0" img="GodAnimation_Hit-Smoke 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.37" cY="3.37" z="0" img="GodAnimation_Hit-Smoke 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.37" cY="3.37" z="0" img="GodAnimation_Hit-Smoke 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.37" cY="3.37" z="0" img="GodAnimation_Hit-Smoke 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.37" cY="3.37" z="0" img="GodAnimation_Hit-Smoke 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.37" cY="3.37" z="0" img="GodAnimation_Hit-Smoke 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.37" cY="3.37" z="0" img="GodAnimation_Hit-Smoke 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.37" cY="3.37" z="0" img="GodAnimation_Hit-Smoke 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.37" cY="3.37" z="0" img="GodAnimation_Hit-Smoke 10" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.71" cY="1" z="1" img="GodAnimation_Hit-dashitou" twE="0" dr="6"/>
+          <f x="0.05" y="0" kX="-18.82" kY="-29.24" cX="1.36" cY="1.47" z="1" twE="0" dr="9"/>
+          <f x="-86.7" y="-40.55" kX="-39.02" kY="-47.33" cX="2.04" cY="1.7" z="1" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.59" cY="0.8" z="2" img="GodAnimation_Hit-dashitou" twE="0" dr="6"/>
+          <f x="15.25" y="-17.95" kX="19.63" kY="28.08" cX="1.13" cY="1.17" z="2" twE="0" dr="9"/>
+          <f x="74.65" y="-34.45" kX="40.65" kY="45.83" cX="1.67" cY="1.36" z="2" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.86" cY="1.15" z="3" img="GodAnimation_Hit-dashitou" twE="0" dr="6"/>
+          <f x="-0.05" y="0" kX="18.18" kY="18.2" cX="1.88" cY="1.4" z="3" twE="0" dr="9"/>
+          <f x="79.85" y="21.9" kX="47.58" kY="28.19" cX="2.8" cY="1.33" z="2" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.73" cY="0.93" z="4" img="GodAnimation_Hit-dashitou" twE="0" dr="6"/>
+          <f x="-43.4" y="-7.7" kX="-20.54" kY="-20.56" cX="1.52" cY="1.19" z="4" twE="0" dr="9"/>
+          <f x="-77.8" y="17.35" kX="-48.81" kY="-32.64" cX="2.23" cY="1.25" z="4" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="神像被击(3)" width="512" height="32">
+    <SubTexture name="GodAnimation_Hit-Smoke 1" x="272" y="0" width="8" height="5" pX="4.25" pY="2.7"/>
+    <SubTexture name="GodAnimation_Hit-Smoke 2" x="244" y="0" width="16" height="13" pX="7.55" pY="6.75"/>
+    <SubTexture name="GodAnimation_Hit-Smoke 3" x="218" y="0" width="25" height="17" pX="12.1" pY="8.3"/>
+    <SubTexture name="GodAnimation_Hit-Smoke 4" x="164" y="0" width="29" height="19" pX="13.4" pY="9.25"/>
+    <SubTexture name="GodAnimation_Hit-Smoke 5" x="132" y="0" width="31" height="22" pX="14.35" pY="9.85"/>
+    <SubTexture name="GodAnimation_Hit-Smoke 6" x="99" y="0" width="32" height="22" pX="14.7" pY="10.15"/>
+    <SubTexture name="GodAnimation_Hit-Smoke 7" x="66" y="0" width="32" height="23" pX="14.9" pY="10.7"/>
+    <SubTexture name="GodAnimation_Hit-Smoke 8" x="0" y="0" width="33" height="25" pX="15.25" pY="11.2"/>
+    <SubTexture name="GodAnimation_Hit-Smoke 9" x="34" y="0" width="31" height="25" pX="14.65" pY="11.5"/>
+    <SubTexture name="GodAnimation_Hit-Smoke 10" x="194" y="0" width="23" height="25" pX="10.9" pY="11.75"/>
+    <SubTexture name="GodAnimation_Hit-dashitou" x="261" y="0" width="10" height="10" pX="4.25" pY="4.4"/>
+  </TextureAtlas>
+</skeleton>

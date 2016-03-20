@@ -1,0 +1,101 @@
+<skeleton name="附魔经验条闪光">
+  <armatures>
+    <armature name="jingyanshanguang">
+      <b name="图层 6" bT="0" bi="Enchant_lvlup-JYSG1" x="-73.05" y="0.45" kX="0" kY="0" z="0"/>
+      <b name="图层 5" bT="0" bi="Enchant_lvlup-JYSG1" x="-21.95" y="0.45" kX="0" kY="0" z="1"/>
+      <b name="图层 4" bT="0" bi="Enchant_lvlup-JYSG1" x="28.1" y="0.45" kX="0" kY="0" z="2"/>
+      <b name="图层 3" bT="0" bi="Enchant_lvlup-JYSG1" x="69" y="0.45" kX="0" kY="0" z="3"/>
+      <b name="Layer4" bT="0" bi="Enchant_lvlup-guangyunlv" x="-7.15" y="-33.9" kX="0" kY="180" z="4"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="jingyanshanguang">
+      <mov name="jingyanshanguang" to="1" dr="32" drTW="32">
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG12" dr="2"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG12" dr="2"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="2" img="Enchant_lvlup-JYSG1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="2" img="Enchant_lvlup-JYSG2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="2" img="Enchant_lvlup-JYSG3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="2" img="Enchant_lvlup-JYSG4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="2" img="Enchant_lvlup-JYSG5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="2" img="Enchant_lvlup-JYSG6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="2" img="Enchant_lvlup-JYSG7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="2" img="Enchant_lvlup-JYSG8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="2" img="Enchant_lvlup-JYSG9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="2" img="Enchant_lvlup-JYSG10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG12" dr="2"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="3" img="Enchant_lvlup-JYSG1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="3" img="Enchant_lvlup-JYSG2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="3" img="Enchant_lvlup-JYSG3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="3" img="Enchant_lvlup-JYSG4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="3" img="Enchant_lvlup-JYSG5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="3" img="Enchant_lvlup-JYSG6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="3" img="Enchant_lvlup-JYSG7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="3" img="Enchant_lvlup-JYSG8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="3" img="Enchant_lvlup-JYSG9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="2" img="Enchant_lvlup-JYSG10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="1" img="Enchant_lvlup-JYSG11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1.1" z="0" img="Enchant_lvlup-JYSG12" dr="2"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="Layer4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="4" img="Enchant_lvlup-guangyunlv" twE="0" dr="14"/>
+          <f x="162" y="6.2" kX="0" kY="0" cX="0.69" cY="0.73" z="4" twE="0" dr="6"/>
+          <f x="129.1" y="23.35" kX="0" kY="0" cX="0.29" cY="0.3" z="4" twE="0" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="附魔经验条闪光" width="512" height="256">
+    <SubTexture name="Enchant_lvlup-JYSG1" x="0" y="118" width="91" height="41" pX="45" pY="20"/>
+    <SubTexture name="Enchant_lvlup-JYSG2" x="276" y="84" width="91" height="41" pX="45" pY="20"/>
+    <SubTexture name="Enchant_lvlup-JYSG3" x="184" y="84" width="91" height="41" pX="45" pY="20"/>
+    <SubTexture name="Enchant_lvlup-JYSG4" x="92" y="84" width="91" height="41" pX="45" pY="20"/>
+    <SubTexture name="Enchant_lvlup-JYSG5" x="0" y="76" width="91" height="41" pX="45" pY="20"/>
+    <SubTexture name="Enchant_lvlup-JYSG6" x="365" y="42" width="91" height="41" pX="45" pY="20"/>
+    <SubTexture name="Enchant_lvlup-JYSG7" x="273" y="42" width="91" height="41" pX="45" pY="20"/>
+    <SubTexture name="Enchant_lvlup-JYSG8" x="181" y="42" width="91" height="41" pX="45" pY="20"/>
+    <SubTexture name="Enchant_lvlup-JYSG9" x="365" y="0" width="91" height="41" pX="45" pY="20"/>
+    <SubTexture name="Enchant_lvlup-JYSG10" x="273" y="0" width="91" height="41" pX="45" pY="20"/>
+    <SubTexture name="Enchant_lvlup-JYSG11" x="368" y="84" width="91" height="41" pX="45" pY="20"/>
+    <SubTexture name="Enchant_lvlup-JYSG12" x="181" y="0" width="91" height="41" pX="45" pY="20"/>
+    <SubTexture name="Enchant_lvlup-guangyunlv" x="0" y="0" width="180" height="75" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

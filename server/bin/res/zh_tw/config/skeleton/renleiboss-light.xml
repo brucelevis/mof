@@ -1,0 +1,742 @@
+<skeleton name="魔化人类Boss光效(5)">
+  <armatures>
+    <armature name="physical_2_2">
+      <b name="图层 60" bT="0" bi="renleiboss_light-em0503-2-1" x="91.35" y="262.25" kX="0" kY="180" z="0"/>
+      <b name="图层 61" bT="0" bi="renleiboss_light-em0503-2-2" x="177.1" y="273.1" kX="0" kY="180" z="1"/>
+      <b name="图层 62" bT="0" bi="renleiboss_light-skill02-1" x="50.8" y="200.3" kX="0" kY="180" z="2"/>
+      <b name="图层 63" bT="0" bi="renleiboss_light-skill02-3" x="2.75" y="127.1" kX="0" kY="180" z="3"/>
+      <b name="图层 64" bT="0" bi="renleiboss_light-skill02-3" x="0.1" y="271" kX="180" kY="180" z="4"/>
+      <b name="图层 65" bT="0" bi="renleiboss_light-em0503-1-0" x="138.8" y="209.4" kX="0" kY="0" z="3"/>
+      <b name="图层 3" bT="0" bi="renleiboss_light-skill1-2" x="31.85" y="206.85" kX="0" kY="180" z="4"/>
+    </armature>
+    <armature name="physical_2_1">
+      <b name="gxs2" bT="0" bi="renleiboss_light-gxs3" x="130.15" y="123.8" kX="-112.38" kY="-112.38" z="0"/>
+      <b name="gxs3" bT="0" bi="renleiboss_light-gxs3" x="117.45" y="116.8" kX="-5.73" kY="-5.74" z="1"/>
+      <b name="gxs30" bT="0" bi="renleiboss_light-gxs3" x="125.05" y="105.85" kX="86.15" kY="86.14" z="2"/>
+      <b name="gxs31" bT="0" bi="renleiboss_light-gxs3" x="123.7" y="114.8" kX="15.03" kY="15.12" z="3"/>
+      <b name="图层 54" bT="0" bi="renleiboss_light-gxs3" x="132.75" y="114.55" kX="-9.41" kY="170.57" z="4"/>
+      <b name="qe3" bT="0" bi="renleiboss_light-qe3" x="86.45" y="291.35" kX="140.54" kY="140.54" z="0"/>
+      <b name="qe30" bT="0" bi="renleiboss_light-qe3" x="77.65" y="250" kX="140.54" kY="140.54" z="1"/>
+      <b name="qe31" bT="0" bi="renleiboss_light-qe3" x="-3" y="327.4" kX="140.54" kY="140.54" z="2"/>
+      <b name="qe32" bT="0" bi="renleiboss_light-qe3" x="37.2" y="220.5" kX="140.54" kY="140.54" z="3"/>
+      <b name="qe33" bT="0" bi="renleiboss_light-qe3" x="-65.85" y="265.2" kX="140.54" kY="140.54" z="4"/>
+      <b name="qe34" bT="0" bi="renleiboss_light-qe3" x="-27.1" y="184.05" kX="140.54" kY="140.54" z="5"/>
+      <b name="qe35" bT="0" bi="renleiboss_light-qe3" x="-165.85" y="182.3" kX="140.54" kY="140.54" z="6"/>
+      <b name="qe36" bT="0" bi="renleiboss_light-qe3" x="23.65" y="122.2" kX="140.54" kY="140.54" z="5"/>
+      <b name="qe37" bT="0" bi="renleiboss_light-qe3" x="-60.1" y="88.15" kX="140.54" kY="140.54" z="6"/>
+      <b name="qe38" bT="0" bi="renleiboss_light-qe3" x="41.1" y="78.1" kX="140.54" kY="140.54" z="7"/>
+      <b name="qe39" bT="0" bi="renleiboss_light-qe3" x="-18" y="20.5" kX="140.54" kY="140.54" z="10"/>
+      <b name="qe310" bT="0" bi="renleiboss_light-qe3" x="28.95" y="17.5" kX="140.54" kY="140.54" z="11"/>
+      <b name="qe311" bT="0" bi="renleiboss_light-qe3" x="-18.25" y="-88.75" kX="140.54" kY="140.54" z="8"/>
+      <b name="qe312" bT="0" bi="renleiboss_light-qe3" x="59.2" y="-22.95" kX="140.54" kY="140.54" z="9"/>
+      <b name="qe313" bT="0" bi="renleiboss_light-qe3" x="44.6" y="-150.85" kX="140.54" kY="140.54" z="14"/>
+      <b name="qe314" bT="0" bi="renleiboss_light-qe3" x="133.55" y="36.3" kX="140.54" kY="140.54" z="15"/>
+      <b name="qe315" bT="0" bi="renleiboss_light-qe3" x="156.15" y="-22.8" kX="140.54" kY="140.54" z="10"/>
+      <b name="qe316" bT="0" bi="renleiboss_light-qe3" x="182.55" y="4.65" kX="140.54" kY="140.54" z="17"/>
+      <b name="qe317" bT="0" bi="renleiboss_light-qe3" x="252.6" y="-66.2" kX="140.54" kY="140.54" z="18"/>
+      <b name="qe318" bT="0" bi="renleiboss_light-qe3" x="241.75" y="8.5" kX="140.54" kY="140.54" z="11"/>
+      <b name="qe319" bT="0" bi="renleiboss_light-qe3" x="354.15" y="-45.45" kX="140.54" kY="140.54" z="12"/>
+      <b name="qe320" bT="0" bi="renleiboss_light-qe3" x="281.25" y="61.25" kX="140.54" kY="140.54" z="13"/>
+      <b name="qe321" bT="0" bi="renleiboss_light-qe3" x="404.2" y="61.05" kX="140.54" kY="140.54" z="14"/>
+      <b name="qe322" bT="0" bi="renleiboss_light-qe3" x="261.6" y="117.55" kX="140.54" kY="140.54" z="15"/>
+      <b name="qe323" bT="0" bi="renleiboss_light-qe3" x="352.6" y="155.4" kX="140.54" kY="140.54" z="16"/>
+      <b name="qe324" bT="0" bi="renleiboss_light-qe3" x="275.7" y="178.45" kX="140.54" kY="140.54" z="25"/>
+      <b name="qe325" bT="0" bi="renleiboss_light-qe3" x="358.9" y="265.4" kX="140.54" kY="140.54" z="26"/>
+      <b name="qe326" bT="0" bi="renleiboss_light-qe3" x="216.95" y="197.05" kX="140.54" kY="140.54" z="17"/>
+      <b name="qe327" bT="0" bi="renleiboss_light-qe3" x="253.65" y="287.25" kX="140.54" kY="140.54" z="18"/>
+      <b name="qe328" bT="0" bi="renleiboss_light-qe3" x="200.15" y="244.55" kX="140.54" kY="140.54" z="29"/>
+      <b name="qe329" bT="0" bi="renleiboss_light-qe3" x="208.05" y="360.05" kX="140.54" kY="140.54" z="30"/>
+      <b name="qe330" bT="0" bi="renleiboss_light-qe3" x="127.6" y="219.9" kX="140.54" kY="140.54" z="31"/>
+    </armature>
+    <armature name="physical_2">
+      <b name="gxs2" bT="0" bi="renleiboss_light-gxs3" x="130.15" y="123.8" kX="-112.38" kY="-112.38" z="0"/>
+      <b name="gxs3" bT="0" bi="renleiboss_light-gxs3" x="117.45" y="116.8" kX="-5.73" kY="-5.74" z="1"/>
+      <b name="gxs30" bT="0" bi="renleiboss_light-gxs3" x="125.05" y="105.85" kX="86.15" kY="86.14" z="2"/>
+      <b name="gxs31" bT="0" bi="renleiboss_light-gxs3" x="123.7" y="114.8" kX="15.03" kY="15.12" z="3"/>
+      <b name="图层 54" bT="0" bi="renleiboss_light-gxs3" x="132.75" y="114.55" kX="-9.41" kY="170.57" z="4"/>
+      <b name="qe3" bT="0" bi="renleiboss_light-qe3" x="86.45" y="291.35" kX="140.54" kY="140.54" z="0"/>
+      <b name="qe30" bT="0" bi="renleiboss_light-qe3" x="77.65" y="250" kX="140.54" kY="140.54" z="1"/>
+      <b name="qe31" bT="0" bi="renleiboss_light-qe3" x="-3" y="327.4" kX="140.54" kY="140.54" z="2"/>
+      <b name="qe32" bT="0" bi="renleiboss_light-qe3" x="37.2" y="220.5" kX="140.54" kY="140.54" z="3"/>
+      <b name="qe33" bT="0" bi="renleiboss_light-qe3" x="-65.85" y="265.2" kX="140.54" kY="140.54" z="4"/>
+      <b name="qe34" bT="0" bi="renleiboss_light-qe3" x="-27.1" y="184.05" kX="140.54" kY="140.54" z="5"/>
+      <b name="qe35" bT="0" bi="renleiboss_light-qe3" x="-165.85" y="182.3" kX="140.54" kY="140.54" z="6"/>
+      <b name="qe36" bT="0" bi="renleiboss_light-qe3" x="23.65" y="122.2" kX="140.54" kY="140.54" z="5"/>
+      <b name="qe37" bT="0" bi="renleiboss_light-qe3" x="-60.1" y="88.15" kX="140.54" kY="140.54" z="6"/>
+      <b name="qe38" bT="0" bi="renleiboss_light-qe3" x="41.1" y="78.1" kX="140.54" kY="140.54" z="7"/>
+      <b name="qe39" bT="0" bi="renleiboss_light-qe3" x="-18" y="20.5" kX="140.54" kY="140.54" z="10"/>
+      <b name="qe310" bT="0" bi="renleiboss_light-qe3" x="28.95" y="17.5" kX="140.54" kY="140.54" z="11"/>
+      <b name="qe311" bT="0" bi="renleiboss_light-qe3" x="-18.25" y="-88.75" kX="140.54" kY="140.54" z="8"/>
+      <b name="qe312" bT="0" bi="renleiboss_light-qe3" x="59.2" y="-22.95" kX="140.54" kY="140.54" z="9"/>
+      <b name="qe313" bT="0" bi="renleiboss_light-qe3" x="44.6" y="-150.85" kX="140.54" kY="140.54" z="14"/>
+      <b name="qe314" bT="0" bi="renleiboss_light-qe3" x="133.55" y="36.3" kX="140.54" kY="140.54" z="15"/>
+      <b name="qe315" bT="0" bi="renleiboss_light-qe3" x="156.15" y="-22.8" kX="140.54" kY="140.54" z="10"/>
+      <b name="qe316" bT="0" bi="renleiboss_light-qe3" x="182.55" y="4.65" kX="140.54" kY="140.54" z="17"/>
+      <b name="qe317" bT="0" bi="renleiboss_light-qe3" x="252.6" y="-66.2" kX="140.54" kY="140.54" z="18"/>
+      <b name="qe318" bT="0" bi="renleiboss_light-qe3" x="241.75" y="8.5" kX="140.54" kY="140.54" z="11"/>
+      <b name="qe319" bT="0" bi="renleiboss_light-qe3" x="354.15" y="-45.45" kX="140.54" kY="140.54" z="12"/>
+      <b name="qe320" bT="0" bi="renleiboss_light-qe3" x="281.25" y="61.25" kX="140.54" kY="140.54" z="13"/>
+      <b name="qe321" bT="0" bi="renleiboss_light-qe3" x="404.2" y="61.05" kX="140.54" kY="140.54" z="14"/>
+      <b name="qe322" bT="0" bi="renleiboss_light-qe3" x="261.6" y="117.55" kX="140.54" kY="140.54" z="15"/>
+      <b name="qe323" bT="0" bi="renleiboss_light-qe3" x="352.6" y="155.4" kX="140.54" kY="140.54" z="16"/>
+      <b name="qe324" bT="0" bi="renleiboss_light-qe3" x="275.7" y="178.45" kX="140.54" kY="140.54" z="25"/>
+      <b name="qe325" bT="0" bi="renleiboss_light-qe3" x="358.9" y="265.4" kX="140.54" kY="140.54" z="26"/>
+      <b name="qe326" bT="0" bi="renleiboss_light-qe3" x="216.95" y="197.05" kX="140.54" kY="140.54" z="17"/>
+      <b name="qe327" bT="0" bi="renleiboss_light-qe3" x="253.65" y="287.25" kX="140.54" kY="140.54" z="18"/>
+      <b name="qe328" bT="0" bi="renleiboss_light-qe3" x="200.15" y="244.55" kX="140.54" kY="140.54" z="29"/>
+      <b name="qe329" bT="0" bi="renleiboss_light-qe3" x="208.05" y="360.05" kX="140.54" kY="140.54" z="30"/>
+      <b name="qe330" bT="0" bi="renleiboss_light-qe3" x="127.6" y="219.9" kX="140.54" kY="140.54" z="31"/>
+      <b name="图层 60" bT="0" bi="renleiboss_light-em0503-2-1" x="91.35" y="262.25" kX="0" kY="180" z="0"/>
+      <b name="图层 61" bT="0" bi="renleiboss_light-em0503-2-2" x="177.1" y="273.1" kX="0" kY="180" z="1"/>
+      <b name="图层 62" bT="0" bi="renleiboss_light-skill02-1" x="50.8" y="200.3" kX="0" kY="180" z="2"/>
+      <b name="图层 63" bT="0" bi="renleiboss_light-skill02-3" x="2.75" y="127.1" kX="0" kY="180" z="3"/>
+      <b name="图层 64" bT="0" bi="renleiboss_light-skill02-3" x="0.1" y="271" kX="180" kY="180" z="4"/>
+      <b name="图层 65" bT="0" bi="renleiboss_light-em0503-1-0" x="138.8" y="209.4" kX="0" kY="0" z="3"/>
+      <b name="图层 3" bT="0" bi="renleiboss_light-skill1-2" x="31.85" y="206.85" kX="0" kY="180" z="4"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="physical_2_2">
+      <mov name="physical_2_2" to="1" dr="38" drTW="38">
+        <b name="图层 60" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-2" dr="2"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 61" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-2" dr="2"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 62" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.92" cY="1.92" z="2" img="renleiboss_light-skill02-1" dr="12"/>
+          <f x="-50" y="0" kX="0" kY="0" cX="1.54" cY="1.54" z="2" dr="2"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="图层 63" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.54" cY="1.54" z="3" img="renleiboss_light-skill02-3" dr="2"/>
+          <f x="40.8" y="-8.8" kX="0" kY="0" cX="1.92" cY="1.92" z="3" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.54" cY="1.54" z="3" dr="2"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 64" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.54" cY="1.54" z="4" img="renleiboss_light-skill02-3" dr="2"/>
+          <f x="40.8" y="8.8" kX="0" kY="0" cX="1.92" cY="1.92" z="4" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.54" cY="1.54" z="4" dr="2"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 65" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="renleiboss_light-em0503-1-0" dr="2"/>
+          <f x="0" y="-20" kX="0" kY="0" cX="1" cY="1" z="5" img="renleiboss_light-em0503-1-0b" dr="2"/>
+          <f x="0" y="-20" kX="0" kY="0" cX="1" cY="1" z="5" img="renleiboss_light-em0503-1-0c" dr="2"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="renleiboss_light-em0503-1-0" dr="2"/>
+          <f x="0" y="-20" kX="0" kY="0" cX="1" cY="1" z="5" img="renleiboss_light-em0503-1-0b" dr="2"/>
+          <f dr="3" hide="1"/>
+          <f x="0" y="-20" kX="0" kY="0" cX="1" cY="1" z="0" img="renleiboss_light-em0503-1-0d" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="renleiboss_light-skill1-2" dr="2"/>
+          <f x="89.1" y="16.45" kX="0" kY="0" cX="0.69" cY="0.69" z="6" dr="2"/>
+          <f x="178.25" y="32.85" kX="0" kY="0" cX="0.39" cY="0.39" z="6" dr="2"/>
+          <f dr="29" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_2_1">
+      <mov name="physical_2_1" to="1" dr="42" drTW="42">
+        <b name="gxs2" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.21" cY="0.12" z="0" img="renleiboss_light-gxs3" twE="0" dr="3"/>
+          <f x="32.85" y="64.1" kX="0.01" kY="0.01" cX="1.78" cY="1.01" z="0" twE="0" dr="3"/>
+          <f x="109.25" y="80.25" kX="-21.99" kY="-21.99" cX="2.86" cY="3" z="0" img="renleiboss_light-gxs2" twE="0" dr="2"/>
+          <f x="97.05" y="38.3" kX="-38.23" kY="-38.23" cX="1.07" cY="1.07" z="0" dr="1"/>
+          <f x="97.05" y="38.3" kX="-38.23" kY="-38.23" cX="1.07" cY="1.07" z="0" dr="1"/>
+        </b>
+        <b name="gxs3" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.08" z="1" img="renleiboss_light-gxs3" twE="0" dr="3"/>
+          <f x="-61.85" y="12.25" kX="-0.01" kY="0" cX="1.68" cY="0.67" z="1" twE="0" dr="3"/>
+          <f x="-76.35" y="144.3" kX="-48.66" kY="-48.65" cX="2.82" cY="3" z="1" twE="0" dr="2"/>
+          <f x="-78.2" y="119.85" kX="-48.66" kY="-48.65" cX="0.88" cY="0.88" z="1" dr="1"/>
+          <f x="-78.2" y="119.85" kX="-48.66" kY="-48.65" cX="0.88" cY="0.88" z="1" dr="1"/>
+        </b>
+        <b name="gxs30" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.18" cY="0.07" z="2" img="renleiboss_light-gxs3" twE="0" dr="3"/>
+          <f x="-4.95" y="-69.75" kX="0" kY="0.01" cX="1.52" cY="0.62" z="2" twE="0" dr="3"/>
+          <f x="-128.35" y="-48.05" kX="-59.3" kY="-59.29" cX="2.4" cY="1.17" z="2" twE="0" dr="2"/>
+          <f x="-167.35" y="-77" kX="-59.3" kY="-59.29" cX="0.55" cY="0.27" z="2" dr="1"/>
+          <f x="-167.35" y="-77" kX="-59.3" kY="-59.29" cX="0.55" cY="0.27" z="2" dr="1"/>
+        </b>
+        <b name="gxs31" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.03" cY="0.01" z="3" img="renleiboss_light-gxs3" twE="0" dr="3"/>
+          <f x="-15.15" y="-3" kX="0.07" kY="-0.01" cX="0.47" cY="0.15" z="3" twE="0" dr="3"/>
+          <f x="-107.85" y="3.05" kX="-14.63" kY="-14.73" cX="1.96" cY="0.64" z="3" twE="0" dr="2"/>
+          <f x="-163.95" y="85.35" kX="-35.63" kY="-35.72" cX="0.47" cY="0.37" z="3" dr="1"/>
+          <f x="-163.95" y="85.35" kX="-35.63" kY="-35.72" cX="0.47" cY="0.37" z="3" dr="1"/>
+        </b>
+        <b name="图层 54" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.08" z="4" img="renleiboss_light-gxs3" twE="0" dr="3"/>
+          <f x="52.3" y="-4.85" kX="-0.02" kY="0.01" cX="1.25" cY="0.64" z="4" twE="0" dr="3"/>
+          <f x="60.4" y="-62.3" kX="-38.66" kY="-38.64" cX="1.96" cY="0.64" z="4" twE="0" dr="2"/>
+          <f x="-124.7" y="-115.95" kX="-126.92" kY="-126.9" cX="1.96" cY="0.64" z="4" dr="1"/>
+          <f x="-124.7" y="-115.95" kX="-126.92" kY="-126.9" cX="1.96" cY="0.64" z="4" dr="1"/>
+        </b>
+        <b name="qe3" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="46.2" y="-173.4" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe30" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="55" y="-132.05" kX="0" kY="0" cX="0.5" cY="0.5" z="1" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe31" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="135.65" y="-209.45" kX="0" kY="0" cX="0.5" cY="0.5" z="2" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe32" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="3" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="95.45" y="-102.55" kX="0" kY="0" cX="0.75" cY="0.75" z="3" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe33" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="4" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="198.5" y="-147.25" kX="0" kY="0" cX="0.25" cY="0.25" z="4" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe34" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="159.75" y="-66.1" kX="0" kY="0" cX="0.5" cY="0.5" z="5" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="qe35" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="6" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="298.5" y="-64.35" kX="0" kY="0" cX="0.75" cY="0.75" z="6" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="qe36" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="109" y="-4.25" kX="0" kY="0" cX="0.5" cY="0.5" z="5" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe37" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="6" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="192.75" y="29.8" kX="0" kY="0" cX="0.25" cY="0.25" z="6" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe38" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="91.55" y="39.85" kX="0" kY="0" cX="0.5" cY="0.5" z="7" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe39" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="10" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="150.65" y="97.45" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="qe310" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="11" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="103.7" y="100.45" kX="0" kY="0" cX="0.25" cY="0.25" z="11" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="qe311" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="8" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="150.9" y="206.65" kX="0" kY="0" cX="0.75" cY="0.75" z="8" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe312" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="9" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="73.45" y="140.85" kX="0" kY="0" cX="0.25" cY="0.25" z="9" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe313" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="14" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="88.05" y="268.75" kX="0" kY="0" cX="1" cY="1" z="14" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="qe314" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-0.9" y="81.65" kX="0" kY="0" cX="0.5" cY="0.5" z="15" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="qe315" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="10" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-23.5" y="140.7" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe316" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-49.9" y="113.3" kX="0" kY="0" cX="0.5" cY="0.5" z="17" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="qe317" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-119.95" y="184.1" kX="0" kY="0" cX="0.5" cY="0.5" z="18" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="qe318" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="11" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-109.1" y="109.45" kX="0" kY="0" cX="0.25" cY="0.25" z="11" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe319" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="12" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-221.5" y="163.35" kX="0" kY="0" cX="1" cY="1" z="12" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe320" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-148.6" y="56.7" kX="0" kY="0" cX="0.5" cY="0.5" z="13" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe321" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="14" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-271.55" y="56.9" kX="0" kY="0" cX="0.75" cY="0.75" z="14" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe322" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-128.95" y="0.4" kX="0" kY="0" cX="0.5" cY="0.5" z="15" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe323" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-219.95" y="-37.45" kX="0" kY="0" cX="0.5" cY="0.5" z="16" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe324" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="25" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-143.05" y="-60.5" kX="0" kY="0" cX="0.75" cY="0.75" z="25" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="qe325" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="26" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-226.25" y="-147.45" kX="0" kY="0" cX="1" cY="1" z="26" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="qe326" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="17" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-84.3" y="-79.1" kX="0" kY="0" cX="0.25" cY="0.25" z="17" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe327" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-121" y="-169.3" kX="0" kY="0" cX="0.5" cY="0.5" z="18" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="qe328" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="29" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-67.5" y="-126.6" kX="0" kY="0" cX="1" cY="1" z="29" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="qe329" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="30" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-75.4" y="-242.1" kX="0" kY="0" cX="0.5" cY="0.5" z="30" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="qe330" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="31" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="5.05" y="-101.95" kX="0" kY="0" cX="0.25" cY="0.25" z="31" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_2">
+      <mov name="physical_2" to="1" dr="81" drTW="81" lp="0">
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="sb_wq_01" sc="1" dl="0"/>
+        <b name="sb_wq_010" sc="1" dl="0"/>
+        <b name="gltb 04" sc="1" dl="0"/>
+        <b name="gltb 01" sc="1" dl="0"/>
+        <b name="gltb 022" sc="1" dl="0"/>
+        <b name="gltb 010" sc="1" dl="0"/>
+        <b name="glst 00" sc="1" dl="0"/>
+        <b name="glst 000" sc="1" dl="0"/>
+        <b name="glst 01" sc="1" dl="0"/>
+        <b name="gldp 00" sc="1" dl="0"/>
+        <b name="gldp 000" sc="1" dl="0"/>
+        <b name="gl-xb-1" sc="1" dl="0"/>
+        <b name="kulou-f-2" sc="1" dl="0"/>
+        <b name="kulou-l-1" sc="1" dl="0"/>
+        <b name="kulou-f-1" sc="1" dl="0"/>
+        <b name="kulou-mz-1" sc="1" dl="0"/>
+        <b name="gl-yj-10" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="46" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="renleiboss_light-skill1-2" dr="2"/>
+          <f x="89.1" y="16.45" kX="0" kY="0" cX="0.69" cY="0.69" z="6" dr="2"/>
+          <f x="178.25" y="32.85" kX="0" kY="0" cX="0.39" cY="0.39" z="6" dr="2"/>
+          <f dr="29" hide="1"/>
+        </b>
+        <b name="gxs2" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.21" cY="0.12" z="0" img="renleiboss_light-gxs3" twE="0" dr="3"/>
+          <f x="32.85" y="64.1" kX="0.01" kY="0.01" cX="1.78" cY="1.01" z="0" twE="0" dr="3"/>
+          <f x="109.25" y="80.25" kX="-21.99" kY="-21.99" cX="2.86" cY="3" z="0" img="renleiboss_light-gxs2" twE="0" dr="2"/>
+          <f x="97.05" y="38.3" kX="-38.23" kY="-38.23" cX="1.07" cY="1.07" z="0" dr="1"/>
+          <f x="97.05" y="38.3" kX="-38.23" kY="-38.23" cX="1.07" cY="1.07" z="0" dr="1"/>
+          <f dr="39" hide="1"/>
+        </b>
+        <b name="gxs3" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.08" z="1" img="renleiboss_light-gxs3" twE="0" dr="3"/>
+          <f x="-61.85" y="12.25" kX="-0.01" kY="0" cX="1.68" cY="0.67" z="1" twE="0" dr="3"/>
+          <f x="-76.35" y="144.3" kX="-48.66" kY="-48.65" cX="2.82" cY="3" z="1" twE="0" dr="2"/>
+          <f x="-78.2" y="119.85" kX="-48.66" kY="-48.65" cX="0.88" cY="0.88" z="1" dr="1"/>
+          <f x="-78.2" y="119.85" kX="-48.66" kY="-48.65" cX="0.88" cY="0.88" z="1" dr="1"/>
+          <f dr="39" hide="1"/>
+        </b>
+        <b name="gxs30" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.18" cY="0.07" z="2" img="renleiboss_light-gxs3" twE="0" dr="3"/>
+          <f x="-4.95" y="-69.75" kX="0" kY="0.01" cX="1.52" cY="0.62" z="2" twE="0" dr="3"/>
+          <f x="-128.35" y="-48.05" kX="-59.3" kY="-59.29" cX="2.4" cY="1.17" z="2" twE="0" dr="2"/>
+          <f x="-167.35" y="-77" kX="-59.3" kY="-59.29" cX="0.55" cY="0.27" z="2" dr="1"/>
+          <f x="-167.35" y="-77" kX="-59.3" kY="-59.29" cX="0.55" cY="0.27" z="2" dr="1"/>
+          <f dr="39" hide="1"/>
+        </b>
+        <b name="gxs31" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.03" cY="0.01" z="3" img="renleiboss_light-gxs3" twE="0" dr="3"/>
+          <f x="-15.15" y="-3" kX="0.07" kY="-0.01" cX="0.47" cY="0.15" z="3" twE="0" dr="3"/>
+          <f x="-107.85" y="3.05" kX="-14.63" kY="-14.73" cX="1.96" cY="0.64" z="3" twE="0" dr="2"/>
+          <f x="-163.95" y="85.35" kX="-35.63" kY="-35.72" cX="0.47" cY="0.37" z="3" dr="1"/>
+          <f x="-163.95" y="85.35" kX="-35.63" kY="-35.72" cX="0.47" cY="0.37" z="3" dr="1"/>
+          <f dr="39" hide="1"/>
+        </b>
+        <b name="图层 54" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.08" z="4" img="renleiboss_light-gxs3" twE="0" dr="3"/>
+          <f x="52.3" y="-4.85" kX="-0.02" kY="0.01" cX="1.25" cY="0.64" z="4" twE="0" dr="3"/>
+          <f x="60.4" y="-62.3" kX="-38.66" kY="-38.64" cX="1.96" cY="0.64" z="4" twE="0" dr="2"/>
+          <f x="-124.7" y="-115.95" kX="-126.92" kY="-126.9" cX="1.96" cY="0.64" z="4" dr="1"/>
+          <f x="-124.7" y="-115.95" kX="-126.92" kY="-126.9" cX="1.96" cY="0.64" z="4" dr="1"/>
+          <f dr="39" hide="1"/>
+        </b>
+        <b name="qe3" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="46.2" y="-173.4" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe30" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="55" y="-132.05" kX="0" kY="0" cX="0.5" cY="0.5" z="1" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe31" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="135.65" y="-209.45" kX="0" kY="0" cX="0.5" cY="0.5" z="2" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe32" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="3" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="95.45" y="-102.55" kX="0" kY="0" cX="0.75" cY="0.75" z="3" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe33" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="4" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="198.5" y="-147.25" kX="0" kY="0" cX="0.25" cY="0.25" z="4" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe34" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="159.75" y="-66.1" kX="0" kY="0" cX="0.5" cY="0.5" z="5" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="qe35" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="6" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="298.5" y="-64.35" kX="0" kY="0" cX="0.75" cY="0.75" z="6" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="qe36" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="109" y="-4.25" kX="0" kY="0" cX="0.5" cY="0.5" z="5" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe37" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="6" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="192.75" y="29.8" kX="0" kY="0" cX="0.25" cY="0.25" z="6" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe38" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="91.55" y="39.85" kX="0" kY="0" cX="0.5" cY="0.5" z="7" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe39" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="10" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="150.65" y="97.45" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="qe310" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="11" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="103.7" y="100.45" kX="0" kY="0" cX="0.25" cY="0.25" z="11" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="qe311" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="8" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="150.9" y="206.65" kX="0" kY="0" cX="0.75" cY="0.75" z="8" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe312" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="9" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="73.45" y="140.85" kX="0" kY="0" cX="0.25" cY="0.25" z="9" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe313" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="14" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="88.05" y="268.75" kX="0" kY="0" cX="1" cY="1" z="14" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="qe314" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-0.9" y="81.65" kX="0" kY="0" cX="0.5" cY="0.5" z="15" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="qe315" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="10" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-23.5" y="140.7" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe316" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-49.9" y="113.3" kX="0" kY="0" cX="0.5" cY="0.5" z="17" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="qe317" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-119.95" y="184.1" kX="0" kY="0" cX="0.5" cY="0.5" z="18" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="qe318" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="11" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-109.1" y="109.45" kX="0" kY="0" cX="0.25" cY="0.25" z="11" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe319" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="12" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-221.5" y="163.35" kX="0" kY="0" cX="1" cY="1" z="12" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe320" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-148.6" y="56.7" kX="0" kY="0" cX="0.5" cY="0.5" z="13" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe321" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="14" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-271.55" y="56.9" kX="0" kY="0" cX="0.75" cY="0.75" z="14" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe322" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-128.95" y="0.4" kX="0" kY="0" cX="0.5" cY="0.5" z="15" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe323" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-219.95" y="-37.45" kX="0" kY="0" cX="0.5" cY="0.5" z="16" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe324" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="25" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-143.05" y="-60.5" kX="0" kY="0" cX="0.75" cY="0.75" z="25" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="qe325" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="26" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-226.25" y="-147.45" kX="0" kY="0" cX="1" cY="1" z="26" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="qe326" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="17" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-84.3" y="-79.1" kX="0" kY="0" cX="0.25" cY="0.25" z="17" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe327" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-121" y="-169.3" kX="0" kY="0" cX="0.5" cY="0.5" z="18" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="qe328" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="29" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-67.5" y="-126.6" kX="0" kY="0" cX="1" cY="1" z="29" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="qe329" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="30" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="-75.4" y="-242.1" kX="0" kY="0" cX="0.5" cY="0.5" z="30" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="qe330" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="31" img="renleiboss_light-qe3" twE="0" dr="21"/>
+          <f x="5.05" y="-101.95" kX="0" kY="0" cX="0.25" cY="0.25" z="31" dr="1"/>
+          <f dr="57" hide="1"/>
+        </b>
+        <b name="图层 60" sc="1" dl="0">
+          <f dr="43" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="renleiboss_light-em0503-2-2" dr="2"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 61" sc="1" dl="0">
+          <f dr="45" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="renleiboss_light-em0503-2-2" dr="2"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 62" sc="1" dl="0">
+          <f dr="46" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.92" cY="1.92" z="2" img="renleiboss_light-skill02-1" dr="12"/>
+          <f x="-50" y="0" kX="0" kY="0" cX="1.54" cY="1.54" z="2" dr="2"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="图层 63" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.54" cY="1.54" z="3" img="renleiboss_light-skill02-3" dr="2"/>
+          <f x="40.8" y="-8.8" kX="0" kY="0" cX="1.92" cY="1.92" z="3" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.54" cY="1.54" z="3" dr="2"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 64" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.54" cY="1.54" z="4" img="renleiboss_light-skill02-3" dr="2"/>
+          <f x="40.8" y="8.8" kX="0" kY="0" cX="1.92" cY="1.92" z="4" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.54" cY="1.54" z="4" dr="2"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 65" sc="1" dl="0">
+          <f dr="46" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="renleiboss_light-em0503-1-0" dr="2"/>
+          <f x="0" y="-20" kX="0" kY="0" cX="1" cY="1" z="5" img="renleiboss_light-em0503-1-0b" dr="2"/>
+          <f x="0" y="-20" kX="0" kY="0" cX="1" cY="1" z="5" img="renleiboss_light-em0503-1-0c" dr="2"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="renleiboss_light-em0503-1-0" dr="2"/>
+          <f x="0" y="-20" kX="0" kY="0" cX="1" cY="1" z="5" img="renleiboss_light-em0503-1-0b" dr="2"/>
+          <f dr="3" hide="1"/>
+          <f x="0" y="-20" kX="0" kY="0" cX="1" cY="1" z="0" img="renleiboss_light-em0503-1-0d" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="魔化人类Boss光效(5)" width="512" height="256">
+    <SubTexture name="renleiboss_light-skill1-2" x="0" y="175" width="143" height="62" pX="173.7" pY="-8.15"/>
+    <SubTexture name="renleiboss_light-gxs3" x="402" y="123" width="97" height="13" pX="47.95" pY="5.1"/>
+    <SubTexture name="renleiboss_light-gxs2" x="402" y="159" width="86" height="14" pX="42.4" pY="6.5"/>
+    <SubTexture name="renleiboss_light-qe3" x="488" y="0" width="23" height="23" pX="10.8" pY="10.8"/>
+    <SubTexture name="renleiboss_light-em0503-2-1" x="144" y="192" width="145" height="39" pX="144" pY="36.55"/>
+    <SubTexture name="renleiboss_light-em0503-2-2" x="144" y="232" width="143" height="18" pX="141.35" pY="14"/>
+    <SubTexture name="renleiboss_light-em0503-2-3" x="290" y="220" width="145" height="26" pX="143.25" pY="23.05"/>
+    <SubTexture name="renleiboss_light-em0503-2-4" x="290" y="192" width="144" height="27" pX="142.95" pY="23.7"/>
+    <SubTexture name="renleiboss_light-skill02-1" x="0" y="0" width="282" height="77" pX="140.4" pY="37.95"/>
+    <SubTexture name="renleiboss_light-skill02-3" x="0" y="78" width="236" height="96" pX="117.5" pY="47.1"/>
+    <SubTexture name="renleiboss_light-em0503-1-0" x="283" y="0" width="204" height="59" pX="104.9" pY="45.3"/>
+    <SubTexture name="renleiboss_light-em0503-1-0b" x="283" y="60" width="182" height="62" pX="100.95" pY="23.35"/>
+    <SubTexture name="renleiboss_light-em0503-1-0c" x="237" y="123" width="164" height="68" pX="149.7" pY="19.25"/>
+    <SubTexture name="renleiboss_light-em0503-1-0d" x="402" y="137" width="88" height="21" pX="24.85" pY="7.05"/>
+  </TextureAtlas>
+</skeleton>

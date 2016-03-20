@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1354787268 source:/home/tfl/ServerProj/Utils/FileSys/FileSys.cpp
+	"FileSys.h"
+	<assert.h>
+	<iostream>
+	<fstream>
+	"../Public/Inlines.h"
+	<stdarg.h>
+	"SearchOps.h"
+	<dirent.h>
+	<string>
+
+1351240835 /home/tfl/ServerProj/Utils/FileSys/FileSys.h
+	<windows.h>
+	<io.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string.h>
+	"SearchOps.h"
+	"../Public/Macros.h"
+	<assert.h>
+	<vector>
+	<string>
+	"zlib/zlib.h"
+
+1350101218 /home/tfl/ServerProj/Utils/FileSys/SearchOps.h
+	<sys/types.h>
+
+1351240835 /home/tfl/ServerProj/Utils/Public/Macros.h
+	<stddef.h>
+	"Debug.h"
+
+1350980245 /home/tfl/ServerProj/Utils/Public/Debug.h
+	<crtdbg.h>
+	<stddef.h>
+
+1350101218 /home/tfl/ServerProj/Utils/FileSys/zlib/zlib.h
+	"zconf.h"
+
+1350101218 /home/tfl/ServerProj/Utils/FileSys/zlib/zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1351240835 /home/tfl/ServerProj/Utils/Public/Inlines.h
+	"Macros.h"
+	"Var.h"
+	<float.h>
+	<stdio.h>
+	"../FileSys/SearchOps.h"
+	<wchar.h>
+	<time.h>
+	<stdlib.h>
+	<stdarg.h>
+	<windows.h>
+
+1359487446 /home/tfl/ServerProj/Utils/Public/Var.h
+	"Macros.h"
+	<stddef.h>
+	<string.h>
+
+1350101218 source:/home/tfl/ServerProj/Utils/FileSys/SearchOps.cpp
+	"SearchOps.h"
+	<stdio.h>
+	<limits.h>
+	<ctype.h>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<dirent.h>
+	<sys/stat.h>
+	<sys/sendfile.h>
+	<unistd.h>
+	<libgen.h>
+	<fcntl.h>
+
+1351240835 source:/home/tfl/ServerProj/Utils/Log/LogFile.cpp
+	<time.h>
+	<stdio.h>
+	<stdarg.h>
+	"../FileSys/SearchOps.h"
+	<fcntl.h>
+	<sys/stat.h>
+	<windows.h>
+	"../ThreadPool/ThreadPool.h"
+	"LogFile.h"
+
+1354589231 /home/tfl/ServerProj/Utils/ThreadPool/ThreadPool.h
+	<pthread.h>
+	"../FileSys/SearchOps.h"
+	<mysql_connection.h>
+	<mysql_driver.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+	<cppconn/driver.h>
+	<cppconn/exception.h>
+	<cppconn/resultset.h>
+	<queue>
+	<string>
+	<unistd.h>
+
+1350101218 /home/tfl/ServerProj/Utils/Log/LogFile.h
+
+1351240835 source:/home/tfl/ServerProj/Utils/StringUtils/TextFilter.cpp
+	"TextFilter.h"
+	<fstream>
+	"../StringUtils/StringUtil.h"
+
+1351240835 /home/tfl/ServerProj/Utils/StringUtils/TextFilter.h
+	<string>
+	<map>
+
+1351240835 /home/tfl/ServerProj/Utils/StringUtils/StringUtil.h
+	"../Public/Tools.h"
+	"../ThreadPool/ThreadPool.h"
+	<wchar.h>
+
+1351240835 /home/tfl/ServerProj/Utils/Public/Tools.h
+	<windows.h>
+	"Macros.h"
+	"Var.h"
+	<string>
+	<vector>
+
+1351240835 source:/home/tfl/ServerProj/Utils/SyncSock/SyncSock.cpp
+	"SyncSock.h"
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1352441219 /home/tfl/ServerProj/Utils/SyncSock/SyncSock.h
+	<sys/socket.h>
+	<netinet/tcp.h>
+	<pthread.h>
+	<queue>
+	"../WShellAPI/eWshell.h"
+	"../MessageQueue/MsgQueue.h"
+
+1350101218 /home/tfl/ServerProj/Utils/WShellAPI/eWshell.h
+	<sys/socket.h>
+	<unistd.h>
+	<stdio.h>
+	<dlfcn.h>
+	"../FileSys/FileSys.h"
+
+1350101218 /home/tfl/ServerProj/Utils/MessageQueue/MsgQueue.h
+	"MsgBuf.h"
+	"../ThreadPool/ThreadPool.h"
+	<semaphore.h>
+	<queue>
+
+1354638346 /home/tfl/ServerProj/Utils/MessageQueue/MsgBuf.h
+	<crtdbg.h>
+	<wtypes.h>
+	<stddef.h>
+	<stdlib.h>
+	"../ThreadPool/ThreadPool.h"
+

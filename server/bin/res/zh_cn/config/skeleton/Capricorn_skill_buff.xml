@@ -1,0 +1,57 @@
+<skeleton name="蓝色1(2)">
+  <armatures>
+    <armature name="MJbuff">
+      <b name="图层 5" bT="0" bi="Capricorn_skill_buff-fuff_ae1" x="189" y="177.8" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="MJbuff">
+      <mov name="MJbuff" to="1" dr="24" drTW="27" lp="1">
+        <b name="图层 28" sc="1" dl="0"/>
+        <b name="图层 27" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="gakghhg" sc="1" dl="0"/>
+        <b name="gakghhg0" sc="1" dl="0"/>
+        <b name="gakghhg1" sc="1" dl="0"/>
+        <b name="gakghhg2" sc="1" dl="0"/>
+        <b name="gakghhg3" sc="1" dl="0"/>
+        <b name="gakghhg4" sc="1" dl="0"/>
+        <b name="gakghhg5" sc="1" dl="0"/>
+        <b name="gakghhg6" sc="1" dl="0"/>
+        <b name="gakghhg7" sc="1" dl="0"/>
+        <b name="gakghhg8" sc="1" dl="0"/>
+        <b name="gakghhg10" sc="1" dl="0"/>
+        <b name="gakghhg11" sc="1" dl="0"/>
+        <b name="gakghhg12" sc="1" dl="0"/>
+        <b name="gakghhg13" sc="1" dl="0"/>
+        <b name="gakghhg14" sc="1" dl="0"/>
+        <b name="gakghhg15" sc="1" dl="0"/>
+        <b name="gakghhg16" sc="1" dl="0"/>
+        <b name="gakghhg17" sc="1" dl="0"/>
+        <b name="gakghhg18" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4" cY="4" z="0" img="Capricorn_skill_buff-fuff_ae1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4" cY="4" z="0" img="Capricorn_skill_buff-fuff_ae2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4" cY="4" z="0" img="Capricorn_skill_buff-fuff_ae3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4" cY="4" z="0" img="Capricorn_skill_buff-fuff_ae4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4" cY="4" z="0" img="Capricorn_skill_buff-fuff_ae5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4" cY="4" z="0" img="Capricorn_skill_buff-fuff_ae6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4" cY="4" z="0" img="Capricorn_skill_buff-fuff_ae7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4" cY="4" z="0" img="Capricorn_skill_buff-fuff_ae8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4" cY="4" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="蓝色1(2)" width="512" height="128">
+    <SubTexture name="Capricorn_skill_buff-fuff_ae1" x="441" y="0" width="62" height="64" pX="30.25" pY="31.25"/>
+    <SubTexture name="Capricorn_skill_buff-fuff_ae2" x="315" y="0" width="62" height="64" pX="30.25" pY="31.25"/>
+    <SubTexture name="Capricorn_skill_buff-fuff_ae3" x="252" y="0" width="62" height="64" pX="30.25" pY="31.25"/>
+    <SubTexture name="Capricorn_skill_buff-fuff_ae4" x="189" y="0" width="62" height="64" pX="30.25" pY="31.25"/>
+    <SubTexture name="Capricorn_skill_buff-fuff_ae5" x="126" y="0" width="62" height="64" pX="30.25" pY="31.25"/>
+    <SubTexture name="Capricorn_skill_buff-fuff_ae6" x="0" y="0" width="62" height="64" pX="30.25" pY="31.25"/>
+    <SubTexture name="Capricorn_skill_buff-fuff_ae7" x="63" y="0" width="62" height="64" pX="30.25" pY="31.25"/>
+    <SubTexture name="Capricorn_skill_buff-fuff_ae8" x="378" y="0" width="62" height="64" pX="30.25" pY="31.25"/>
+  </TextureAtlas>
+</skeleton>

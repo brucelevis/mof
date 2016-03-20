@@ -1,0 +1,15 @@
+<skeleton name="天蝎座武器(1)">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_Scorpio" bT="0" bi="weapon_Scorpio-weapon-fs_Scorpio" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Scorpio-weapon-fs_Scorpio"/>
+      <b name="weapon-ck_Scorpio" bT="0" bi="weapon_Scorpio-weapon-ck_Scorpio" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Scorpio-weapon-ck_Scorpio"/>
+      <b name="weapon-zs_Scorpio" bT="0" bi="weapon_Scorpio-weapon-zs_Scorpio" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Scorpio-weapon-zs_Scorpio"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="天蝎座武器(1)" width="512" height="256">
+    <SubTexture name="weapon_Scorpio-weapon-fs_Scorpio" x="0" y="0" width="64" height="199" pX="30.5" pY="99.6"/>
+    <SubTexture name="weapon_Scorpio-weapon-ck_Scorpio" x="242" y="0" width="54" height="111" pX="32.45" pY="64.55"/>
+    <SubTexture name="weapon_Scorpio-weapon-zs_Scorpio" x="65" y="0" width="176" height="54" pX="31.5" pY="26.25"/>
+  </TextureAtlas>
+</skeleton>

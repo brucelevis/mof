@@ -1,0 +1,15 @@
+<skeleton name="摩羯武器">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_Capricorn" bT="0" bi="weapon_Capricorn-fs_Capricorn" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Capricorn-fs_Capricorn"/>
+      <b name="weapon-ck_Capricorn" bT="0" bi="weapon_Capricorn-ck_Capricorn" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Capricorn-ck_Capricorn"/>
+      <b name="weapon-zs_Capricorn" bT="0" bi="weapon_Capricorn-zs_Capricorn" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Capricorn-zs_Capricorn"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="摩羯武器" width="512" height="256">
+    <SubTexture name="weapon_Capricorn-fs_Capricorn" x="0" y="0" width="55" height="201" pX="28" pY="101.1"/>
+    <SubTexture name="weapon_Capricorn-ck_Capricorn" x="236" y="0" width="65" height="120" pX="39.8" pY="71.85"/>
+    <SubTexture name="weapon_Capricorn-zs_Capricorn" x="56" y="0" width="179" height="55" pX="24.5" pY="23.15"/>
+  </TextureAtlas>
+</skeleton>

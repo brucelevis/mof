@@ -1,0 +1,852 @@
+<skeleton name="天称座特效(6)">
+  <armatures>
+    <armature name="physical_3">
+      <b name="qiliu      复制 6" bT="0" bi="Libra_skill-qiliu" x="40.45" y="158.65" kX="-90" kY="90" z="0"/>
+      <b name="qiliu0     复制 5" bT="0" bi="Libra_skill-qiliu" x="40.45" y="153" kX="-90" kY="-90" z="0"/>
+      <b name="qiliu1     复制 5" bT="0" bi="Libra_skill-qiliu" x="40.45" y="153" kX="-90" kY="-90" z="0"/>
+      <b name="qiliu2     复制 5" bT="0" bi="Libra_skill-qiliu" x="40.45" y="153" kX="-90" kY="-90" z="0"/>
+      <b name="qiliu     复制 5" bT="0" bi="Libra_skill-qiliu" x="40.45" y="153" kX="-90" kY="-90" z="0"/>
+      <b name="图层 3" bT="0" bi="Libra_skill-dian" x="39.35" y="158.8" kX="0" kY="0" z="0"/>
+      <b name="qiliu0    复制 4" bT="0" bi="Libra_skill-qiliu" x="52.5" y="8.8" kX="-90" kY="90" z="3"/>
+      <b name="qiliu1    复制 4" bT="0" bi="Libra_skill-qiliu" x="52.5" y="8.8" kX="-90" kY="90" z="2"/>
+      <b name="qiliu2    复制 4" bT="0" bi="Libra_skill-qiliu" x="52.5" y="8.8" kX="-90" kY="90" z="3"/>
+      <b name="qiliu    复制 4" bT="0" bi="Libra_skill-qiliu" x="52.5" y="8.8" kX="-90" kY="90" z="2"/>
+      <b name="图层 2" bT="0" bi="Libra_skill-dian" x="51.2" y="2" kX="0" kY="0" z="1"/>
+      <b name="qiliu" bT="0" bi="Libra_skill-qiliu" x="112.95" y="115.5" kX="-90" kY="-90" z="6"/>
+      <b name="qiliu0" bT="0" bi="Libra_skill-qiliu" x="112.95" y="126.3" kX="-90" kY="90" z="6"/>
+      <b name="qiliu1" bT="0" bi="Libra_skill-qiliu" x="112.95" y="126.3" kX="-90" kY="90" z="4"/>
+      <b name="qiliu2" bT="0" bi="Libra_skill-qiliu" x="112.95" y="126.3" kX="-90" kY="90" z="6"/>
+      <b name="图层 4" bT="0" bi="Libra_skill-dian" x="39.3" y="158.9" kX="0" kY="0" z="2"/>
+      <b name="qiliu0   复制 3" bT="0" bi="Libra_skill-qiliu" x="262.85" y="-9.1" kX="-90" kY="-90" z="9"/>
+      <b name="qiliu1   复制 3" bT="0" bi="Libra_skill-qiliu" x="262.85" y="-9.1" kX="-90" kY="-90" z="6"/>
+      <b name="qiliu2   复制 3" bT="0" bi="Libra_skill-qiliu" x="262.85" y="-9.1" kX="-90" kY="-90" z="9"/>
+      <b name="qiliu   复制 3" bT="0" bi="Libra_skill-qiliu" x="262.85" y="-9.1" kX="-90" kY="-90" z="6"/>
+      <b name="图层 5" bT="0" bi="Libra_skill-dian" x="261.15" y="-0.05" kX="0" kY="0" z="3"/>
+      <b name="qiliu     复制 50" bT="0" bi="Libra_skill-qiliu" x="211.75" y="156.6" kX="-90" kY="-90" z="12"/>
+      <b name="qiliu0    复制 40" bT="0" bi="Libra_skill-qiliu" x="211.75" y="164.5" kX="-90" kY="90" z="12"/>
+      <b name="qiliu     复制 51" bT="0" bi="Libra_skill-qiliu" x="211.75" y="164.5" kX="-90" kY="90" z="8"/>
+      <b name="qiliu1    复制 40" bT="0" bi="Libra_skill-qiliu" x="211.75" y="164.5" kX="-90" kY="90" z="8"/>
+      <b name="qiliu     复制 52" bT="0" bi="Libra_skill-qiliu" x="211.75" y="164.5" kX="-90" kY="90" z="12"/>
+      <b name="qiliu2    复制 40" bT="0" bi="Libra_skill-qiliu" x="211.75" y="164.5" kX="-90" kY="90" z="12"/>
+      <b name="qiliu    复制 40" bT="0" bi="Libra_skill-qiliu" x="211.75" y="164.5" kX="-90" kY="90" z="8"/>
+      <b name="图层 6" bT="0" bi="Libra_skill-dian" x="210.2" y="156.4" kX="0" kY="0" z="4"/>
+      <b name="图层 18" bT="0" bi="Libra_skill-1" x="-73.8" y="0.75" kX="0" kY="0" z="10"/>
+      <b name="图层 17" bT="0" bi="Libra_skill-1" x="-94.35" y="160" kX="0" kY="0" z="15"/>
+      <b name="图层 14" bT="0" bi="Libra_skill-1" x="-41.65" y="119.55" kX="0" kY="0" z="5"/>
+      <b name="图层 16" bT="0" bi="Libra_skill-1" x="110.9" y="-4.2" kX="0" kY="0" z="13"/>
+      <b name="图层 15" bT="0" bi="Libra_skill-1" x="74.35" y="164.5" kX="0" kY="0" z="11"/>
+    </armature>
+    <armature name="physical_2">
+      <b name="图层 4" bT="0" bi="Libra_skill-heiying" x="197.9" y="216.3" kX="0" kY="0" z="0"/>
+      <b name="图层 3" bT="0" bi="Libra_skill-huoq1" x="200.4" y="157.25" kX="0" kY="0" z="1"/>
+      <b name="图层 2" bT="0" bi="Libra_skill-afawef" x="184.4" y="175.3" kX="0" kY="0" z="2"/>
+    </armature>
+    <armature name="physical_1">
+      <b name="图层 5" bT="0" bi="Libra_skill-quan1" x="6.45" y="154.85" kX="0" kY="0" z="0"/>
+      <b name="图层 4" bT="0" bi="Libra_skill-quan1" x="186.45" y="145.85" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="physical_3">
+      <mov name="physical_3" to="1" dr="85" drTW="85" lp="0">
+        <b name="yizi" sc="1" dl="0"/>
+        <b name="Layer 1          复制 46044139" sc="1" dl="0"/>
+        <b name="Layer 1          复制 460441390" sc="1" dl="0"/>
+        <b name="Layer 1          复制 460441391" sc="1" dl="0"/>
+        <b name="Layer 1          复制 460441392" sc="1" dl="0"/>
+        <b name="Layer 1          复制 460441393" sc="1" dl="0"/>
+        <b name="图层 19        复制 8" sc="1" dl="0"/>
+        <b name="图层 20        复制 8" sc="1" dl="0"/>
+        <b name="图层 3        复制 8" sc="1" dl="0"/>
+        <b name="图层 21        复制 8" sc="1" dl="0"/>
+        <b name="图层 22        复制 8" sc="1" dl="0"/>
+        <b name="图层 43      复制 6" sc="1" dl="0"/>
+        <b name="Layer 1           复制 46044140" sc="1" dl="0"/>
+        <b name="Layer 1           复制 460441400" sc="1" dl="0"/>
+        <b name="Layer 1           复制 460441401" sc="1" dl="0"/>
+        <b name="Layer 1           复制 460441402" sc="1" dl="0"/>
+        <b name="Layer 1           复制 460441403" sc="1" dl="0"/>
+        <b name="图层 19         复制 9" sc="1" dl="0"/>
+        <b name="图层 20         复制 9" sc="1" dl="0"/>
+        <b name="图层 3         复制 9" sc="1" dl="0"/>
+        <b name="图层 21         复制 9" sc="1" dl="0"/>
+        <b name="图层 22         复制 9" sc="1" dl="0"/>
+        <b name="图层 43       复制 7" sc="1" dl="0"/>
+        <b name="Layer 1            复制 46044141" sc="1" dl="0"/>
+        <b name="Layer 1            复制 460441410" sc="1" dl="0"/>
+        <b name="Layer 1            复制 460441411" sc="1" dl="0"/>
+        <b name="Layer 1            复制 460441412" sc="1" dl="0"/>
+        <b name="Layer 1            复制 460441413" sc="1" dl="0"/>
+        <b name="图层 19          复制 10" sc="1" dl="0"/>
+        <b name="图层 20          复制 10" sc="1" dl="0"/>
+        <b name="图层 3          复制 10" sc="1" dl="0"/>
+        <b name="图层 21          复制 10" sc="1" dl="0"/>
+        <b name="图层 22          复制 10" sc="1" dl="0"/>
+        <b name="图层 43        复制 8" sc="1" dl="0"/>
+        <b name="图层 10          复制 10" sc="1" dl="0"/>
+        <b name="图层 9          复制 10" sc="1" dl="0"/>
+        <b name="图层 7          复制 10" sc="1" dl="0"/>
+        <b name="图层 4          复制 10" sc="1" dl="0"/>
+        <b name="图层 3          复制 100" sc="1" dl="0"/>
+        <b name="图层 2          复制 10" sc="1" dl="0"/>
+        <b name="图层 10           复制 11" sc="1" dl="0"/>
+        <b name="图层 9           复制 11" sc="1" dl="0"/>
+        <b name="图层 7           复制 11" sc="1" dl="0"/>
+        <b name="图层 4           复制 11" sc="1" dl="0"/>
+        <b name="图层 3           复制 11" sc="1" dl="0"/>
+        <b name="图层 2           复制 11" sc="1" dl="0"/>
+        <b name="图层 10            复制 12" sc="1" dl="0"/>
+        <b name="图层 9            复制 12" sc="1" dl="0"/>
+        <b name="图层 7            复制 12" sc="1" dl="0"/>
+        <b name="图层 4            复制 12" sc="1" dl="0"/>
+        <b name="图层 3            复制 12" sc="1" dl="0"/>
+        <b name="图层 2            复制 12" sc="1" dl="0"/>
+        <b name="图层 10             复制 13" sc="1" dl="0"/>
+        <b name="图层 9             复制 13" sc="1" dl="0"/>
+        <b name="图层 7             复制 13" sc="1" dl="0"/>
+        <b name="图层 4             复制 13" sc="1" dl="0"/>
+        <b name="图层 3             复制 13" sc="1" dl="0"/>
+        <b name="图层 2             复制 13" sc="1" dl="0"/>
+        <b name="r_xiaotui1" sc="1" dl="0"/>
+        <b name="r_jiao1" sc="1" dl="0"/>
+        <b name="l_datui" sc="1" dl="0"/>
+        <b name="fa6" sc="1" dl="0"/>
+        <b name="r_shou" sc="1" dl="0"/>
+        <b name="r_xiaobi" sc="1" dl="0"/>
+        <b name="r_dabi" sc="1" dl="0"/>
+        <b name="yao" sc="1" dl="0"/>
+        <b name="shangshen" sc="1" dl="0"/>
+        <b name="diaolian" sc="1" dl="0"/>
+        <b name="r_ku" sc="1" dl="0"/>
+        <b name="xiaotui" sc="1" dl="0"/>
+        <b name="l_jiao" sc="1" dl="0"/>
+        <b name="l_datui0" sc="1" dl="0"/>
+        <b name="l_ku" sc="1" dl="0"/>
+        <b name="ku" sc="1" dl="0"/>
+        <b name="bozi" sc="1" dl="0"/>
+        <b name="l_waitao" sc="1" dl="0"/>
+        <b name="r_waitao" sc="1" dl="0"/>
+        <b name="diaozhui" sc="1" dl="0"/>
+        <b name="jita" sc="1" dl="0"/>
+        <b name="l_shou" sc="1" dl="0"/>
+        <b name="l_shouzhi2" sc="1" dl="0"/>
+        <b name="l_shouzhi1" sc="1" dl="0"/>
+        <b name="l_xiaobi" sc="1" dl="0"/>
+        <b name="l_dabi" sc="1" dl="0"/>
+        <b name="r_damuzhi" sc="1" dl="0"/>
+        <b name="r_shouzhi" sc="1" dl="0"/>
+        <b name="fa7" sc="1" dl="0"/>
+        <b name="lian" sc="1" dl="0"/>
+        <b name="fa2" sc="1" dl="0"/>
+        <b name="l_er" sc="1" dl="0"/>
+        <b name="erhuan" sc="1" dl="0"/>
+        <b name="erhuan0" sc="1" dl="0"/>
+        <b name="erhuan1" sc="1" dl="0"/>
+        <b name="bizi" sc="1" dl="0"/>
+        <b name="l_mei" sc="1" dl="0"/>
+        <b name="l_yan2" sc="1" dl="0"/>
+        <b name="r_yan2" sc="1" dl="0"/>
+        <b name="l_mei0" sc="1" dl="0"/>
+        <b name="fa5" sc="1" dl="0"/>
+        <b name="fa3" sc="1" dl="0"/>
+        <b name="zui" sc="1" dl="0"/>
+        <b name="fa1" sc="1" dl="0"/>
+        <b name="guanquan1" sc="1" dl="0"/>
+        <b name="guanquan2" sc="1" dl="0"/>
+        <b name="guanquan3" sc="1" dl="0"/>
+        <b name="guanquan30" sc="1" dl="0"/>
+        <b name="Layer 1          复制 460441394" sc="1" dl="0"/>
+        <b name="Layer 1          复制 460441395" sc="1" dl="0"/>
+        <b name="Layer 1          复制 460441396" sc="1" dl="0"/>
+        <b name="Layer 1          复制 460441397" sc="1" dl="0"/>
+        <b name="Layer 1          复制 460441398" sc="1" dl="0"/>
+        <b name="图层 19        复制 80" sc="1" dl="0"/>
+        <b name="图层 20        复制 80" sc="1" dl="0"/>
+        <b name="图层 3        复制 80" sc="1" dl="0"/>
+        <b name="图层 21        复制 80" sc="1" dl="0"/>
+        <b name="图层 22        复制 80" sc="1" dl="0"/>
+        <b name="图层 43      复制 60" sc="1" dl="0"/>
+        <b name="baodan       复制 45" sc="1" dl="0"/>
+        <b name="baodan       复制 450" sc="1" dl="0"/>
+        <b name="Layer 1           复制 460441404" sc="1" dl="0"/>
+        <b name="Layer 1           复制 460441405" sc="1" dl="0"/>
+        <b name="Layer 1           复制 460441406" sc="1" dl="0"/>
+        <b name="Layer 1           复制 460441407" sc="1" dl="0"/>
+        <b name="Layer 1           复制 460441408" sc="1" dl="0"/>
+        <b name="图层 19         复制 90" sc="1" dl="0"/>
+        <b name="图层 20         复制 90" sc="1" dl="0"/>
+        <b name="图层 3         复制 90" sc="1" dl="0"/>
+        <b name="图层 21         复制 90" sc="1" dl="0"/>
+        <b name="图层 22         复制 90" sc="1" dl="0"/>
+        <b name="图层 43       复制 70" sc="1" dl="0"/>
+        <b name="Layer 1           复制 460441409" sc="1" dl="0"/>
+        <b name="Layer 1           复制 4604414010" sc="1" dl="0"/>
+        <b name="Layer 1           复制 4604414011" sc="1" dl="0"/>
+        <b name="Layer 1           复制 4604414012" sc="1" dl="0"/>
+        <b name="Layer 1           复制 4604414013" sc="1" dl="0"/>
+        <b name="图层 19         复制 91" sc="1" dl="0"/>
+        <b name="图层 20         复制 91" sc="1" dl="0"/>
+        <b name="图层 3         复制 91" sc="1" dl="0"/>
+        <b name="图层 21         复制 91" sc="1" dl="0"/>
+        <b name="图层 22         复制 91" sc="1" dl="0"/>
+        <b name="图层 43       复制 71" sc="1" dl="0"/>
+        <b name="Layer 1           复制 4604414014" sc="1" dl="0"/>
+        <b name="Layer 1           复制 4604414015" sc="1" dl="0"/>
+        <b name="Layer 1           复制 4604414016" sc="1" dl="0"/>
+        <b name="Layer 1           复制 4604414017" sc="1" dl="0"/>
+        <b name="Layer 1           复制 4604414018" sc="1" dl="0"/>
+        <b name="图层 19         复制 92" sc="1" dl="0"/>
+        <b name="图层 20         复制 92" sc="1" dl="0"/>
+        <b name="图层 3         复制 92" sc="1" dl="0"/>
+        <b name="图层 21         复制 92" sc="1" dl="0"/>
+        <b name="图层 22         复制 92" sc="1" dl="0"/>
+        <b name="图层 43       复制 72" sc="1" dl="0"/>
+        <b name="图层 10          复制 100" sc="1" dl="0"/>
+        <b name="图层 9          复制 100" sc="1" dl="0"/>
+        <b name="图层 7          复制 100" sc="1" dl="0"/>
+        <b name="图层 4          复制 100" sc="1" dl="0"/>
+        <b name="图层 3          复制 101" sc="1" dl="0"/>
+        <b name="图层 2          复制 100" sc="1" dl="0"/>
+        <b name="图层 10           复制 110" sc="1" dl="0"/>
+        <b name="图层 9           复制 110" sc="1" dl="0"/>
+        <b name="图层 7           复制 110" sc="1" dl="0"/>
+        <b name="图层 4           复制 110" sc="1" dl="0"/>
+        <b name="图层 3           复制 110" sc="1" dl="0"/>
+        <b name="图层 2           复制 110" sc="1" dl="0"/>
+        <b name="图层 10            复制 120" sc="1" dl="0"/>
+        <b name="图层 9            复制 120" sc="1" dl="0"/>
+        <b name="图层 7            复制 120" sc="1" dl="0"/>
+        <b name="图层 4            复制 120" sc="1" dl="0"/>
+        <b name="图层 3            复制 120" sc="1" dl="0"/>
+        <b name="图层 2            复制 120" sc="1" dl="0"/>
+        <b name="图层 10             复制 130" sc="1" dl="0"/>
+        <b name="图层 9             复制 130" sc="1" dl="0"/>
+        <b name="图层 7             复制 130" sc="1" dl="0"/>
+        <b name="图层 4             复制 130" sc="1" dl="0"/>
+        <b name="图层 3             复制 130" sc="1" dl="0"/>
+        <b name="图层 2             复制 130" sc="1" dl="0"/>
+        <b name="lizifei  复制 26" sc="1" dl="0"/>
+        <b name="lizifei  复制 27" sc="1" dl="0"/>
+        <b name="lizifei  复制 28" sc="1" dl="0"/>
+        <b name="lizifei  复制 210" sc="1" dl="0"/>
+        <b name="lizifei  复制 211" sc="1" dl="0"/>
+        <b name="lizifei 复制" sc="1" dl="0"/>
+        <b name="lizifei  复制 260" sc="1" dl="0"/>
+        <b name="lizifei  复制 270" sc="1" dl="0"/>
+        <b name="lizifei  复制 280" sc="1" dl="0"/>
+        <b name="lizifei  复制 2100" sc="1" dl="0"/>
+        <b name="lizifei  复制 2110" sc="1" dl="0"/>
+        <b name="lizifei 复制0" sc="1" dl="0"/>
+        <b name="lizifei  复制 261" sc="1" dl="0"/>
+        <b name="lizifei  复制 271" sc="1" dl="0"/>
+        <b name="lizifei  复制 281" sc="1" dl="0"/>
+        <b name="lizifei  复制 2101" sc="1" dl="0"/>
+        <b name="lizifei  复制 2111" sc="1" dl="0"/>
+        <b name="lizifei 复制1" sc="1" dl="0"/>
+        <b name="图层 8 复制" sc="1" dl="0"/>
+        <b name="图层 9 复制" sc="1" dl="0"/>
+        <b name="图层 10 复制" sc="1" dl="0"/>
+        <b name="图层 15 复制" sc="1" dl="0"/>
+        <b name="图层 16 复制" sc="1" dl="0"/>
+        <b name="图层 17 复制" sc="1" dl="0"/>
+        <b name="图层 11 复制" sc="1" dl="0"/>
+        <b name="图层 12 复制" sc="1" dl="0"/>
+        <b name="图层 13 复制" sc="1" dl="0"/>
+        <b name="图层 14 复制" sc="1" dl="0"/>
+        <b name="图层 5 复制" sc="1" dl="0"/>
+        <b name="图层 6 复制" sc="1" dl="0"/>
+        <b name="图层 7 复制" sc="1" dl="0"/>
+        <b name="图层 18 复制" sc="1" dl="0"/>
+        <b name="图层 19 复制" sc="1" dl="0"/>
+        <b name="图层 10  复制 2" sc="1" dl="0"/>
+        <b name="图层 16  复制 2" sc="1" dl="0"/>
+        <b name="图层 17  复制 2" sc="1" dl="0"/>
+        <b name="图层 11  复制 2" sc="1" dl="0"/>
+        <b name="图层 12  复制 2" sc="1" dl="0"/>
+        <b name="图层 13  复制 2" sc="1" dl="0"/>
+        <b name="图层 14  复制 2" sc="1" dl="0"/>
+        <b name="图层 5  复制 2" sc="1" dl="0"/>
+        <b name="图层 6  复制 2" sc="1" dl="0"/>
+        <b name="图层 7  复制 2" sc="1" dl="0"/>
+        <b name="图层 18  复制 2" sc="1" dl="0"/>
+        <b name="图层 19  复制 2" sc="1" dl="0"/>
+        <b name="qiliu      复制 6" sc="1" dl="0">
+          <f dr="26" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.26" cY="0.26" z="0" img="Libra_skill-qiliu" twE="0" dr="5"/>
+          <f x="0" y="-1.9" kX="0" kY="0" cX="0.95" cY="0.95" z="0" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="0" y="-5.65" kX="0" kY="-180" cX="0.42" cY="0.42" z="0" twE="0" dr="6"/>
+          <f x="0" y="-3.75" kX="0" kY="-180" cX="0.95" cY="0.95" z="0" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="0" y="-5.65" kX="0" kY="-180" cX="0.42" cY="0.42" z="0" twE="0" dr="5"/>
+          <f x="0" y="-3.75" kX="0" kY="-180" cX="0.95" cY="0.95" z="0" dr="1"/>
+          <f dr="32" hide="1"/>
+        </b>
+        <b name="qiliu0     复制 5" sc="1" dl="0">
+          <f dr="30" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.42" cY="0.42" z="0" img="Libra_skill-qiliu" twE="0" dr="6"/>
+          <f x="0" y="1.9" kX="0" kY="0" cX="0.95" cY="0.95" z="0" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="qiliu1     复制 5" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.42" cY="0.42" z="0" img="Libra_skill-qiliu" twE="0" dr="5"/>
+          <f x="0" y="1.9" kX="0" kY="0" cX="0.95" cY="0.95" z="0" dr="1"/>
+          <f dr="38" hide="1"/>
+        </b>
+        <b name="qiliu2     复制 5" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.42" cY="0.42" z="0" img="Libra_skill-qiliu" twE="0" dr="6"/>
+          <f x="0" y="1.9" kX="0" kY="0" cX="0.95" cY="0.95" z="0" dr="1"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="qiliu     复制 5" sc="1" dl="0">
+          <f dr="55" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="0" img="Libra_skill-qiliu" twE="0" dr="7"/>
+          <f x="0" y="1.9" kX="0" kY="0" cX="0.95" cY="0.95" z="0" dr="1"/>
+          <f x="12.05" y="-150.8" kX="0" kY="0" cX="0.31" cY="0.31" z="3" twE="0" dr="5"/>
+          <f x="12.05" y="-148.6" kX="0" kY="0" cX="1.11" cY="1.11" z="3" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="12.05" y="-144.2" kX="0" kY="180" cX="0.49" cY="0.49" z="2" twE="0" dr="6"/>
+          <f x="12.05" y="-146.4" kX="0" kY="180" cX="1.11" cY="1.11" z="3" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="12.05" y="-144.2" kX="0" kY="180" cX="0.49" cY="0.49" z="3" twE="0" dr="5"/>
+          <f x="12.05" y="-146.4" kX="0" kY="180" cX="1.11" cY="1.11" z="3" dr="1"/>
+          <f dr="32" hide="1"/>
+        </b>
+        <b name="diguang     复制 5" sc="1" dl="0"/>
+        <b name="qiliu0    复制 4" sc="1" dl="0">
+          <f dr="30" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="3" img="Libra_skill-qiliu" twE="0" dr="6"/>
+          <f x="0" y="-2.2" kX="0" kY="0" cX="1.11" cY="1.11" z="3" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="qiliu1    复制 4" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="2" img="Libra_skill-qiliu" twE="0" dr="5"/>
+          <f x="0" y="-2.2" kX="0" kY="0" cX="1.11" cY="1.11" z="2" dr="1"/>
+          <f dr="38" hide="1"/>
+        </b>
+        <b name="qiliu2    复制 4" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="3" img="Libra_skill-qiliu" twE="0" dr="6"/>
+          <f x="0" y="-2.2" kX="0" kY="0" cX="1.11" cY="1.11" z="3" dr="1"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="qiliu    复制 4" sc="1" dl="0">
+          <f dr="55" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.61" z="2" img="Libra_skill-qiliu" twE="0" dr="7"/>
+          <f x="0" y="-2.2" kX="0" kY="0" cX="1.11" cY="1.11" z="2" dr="1"/>
+          <f x="210.35" y="-9.15" kX="0" kY="0" cX="0.41" cY="0.41" z="9" twE="0" dr="5"/>
+          <f x="210.35" y="-12.1" kX="0" kY="0" cX="1.46" cY="1.46" z="9" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="210.35" y="-17.9" kX="0" kY="-180" cX="0.65" cY="0.65" z="6" twE="0" dr="6"/>
+          <f x="210.35" y="-15" kX="0" kY="-180" cX="1.46" cY="1.46" z="9" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="210.35" y="-17.9" kX="0" kY="-180" cX="0.65" cY="0.65" z="9" twE="0" dr="5"/>
+          <f x="210.35" y="-15" kX="0" kY="-180" cX="1.46" cY="1.46" z="9" dr="1"/>
+          <f dr="32" hide="1"/>
+        </b>
+        <b name="diguang    复制 4" sc="1" dl="0"/>
+        <b name="qiliu" sc="1" dl="0">
+          <f dr="26" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="6" img="Libra_skill-qiliu" twE="0" dr="5"/>
+          <f x="0" y="3.6" kX="0" kY="0" cX="1.8" cY="1.8" z="6" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="0" y="10.8" kX="0" kY="180" cX="0.8" cY="0.8" z="4" twE="0" dr="6"/>
+          <f x="0" y="7.2" kX="0" kY="180" cX="1.8" cY="1.8" z="6" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="0" y="10.8" kX="0" kY="180" cX="0.8" cY="0.8" z="6" twE="0" dr="5"/>
+          <f x="0" y="7.2" kX="0" kY="180" cX="1.8" cY="1.8" z="6" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="10.8" kX="0" kY="180" cX="1" cY="1" z="4" twE="0" dr="7"/>
+          <f x="0" y="7.2" kX="0" kY="180" cX="1.8" cY="1.8" z="4" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="qiliu0" sc="1" dl="0">
+          <f dr="30" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="6" img="Libra_skill-qiliu" twE="0" dr="6"/>
+          <f x="0" y="-3.6" kX="0" kY="0" cX="1.8" cY="1.8" z="6" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="qiliu1" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="4" img="Libra_skill-qiliu" twE="0" dr="5"/>
+          <f x="0" y="-3.6" kX="0" kY="0" cX="1.8" cY="1.8" z="4" dr="1"/>
+          <f dr="38" hide="1"/>
+        </b>
+        <b name="qiliu2" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="6" img="Libra_skill-qiliu" twE="0" dr="6"/>
+          <f x="0" y="-3.6" kX="0" kY="0" cX="1.8" cY="1.8" z="6" dr="1"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="diguang" sc="1" dl="0"/>
+        <b name="qiliu0   复制 3" sc="1" dl="0">
+          <f dr="30" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.65" cY="0.65" z="9" img="Libra_skill-qiliu" twE="0" dr="6"/>
+          <f x="0" y="2.9" kX="0" kY="0" cX="1.46" cY="1.46" z="9" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="qiliu1   复制 3" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.65" cY="0.65" z="6" img="Libra_skill-qiliu" twE="0" dr="5"/>
+          <f x="0" y="2.9" kX="0" kY="0" cX="1.46" cY="1.46" z="6" dr="1"/>
+          <f dr="38" hide="1"/>
+        </b>
+        <b name="qiliu2   复制 3" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.65" cY="0.65" z="9" img="Libra_skill-qiliu" twE="0" dr="6"/>
+          <f x="0" y="2.9" kX="0" kY="0" cX="1.46" cY="1.46" z="9" dr="1"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="qiliu   复制 3" sc="1" dl="0">
+          <f dr="55" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="0.81" z="6" img="Libra_skill-qiliu" twE="0" dr="7"/>
+          <f x="0" y="2.9" kX="0" kY="0" cX="1.46" cY="1.46" z="6" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="diguang   复制 3" sc="1" dl="0"/>
+        <b name="qiliu     复制 50" sc="1" dl="0">
+          <f dr="26" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.36" cY="0.36" z="12" img="Libra_skill-qiliu" twE="0" dr="5"/>
+          <f x="0" y="2.65" kX="0" kY="0" cX="1.31" cY="1.31" z="12" dr="1"/>
+          <f dr="53" hide="1"/>
+        </b>
+        <b name="qiliu0    复制 40" sc="1" dl="0">
+          <f dr="30" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.58" cY="0.58" z="12" img="Libra_skill-qiliu" twE="0" dr="6"/>
+          <f x="0" y="-2.6" kX="0" kY="0" cX="1.31" cY="1.31" z="12" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="qiliu     复制 51" sc="1" dl="0">
+          <f dr="35" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.58" cY="0.58" z="8" img="Libra_skill-qiliu" twE="0" dr="6"/>
+          <f x="0" y="-2.6" kX="0" kY="0" cX="1.31" cY="1.31" z="12" dr="1"/>
+          <f dr="43" hide="1"/>
+        </b>
+        <b name="qiliu1    复制 40" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.58" cY="0.58" z="8" img="Libra_skill-qiliu" twE="0" dr="5"/>
+          <f x="0" y="-2.6" kX="0" kY="0" cX="1.31" cY="1.31" z="8" dr="1"/>
+          <f dr="38" hide="1"/>
+        </b>
+        <b name="qiliu     复制 52" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.58" cY="0.58" z="12" img="Libra_skill-qiliu" twE="0" dr="5"/>
+          <f x="0" y="-2.6" kX="0" kY="0" cX="1.31" cY="1.31" z="12" dr="1"/>
+          <f dr="32" hide="1"/>
+        </b>
+        <b name="qiliu2    复制 40" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.58" cY="0.58" z="12" img="Libra_skill-qiliu" twE="0" dr="6"/>
+          <f x="0" y="-2.6" kX="0" kY="0" cX="1.31" cY="1.31" z="12" dr="1"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="qiliu    复制 40" sc="1" dl="0">
+          <f dr="55" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.73" cY="0.73" z="8" img="Libra_skill-qiliu" twE="0" dr="7"/>
+          <f x="0" y="-2.6" kX="0" kY="0" cX="1.31" cY="1.31" z="8" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="diguang    复制 40" sc="1" dl="0"/>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="31" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.85" cY="0.85" z="10" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-209.25" y="0.15" kX="0" kY="0" cX="2.24" cY="0.5" z="10" twE="0" dr="2"/>
+          <f x="-210.05" y="1.9" kX="0" kY="0" cX="2.24" cY="0.5" z="15" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-209.05" y="0.3" kX="0" kY="0" cX="2.24" cY="0.5" z="10" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-210.4" y="-2.95" kX="0" kY="0" cX="2.24" cY="0.5" z="10" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-226.3" y="-5.95" kX="0" kY="0" cX="2.24" cY="0.5" z="10" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.85" cY="0.85" z="10" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-209.25" y="0.15" kX="0" kY="0" cX="2.24" cY="0.5" z="10" twE="0" dr="2"/>
+          <f x="-210.05" y="1.9" kX="0" kY="0" cX="2.24" cY="0.5" z="15" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-209.05" y="0.3" kX="0" kY="0" cX="2.24" cY="0.5" z="10" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-210.4" y="-2.95" kX="0" kY="0" cX="2.24" cY="0.5" z="15" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-226.3" y="-5.95" kX="0" kY="0" cX="2.24" cY="0.5" z="10" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.85" cY="0.85" z="5" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-209.25" y="0.15" kX="0" kY="0" cX="2.24" cY="0.5" z="5" twE="0" dr="2"/>
+          <f x="-210.05" y="1.9" kX="0" kY="0" cX="2.24" cY="0.5" z="5" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-209.05" y="0.3" kX="0" kY="0" cX="2.24" cY="0.5" z="4" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-210.4" y="-2.95" kX="0" kY="0" cX="2.24" cY="0.5" z="4" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-226.3" y="-5.95" kX="0" kY="0" cX="2.24" cY="0.5" z="4" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.85" cY="0.85" z="15" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-209.25" y="0.15" kX="0" kY="0" cX="2.24" cY="0.5" z="11" twE="0" dr="2"/>
+          <f x="-210.05" y="1.9" kX="0" kY="0" cX="2.24" cY="0.5" z="11" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-209.05" y="0.3" kX="0" kY="0" cX="2.24" cY="0.5" z="16" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-210.4" y="-2.95" kX="0" kY="0" cX="2.24" cY="0.5" z="11" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-226.3" y="-5.95" kX="0" kY="0" cX="2.24" cY="0.5" z="11" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.85" cY="0.85" z="11" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-209.25" y="0.15" kX="0" kY="0" cX="2.24" cY="0.5" z="16" twE="0" dr="2"/>
+          <f x="-210.05" y="1.9" kX="0" kY="0" cX="2.24" cY="0.5" z="11" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-209.05" y="0.3" kX="0" kY="0" cX="2.24" cY="0.5" z="16" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-210.4" y="-2.95" kX="0" kY="0" cX="2.24" cY="0.5" z="16" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-226.3" y="-5.95" kX="0" kY="0" cX="2.24" cY="0.5" z="10" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.85" cY="0.85" z="6" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-209.25" y="0.15" kX="0" kY="0" cX="2.24" cY="0.5" z="6" twE="0" dr="2"/>
+          <f x="-210.05" y="1.9" kX="0" kY="0" cX="2.24" cY="0.5" z="5" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-209.05" y="0.3" kX="0" kY="0" cX="2.24" cY="0.5" z="5" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-210.4" y="-2.95" kX="0" kY="0" cX="2.24" cY="0.5" z="5" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-226.3" y="-5.95" kX="0" kY="0" cX="2.24" cY="0.5" z="4" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-246.2" y="0.15" kX="0" kY="0" cX="2.64" cY="0.59" z="5" twE="0" dr="2"/>
+          <f x="-247.15" y="2.25" kX="0" kY="0" cX="2.64" cY="0.59" z="10" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-245.95" y="0.3" kX="0" kY="0" cX="2.64" cY="0.59" z="11" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-247.55" y="-3.5" kX="0" kY="0" cX="2.64" cY="0.59" z="17" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-266.25" y="-7" kX="0" kY="0" cX="2.64" cY="0.59" z="12" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-246.2" y="0.15" kX="0" kY="0" cX="2.64" cY="0.59" z="11" twE="0" dr="2"/>
+          <f x="-247.15" y="2.25" kX="0" kY="0" cX="2.64" cY="0.59" z="10" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-245.95" y="0.3" kX="0" kY="0" cX="2.64" cY="0.59" z="10" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-247.55" y="-3.5" kX="0" kY="0" cX="2.64" cY="0.59" z="12" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-266.25" y="-7" kX="0" kY="0" cX="2.64" cY="0.59" z="12" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-246.2" y="0.15" kX="0" kY="0" cX="2.64" cY="0.59" z="11" twE="0" dr="2"/>
+          <f x="-247.15" y="2.25" kX="0" kY="0" cX="2.64" cY="0.59" z="10" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-245.95" y="0.3" kX="0" kY="0" cX="2.64" cY="0.59" z="6" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-247.55" y="-3.5" kX="0" kY="0" cX="2.64" cY="0.59" z="7" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-266.25" y="-7" kX="0" kY="0" cX="2.64" cY="0.59" z="7" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.01" cY="1.01" z="13" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-248.4" y="0.15" kX="0" kY="0" cX="2.66" cY="0.59" z="17" twE="0" dr="2"/>
+          <f x="-249.35" y="2.2" kX="0" kY="0" cX="2.66" cY="0.59" z="12" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-248.15" y="0.3" kX="0" kY="0" cX="2.66" cY="0.59" z="13" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-249.75" y="-3.55" kX="0" kY="0" cX="2.66" cY="0.59" z="17" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-268.65" y="-7.1" kX="0" kY="0" cX="2.66" cY="0.59" z="11" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.01" cY="1.01" z="13" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-248.4" y="0.15" kX="0" kY="0" cX="2.66" cY="0.59" z="17" twE="0" dr="2"/>
+          <f x="-249.35" y="2.2" kX="0" kY="0" cX="2.66" cY="0.59" z="12" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-248.15" y="0.3" kX="0" kY="0" cX="2.66" cY="0.59" z="18" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-249.75" y="-3.55" kX="0" kY="0" cX="2.66" cY="0.59" z="13" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-268.65" y="-7.1" kX="0" kY="0" cX="2.66" cY="0.59" z="11" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.01" cY="1.01" z="8" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-248.4" y="0.15" kX="0" kY="0" cX="2.66" cY="0.59" z="8" twE="0" dr="2"/>
+          <f x="-249.35" y="2.2" kX="0" kY="0" cX="2.66" cY="0.59" z="6" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-248.15" y="0.3" kX="0" kY="0" cX="2.66" cY="0.59" z="6" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-249.75" y="-3.55" kX="0" kY="0" cX="2.66" cY="0.59" z="6" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-268.65" y="-7.1" kX="0" kY="0" cX="2.66" cY="0.59" z="5" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="26" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="0.91" z="11" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-222.85" y="0.15" kX="0" kY="0" cX="2.39" cY="0.53" z="12" twE="0" dr="2"/>
+          <f x="-223.7" y="2" kX="0" kY="0" cX="2.39" cY="0.53" z="18" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-222.6" y="0.25" kX="0" kY="0" cX="2.39" cY="0.53" z="14" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-224.05" y="-3.15" kX="0" kY="0" cX="2.39" cY="0.53" z="18" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-241" y="-6.35" kX="0" kY="0" cX="2.39" cY="0.53" z="13" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="0.91" z="12" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-222.85" y="0.15" kX="0" kY="0" cX="2.39" cY="0.53" z="11" twE="0" dr="2"/>
+          <f x="-223.7" y="2" kX="0" kY="0" cX="2.39" cY="0.53" z="12" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-222.6" y="0.25" kX="0" kY="0" cX="2.39" cY="0.53" z="14" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-224.05" y="-3.15" kX="0" kY="0" cX="2.39" cY="0.53" z="18" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-241" y="-6.35" kX="0" kY="0" cX="2.39" cY="0.53" z="13" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="0.91" z="12" img="Libra_skill-1" twE="0" dr="2"/>
+          <f x="-222.85" y="0.15" kX="0" kY="0" cX="2.39" cY="0.53" z="12" twE="0" dr="2"/>
+          <f x="-223.7" y="2" kX="0" kY="0" cX="2.39" cY="0.53" z="9" img="Libra_skill-2" twE="0" dr="2"/>
+          <f x="-222.6" y="0.25" kX="0" kY="0" cX="2.39" cY="0.53" z="9" img="Libra_skill-3" twE="0" dr="2"/>
+          <f x="-224.05" y="-3.15" kX="0" kY="0" cX="2.39" cY="0.53" z="7" img="Libra_skill-4" twE="0" dr="2"/>
+          <f x="-241" y="-6.35" kX="0" kY="0" cX="2.39" cY="0.53" z="7" img="Libra_skill-3" twE="0" dr="2"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.32" cY="1" z="0" img="Libra_skill-dian" twE="0" dr="4"/>
+          <f x="-0.85" y="0.35" kX="0" kY="0" cX="0.65" cY="2" z="1" twE="0" dr="3"/>
+          <f x="-1.85" y="0.2" kX="0" kY="0" cX="1.02" cY="3.17" z="2" twE="0" dr="3"/>
+          <f x="-0.85" y="0.35" kX="0" kY="0" cX="0.65" cY="2" z="1" twE="0" dr="3"/>
+          <f x="-1.85" y="0.2" kX="0" kY="0" cX="1.02" cY="3.17" z="1" twE="0" dr="3"/>
+          <f x="-0.85" y="0.35" kX="0" kY="0" cX="0.65" cY="2" z="1" twE="0" dr="3"/>
+          <f x="-1.2" y="-0.05" kX="0" kY="0" cX="0.78" cY="2.4" z="1" twE="0" dr="3"/>
+          <f x="-0.85" y="0.35" kX="0" kY="0" cX="0.65" cY="2" z="1" twE="0" dr="3"/>
+          <f x="-1.85" y="0.2" kX="0" kY="0" cX="1.02" cY="3.17" z="1" twE="0" dr="3"/>
+          <f x="-0.85" y="0.35" kX="0" kY="0" cX="0.65" cY="2" z="2" twE="0" dr="3"/>
+          <f x="-1.85" y="0.2" kX="0" kY="0" cX="1.02" cY="3.17" z="2" twE="0" dr="3"/>
+          <f x="-0.85" y="0.35" kX="0" kY="0" cX="0.65" cY="2" z="1" twE="0" dr="3"/>
+          <f x="-1.85" y="0.2" kX="0" kY="0" cX="1.02" cY="3.17" z="1" twE="0" dr="3"/>
+          <f x="-0.85" y="0.35" kX="0" kY="0" cX="0.65" cY="2" z="0" twE="0" dr="3"/>
+          <f x="-1.85" y="0.2" kX="0" kY="0" cX="1.02" cY="3.17" z="0" twE="0" dr="2"/>
+          <f x="-0.85" y="0.35" kX="0" kY="0" cX="0.65" cY="2" z="0" twE="0" dr="3"/>
+          <f x="-1.85" y="0.2" kX="0" kY="0" cX="1.02" cY="3.17" z="0" twE="0" dr="1"/>
+          <f x="-0.85" y="0.35" kX="0" kY="0" cX="0.65" cY="2" z="0" twE="0" dr="6"/>
+          <f x="0.5" y="-0.35" kX="0" kY="0" cX="0.12" cY="0.38" z="0" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.36" cY="1.11" z="1" img="Libra_skill-dian" twE="0" dr="4"/>
+          <f x="-1" y="-0.4" kX="0" kY="0" cX="0.72" cY="2.23" z="3" twE="0" dr="3"/>
+          <f x="-2.15" y="-0.15" kX="0" kY="0" cX="1.14" cY="3.53" z="5" twE="0" dr="3"/>
+          <f x="-1" y="-0.4" kX="0" kY="0" cX="0.72" cY="2.23" z="3" twE="0" dr="3"/>
+          <f x="-2.15" y="-0.15" kX="0" kY="0" cX="1.14" cY="3.53" z="3" twE="0" dr="3"/>
+          <f x="-1" y="-0.4" kX="0" kY="0" cX="0.72" cY="2.23" z="3" twE="0" dr="3"/>
+          <f x="-1.4" y="0.1" kX="0" kY="0" cX="0.86" cY="2.67" z="3" twE="0" dr="3"/>
+          <f x="-1" y="-0.4" kX="0" kY="0" cX="0.72" cY="2.23" z="3" twE="0" dr="3"/>
+          <f x="-2.15" y="-0.15" kX="0" kY="0" cX="1.14" cY="3.53" z="3" twE="0" dr="3"/>
+          <f x="-1" y="-0.4" kX="0" kY="0" cX="0.72" cY="2.23" z="5" twE="0" dr="3"/>
+          <f x="-2.15" y="-0.15" kX="0" kY="0" cX="1.14" cY="3.53" z="5" twE="0" dr="3"/>
+          <f x="-1" y="-0.4" kX="0" kY="0" cX="0.72" cY="2.23" z="3" twE="0" dr="3"/>
+          <f x="-2.15" y="-0.15" kX="0" kY="0" cX="1.14" cY="3.53" z="3" twE="0" dr="3"/>
+          <f x="-1" y="-0.4" kX="0" kY="0" cX="0.72" cY="2.23" z="1" twE="0" dr="3"/>
+          <f x="-2.15" y="-0.15" kX="0" kY="0" cX="1.14" cY="3.53" z="1" twE="0" dr="2"/>
+          <f x="-1" y="-0.4" kX="0" kY="0" cX="0.72" cY="2.23" z="1" twE="0" dr="3"/>
+          <f x="-2.15" y="-0.15" kX="0" kY="0" cX="1.14" cY="3.53" z="1" twE="0" dr="1"/>
+          <f x="-1" y="-0.4" kX="0" kY="0" cX="0.72" cY="2.23" z="1" twE="0" dr="6"/>
+          <f x="0.6" y="0.4" kX="0" kY="0" cX="0.14" cY="0.43" z="1" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.34" cY="1" z="2" img="Libra_skill-dian" twE="0" dr="4"/>
+          <f x="-1.6" y="-0.6" kX="0" kY="0" cX="0.68" cY="2" z="5" twE="0" dr="3"/>
+          <f x="-3.55" y="-0.3" kX="0" kY="0" cX="1.07" cY="3.17" z="8" twE="0" dr="3"/>
+          <f x="-1.65" y="-0.6" kX="0" kY="0" cX="0.68" cY="2" z="5" twE="0" dr="3"/>
+          <f x="-3.55" y="-0.3" kX="0" kY="0" cX="1.07" cY="3.17" z="5" twE="0" dr="3"/>
+          <f x="-1.65" y="-0.6" kX="0" kY="0" cX="0.68" cY="2" z="5" twE="0" dr="3"/>
+          <f x="-2.3" y="0.15" kX="0" kY="0" cX="0.81" cY="2.4" z="5" twE="0" dr="3"/>
+          <f x="-1.65" y="-0.6" kX="0" kY="0" cX="0.68" cY="2" z="5" twE="0" dr="3"/>
+          <f x="-3.55" y="-0.3" kX="0" kY="0" cX="1.07" cY="3.17" z="5" twE="0" dr="3"/>
+          <f x="-1.65" y="-0.6" kX="0" kY="0" cX="0.68" cY="2" z="8" twE="0" dr="3"/>
+          <f x="-3.55" y="-0.3" kX="0" kY="0" cX="1.07" cY="3.17" z="8" twE="0" dr="3"/>
+          <f x="-1.65" y="-0.6" kX="0" kY="0" cX="0.68" cY="2" z="5" twE="0" dr="3"/>
+          <f x="-3.55" y="-0.3" kX="0" kY="0" cX="1.07" cY="3.17" z="5" twE="0" dr="2"/>
+          <f x="-1.65" y="-0.6" kX="0" kY="0" cX="0.68" cY="2" z="2" twE="0" dr="6"/>
+          <f x="1" y="0.6" kX="0" kY="0" cX="0.13" cY="0.38" z="2" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="1.55" z="3" img="Libra_skill-dian" twE="0" dr="4"/>
+          <f x="-1.35" y="0.55" kX="0" kY="0" cX="1.08" cY="3.1" z="7" twE="0" dr="3"/>
+          <f x="-2.85" y="0.25" kX="0" kY="0" cX="1.71" cY="4.91" z="11" twE="0" dr="3"/>
+          <f x="-1.35" y="0.5" kX="0" kY="0" cX="1.08" cY="3.1" z="7" twE="0" dr="3"/>
+          <f x="-2.85" y="0.2" kX="0" kY="0" cX="1.71" cY="4.91" z="7" twE="0" dr="3"/>
+          <f x="-1.35" y="0.5" kX="0" kY="0" cX="1.08" cY="3.1" z="7" twE="0" dr="3"/>
+          <f x="-1.85" y="-0.15" kX="0" kY="0" cX="1.29" cY="3.72" z="7" twE="0" dr="3"/>
+          <f x="-1.35" y="0.55" kX="0" kY="0" cX="1.08" cY="3.1" z="7" twE="0" dr="3"/>
+          <f x="-2.85" y="0.25" kX="0" kY="0" cX="1.71" cY="4.91" z="7" twE="0" dr="3"/>
+          <f x="-1.35" y="0.5" kX="0" kY="0" cX="1.08" cY="3.1" z="11" twE="0" dr="3"/>
+          <f x="-2.85" y="0.2" kX="0" kY="0" cX="1.71" cY="4.91" z="11" twE="0" dr="3"/>
+          <f x="-1.35" y="0.5" kX="0" kY="0" cX="1.08" cY="3.1" z="7" twE="0" dr="3"/>
+          <f x="-2.85" y="0.2" kX="0" kY="0" cX="1.71" cY="4.91" z="7" twE="0" dr="3"/>
+          <f x="-1.35" y="0.5" kX="0" kY="0" cX="1.08" cY="3.1" z="3" twE="0" dr="3"/>
+          <f x="-2.85" y="0.2" kX="0" kY="0" cX="1.71" cY="4.91" z="3" twE="0" dr="2"/>
+          <f x="-1.35" y="0.5" kX="0" kY="0" cX="1.08" cY="3.1" z="2" twE="0" dr="3"/>
+          <f x="-2.85" y="0.2" kX="0" kY="0" cX="1.71" cY="4.91" z="2" twE="0" dr="1"/>
+          <f x="-1.35" y="0.5" kX="0" kY="0" cX="1.08" cY="3.1" z="2" twE="0" dr="6"/>
+          <f x="0.8" y="-0.55" kX="0" kY="0" cX="0.21" cY="0.59" z="2" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="1.38" z="4" img="Libra_skill-dian" twE="0" dr="4"/>
+          <f x="-1.15" y="-0.45" kX="0" kY="0" cX="1.07" cY="2.75" z="9" twE="0" dr="3"/>
+          <f x="-2.5" y="-0.25" kX="0" kY="0" cX="1.7" cY="4.36" z="14" twE="0" dr="3"/>
+          <f x="-1.15" y="-0.45" kX="0" kY="0" cX="1.07" cY="2.75" z="9" twE="0" dr="3"/>
+          <f x="-2.5" y="-0.25" kX="0" kY="0" cX="1.7" cY="4.36" z="9" twE="0" dr="3"/>
+          <f x="-1.15" y="-0.45" kX="0" kY="0" cX="1.07" cY="2.75" z="9" twE="0" dr="3"/>
+          <f x="-1.7" y="0.1" kX="0" kY="0" cX="1.29" cY="3.3" z="9" twE="0" dr="3"/>
+          <f x="-1.15" y="-0.45" kX="0" kY="0" cX="1.07" cY="2.75" z="9" twE="0" dr="3"/>
+          <f x="-2.5" y="-0.25" kX="0" kY="0" cX="1.7" cY="4.36" z="9" twE="0" dr="3"/>
+          <f x="-1.15" y="-0.45" kX="0" kY="0" cX="1.07" cY="2.75" z="14" twE="0" dr="3"/>
+          <f x="-2.5" y="-0.25" kX="0" kY="0" cX="1.7" cY="4.36" z="14" twE="0" dr="3"/>
+          <f x="-1.15" y="-0.45" kX="0" kY="0" cX="1.07" cY="2.75" z="9" twE="0" dr="3"/>
+          <f x="-2.5" y="-0.25" kX="0" kY="0" cX="1.7" cY="4.36" z="9" twE="0" dr="3"/>
+          <f x="-1.15" y="-0.45" kX="0" kY="0" cX="1.07" cY="2.75" z="4" twE="0" dr="3"/>
+          <f x="-2.5" y="-0.25" kX="0" kY="0" cX="1.7" cY="4.36" z="4" twE="0" dr="2"/>
+          <f x="-1.15" y="-0.45" kX="0" kY="0" cX="1.07" cY="2.75" z="3" twE="0" dr="3"/>
+          <f x="-2.5" y="-0.25" kX="0" kY="0" cX="1.7" cY="4.36" z="3" twE="0" dr="1"/>
+          <f x="-1.15" y="-0.45" kX="0" kY="0" cX="1.07" cY="2.75" z="3" twE="0" dr="6"/>
+          <f x="0.75" y="0.5" kX="0" kY="0" cX="0.21" cY="0.53" z="3" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_2">
+      <mov name="physical_2" to="1" dr="45" drTW="45" lp="1">
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="9.43" cY="3.29" z="0" img="Libra_skill-heiying" dr="45"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq8" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq9" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq10" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq11" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq13" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq14" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.13" cY="1.7" z="1" img="Libra_skill-huoq15" dr="3"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.58" cY="2.25" z="2" img="Libra_skill-afawef" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.3" cY="2.7" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.58" cY="2.25" z="2" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.3" cY="2.7" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.58" cY="2.25" z="2" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.3" cY="2.7" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.58" cY="2.25" z="2" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.3" cY="2.7" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.58" cY="2.25" z="2" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.3" cY="2.7" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.58" cY="2.25" z="2" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.3" cY="2.7" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.58" cY="2.25" z="2" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.3" cY="2.7" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.58" cY="2.25" z="2" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="4.3" cY="2.7" z="2" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_1">
+      <mov name="physical_1" to="1" dr="45" drTW="45">
+        <b name="yinying" sc="1" dl="0"/>
+        <b name="r_dabi" sc="1" dl="0"/>
+        <b name="fa6" sc="1" dl="0"/>
+        <b name="r_shou" sc="1" dl="0"/>
+        <b name="r_xiaobi" sc="1" dl="0"/>
+        <b name="yao" sc="1" dl="0"/>
+        <b name="shangshen" sc="1" dl="0"/>
+        <b name="diaolian" sc="1" dl="0"/>
+        <b name="xiaotui" sc="1" dl="0"/>
+        <b name="l_jiao" sc="1" dl="0"/>
+        <b name="l_datui" sc="1" dl="0"/>
+        <b name="r_xiaotui" sc="1" dl="0"/>
+        <b name="r_datui" sc="1" dl="0"/>
+        <b name="r_ku" sc="1" dl="0"/>
+        <b name="r_jiao" sc="1" dl="0"/>
+        <b name="l_ku" sc="1" dl="0"/>
+        <b name="ku" sc="1" dl="0"/>
+        <b name="bozi" sc="1" dl="0"/>
+        <b name="l_waitao" sc="1" dl="0"/>
+        <b name="r_waitao" sc="1" dl="0"/>
+        <b name="diaozhui" sc="1" dl="0"/>
+        <b name="jita" sc="1" dl="0"/>
+        <b name="r_damuzhi" sc="1" dl="0"/>
+        <b name="r_shouzhi" sc="1" dl="0"/>
+        <b name="fa7" sc="1" dl="0"/>
+        <b name="lian" sc="1" dl="0"/>
+        <b name="fa2" sc="1" dl="0"/>
+        <b name="l_er" sc="1" dl="0"/>
+        <b name="erhuan" sc="1" dl="0"/>
+        <b name="erhuan0" sc="1" dl="0"/>
+        <b name="erhuan1" sc="1" dl="0"/>
+        <b name="bizi" sc="1" dl="0"/>
+        <b name="zui" sc="1" dl="0"/>
+        <b name="l_yan" sc="1" dl="0"/>
+        <b name="l_mei" sc="1" dl="0"/>
+        <b name="r_yan" sc="1" dl="0"/>
+        <b name="fa5" sc="1" dl="0"/>
+        <b name="fa3" sc="1" dl="0"/>
+        <b name="fa1" sc="1" dl="0"/>
+        <b name="l_shou" sc="1" dl="0"/>
+        <b name="l_shouzhi2" sc="1" dl="0"/>
+        <b name="l_shouzhi1" sc="1" dl="0"/>
+        <b name="l_xiaobi" sc="1" dl="0"/>
+        <b name="l_dabi" sc="1" dl="0"/>
+        <b name="图层 9" sc="1" dl="0"/>
+        <b name="图层 8" sc="1" dl="0"/>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.58" cY="1.72" z="0" img="Libra_skill-quan1" dr="1"/>
+          <f x="-82.45" y="3" kX="0" kY="0" cX="2" cY="2" z="0" dr="1"/>
+          <f x="-82.45" y="3" kX="0" kY="0" cX="2" cY="2" z="0" img="Libra_skill-quan2" dr="2"/>
+          <f x="-82.45" y="3" kX="0" kY="0" cX="2" cY="2" z="0" img="Libra_skill-quan3" dr="2"/>
+          <f x="-82.45" y="3" kX="0" kY="0" cX="2" cY="2" z="0" img="Libra_skill-quan4" dr="2"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="24" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.58" cY="1.72" z="0" img="Libra_skill-quan1" dr="1"/>
+          <f x="-192.45" y="0" kX="0" kY="0" cX="2" cY="2" z="0" dr="1"/>
+          <f x="-192.45" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="Libra_skill-quan2" dr="1"/>
+          <f x="-192.45" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="Libra_skill-quan3" dr="2"/>
+          <f x="-192.45" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="Libra_skill-quan4" dr="2"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="r_dajiao_a" sc="1" dl="0"/>
+        <b name="r_dajiao_b" sc="1" dl="0"/>
+        <b name="l_xiaotui" sc="1" dl="0"/>
+        <b name="l_dajiao" sc="1" dl="0"/>
+        <b name="r_piaodai" sc="1" dl="0"/>
+        <b name="l_piaodai" sc="1" dl="0"/>
+        <b name="piaodai" sc="1" dl="0"/>
+        <b name="yaodai" sc="1" dl="0"/>
+        <b name="l_lian" sc="1" dl="0"/>
+        <b name="r_lian" sc="1" dl="0"/>
+        <b name="suo" sc="1" dl="0"/>
+        <b name="r_toufa_a" sc="1" dl="0"/>
+        <b name="l_toufa_b" sc="1" dl="0"/>
+        <b name="l_binjiao" sc="1" dl="0"/>
+        <b name="l_toufa_a" sc="1" dl="0"/>
+        <b name="r_toufa_b" sc="1" dl="0"/>
+        <b name="l_fa_c" sc="1" dl="0"/>
+        <b name="r_binjiao" sc="1" dl="0"/>
+        <b name="r_mei" sc="1" dl="0"/>
+        <b name="mianju_a" sc="1" dl="0"/>
+        <b name="mianju_b" sc="1" dl="0"/>
+        <b name="mianju_c" sc="1" dl="0"/>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="天称座特效(6)" width="512" height="2048">
+    <SubTexture name="Libra_skill-qiliu" x="0" y="506" width="257" height="103" pX="132.05" pY="49.5"/>
+    <SubTexture name="Libra_skill-1" x="0" y="341" width="303" height="164" pX="150.8" pY="81.15"/>
+    <SubTexture name="Libra_skill-2" x="0" y="0" width="318" height="166" pX="164.85" pY="81.45"/>
+    <SubTexture name="Libra_skill-3" x="0" y="1024" width="313" height="112" pX="159.95" pY="46.9"/>
+    <SubTexture name="Libra_skill-4" x="0" y="167" width="308" height="173" pX="154.65" pY="84.85"/>
+    <SubTexture name="Libra_skill-dian" x="441" y="61" width="54" height="54" pX="26.5" pY="26.5"/>
+    <SubTexture name="Libra_skill-heiying" x="441" y="0" width="59" height="60" pX="29" pY="29.5"/>
+    <SubTexture name="Libra_skill-huoq1" x="0" y="833" width="121" height="103" pX="60" pY="36.1"/>
+    <SubTexture name="Libra_skill-huoq2" x="122" y="833" width="121" height="101" pX="60" pY="34.1"/>
+    <SubTexture name="Libra_skill-huoq3" x="366" y="727" width="121" height="105" pX="60" pY="38.1"/>
+    <SubTexture name="Libra_skill-huoq4" x="0" y="726" width="121" height="106" pX="60" pY="39.05"/>
+    <SubTexture name="Libra_skill-huoq5" x="244" y="618" width="121" height="109" pX="60" pY="42.1"/>
+    <SubTexture name="Libra_skill-huoq6" x="0" y="610" width="121" height="115" pX="60" pY="48.05"/>
+    <SubTexture name="Libra_skill-huoq7" x="304" y="501" width="121" height="116" pX="60" pY="49.05"/>
+    <SubTexture name="Libra_skill-huoq8" x="309" y="261" width="121" height="119" pX="60" pY="52.1"/>
+    <SubTexture name="Libra_skill-huoq9" x="244" y="728" width="118" height="108" pX="57" pY="41.05"/>
+    <SubTexture name="Libra_skill-huoq10" x="122" y="724" width="121" height="108" pX="60" pY="41.05"/>
+    <SubTexture name="Libra_skill-huoq11" x="366" y="618" width="121" height="108" pX="60" pY="41.1"/>
+    <SubTexture name="Libra_skill-huoq12" x="122" y="610" width="121" height="113" pX="60" pY="46.05"/>
+    <SubTexture name="Libra_skill-huoq13" x="304" y="381" width="121" height="119" pX="60" pY="52.05"/>
+    <SubTexture name="Libra_skill-huoq14" x="319" y="0" width="121" height="131" pX="60" pY="65"/>
+    <SubTexture name="Libra_skill-huoq15" x="319" y="132" width="121" height="128" pX="60" pY="61.1"/>
+    <SubTexture name="Libra_skill-afawef" x="0" y="937" width="86" height="86" pX="42.5" pY="42.5"/>
+    <SubTexture name="Libra_skill-quan1" x="122" y="935" width="109" height="74" pX="57.25" pY="36.75"/>
+    <SubTexture name="Libra_skill-quan2" x="333" y="950" width="128" height="89" pX="67.95" pY="43.5"/>
+    <SubTexture name="Libra_skill-quan3" x="363" y="833" width="104" height="116" pX="68.2" pY="58.15"/>
+    <SubTexture name="Libra_skill-quan4" x="244" y="837" width="88" height="119" pX="62.4" pY="63.35"/>
+  </TextureAtlas>
+</skeleton>

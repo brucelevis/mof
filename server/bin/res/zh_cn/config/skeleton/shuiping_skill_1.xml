@@ -1,0 +1,123 @@
+<skeleton name="S水瓶水柱资源(1)">
+  <armatures>
+    <armature name="SPshuizhu">
+      <b name="图层 4" bT="0" bi="shuiping_skill_1-SPSZ3-1" x="-304.85" y="-363.45" kX="0" kY="0" z="0"/>
+      <b name="图层 3" bT="0" bi="shuiping_skill_1-SPSZ3-1" x="-114.85" y="-345.4" kX="0" kY="0" z="0"/>
+      <b name="图层 2" bT="0" bi="shuiping_skill_1-SPSZ3-1" x="-367" y="-345.4" kX="0" kY="0" z="2"/>
+      <b name="图层 1" bT="0" bi="shuiping_skill_1-SPSZ3-1" x="-237.8" y="-307.4" kX="0" kY="0" z="1"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="SPshuizhu">
+      <mov name="SPshuizhu" to="1" dr="50" drTW="50" lp="1">
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-19" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-21" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-23" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-25" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-27" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-29" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-31" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-33" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-35" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-19" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-21" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-23" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-25" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-27" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-29" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-31" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-33" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-35" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-19" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-21" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-23" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-25" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-27" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-29" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-31" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-33" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="0" img="shuiping_skill_1-SPSZ3-35" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="1" img="shuiping_skill_1-SPSZ3-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="3" img="shuiping_skill_1-SPSZ3-11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="3" img="shuiping_skill_1-SPSZ3-13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="3" img="shuiping_skill_1-SPSZ3-15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="3" img="shuiping_skill_1-SPSZ3-17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="3" img="shuiping_skill_1-SPSZ3-19" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="3" img="shuiping_skill_1-SPSZ3-21" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="3" img="shuiping_skill_1-SPSZ3-23" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="3" img="shuiping_skill_1-SPSZ3-25" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="3" img="shuiping_skill_1-SPSZ3-27" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="3" img="shuiping_skill_1-SPSZ3-29" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-31" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-33" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.38" cY="3.38" z="2" img="shuiping_skill_1-SPSZ3-35" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="S水瓶水柱资源(1)" width="512" height="1024">
+    <SubTexture name="shuiping_skill_1-SPSZ3-1" x="462" y="0" width="40" height="52" pX="-32.05" pY="-139.25"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-3" x="0" y="376" width="51" height="137" pX="-28.05" pY="-54.25"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-5" x="278" y="374" width="54" height="134" pX="-28.1" pY="-57.25"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-7" x="424" y="367" width="65" height="176" pX="-18.15" pY="-15.2"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-9" x="76" y="192" width="64" height="191" pX="-19" pY="0"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-11" x="394" y="0" width="67" height="191" pX="-16.05" pY="0"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-13" x="141" y="192" width="63" height="191" pX="-20.1" pY="0"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-15" x="205" y="192" width="72" height="183" pX="-20.1" pY="-8.2"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-17" x="318" y="0" width="75" height="191" pX="-13.15" pY="0"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-19" x="0" y="0" width="80" height="191" pX="-9.15" pY="0"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-21" x="81" y="0" width="79" height="191" pX="-8.1" pY="0"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-23" x="240" y="0" width="77" height="191" pX="-9.15" pY="0"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-25" x="161" y="0" width="78" height="191" pX="-9.05" pY="0"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-27" x="0" y="192" width="75" height="183" pX="-11.15" pY="-8.2"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-29" x="352" y="192" width="71" height="180" pX="-13.2" pY="-11.15"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-31" x="278" y="192" width="73" height="181" pX="-10.2" pY="-10.2"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-33" x="424" y="192" width="73" height="174" pX="-11.15" pY="-17.2"/>
+    <SubTexture name="shuiping_skill_1-SPSZ3-35" x="352" y="373" width="67" height="148" pX="-13" pY="-43.25"/>
+  </TextureAtlas>
+</skeleton>

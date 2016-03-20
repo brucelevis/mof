@@ -1,0 +1,126 @@
+<skeleton name="足球子弹和被击">
+  <armatures>
+    <armature name="zuqiubeiji">
+      <b name="图层 1" bT="0" bi="soccer_soccer_hit-baoguang1" x="2.5" y="0.3" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="qiuzidan">
+      <b name="图层 1" bT="0" bi="soccer_soccer_hit-qui" x="-88.4" y="45.9" kX="-125.05" kY="-136.79" z="0"/>
+      <b name="图层 2" bT="0" bi="soccer_soccer_hit-shefeng1" x="-87.6" y="53.9" kX="0" kY="180" z="1"/>
+    </armature>
+    <armature name="huangdianji">
+      <b name="图层 8 复制" bT="0" bi="soccer_soccer_hit-leidian 1" x="-1.15" y="2.25" kX="139.35" kY="-40.22" z="0"/>
+      <b name="图层 1" bT="0" bi="soccer_soccer_hit-leidian 1" x="-0.85" y="2" kX="-160.65" kY="19.78" z="0"/>
+      <b name="图层 3" bT="0" bi="soccer_soccer_hit-tiqiuguagn 1" x="-8.85" y="0.65" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="zuqiubeiji">
+      <mov name="zuqiubeiji" to="1" dr="10" drTW="10">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" z="0" img="soccer_soccer_hit-baoguang1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" z="0" img="soccer_soccer_hit-baoguang2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" z="0" img="soccer_soccer_hit-baoguang3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="1.52" z="0" img="soccer_soccer_hit-baoguang4" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="qiuzidan">
+      <mov name="qiuzidan" to="1" dr="10" drTW="10" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.89" cY="0.92" z="0" img="soccer_soccer_hit-qui" dr="2"/>
+          <f x="0" y="0" kX="185.56" kY="186.16" cX="0.88" cY="0.94" z="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.89" cY="0.92" z="0" dr="2"/>
+          <f x="0" y="0" kX="185.56" kY="186.16" cX="0.88" cY="0.94" z="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.89" cY="0.92" z="0" dr="2"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.2" cY="1.58" z="1" img="soccer_soccer_hit-shefeng1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.2" cY="1.58" z="1" img="soccer_soccer_hit-shefeng2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.2" cY="1.58" z="1" img="soccer_soccer_hit-shefeng3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.2" cY="1.58" z="1" img="soccer_soccer_hit-shefeng4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.2" cY="1.58" z="1" img="soccer_soccer_hit-shefeng5" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="huangdianji">
+      <mov name="huangdianji" to="1" dr="28" drTW="28">
+        <b name="图层 8 复制" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 1" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 4" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian6" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 7" dr="2"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 8" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 9" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 10" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 11" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 1" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 4" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian6" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 7" dr="2"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="1" img="soccer_soccer_hit-leidian 8" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="0" img="soccer_soccer_hit-leidian 9" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="1" img="soccer_soccer_hit-leidian 10" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="1.87" z="1" img="soccer_soccer_hit-leidian 11" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="5.06" cY="5.06" z="0" img="soccer_soccer_hit-tiqiuguagn 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.06" cY="5.06" z="1" img="soccer_soccer_hit-tiqiuguagn 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.06" cY="5.06" z="0" img="soccer_soccer_hit-tiqiuguagn 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.06" cY="5.06" z="1" img="soccer_soccer_hit-tiqiuguagn 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.06" cY="5.06" z="2" img="soccer_soccer_hit-tiqiuguagn 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="5.06" cY="5.06" z="1" img="soccer_soccer_hit-tiqiuguagn 7" dr="2"/>
+          <f dr="16" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="足球子弹和被击" width="512" height="128">
+    <SubTexture name="soccer_soccer_hit-baoguang1" x="158" y="0" width="72" height="58" pX="35.9" pY="25.65"/>
+    <SubTexture name="soccer_soccer_hit-baoguang2" x="0" y="0" width="77" height="63" pX="37.9" pY="28.15"/>
+    <SubTexture name="soccer_soccer_hit-baoguang3" x="78" y="0" width="79" height="60" pX="40" pY="27.15"/>
+    <SubTexture name="soccer_soccer_hit-baoguang4" x="231" y="0" width="62" height="51" pX="40" pY="17.65"/>
+    <SubTexture name="soccer_soccer_hit-qui" x="259" y="52" width="25" height="25" pX="11.8" pY="11.8"/>
+    <SubTexture name="soccer_soccer_hit-shefeng1" x="381" y="32" width="30" height="30" pX="22" pY="19.5"/>
+    <SubTexture name="soccer_soccer_hit-shefeng2" x="423" y="31" width="30" height="30" pX="22" pY="19.5"/>
+    <SubTexture name="soccer_soccer_hit-shefeng3" x="454" y="31" width="30" height="30" pX="22" pY="19.5"/>
+    <SubTexture name="soccer_soccer_hit-shefeng4" x="423" y="0" width="30" height="30" pX="22" pY="19.5"/>
+    <SubTexture name="soccer_soccer_hit-shefeng5" x="454" y="0" width="30" height="30" pX="22" pY="19.5"/>
+    <SubTexture name="soccer_soccer_hit-leidian 1" x="110" y="61" width="12" height="10" pX="20.35" pY="20.25"/>
+    <SubTexture name="soccer_soccer_hit-leidian 2" x="93" y="61" width="16" height="13" pX="20.2" pY="20.3"/>
+    <SubTexture name="soccer_soccer_hit-leidian 3" x="181" y="59" width="21" height="19" pX="20.1" pY="21.1"/>
+    <SubTexture name="soccer_soccer_hit-leidian 4" x="231" y="52" width="27" height="23" pX="20" pY="20.75"/>
+    <SubTexture name="soccer_soccer_hit-leidian5" x="381" y="0" width="41" height="31" pX="19" pY="19.9"/>
+    <SubTexture name="soccer_soccer_hit-leidian6" x="338" y="0" width="42" height="38" pX="20.2" pY="19.55"/>
+    <SubTexture name="soccer_soccer_hit-leidian 7" x="294" y="0" width="43" height="37" pX="20.4" pY="15.9"/>
+    <SubTexture name="soccer_soccer_hit-leidian 8" x="294" y="38" width="34" height="22" pX="11.3" pY="0.65"/>
+    <SubTexture name="soccer_soccer_hit-leidian 9" x="203" y="59" width="23" height="13" pX="0.3" pY="-8.2"/>
+    <SubTexture name="soccer_soccer_hit-leidian 10" x="123" y="61" width="13" height="7" pX="-9.45" pY="-14.85"/>
+    <SubTexture name="soccer_soccer_hit-leidian 11" x="412" y="32" width="5" height="3" pX="-16.7" pY="-17.95"/>
+    <SubTexture name="soccer_soccer_hit-tiqiuguagn 1" x="78" y="61" width="14" height="18" pX="7.6" pY="9.45"/>
+    <SubTexture name="soccer_soccer_hit-tiqiuguagn 2" x="356" y="39" width="22" height="30" pX="12.6" pY="16.25"/>
+    <SubTexture name="soccer_soccer_hit-tiqiuguagn 3" x="485" y="33" width="25" height="32" pX="13.25" pY="17.1"/>
+    <SubTexture name="soccer_soccer_hit-tiqiuguagn 4" x="485" y="0" width="25" height="32" pX="13.5" pY="17.3"/>
+    <SubTexture name="soccer_soccer_hit-tiqiuguagn 6" x="329" y="39" width="26" height="30" pX="13.6" pY="17.45"/>
+    <SubTexture name="soccer_soccer_hit-tiqiuguagn 7" x="158" y="59" width="22" height="19" pX="10.05" pY="5.9"/>
+  </TextureAtlas>
+</skeleton>

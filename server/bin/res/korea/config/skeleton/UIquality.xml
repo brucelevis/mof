@@ -1,0 +1,59 @@
+<skeleton name="品质齐鸣z">
+  <armatures>
+    <armature name="Bleat">
+      <b name="Layer8" bT="0" bi="UIquality-leidian1" x="-0.95" y="-2.95" kX="0" kY="0" z="0"/>
+      <b name="Layer6" bT="0" bi="UIquality-leidian1" x="0.65" y="-4" kX="180" kY="180" z="1"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="Bleat">
+      <mov name="Bleat" to="1" dr="149" drTW="150" lp="1">
+        <b name="图层 8" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="Layer8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.82" z="0" img="UIquality-leidian1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.82" z="0" img="UIquality-leidian2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.82" z="0" img="UIquality-leidian3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.82" z="0" img="UIquality-leidian4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.82" z="0" img="UIquality-leidian5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.82" z="0" img="UIquality-leidian6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.82" z="0" img="UIquality-leidian7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.82" z="0" img="UIquality-leidian8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.82" z="0" img="UIquality-leidian9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.82" z="0" img="UIquality-leidian10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.82" z="0" img="UIquality-leidian11" dr="1"/>
+          <f dr="128" hide="1"/>
+        </b>
+        <b name="Layer6" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.84" z="1" img="UIquality-leidian1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.84" z="1" img="UIquality-leidian2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.84" z="1" img="UIquality-leidian3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.84" z="1" img="UIquality-leidian4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.84" z="1" img="UIquality-leidian5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.84" z="1" img="UIquality-leidian6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.84" z="1" img="UIquality-leidian7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.84" z="1" img="UIquality-leidian8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.84" z="0" img="UIquality-leidian9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.84" z="0" img="UIquality-leidian10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.84" z="0" img="UIquality-leidian11" dr="1"/>
+          <f dr="124" hide="1"/>
+        </b>
+      </mov>
+      <mov name="mainUI0" to="6" dr="1"/>
+    </animation>
+  </animations>
+  <TextureAtlas name="品质齐鸣z" width="512" height="64">
+    <SubTexture name="UIquality-leidian1" x="255" y="0" width="12" height="10" pX="20.35" pY="20.25"/>
+    <SubTexture name="UIquality-leidian2" x="238" y="0" width="16" height="13" pX="20.2" pY="20.3"/>
+    <SubTexture name="UIquality-leidian3" x="192" y="0" width="21" height="19" pX="20.1" pY="21.1"/>
+    <SubTexture name="UIquality-leidian4" x="164" y="0" width="27" height="23" pX="20" pY="20.75"/>
+    <SubTexture name="UIquality-leidian5" x="87" y="0" width="41" height="31" pX="19" pY="19.9"/>
+    <SubTexture name="UIquality-leidian6" x="44" y="0" width="42" height="38" pX="20.2" pY="19.55"/>
+    <SubTexture name="UIquality-leidian7" x="0" y="0" width="43" height="37" pX="20.4" pY="15.9"/>
+    <SubTexture name="UIquality-leidian8" x="129" y="0" width="34" height="22" pX="11.3" pY="0.65"/>
+    <SubTexture name="UIquality-leidian9" x="214" y="0" width="23" height="13" pX="0.3" pY="-8.2"/>
+    <SubTexture name="UIquality-leidian10" x="268" y="0" width="13" height="7" pX="-9.45" pY="-14.85"/>
+    <SubTexture name="UIquality-leidian11" x="282" y="0" width="5" height="3" pX="-16.7" pY="-17.95"/>
+  </TextureAtlas>
+</skeleton>

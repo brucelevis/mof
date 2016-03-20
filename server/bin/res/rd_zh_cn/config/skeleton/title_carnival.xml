@@ -1,0 +1,223 @@
+<skeleton name="盛世狂欢称号">
+  <armatures>
+    <armature name="sskh">
+      <b name="huang" bT="0" bi="title_carnival-SSYHh1" x="51.35" y="-37.5" kX="0" kY="0" z="0"/>
+      <b name="zi" bT="0" bi="title_carnival-SSYHz1" x="102.95" y="-27.55" kX="0" kY="0" z="1"/>
+      <b name="zi0" bT="0" bi="title_carnival-SSYHz1" x="45.95" y="-47.5" kX="0" kY="0" z="2"/>
+      <b name="图层 3" bT="0" bi="title_carnival-SSYHh2" x="123.95" y="15.9" kX="0" kY="0" z="3"/>
+      <b name="huang0" bT="0" bi="title_carnival-SSYHh8" x="87.95" y="-4.55" kX="0" kY="0" z="1"/>
+      <b name="huang1" bT="0" bi="title_carnival-SSYHh1" x="36.95" y="-41.55" kX="0" kY="0" z="3"/>
+      <b name="huang2" bT="0" bi="title_carnival-SSYHh8" x="-31.05" y="-24.75" kX="0" kY="0" z="2"/>
+      <b name="zi1" bT="0" bi="title_carnival-SSYHz1" x="-10.05" y="-20.75" kX="0" kY="0" z="4"/>
+      <b name="zi2" bT="0" bi="title_carnival-SSYHz4" x="-54.05" y="-36.3" kX="0" kY="0" z="3"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="sskh">
+      <mov name="sskh" to="1" dr="71" drTW="71" lp="1">
+        <b name="huang" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh14" dr="2"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="zi" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz14" dr="2"/>
+          <f dr="9" hide="1"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHz1" dr="3"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz2" dr="2"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz3" dr="2"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz4" dr="2"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz5" dr="2"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz6" dr="2"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz7" dr="2"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz8" dr="2"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz9" dr="2"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz10" dr="2"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz11" dr="2"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz12" dr="2"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz13" dr="2"/>
+          <f x="-163" y="32.25" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz14" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="zi0" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHz1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHz2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHz3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHz4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHz5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHz6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHz8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHz14" dr="2"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="24" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHh2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHh3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHh4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHh5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="title_carnival-SSYHh6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="title_carnival-SSYHh7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="title_carnival-SSYHh8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="title_carnival-SSYHh9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="title_carnival-SSYHh10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="title_carnival-SSYHh11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="title_carnival-SSYHh12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="title_carnival-SSYHh13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="title_carnival-SSYHh14" dr="2"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="huang0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHh8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh14" dr="2"/>
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHh1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHh2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHh3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHh4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHh5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHh6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_carnival-SSYHh7" dr="2"/>
+        </b>
+        <b name="huang1" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="title_carnival-SSYHh1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="title_carnival-SSYHh2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="title_carnival-SSYHh7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="title_carnival-SSYHh8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="title_carnival-SSYHh11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHh12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHh13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_carnival-SSYHh14" dr="2"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="huang2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHh8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHh9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHh10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHh11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHh12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHh13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHh14" dr="2"/>
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHh1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHh2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHh3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHh4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHh5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHh6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="title_carnival-SSYHh7" dr="2"/>
+        </b>
+        <b name="zi1" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="title_carnival-SSYHz1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHz5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHz6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHz7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz14" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="zi2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="title_carnival-SSYHz5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="title_carnival-SSYHz6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="title_carnival-SSYHz7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="title_carnival-SSYHz8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="title_carnival-SSYHz9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="title_carnival-SSYHz10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="3" img="title_carnival-SSYHz14" dr="2"/>
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="title_carnival-SSYHz1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="title_carnival-SSYHz2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="2" img="title_carnival-SSYHz3" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="盛世狂欢称号" width="512" height="512">
+    <SubTexture name="title_carnival-SSYHh1" x="396" y="198" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh2" x="264" y="198" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh3" x="198" y="198" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh4" x="132" y="198" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh5" x="66" y="198" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh6" x="0" y="198" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh7" x="396" y="132" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh8" x="330" y="132" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh9" x="264" y="132" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh10" x="198" y="132" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh11" x="132" y="132" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh12" x="66" y="132" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh13" x="0" y="132" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHh14" x="396" y="66" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz1" x="330" y="66" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz2" x="264" y="66" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz3" x="198" y="66" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz4" x="132" y="66" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz5" x="66" y="66" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz6" x="0" y="66" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz7" x="396" y="0" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz8" x="330" y="0" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz9" x="264" y="0" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz10" x="198" y="0" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz11" x="132" y="0" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz12" x="0" y="0" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz13" x="66" y="0" width="65" height="65" pX="57" pY="56"/>
+    <SubTexture name="title_carnival-SSYHz14" x="330" y="198" width="65" height="65" pX="57" pY="56"/>
+  </TextureAtlas>
+</skeleton>

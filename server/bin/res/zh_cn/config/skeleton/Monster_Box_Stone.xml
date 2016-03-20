@@ -1,0 +1,145 @@
+<skeleton name="石头箱子(3)">
+  <armatures>
+    <armature name="stand">
+      <b name="图层 1" bT="0" bi="Monster_Box_Stone-shixiangzi" x="99.35" y="76.35" kX="0" kY="0" z="0"/>
+      <b name="图层 19" bT="0" bi="Monster_Box_Stone-888" x="206.4" y="100.25" kX="173.24" kY="174.49" z="1"/>
+      <b name="图层 18" bT="0" bi="Monster_Box_Stone-888" x="96.4" y="108" kX="173.24" kY="174.49" z="2"/>
+      <b name="图层 17" bT="0" bi="Monster_Box_Stone-888" x="195.6" y="131.8" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 16" bT="0" bi="Monster_Box_Stone-888" x="127.6" y="153.35" kX="173.24" kY="174.49" z="2"/>
+      <b name="图层 15" bT="0" bi="Monster_Box_Stone-888" x="71.9" y="123.8" kX="173.24" kY="174.49" z="2"/>
+      <b name="图层 14" bT="0" bi="Monster_Box_Stone-888" x="222.9" y="136.35" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 13" bT="0" bi="Monster_Box_Stone-888" x="142" y="135.5" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 12" bT="0" bi="Monster_Box_Stone-888" x="210.05" y="113.9" kX="173.24" kY="174.49" z="4"/>
+      <b name="图层 11" bT="0" bi="Monster_Box_Stone-888" x="110.55" y="89.85" kX="173.24" kY="174.49" z="5"/>
+      <b name="图层 10" bT="0" bi="Monster_Box_Stone-888" x="127.6" y="153.35" kX="173.24" kY="174.49" z="2"/>
+      <b name="图层 9" bT="0" bi="Monster_Box_Stone-888" x="195.6" y="131.8" kX="173.24" kY="174.49" z="3"/>
+      <b name="图层 8" bT="0" bi="Monster_Box_Stone-888" x="96.4" y="108" kX="173.24" kY="174.49" z="4"/>
+    </armature>
+    <armature name="dead">
+      <b name="图层 1" bT="0" bi="Monster_Box_Stone-shixiangzi" x="100" y="77" kX="0" kY="0" z="0"/>
+      <b name="图层 3" bT="0" bi="Monster_Box_Stone-Smoke 2" x="149.3" y="89" kX="0" kY="0" z="1"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="42" drTW="42" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_Box_Stone-shixiangzi" dr="41"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_Box_Stone-888" twE="0" dr="8"/>
+          <f x="21.05" y="-4.45" kX="0" kY="0" cX="5.06" cY="5.06" z="1" twE="0" dr="9"/>
+          <f x="-24.95" y="-54.7" kX="-0.02" kY="-0.01" cX="0.5" cY="0.41" z="1" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_Box_Stone-888" twE="0" dr="8"/>
+          <f x="21.05" y="-4.45" kX="0" kY="0" cX="5.06" cY="5.06" z="1" twE="0" dr="9"/>
+          <f x="-9.1" y="-65.25" kX="-0.02" kY="-0.01" cX="0.5" cY="0.41" z="1" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_Box_Stone-888" twE="0" dr="8"/>
+          <f x="21.05" y="-4.45" kX="0" kY="0" cX="5.06" cY="5.06" z="1" twE="0" dr="9"/>
+          <f x="-9.1" y="-65.25" kX="-0.02" kY="-0.01" cX="0.5" cY="0.41" z="1" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_Box_Stone-888" twE="0" dr="8"/>
+          <f x="21.05" y="-4.45" kX="0" kY="0" cX="5.06" cY="5.06" z="1" twE="0" dr="9"/>
+          <f x="-9.1" y="-65.25" kX="-0.02" kY="-0.01" cX="0.5" cY="0.41" z="1" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_Box_Stone-888" twE="0" dr="8"/>
+          <f x="21.05" y="-4.45" kX="0" kY="0" cX="5.06" cY="5.06" z="1" twE="0" dr="9"/>
+          <f x="-9.1" y="-65.25" kX="-0.02" kY="-0.01" cX="0.5" cY="0.41" z="1" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="23" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_Box_Stone-888" twE="0" dr="8"/>
+          <f x="21.05" y="-4.45" kX="0" kY="0" cX="5.06" cY="5.06" z="1" twE="0" dr="9"/>
+          <f x="-9.1" y="-65.25" kX="-0.02" kY="-0.01" cX="0.5" cY="0.41" z="1" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.05" cY="4.03" z="3" img="Monster_Box_Stone-888" twE="0" dr="7"/>
+          <f x="-23.5" y="-47.4" kX="-0.02" kY="-0.01" cX="0.5" cY="0.41" z="3" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.05" cY="4.03" z="4" img="Monster_Box_Stone-888" twE="0" dr="7"/>
+          <f x="-23.55" y="-47.35" kX="-0.02" kY="-0.01" cX="0.5" cY="0.41" z="4" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="4.05" cY="4.03" z="5" img="Monster_Box_Stone-888" twE="0" dr="7"/>
+          <f x="-23.25" y="-47.1" kX="-0.02" kY="-0.01" cX="0.5" cY="0.41" z="5" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_Box_Stone-888" twE="0" dr="8"/>
+          <f x="21.05" y="-4.45" kX="0" kY="0" cX="5.06" cY="5.06" z="2" twE="0" dr="1"/>
+          <f x="17.85" y="-11" kX="0" kY="0.01" cX="4.55" cY="4.54" z="1" dr="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_Box_Stone-888" twE="0" dr="8"/>
+          <f x="21.05" y="-4.45" kX="0" kY="0" cX="5.06" cY="5.06" z="3" twE="0" dr="1"/>
+          <f x="17.85" y="-11.1" kX="0" kY="0.01" cX="4.55" cY="4.54" z="2" dr="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Monster_Box_Stone-888" twE="0" dr="8"/>
+          <f x="21.05" y="-4.45" kX="0" kY="0" cX="5.06" cY="5.06" z="4" twE="0" dr="1"/>
+          <f x="17.4" y="-11.35" kX="0" kY="0.01" cX="4.55" cY="4.54" z="3" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dead">
+      <mov name="dead" to="1" dr="48" drTW="48">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_Box_Stone-shixiangzi" twE="0" dr="3"/>
+          <f x="0" y="4" kX="0" kY="0" cX="1.04" cY="0.95" z="0" dr="2"/>
+          <f x="-0.95" y="-7.7" kX="0" kY="0" cX="0.98" cY="1.09" z="0" img="Monster_Box_Stone-shixiangkai" twE="0" dr="5"/>
+          <f x="-3.5" y="0.5" kX="0" kY="0" cX="1" cY="1" z="0" dr="37"/>
+          <f x="-3.5" y="0.5" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.67" cY="9.2" z="1" img="Monster_Box_Stone-Smoke 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.67" cY="9.2" z="1" img="Monster_Box_Stone-Smoke 3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.67" cY="9.2" z="1" img="Monster_Box_Stone-Smoke 4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.67" cY="9.2" z="1" img="Monster_Box_Stone-Smoke 5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.67" cY="9.2" z="1" img="Monster_Box_Stone-Smoke 6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.67" cY="9.2" z="1" img="Monster_Box_Stone-Smoke 7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.67" cY="9.2" z="1" img="Monster_Box_Stone-Smoke 8" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.67" cY="9.2" z="1" img="Monster_Box_Stone-Smoke 9" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.67" cY="9.2" z="1" img="Monster_Box_Stone-Smoke 10" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="石头箱子(3)" width="512" height="256">
+    <SubTexture name="Monster_Box_Stone-888" x="408" y="23" width="25" height="22" pX="5.6" pY="4.85"/>
+    <SubTexture name="Monster_Box_Stone-shixiangzi" x="155" y="0" width="153" height="120" pX="35.05" pY="-3.35"/>
+    <SubTexture name="Monster_Box_Stone-shixiangkai" x="0" y="0" width="154" height="151" pX="36.45" pY="31.3"/>
+    <SubTexture name="Monster_Box_Stone-Smoke 2" x="375" y="24" width="16" height="13" pX="7.55" pY="6.75"/>
+    <SubTexture name="Monster_Box_Stone-Smoke 3" x="434" y="23" width="25" height="17" pX="12.1" pY="8.3"/>
+    <SubTexture name="Monster_Box_Stone-Smoke 4" x="473" y="0" width="29" height="19" pX="13.4" pY="9.25"/>
+    <SubTexture name="Monster_Box_Stone-Smoke 5" x="441" y="0" width="31" height="22" pX="14.35" pY="9.85"/>
+    <SubTexture name="Monster_Box_Stone-Smoke 6" x="408" y="0" width="32" height="22" pX="14.7" pY="10.15"/>
+    <SubTexture name="Monster_Box_Stone-Smoke 7" x="375" y="0" width="32" height="23" pX="14.9" pY="10.7"/>
+    <SubTexture name="Monster_Box_Stone-Smoke 8" x="309" y="0" width="33" height="25" pX="15.25" pY="11.2"/>
+    <SubTexture name="Monster_Box_Stone-Smoke 9" x="343" y="0" width="31" height="25" pX="14.65" pY="11.5"/>
+    <SubTexture name="Monster_Box_Stone-Smoke 10" x="473" y="20" width="23" height="25" pX="10.9" pY="11.75"/>
+  </TextureAtlas>
+</skeleton>

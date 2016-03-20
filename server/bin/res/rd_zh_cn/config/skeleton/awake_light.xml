@@ -1,0 +1,1166 @@
+<skeleton name="觉醒光圈2">
+  <armatures>
+    <armature name="JXlv6">
+      <b name="图层 26" bT="0" bi="awake_light-level6" x="-88" y="-32" kX="0" kY="0" z="0"/>
+      <b name="图层 1" bT="0" bi="awake_light-level6 tou" x="-88" y="-32" kX="0" kY="0" z="1"/>
+      <b name="图层 28" bT="0" bi="awake_light-level6 tou" x="-88" y="-32" kX="0" kY="0" z="2"/>
+      <b name="图层 19        复制 8" bT="0" bi="awake_light-888exEE" x="-21.85" y="-39" kX="22.78" kY="-157.31" z="3"/>
+      <b name="图层 22        复制 81" bT="0" bi="awake_light-888ziziEE" x="-49.3" y="-25.95" kX="-25.47" kY="154.43" z="4"/>
+      <b name="图层 22        复制 82" bT="0" bi="awake_light-888ziziEE" x="-49.3" y="-25.95" kX="-25.47" kY="154.43" z="5"/>
+      <b name="图层 22        复制 83" bT="0" bi="awake_light-888ziziEE" x="-38.35" y="-42.3" kX="-25.47" kY="154.43" z="6"/>
+      <b name="图层 22        复制 86" bT="0" bi="awake_light-888ziziEE" x="-35.75" y="-25.95" kX="-25.47" kY="154.43" z="4"/>
+      <b name="图层 22        复制 87" bT="0" bi="awake_light-888ziziEE" x="-40.6" y="-92.9" kX="-25.31" kY="154.45" z="6"/>
+      <b name="图层 19        复制 80" bT="0" bi="awake_light-888exEE" x="85" y="-39.05" kX="22.78" kY="-157.31" z="7"/>
+      <b name="图层 22        复制 810" bT="0" bi="awake_light-888ziziEE" x="57.55" y="-26" kX="-25.47" kY="154.43" z="8"/>
+      <b name="图层 22        复制 820" bT="0" bi="awake_light-888ziziEE" x="57.55" y="-26" kX="-25.47" kY="154.43" z="9"/>
+      <b name="图层 22        复制 830" bT="0" bi="awake_light-888ziziEE" x="68.5" y="-42.45" kX="-25.47" kY="154.43" z="10"/>
+      <b name="图层 22        复制 860" bT="0" bi="awake_light-888ziziEE" x="71.1" y="-26" kX="-25.47" kY="154.43" z="6"/>
+      <b name="图层 22        复制 870" bT="0" bi="awake_light-888ziziEE" x="66.25" y="-93.05" kX="-25.31" kY="154.45" z="11"/>
+      <b name="图层 19        复制 81" bT="0" bi="awake_light-888exEE" x="73.05" y="-24.3" kX="52.78" kY="-127.32" z="11"/>
+      <b name="图层 22        复制 811" bT="0" bi="awake_light-888ziziEE" x="48.85" y="-26.1" kX="4.52" kY="-175.57" z="12"/>
+      <b name="图层 22        复制 821" bT="0" bi="awake_light-888ziziEE" x="54.85" y="-12.6" kX="4.52" kY="-175.57" z="13"/>
+      <b name="图层 22        复制 831" bT="0" bi="awake_light-888ziziEE" x="69" y="-19.7" kX="4.52" kY="-175.57" z="14"/>
+      <b name="图层 22        复制 861" bT="0" bi="awake_light-888ziziEE" x="64.2" y="-7.25" kX="4.52" kY="-175.57" z="8"/>
+      <b name="图层 22        复制 871" bT="0" bi="awake_light-888ziziEE" x="87.7" y="-55.65" kX="4.69" kY="-175.55" z="16"/>
+      <b name="图层 19        复制 82" bT="0" bi="awake_light-888exEE" x="-43.7" y="-28.25" kX="7.78" kY="-172.31" z="15"/>
+      <b name="图层 22        复制 812" bT="0" bi="awake_light-888ziziEE" x="-66.8" y="-8.55" kX="-40.47" kY="139.43" z="16"/>
+      <b name="图层 22        复制 822" bT="0" bi="awake_light-888ziziEE" x="-66.8" y="-8.55" kX="-40.47" kY="139.43" z="17"/>
+      <b name="图层 22        复制 832" bT="0" bi="awake_light-888ziziEE" x="-60.5" y="-27.2" kX="-40.47" kY="139.43" z="18"/>
+      <b name="图层 22        复制 862" bT="0" bi="awake_light-888ziziEE" x="-53.65" y="-12" kX="-40.47" kY="139.43" z="10"/>
+      <b name="图层 22        复制 872" bT="0" bi="awake_light-888ziziEE" x="-75.8" y="-75.6" kX="-40.31" kY="139.45" z="21"/>
+      <b name="图层 19        复制 83" bT="0" bi="awake_light-888exEE" x="14.85" y="-52.1" kX="22.78" kY="-157.31" z="19"/>
+      <b name="图层 22        复制 813" bT="0" bi="awake_light-888ziziEE" x="-7.1" y="-41.65" kX="-25.47" kY="154.43" z="23"/>
+      <b name="图层 22        复制 823" bT="0" bi="awake_light-888ziziEE" x="-7.1" y="-41.65" kX="-25.47" kY="154.43" z="21"/>
+      <b name="图层 22        复制 833" bT="0" bi="awake_light-888ziziEE" x="1.65" y="-54.75" kX="-25.47" kY="154.43" z="22"/>
+      <b name="图层 22        复制 863" bT="0" bi="awake_light-888ziziEE" x="3.75" y="-41.65" kX="-25.47" kY="154.43" z="12"/>
+      <b name="图层 22        复制 873" bT="0" bi="awake_light-888ziziEE" x="-0.15" y="-95.2" kX="-25.31" kY="154.45" z="25"/>
+      <b name="图层 19        复制 84" bT="0" bi="awake_light-888exEE" x="45.35" y="-47.4" kX="22.78" kY="-157.31" z="23"/>
+      <b name="图层 22        复制 814" bT="0" bi="awake_light-888ziziEE" x="23.4" y="-37" kX="-25.47" kY="154.43" z="24"/>
+      <b name="图层 22        复制 824" bT="0" bi="awake_light-888ziziEE" x="23.4" y="-37" kX="-25.47" kY="154.43" z="25"/>
+      <b name="图层 22        复制 834" bT="0" bi="awake_light-888ziziEE" x="32.15" y="-50.15" kX="-25.47" kY="154.43" z="26"/>
+      <b name="图层 22        复制 864" bT="0" bi="awake_light-888ziziEE" x="34.25" y="-37" kX="-25.47" kY="154.43" z="14"/>
+      <b name="图层 22        复制 874" bT="0" bi="awake_light-888ziziEE" x="30.35" y="-90.6" kX="-25.31" kY="154.45" z="30"/>
+      <b name="图层 19        复制 85" bT="0" bi="awake_light-888exEE" x="35.8" y="-35.6" kX="52.78" kY="-127.32" z="27"/>
+      <b name="图层 22        复制 815" bT="0" bi="awake_light-888ziziEE" x="16.45" y="-37.05" kX="4.52" kY="-175.57" z="28"/>
+      <b name="图层 22        复制 825" bT="0" bi="awake_light-888ziziEE" x="21.25" y="-26.25" kX="4.52" kY="-175.57" z="29"/>
+      <b name="图层 22        复制 835" bT="0" bi="awake_light-888ziziEE" x="32.55" y="-31.95" kX="4.52" kY="-175.57" z="30"/>
+      <b name="图层 22        复制 865" bT="0" bi="awake_light-888ziziEE" x="28.75" y="-22" kX="4.52" kY="-175.57" z="16"/>
+      <b name="图层 22        复制 875" bT="0" bi="awake_light-888ziziEE" x="47.55" y="-60.7" kX="4.69" kY="-175.55" z="35"/>
+      <b name="图层 19        复制 86" bT="0" bi="awake_light-888exEE" x="-2.6" y="-43.5" kX="7.78" kY="-172.31" z="31"/>
+      <b name="图层 22        复制 816" bT="0" bi="awake_light-888ziziEE" x="-21.1" y="-27.75" kX="-40.47" kY="139.43" z="32"/>
+      <b name="图层 22        复制 826" bT="0" bi="awake_light-888ziziEE" x="-21.1" y="-27.75" kX="-40.47" kY="139.43" z="33"/>
+      <b name="图层 22        复制 836" bT="0" bi="awake_light-888ziziEE" x="-16.05" y="-42.65" kX="-40.47" kY="139.43" z="34"/>
+      <b name="图层 22        复制 866" bT="0" bi="awake_light-888ziziEE" x="-10.55" y="-30.5" kX="-40.47" kY="139.43" z="18"/>
+      <b name="图层 22        复制 876" bT="0" bi="awake_light-888ziziEE" x="-28.3" y="-81.35" kX="-40.31" kY="139.45" z="40"/>
+    </armature>
+    <armature name="JXlv5">
+      <b name="图层 26" bT="0" bi="awake_light-level5" x="-88.65" y="-35.3" kX="0" kY="0" z="0"/>
+      <b name="图层 1" bT="0" bi="awake_light-level5tou" x="-22.65" y="-9.05" kX="0" kY="0" z="1"/>
+      <b name="图层 19        复制 8" bT="0" bi="awake_light-888exEE" x="-24.65" y="-24.7" kX="22.78" kY="-157.31" z="2"/>
+      <b name="图层 22        复制 81" bT="0" bi="awake_light-888ziziEE" x="-42.95" y="-16" kX="-25.47" kY="154.43" z="3"/>
+      <b name="图层 22        复制 82" bT="0" bi="awake_light-888ziziEE" x="-42.95" y="-16" kX="-25.47" kY="154.43" z="4"/>
+      <b name="图层 22        复制 83" bT="0" bi="awake_light-888ziziEE" x="-35.65" y="-26.9" kX="-25.47" kY="154.43" z="5"/>
+      <b name="图层 22        复制 86" bT="0" bi="awake_light-888ziziEE" x="-33.9" y="-16" kX="-25.47" kY="154.43" z="3"/>
+      <b name="图层 22        复制 87" bT="0" bi="awake_light-888ziziEE" x="-37.15" y="-60.65" kX="-25.31" kY="154.45" z="5"/>
+      <b name="图层 19        复制 80" bT="0" bi="awake_light-888exEE" x="72.55" y="-24.75" kX="22.78" kY="-157.31" z="6"/>
+      <b name="图层 22        复制 810" bT="0" bi="awake_light-888ziziEE" x="54.25" y="-16.05" kX="-25.47" kY="154.43" z="7"/>
+      <b name="图层 22        复制 820" bT="0" bi="awake_light-888ziziEE" x="54.25" y="-16.05" kX="-25.47" kY="154.43" z="8"/>
+      <b name="图层 22        复制 830" bT="0" bi="awake_light-888ziziEE" x="61.55" y="-27" kX="-25.47" kY="154.43" z="9"/>
+      <b name="图层 22        复制 860" bT="0" bi="awake_light-888ziziEE" x="63.3" y="-16.05" kX="-25.47" kY="154.43" z="5"/>
+      <b name="图层 22        复制 870" bT="0" bi="awake_light-888ziziEE" x="60.05" y="-60.75" kX="-25.31" kY="154.45" z="10"/>
+      <b name="图层 19        复制 81" bT="0" bi="awake_light-888exEE" x="64.6" y="-14.9" kX="52.78" kY="-127.32" z="10"/>
+      <b name="图层 22        复制 811" bT="0" bi="awake_light-888ziziEE" x="48.45" y="-16.1" kX="4.52" kY="-175.57" z="11"/>
+      <b name="图层 22        复制 821" bT="0" bi="awake_light-888ziziEE" x="52.45" y="-7.1" kX="4.52" kY="-175.57" z="12"/>
+      <b name="图层 22        复制 831" bT="0" bi="awake_light-888ziziEE" x="61.9" y="-11.85" kX="4.52" kY="-175.57" z="13"/>
+      <b name="图层 22        复制 861" bT="0" bi="awake_light-888ziziEE" x="58.7" y="-3.55" kX="4.52" kY="-175.57" z="7"/>
+      <b name="图层 22        复制 871" bT="0" bi="awake_light-888ziziEE" x="74.35" y="-35.8" kX="4.69" kY="-175.55" z="15"/>
+      <b name="图层 19        复制 82" bT="0" bi="awake_light-888exEE" x="-39.2" y="-17.55" kX="7.78" kY="-172.31" z="14"/>
+      <b name="图层 22        复制 812" bT="0" bi="awake_light-888ziziEE" x="-54.6" y="-4.4" kX="-40.47" kY="139.43" z="15"/>
+      <b name="图层 22        复制 822" bT="0" bi="awake_light-888ziziEE" x="-54.6" y="-4.4" kX="-40.47" kY="139.43" z="16"/>
+      <b name="图层 22        复制 832" bT="0" bi="awake_light-888ziziEE" x="-50.4" y="-16.85" kX="-40.47" kY="139.43" z="17"/>
+      <b name="图层 22        复制 862" bT="0" bi="awake_light-888ziziEE" x="-45.85" y="-6.7" kX="-40.47" kY="139.43" z="9"/>
+      <b name="图层 22        复制 872" bT="0" bi="awake_light-888ziziEE" x="-60.6" y="-49.1" kX="-40.31" kY="139.45" z="20"/>
+    </armature>
+    <armature name="JXlv4">
+      <b name="图层 27" bT="0" bi="awake_light-level4" x="-82" y="-33" kX="0" kY="0" z="0"/>
+      <b name="图层 29" bT="0" bi="awake_light-level4 tou" x="-82" y="-33" kX="0" kY="0" z="1"/>
+      <b name="图层 19        复制 8" bT="0" bi="awake_light-888exZZ" x="-42.95" y="-29.75" kX="22.78" kY="-157.31" z="2"/>
+      <b name="图层 22        复制 81" bT="0" bi="awake_light-888ziziZZ" x="-63.7" y="-19.85" kX="-25.47" kY="154.43" z="3"/>
+      <b name="图层 22        复制 82" bT="0" bi="awake_light-888ziziZZ" x="-63.7" y="-19.85" kX="-25.47" kY="154.43" z="4"/>
+      <b name="图层 22        复制 83" bT="0" bi="awake_light-888ziziZZ" x="-55.45" y="-32.3" kX="-25.47" kY="154.43" z="5"/>
+      <b name="图层 22        复制 86" bT="0" bi="awake_light-888ziziZZ" x="-53.45" y="-19.85" kX="-25.47" kY="154.43" z="3"/>
+      <b name="图层 22        复制 87" bT="0" bi="awake_light-888ziziZZ" x="-57.15" y="-70.65" kX="-25.31" kY="154.45" z="5"/>
+      <b name="图层 19        复制 80" bT="0" bi="awake_light-888exZZ" x="81.75" y="-27.9" kX="22.78" kY="-157.31" z="6"/>
+      <b name="图层 22        复制 810" bT="0" bi="awake_light-888ziziZZ" x="61" y="-18" kX="-25.47" kY="154.43" z="7"/>
+      <b name="图层 22        复制 820" bT="0" bi="awake_light-888ziziZZ" x="61" y="-18" kX="-25.47" kY="154.43" z="8"/>
+      <b name="图层 22        复制 830" bT="0" bi="awake_light-888ziziZZ" x="69.25" y="-30.4" kX="-25.47" kY="154.43" z="9"/>
+      <b name="图层 22        复制 860" bT="0" bi="awake_light-888ziziZZ" x="71.25" y="-18" kX="-25.47" kY="154.43" z="5"/>
+      <b name="图层 22        复制 870" bT="0" bi="awake_light-888ziziZZ" x="67.55" y="-68.75" kX="-25.31" kY="154.45" z="10"/>
+      <b name="图层 19        复制 81" bT="0" bi="awake_light-888exZZ" x="80.85" y="-1.15" kX="52.78" kY="-127.31" z="10"/>
+      <b name="图层 22        复制 811" bT="0" bi="awake_light-888ziziZZ" x="57.95" y="-2.9" kX="4.53" kY="-175.57" z="11"/>
+      <b name="图层 22        复制 821" bT="0" bi="awake_light-888ziziZZ" x="57.95" y="-2.9" kX="4.53" kY="-175.57" z="12"/>
+      <b name="图层 22        复制 831" bT="0" bi="awake_light-888ziziZZ" x="71.3" y="-9.55" kX="4.53" kY="-175.57" z="13"/>
+      <b name="图层 22        复制 861" bT="0" bi="awake_light-888ziziZZ" x="66.8" y="2.2" kX="4.53" kY="-175.57" z="7"/>
+      <b name="图层 22        复制 871" bT="0" bi="awake_light-888ziziZZ" x="88.95" y="-43.6" kX="4.69" kY="-175.55" z="15"/>
+      <b name="图层 19        复制 82" bT="0" bi="awake_light-888exZZ" x="-55.45" y="-17.65" kX="3.04" kY="-177.05" z="14"/>
+      <b name="图层 22        复制 812" bT="0" bi="awake_light-888ziziZZ" x="-71.6" y="-1.35" kX="-45.21" kY="134.69" z="15"/>
+      <b name="图层 22        复制 822" bT="0" bi="awake_light-888ziziZZ" x="-71.6" y="-1.35" kX="-45.21" kY="134.69" z="16"/>
+      <b name="图层 22        复制 832" bT="0" bi="awake_light-888ziziZZ" x="-68" y="-15.8" kX="-45.21" kY="134.69" z="17"/>
+      <b name="图层 22        复制 862" bT="0" bi="awake_light-888ziziZZ" x="-61.95" y="-4.85" kX="-45.21" kY="134.69" z="9"/>
+      <b name="图层 22        复制 872" bT="0" bi="awake_light-888ziziZZ" x="-82.55" y="-51.35" kX="-45.05" kY="134.71" z="20"/>
+    </armature>
+    <armature name="JXlv3">
+      <b name="图层 26" bT="0" bi="awake_light-level3" x="-73" y="-29" kX="0" kY="0" z="0"/>
+      <b name="图层 1" bT="0" bi="awake_light-level3 tou" x="-73" y="-29" kX="0" kY="0" z="1"/>
+      <b name="图层 19        复制 8" bT="0" bi="awake_light-888exZZ" x="-35.55" y="-18.4" kX="22.78" kY="-157.31" z="2"/>
+      <b name="图层 22        复制 81" bT="0" bi="awake_light-888ziziZZ" x="-50.5" y="-11.3" kX="-25.47" kY="154.43" z="3"/>
+      <b name="图层 22        复制 82" bT="0" bi="awake_light-888ziziZZ" x="-50.5" y="-11.3" kX="-25.47" kY="154.43" z="4"/>
+      <b name="图层 22        复制 83" bT="0" bi="awake_light-888ziziZZ" x="-44.55" y="-20.25" kX="-25.47" kY="154.43" z="5"/>
+      <b name="图层 22        复制 86" bT="0" bi="awake_light-888ziziZZ" x="-43.1" y="-11.3" kX="-25.47" kY="154.43" z="3"/>
+      <b name="图层 22        复制 87" bT="0" bi="awake_light-888ziziZZ" x="-45.75" y="-47.8" kX="-25.31" kY="154.45" z="5"/>
+      <b name="图层 19        复制 80" bT="0" bi="awake_light-888exZZ" x="67.2" y="-14.1" kX="22.78" kY="-157.31" z="6"/>
+      <b name="图层 22        复制 810" bT="0" bi="awake_light-888ziziZZ" x="52.25" y="-7" kX="-25.47" kY="154.43" z="7"/>
+      <b name="图层 22        复制 820" bT="0" bi="awake_light-888ziziZZ" x="52.25" y="-7" kX="-25.47" kY="154.43" z="8"/>
+      <b name="图层 22        复制 830" bT="0" bi="awake_light-888ziziZZ" x="58.2" y="-15.9" kX="-25.47" kY="154.43" z="9"/>
+      <b name="图层 22        复制 860" bT="0" bi="awake_light-888ziziZZ" x="59.65" y="-7" kX="-25.47" kY="154.43" z="5"/>
+      <b name="图层 22        复制 870" bT="0" bi="awake_light-888ziziZZ" x="57" y="-43.5" kX="-25.31" kY="154.45" z="10"/>
+      <b name="图层 19        复制 81" bT="0" bi="awake_light-888exZZ" x="66.6" y="5.15" kX="52.78" kY="-127.31" z="10"/>
+      <b name="图层 22        复制 811" bT="0" bi="awake_light-888ziziZZ" x="50.05" y="3.9" kX="4.53" kY="-175.57" z="11"/>
+      <b name="图层 22        复制 821" bT="0" bi="awake_light-888ziziZZ" x="50.05" y="3.9" kX="4.53" kY="-175.57" z="12"/>
+      <b name="图层 22        复制 831" bT="0" bi="awake_light-888ziziZZ" x="59.7" y="-0.9" kX="4.53" kY="-175.57" z="13"/>
+      <b name="图层 22        复制 861" bT="0" bi="awake_light-888ziziZZ" x="56.45" y="7.55" kX="4.53" kY="-175.57" z="7"/>
+      <b name="图层 22        复制 871" bT="0" bi="awake_light-888ziziZZ" x="72.4" y="-25.45" kX="4.69" kY="-175.55" z="15"/>
+      <b name="图层 19        复制 82" bT="0" bi="awake_light-888exZZ" x="-44.55" y="-9.65" kX="3.04" kY="-177.05" z="14"/>
+      <b name="图层 22        复制 812" bT="0" bi="awake_light-888ziziZZ" x="-56.2" y="2.05" kX="-45.21" kY="134.69" z="15"/>
+      <b name="图层 22        复制 822" bT="0" bi="awake_light-888ziziZZ" x="-56.2" y="2.05" kX="-45.21" kY="134.69" z="16"/>
+      <b name="图层 22        复制 832" bT="0" bi="awake_light-888ziziZZ" x="-53.6" y="-8.35" kX="-45.21" kY="134.69" z="17"/>
+      <b name="图层 22        复制 862" bT="0" bi="awake_light-888ziziZZ" x="-49.25" y="-0.5" kX="-45.21" kY="134.69" z="9"/>
+      <b name="图层 22        复制 872" bT="0" bi="awake_light-888ziziZZ" x="-64.1" y="-33.95" kX="-45.05" kY="134.71" z="20"/>
+    </armature>
+    <armature name="JXlv2">
+      <b name="图层 15" bT="0" bi="awake_light-level2" x="-82" y="-32" kX="0" kY="0" z="0"/>
+      <b name="图层 1" bT="0" bi="awake_light-level2" x="-82" y="-32" kX="0" kY="0" z="1"/>
+      <b name="图层 19        复制 8" bT="0" bi="awake_light-888ex" x="-35.5" y="-16.1" kX="22.78" kY="-157.31" z="2"/>
+      <b name="图层 22        复制 81" bT="0" bi="awake_light-888zizi" x="-52.15" y="-8.2" kX="-25.47" kY="154.43" z="3"/>
+      <b name="图层 22        复制 82" bT="0" bi="awake_light-888zizi" x="-52.15" y="-8.2" kX="-25.47" kY="154.43" z="4"/>
+      <b name="图层 22        复制 83" bT="0" bi="awake_light-888zizi" x="-45.45" y="-18.1" kX="-25.47" kY="154.43" z="5"/>
+      <b name="图层 22        复制 86" bT="0" bi="awake_light-888zizi" x="-43.9" y="-8.2" kX="-25.47" kY="154.43" z="3"/>
+      <b name="图层 22        复制 87" bT="0" bi="awake_light-888zizi" x="-46.85" y="-48.8" kX="-25.31" kY="154.45" z="5"/>
+      <b name="图层 19        复制 80" bT="0" bi="awake_light-888ex" x="73.45" y="-14.95" kX="22.78" kY="-157.31" z="6"/>
+      <b name="图层 22        复制 810" bT="0" bi="awake_light-888zizi" x="56.85" y="-7.05" kX="-25.47" kY="154.43" z="7"/>
+      <b name="图层 22        复制 820" bT="0" bi="awake_light-888zizi" x="56.85" y="-7.05" kX="-25.47" kY="154.43" z="8"/>
+      <b name="图层 22        复制 830" bT="0" bi="awake_light-888zizi" x="63.5" y="-17" kX="-25.47" kY="154.43" z="9"/>
+      <b name="图层 22        复制 860" bT="0" bi="awake_light-888zizi" x="65.05" y="-7.05" kX="-25.47" kY="154.43" z="5"/>
+      <b name="图层 22        复制 870" bT="0" bi="awake_light-888zizi" x="62.1" y="-47.65" kX="-25.31" kY="154.45" z="10"/>
+    </armature>
+    <armature name="JXlv1">
+      <b name="图层 15" bT="0" bi="awake_light-level1" x="-64" y="-22" kX="0" kY="0" z="0"/>
+      <b name="图层 1" bT="0" bi="awake_light-level1" x="-64" y="-22" kX="0" kY="0" z="1"/>
+      <b name="图层 19        复制 8" bT="0" bi="awake_light-888ex" x="-39.4" y="-13.95" kX="22.78" kY="-157.31" z="2"/>
+      <b name="图层 22        复制 81" bT="0" bi="awake_light-888zizi" x="-50.95" y="-8.45" kX="-25.47" kY="154.43" z="3"/>
+      <b name="图层 22        复制 82" bT="0" bi="awake_light-888zizi" x="-50.95" y="-8.45" kX="-25.47" kY="154.43" z="4"/>
+      <b name="图层 22        复制 83" bT="0" bi="awake_light-888zizi" x="-46.35" y="-15.35" kX="-25.47" kY="154.43" z="5"/>
+      <b name="图层 22        复制 86" bT="0" bi="awake_light-888zizi" x="-45.25" y="-8.45" kX="-25.47" kY="154.43" z="3"/>
+      <b name="图层 22        复制 87" bT="0" bi="awake_light-888zizi" x="-47.3" y="-36.65" kX="-25.31" kY="154.45" z="5"/>
+      <b name="图层 19        复制 80" bT="0" bi="awake_light-888ex" x="58.6" y="-7.05" kX="22.78" kY="-157.31" z="6"/>
+      <b name="图层 22        复制 810" bT="0" bi="awake_light-888zizi" x="47.05" y="-1.55" kX="-25.47" kY="154.43" z="7"/>
+      <b name="图层 22        复制 820" bT="0" bi="awake_light-888zizi" x="47.05" y="-1.55" kX="-25.47" kY="154.43" z="8"/>
+      <b name="图层 22        复制 830" bT="0" bi="awake_light-888zizi" x="51.65" y="-8.45" kX="-25.47" kY="154.43" z="9"/>
+      <b name="图层 22        复制 860" bT="0" bi="awake_light-888zizi" x="52.75" y="-1.55" kX="-25.47" kY="154.43" z="5"/>
+      <b name="图层 22        复制 870" bT="0" bi="awake_light-888zizi" x="50.7" y="-29.75" kX="-25.31" kY="154.45" z="10"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="JXlv6">
+      <mov name="JXlv6" to="1" dr="44" drTW="44" lp="1">
+        <b name="图层 26" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="awake_light-level6" dr="44"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="awake_light-level6 tou" dr="44"/>
+        </b>
+        <b name="图层 28" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="awake_light-level6 tou" twE="0" dr="22"/>
+          <f x="-27.85" y="-10.4" kX="0" kY="0" cX="1.32" cY="1.32" z="2" twE="0" dr="21"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="图层 19        复制 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3" cY="3.69" z="3" img="awake_light-888exEE" twE="0" dr="17"/>
+          <f x="-25.95" y="-41.1" kX="0.01" kY="-0.11" cX="1.63" cY="2" z="3" twE="0" dr="17"/>
+          <f x="-28.05" y="-117.75" kX="0.01" kY="0" cX="0.26" cY="0.32" z="3" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 81" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.85" z="4" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="12.6" y="-62.7" kX="0.13" kY="0.02" cX="0.85" cY="1.04" z="4" twE="0" dr="14"/>
+          <f x="-0.7" y="-123.15" kX="-0.01" kY="0" cX="0.2" cY="0.24" z="4" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 22        复制 82" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.85" z="5" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-5.25" y="-62.7" kX="0.13" kY="0.02" cX="0.85" cY="1.04" z="3" twE="0" dr="14"/>
+          <f x="-0.7" y="-123.15" kX="-0.01" kY="0" cX="0.2" cY="0.24" z="3" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 22        复制 83" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.85" z="6" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-5.25" y="-62.7" kX="0.13" kY="0.02" cX="0.85" cY="1.04" z="3" twE="0" dr="14"/>
+          <f x="-0.75" y="-123.3" kX="-0.01" kY="0" cX="0.2" cY="0.24" z="3" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 86" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.85" z="4" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-5.25" y="-62.7" kX="0.13" kY="0.02" cX="0.85" cY="1.04" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 87" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.98" z="6" img="awake_light-888ziziEE" twE="0" dr="13"/>
+          <f x="4.1" y="-56.2" kX="-0.17" kY="-0.02" cX="0.2" cY="0.24" z="6" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 80" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3" cY="3.69" z="7" img="awake_light-888exEE" twE="0" dr="17"/>
+          <f x="-25.95" y="-41.1" kX="0.01" kY="-0.11" cX="1.63" cY="2" z="5" twE="0" dr="17"/>
+          <f x="-28" y="-117.7" kX="0.01" kY="0" cX="0.26" cY="0.32" z="5" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 810" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.85" z="8" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="12.6" y="-62.7" kX="0.13" kY="0.02" cX="0.85" cY="1.04" z="6" twE="0" dr="14"/>
+          <f x="-0.6" y="-123.25" kX="-0.01" kY="0" cX="0.2" cY="0.24" z="6" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 820" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.85" z="9" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-5.25" y="-62.7" kX="0.13" kY="0.02" cX="0.85" cY="1.04" z="9" twE="0" dr="14"/>
+          <f x="-0.6" y="-123.25" kX="-0.01" kY="0" cX="0.2" cY="0.24" z="9" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 830" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.85" z="10" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-5.2" y="-62.7" kX="0.13" kY="0.02" cX="0.85" cY="1.04" z="9" twE="0" dr="14"/>
+          <f x="-0.7" y="-123.15" kX="-0.01" kY="0" cX="0.2" cY="0.24" z="9" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 860" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.85" z="6" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-5.15" y="-62.7" kX="0.13" kY="0.02" cX="0.85" cY="1.04" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 870" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.98" z="11" img="awake_light-888ziziEE" twE="0" dr="13"/>
+          <f x="4.2" y="-56.2" kX="-0.17" kY="-0.02" cX="0.2" cY="0.24" z="11" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 81" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.95" z="11" img="awake_light-888exEE" twE="0" dr="17"/>
+          <f x="-1.55" y="-38.75" kX="0.01" kY="-0.11" cX="1.3" cY="1.6" z="7" twE="0" dr="17"/>
+          <f x="27.7" y="-92.6" kX="0" kY="0.01" cX="0.21" cY="0.26" z="7" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 811" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="12" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="33.8" y="-38.45" kX="0.14" kY="0.02" cX="0.68" cY="0.83" z="9" twE="0" dr="14"/>
+          <f x="48.8" y="-85.7" kX="0" kY="0.01" cX="0.16" cY="0.19" z="9" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 821" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="13" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="21.45" y="-45.6" kX="0.14" kY="0.02" cX="0.68" cY="0.83" z="13" twE="0" dr="14"/>
+          <f x="48.8" y="-85.7" kX="0" kY="0.01" cX="0.16" cY="0.19" z="14" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 831" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="14" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="21.45" y="-45.55" kX="0.14" kY="0.02" cX="0.68" cY="0.83" z="13" twE="0" dr="14"/>
+          <f x="48.75" y="-85.5" kX="0" kY="0.01" cX="0.16" cY="0.19" z="13" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 861" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="8" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="21.55" y="-45.45" kX="0.14" kY="0.02" cX="0.68" cY="0.83" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 871" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.79" z="16" img="awake_light-888ziziEE" twE="0" dr="13"/>
+          <f x="25.35" y="-37.25" kX="-0.17" kY="-0.01" cX="0.16" cY="0.19" z="16" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 82" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3" cY="3.69" z="15" img="awake_light-888exEE" twE="0" dr="17"/>
+          <f x="-35.7" y="-33" kX="0.01" kY="-0.11" cX="1.63" cY="2" z="9" twE="0" dr="17"/>
+          <f x="-57.45" y="-106.45" kX="0" kY="0" cX="0.26" cY="0.32" z="9" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 812" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.85" z="16" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-4.1" y="-63.8" kX="0.13" kY="0.02" cX="0.85" cY="1.04" z="12" twE="0" dr="14"/>
+          <f x="-32.45" y="-118.8" kX="0" kY="0" cX="0.2" cY="0.24" z="12" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 822" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.85" z="17" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-21.35" y="-59.15" kX="0.13" kY="0.02" cX="0.85" cY="1.04" z="17" twE="0" dr="14"/>
+          <f x="-32.45" y="-118.8" kX="0" kY="0" cX="0.2" cY="0.24" z="19" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 832" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.85" z="18" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-21.2" y="-59.25" kX="0.13" kY="0.02" cX="0.85" cY="1.04" z="17" twE="0" dr="14"/>
+          <f x="-32.55" y="-118.8" kX="0" kY="0" cX="0.2" cY="0.24" z="17" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 862" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.85" z="10" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-21.3" y="-59.3" kX="0.13" kY="0.02" cX="0.85" cY="1.04" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 872" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.98" z="21" img="awake_light-888ziziEE" twE="0" dr="13"/>
+          <f x="-10.4" y="-55.25" kX="-0.16" kY="-0.02" cX="0.2" cY="0.24" z="21" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 83" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.95" z="19" img="awake_light-888exEE" twE="0" dr="17"/>
+          <f x="-20.75" y="-32.85" kX="0.01" kY="-0.11" cX="1.3" cY="1.6" z="19" twE="0" dr="17"/>
+          <f x="-22.4" y="-94.2" kX="0.01" kY="0" cX="0.21" cY="0.26" z="19" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 813" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="23" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="10.1" y="-50.15" kX="0.13" kY="0.02" cX="0.68" cY="0.83" z="20" twE="0" dr="14"/>
+          <f x="-0.55" y="-98.5" kX="-0.01" kY="0" cX="0.16" cY="0.19" z="20" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 22        复制 823" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="21" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-4.2" y="-50.15" kX="0.13" kY="0.02" cX="0.68" cY="0.83" z="15" twE="0" dr="14"/>
+          <f x="-0.55" y="-98.5" kX="-0.01" kY="0" cX="0.16" cY="0.19" z="15" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 22        复制 833" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="22" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-4.2" y="-50.15" kX="0.13" kY="0.02" cX="0.68" cY="0.83" z="11" twE="0" dr="14"/>
+          <f x="-0.6" y="-98.6" kX="-0.01" kY="0" cX="0.16" cY="0.19" z="11" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 863" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="12" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-4.2" y="-50.15" kX="0.13" kY="0.02" cX="0.68" cY="0.83" z="7" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 873" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.79" z="25" img="awake_light-888ziziEE" twE="0" dr="13"/>
+          <f x="3.3" y="-44.95" kX="-0.17" kY="-0.02" cX="0.16" cY="0.19" z="25" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 84" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.95" z="23" img="awake_light-888exEE" twE="0" dr="17"/>
+          <f x="-20.75" y="-32.9" kX="0.01" kY="-0.11" cX="1.3" cY="1.6" z="13" twE="0" dr="17"/>
+          <f x="11.65" y="-109.35" kX="0.01" kY="0" cX="0.26" cY="0.32" z="13" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 814" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="24" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="10.1" y="-50.15" kX="0.13" kY="0.02" cX="0.68" cY="0.83" z="17" twE="0" dr="14"/>
+          <f x="33.55" y="-112.25" kX="-0.01" kY="0" cX="0.2" cY="0.24" z="17" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 824" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="25" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-4.2" y="-50.15" kX="0.13" kY="0.02" cX="0.68" cY="0.83" z="25" twE="0" dr="14"/>
+          <f x="33.55" y="-112.25" kX="-0.01" kY="0" cX="0.2" cY="0.24" z="28" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 834" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="26" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-4.15" y="-50.15" kX="0.13" kY="0.02" cX="0.68" cY="0.83" z="25" twE="0" dr="14"/>
+          <f x="35.65" y="-115.45" kX="-0.01" kY="0" cX="0.2" cY="0.24" z="25" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 864" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="14" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-4.1" y="-50.15" kX="0.13" kY="0.02" cX="0.68" cY="0.83" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 874" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.79" z="30" img="awake_light-888ziziEE" twE="0" dr="13"/>
+          <f x="40.1" y="-58.65" kX="-0.17" kY="-0.02" cX="0.2" cY="0.24" z="30" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 85" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.92" cY="2.36" z="27" img="awake_light-888exEE" twE="0" dr="17"/>
+          <f x="-1.25" y="-31" kX="0.01" kY="-0.11" cX="1.04" cY="1.28" z="15" twE="0" dr="17"/>
+          <f x="22.15" y="-74.1" kX="0" kY="0.01" cX="0.17" cY="0.21" z="15" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 815" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="1.18" z="28" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="27.05" y="-30.75" kX="0.14" kY="0.02" cX="0.54" cY="0.67" z="20" twE="0" dr="14"/>
+          <f x="39.05" y="-68.55" kX="0" kY="0.01" cX="0.13" cY="0.15" z="20" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 825" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="1.18" z="29" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="17.15" y="-36.5" kX="0.14" kY="0.02" cX="0.54" cY="0.67" z="29" twE="0" dr="14"/>
+          <f x="39.05" y="-68.55" kX="0" kY="0.01" cX="0.13" cY="0.15" z="33" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 835" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="1.18" z="30" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="17.2" y="-36.45" kX="0.14" kY="0.02" cX="0.54" cY="0.67" z="29" twE="0" dr="14"/>
+          <f x="39" y="-68.4" kX="0" kY="0.01" cX="0.13" cY="0.15" z="29" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 865" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="1.18" z="16" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="17.2" y="-36.35" kX="0.14" kY="0.02" cX="0.54" cY="0.67" z="9" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 875" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.63" z="35" img="awake_light-888ziziEE" twE="0" dr="13"/>
+          <f x="20.25" y="-29.8" kX="-0.17" kY="-0.01" cX="0.13" cY="0.15" z="35" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 86" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.95" z="31" img="awake_light-888exEE" twE="0" dr="17"/>
+          <f x="-28.55" y="-26.4" kX="0.01" kY="-0.11" cX="1.3" cY="1.6" z="17" twE="0" dr="17"/>
+          <f x="-45.95" y="-85.15" kX="0" kY="0" cX="0.21" cY="0.26" z="17" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 816" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="32" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-3.25" y="-51" kX="0.13" kY="0.02" cX="0.68" cY="0.83" z="23" twE="0" dr="14"/>
+          <f x="-25.95" y="-95" kX="0" kY="0" cX="0.16" cY="0.19" z="23" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 826" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="33" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-17.05" y="-47.3" kX="0.13" kY="0.02" cX="0.68" cY="0.83" z="33" twE="0" dr="14"/>
+          <f x="-25.95" y="-95" kX="0" kY="0" cX="0.16" cY="0.19" z="38" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 836" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="34" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-16.95" y="-47.4" kX="0.13" kY="0.02" cX="0.68" cY="0.83" z="33" twE="0" dr="14"/>
+          <f x="-26.05" y="-95.05" kX="0" kY="0" cX="0.16" cY="0.19" z="33" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 866" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.48" z="18" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-17.05" y="-47.45" kX="0.13" kY="0.02" cX="0.68" cY="0.83" z="10" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 876" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.79" z="40" img="awake_light-888ziziEE" twE="0" dr="13"/>
+          <f x="-8.3" y="-44.2" kX="-0.16" kY="-0.02" cX="0.16" cY="0.19" z="40" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="JXlv5">
+      <mov name="JXlv5" to="1" dr="44" drTW="44" lp="1">
+        <b name="图层 26" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="awake_light-level5" dr="44"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.25" cY="0.25" z="1" img="awake_light-level5tou" twE="0" dr="37"/>
+          <f x="-83.6" y="-33.25" kX="0" kY="0" cX="1.2" cY="1.2" z="1" twE="0" dr="6"/>
+          <f x="-62.5" y="-24.85" kX="0" kY="0" cX="0.96" cY="0.96" z="1" dr="1"/>
+        </b>
+        <b name="图层 19        复制 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.46" z="2" img="awake_light-888exEE" twE="0" dr="17"/>
+          <f x="-17.3" y="-27.4" kX="0.01" kY="-0.11" cX="1.09" cY="1.34" z="2" twE="0" dr="17"/>
+          <f x="-18.7" y="-78.5" kX="0.01" kY="0" cX="0.17" cY="0.21" z="2" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 81" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.23" z="3" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="8.4" y="-41.8" kX="0.13" kY="0.02" cX="0.56" cY="0.69" z="3" twE="0" dr="14"/>
+          <f x="-0.45" y="-82.1" kX="-0.01" kY="0" cX="0.13" cY="0.16" z="3" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 22        复制 82" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.23" z="4" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-3.5" y="-41.8" kX="0.13" kY="0.02" cX="0.56" cY="0.69" z="2" twE="0" dr="14"/>
+          <f x="-0.45" y="-82.1" kX="-0.01" kY="0" cX="0.13" cY="0.16" z="2" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 22        复制 83" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.23" z="5" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-3.5" y="-41.8" kX="0.13" kY="0.02" cX="0.56" cY="0.69" z="2" twE="0" dr="14"/>
+          <f x="-0.5" y="-82.2" kX="-0.01" kY="0" cX="0.13" cY="0.16" z="2" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 86" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.23" z="3" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-3.5" y="-41.8" kX="0.13" kY="0.02" cX="0.56" cY="0.69" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 87" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.66" z="5" img="awake_light-888ziziEE" twE="0" dr="13"/>
+          <f x="2.75" y="-37.45" kX="-0.17" kY="-0.02" cX="0.13" cY="0.16" z="5" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 80" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.46" z="6" img="awake_light-888exEE" twE="0" dr="17"/>
+          <f x="-17.3" y="-27.4" kX="0.01" kY="-0.11" cX="1.09" cY="1.34" z="4" twE="0" dr="17"/>
+          <f x="-18.65" y="-78.45" kX="0.01" kY="0" cX="0.17" cY="0.21" z="4" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 810" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.23" z="7" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="8.4" y="-41.8" kX="0.13" kY="0.02" cX="0.56" cY="0.69" z="5" twE="0" dr="14"/>
+          <f x="-0.4" y="-82.15" kX="-0.01" kY="0" cX="0.13" cY="0.16" z="5" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 820" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.23" z="8" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-3.5" y="-41.8" kX="0.13" kY="0.02" cX="0.56" cY="0.69" z="8" twE="0" dr="14"/>
+          <f x="-0.4" y="-82.15" kX="-0.01" kY="0" cX="0.13" cY="0.16" z="8" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 830" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.23" z="9" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-3.45" y="-41.8" kX="0.13" kY="0.02" cX="0.56" cY="0.69" z="8" twE="0" dr="14"/>
+          <f x="-0.45" y="-82.1" kX="-0.01" kY="0" cX="0.13" cY="0.16" z="8" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 860" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.23" z="5" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-3.45" y="-41.8" kX="0.13" kY="0.02" cX="0.56" cY="0.69" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 870" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.66" z="10" img="awake_light-888ziziEE" twE="0" dr="13"/>
+          <f x="2.8" y="-37.45" kX="-0.17" kY="-0.02" cX="0.13" cY="0.16" z="10" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 81" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.97" z="10" img="awake_light-888exEE" twE="0" dr="17"/>
+          <f x="-1.05" y="-25.85" kX="0.01" kY="-0.11" cX="0.87" cY="1.07" z="6" twE="0" dr="17"/>
+          <f x="18.45" y="-61.75" kX="0" kY="0.01" cX="0.14" cY="0.17" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 811" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.98" z="11" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="22.55" y="-25.65" kX="0.14" kY="0.02" cX="0.45" cY="0.56" z="8" twE="0" dr="14"/>
+          <f x="32.55" y="-57.15" kX="0" kY="0.01" cX="0.1" cY="0.13" z="8" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 821" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.98" z="12" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="14.3" y="-30.4" kX="0.14" kY="0.02" cX="0.45" cY="0.56" z="12" twE="0" dr="14"/>
+          <f x="32.55" y="-57.15" kX="0" kY="0.01" cX="0.1" cY="0.13" z="13" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 831" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.98" z="13" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="14.3" y="-30.35" kX="0.14" kY="0.02" cX="0.45" cY="0.56" z="12" twE="0" dr="14"/>
+          <f x="32.5" y="-57" kX="0" kY="0.01" cX="0.1" cY="0.13" z="12" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 861" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.98" z="7" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="14.35" y="-30.3" kX="0.14" kY="0.02" cX="0.45" cY="0.56" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 871" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.52" z="15" img="awake_light-888ziziEE" twE="0" dr="13"/>
+          <f x="16.9" y="-24.85" kX="-0.17" kY="-0.01" cX="0.1" cY="0.13" z="15" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 82" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.46" z="14" img="awake_light-888exEE" twE="0" dr="17"/>
+          <f x="-23.8" y="-22" kX="0.01" kY="-0.11" cX="1.09" cY="1.34" z="8" twE="0" dr="17"/>
+          <f x="-38.3" y="-70.95" kX="0" kY="0" cX="0.17" cY="0.21" z="8" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 812" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.23" z="15" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-2.75" y="-42.55" kX="0.13" kY="0.02" cX="0.56" cY="0.69" z="11" twE="0" dr="14"/>
+          <f x="-21.65" y="-79.2" kX="0" kY="0" cX="0.13" cY="0.16" z="11" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 822" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.23" z="16" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-14.25" y="-39.45" kX="0.13" kY="0.02" cX="0.56" cY="0.69" z="16" twE="0" dr="14"/>
+          <f x="-21.65" y="-79.2" kX="0" kY="0" cX="0.13" cY="0.16" z="18" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 832" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.23" z="17" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-14.15" y="-39.5" kX="0.13" kY="0.02" cX="0.56" cY="0.69" z="16" twE="0" dr="14"/>
+          <f x="-21.7" y="-79.2" kX="0" kY="0" cX="0.13" cY="0.16" z="16" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 862" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.23" z="9" img="awake_light-888ziziEE" twE="0" dr="14"/>
+          <f x="-14.2" y="-39.55" kX="0.13" kY="0.02" cX="0.56" cY="0.69" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 872" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.66" z="20" img="awake_light-888ziziEE" twE="0" dr="13"/>
+          <f x="-6.95" y="-36.85" kX="-0.16" kY="-0.02" cX="0.13" cY="0.16" z="20" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="JXlv4">
+      <mov name="JXlv4" to="1" dr="44" drTW="44" lp="1">
+        <b name="图层 27" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="awake_light-level4" dr="44"/>
+        </b>
+        <b name="图层 29" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="awake_light-level4 tou" twE="0" dr="21"/>
+          <f x="-16.3" y="-6.4" kX="0" kY="0" cX="1.2" cY="1.2" z="1" twE="0" dr="22"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="图层 19        复制 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.27" cY="2.8" z="2" img="awake_light-888exZZ" twE="0" dr="17"/>
+          <f x="-19.7" y="-31.15" kX="0.01" kY="-0.12" cX="1.23" cY="1.52" z="2" twE="0" dr="17"/>
+          <f x="-21.25" y="-89.25" kX="0" kY="0" cX="0.2" cY="0.24" z="2" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 81" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="3" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="9.55" y="-47.55" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="3" twE="0" dr="14"/>
+          <f x="-0.55" y="-93.4" kX="0" kY="0" cX="0.15" cY="0.18" z="3" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 22        复制 82" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="4" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-3.95" y="-47.55" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="2" twE="0" dr="14"/>
+          <f x="-0.55" y="-93.4" kX="0" kY="0" cX="0.15" cY="0.18" z="2" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 22        复制 83" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="5" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-3.95" y="-47.5" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="2" twE="0" dr="14"/>
+          <f x="-0.5" y="-93.35" kX="0" kY="0" cX="0.15" cY="0.18" z="2" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 86" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="3" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-3.95" y="-47.55" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 87" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.75" z="5" img="awake_light-888ziziZZ" twE="0" dr="13"/>
+          <f x="3.15" y="-42.6" kX="-0.16" kY="-0.02" cX="0.15" cY="0.18" z="5" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 80" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.27" cY="2.8" z="6" img="awake_light-888exZZ" twE="0" dr="17"/>
+          <f x="-19.7" y="-31.15" kX="0.01" kY="-0.12" cX="1.23" cY="1.52" z="4" twE="0" dr="17"/>
+          <f x="-21.25" y="-89.2" kX="0" kY="0" cX="0.2" cY="0.24" z="4" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 810" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="7" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="9.55" y="-47.5" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="5" twE="0" dr="14"/>
+          <f x="-0.55" y="-93.35" kX="0" kY="0" cX="0.15" cY="0.18" z="5" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 820" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="8" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-3.95" y="-47.5" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="8" twE="0" dr="14"/>
+          <f x="-0.55" y="-93.35" kX="0" kY="0" cX="0.15" cY="0.18" z="8" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 830" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="9" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-3.95" y="-47.55" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="8" twE="0" dr="14"/>
+          <f x="-0.5" y="-93.4" kX="0" kY="0" cX="0.15" cY="0.18" z="8" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 860" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="5" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-3.95" y="-47.5" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 870" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.75" z="10" img="awake_light-888ziziZZ" twE="0" dr="13"/>
+          <f x="3.15" y="-42.6" kX="-0.16" kY="-0.02" cX="0.15" cY="0.18" z="10" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 81" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.27" cY="2.8" z="10" img="awake_light-888exZZ" twE="0" dr="17"/>
+          <f x="-1.5" y="-36.8" kX="0.01" kY="-0.12" cX="1.23" cY="1.52" z="6" twE="0" dr="17"/>
+          <f x="26.2" y="-87.85" kX="0" kY="0" cX="0.2" cY="0.24" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 811" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="11" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="32" y="-36.4" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="8" twE="0" dr="14"/>
+          <f x="46.15" y="-81.15" kX="0" kY="0" cX="0.15" cY="0.18" z="8" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 821" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="12" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="20.3" y="-43.15" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="12" twE="0" dr="14"/>
+          <f x="46.15" y="-81.15" kX="0" kY="0" cX="0.15" cY="0.18" z="13" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 831" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="13" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="20.3" y="-43.15" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="12" twE="0" dr="14"/>
+          <f x="46.25" y="-81.15" kX="0" kY="0" cX="0.15" cY="0.18" z="12" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 861" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="7" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="20.35" y="-43.1" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 871" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.75" z="15" img="awake_light-888ziziZZ" twE="0" dr="13"/>
+          <f x="24.05" y="-35.3" kX="-0.16" kY="-0.02" cX="0.15" cY="0.18" z="15" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 82" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.27" cY="2.8" z="14" img="awake_light-888exZZ" twE="0" dr="17"/>
+          <f x="-29.05" y="-22.7" kX="0.01" kY="-0.11" cX="1.23" cY="1.52" z="8" twE="0" dr="17"/>
+          <f x="-50.05" y="-76.8" kX="0" kY="0" cX="0.2" cY="0.24" z="8" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 812" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="15" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-7" y="-47.95" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="11" twE="0" dr="14"/>
+          <f x="-32" y="-87.7" kX="0" kY="0" cX="0.15" cY="0.18" z="11" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 822" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="16" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-19.7" y="-43.4" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="16" twE="0" dr="14"/>
+          <f x="-32" y="-87.7" kX="0" kY="0" cX="0.15" cY="0.18" z="18" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 832" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="17" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-19.75" y="-43.45" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="16" twE="0" dr="14"/>
+          <f x="-32" y="-87.7" kX="0" kY="0" cX="0.15" cY="0.18" z="16" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 862" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.14" cY="1.4" z="9" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-19.7" y="-43.35" kX="0.13" kY="0.02" cX="0.64" cY="0.79" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 872" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.75" z="20" img="awake_light-888ziziZZ" twE="0" dr="13"/>
+          <f x="-11.4" y="-41.15" kX="-0.16" kY="-0.02" cX="0.15" cY="0.18" z="20" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="JXlv3">
+      <mov name="JXlv3" to="1" dr="44" drTW="44" lp="1">
+        <b name="图层 26" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="awake_light-level3" dr="44"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="awake_light-level3 tou" twE="0" dr="21"/>
+          <f x="39.9" y="15.2" kX="0" kY="0" cX="0.45" cY="0.45" z="1" twE="0" dr="22"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="图层 19        复制 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.64" cY="2.01" z="2" img="awake_light-888exZZ" twE="0" dr="17"/>
+          <f x="-14.2" y="-22.4" kX="0.01" kY="-0.12" cX="0.89" cY="1.09" z="2" twE="0" dr="17"/>
+          <f x="-15.3" y="-64.25" kX="0" kY="0" cX="0.14" cY="0.18" z="2" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 81" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="3" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="6.9" y="-34.2" kX="0.13" kY="0.02" cX="0.46" cY="0.57" z="3" twE="0" dr="14"/>
+          <f x="-0.4" y="-67.2" kX="-0.01" kY="0" cX="0.11" cY="0.13" z="3" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 22        复制 82" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="4" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-2.85" y="-34.2" kX="0.13" kY="0.02" cX="0.46" cY="0.57" z="2" twE="0" dr="14"/>
+          <f x="-0.4" y="-67.2" kX="-0.01" kY="0" cX="0.11" cY="0.13" z="2" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 22        复制 83" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="5" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-2.85" y="-34.2" kX="0.13" kY="0.02" cX="0.46" cY="0.57" z="2" twE="0" dr="14"/>
+          <f x="-0.35" y="-67.15" kX="-0.01" kY="0" cX="0.11" cY="0.13" z="2" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 86" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="3" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-2.85" y="-34.2" kX="0.13" kY="0.02" cX="0.46" cY="0.57" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 87" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.54" z="5" img="awake_light-888ziziZZ" twE="0" dr="13"/>
+          <f x="2.25" y="-30.7" kX="-0.17" kY="-0.02" cX="0.11" cY="0.13" z="5" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 80" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.64" cY="2.01" z="6" img="awake_light-888exZZ" twE="0" dr="17"/>
+          <f x="-14.15" y="-22.45" kX="0.01" kY="-0.12" cX="0.89" cY="1.09" z="4" twE="0" dr="17"/>
+          <f x="-15.3" y="-64.25" kX="0" kY="0" cX="0.14" cY="0.18" z="4" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 810" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="7" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="6.9" y="-34.2" kX="0.13" kY="0.02" cX="0.46" cY="0.57" z="5" twE="0" dr="14"/>
+          <f x="-0.4" y="-67.2" kX="-0.01" kY="0" cX="0.11" cY="0.13" z="5" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 820" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="8" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-2.8" y="-34.2" kX="0.13" kY="0.02" cX="0.46" cY="0.57" z="8" twE="0" dr="14"/>
+          <f x="-0.4" y="-67.2" kX="-0.01" kY="0" cX="0.11" cY="0.13" z="8" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 830" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="9" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-2.8" y="-34.25" kX="0.13" kY="0.02" cX="0.46" cY="0.57" z="8" twE="0" dr="14"/>
+          <f x="-0.35" y="-88.25" kX="-0.01" kY="0" cX="0.11" cY="0.13" z="8" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 860" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="5" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-2.85" y="-34.2" kX="0.13" kY="0.02" cX="0.46" cY="0.57" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 870" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.54" z="10" img="awake_light-888ziziZZ" twE="0" dr="13"/>
+          <f x="2.25" y="-30.7" kX="-0.17" kY="-0.02" cX="0.11" cY="0.13" z="10" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 81" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.64" cY="2.01" z="10" img="awake_light-888exZZ" twE="0" dr="17"/>
+          <f x="-1.1" y="-26.5" kX="0" kY="-0.12" cX="0.89" cY="1.09" z="6" twE="0" dr="17"/>
+          <f x="18.85" y="-63.25" kX="0" kY="-0.01" cX="0.14" cY="0.18" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 811" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="11" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="23.05" y="-26.25" kX="0.13" kY="0.01" cX="0.46" cY="0.57" z="8" twE="0" dr="14"/>
+          <f x="33.25" y="-58.45" kX="0" kY="0.01" cX="0.11" cY="0.13" z="8" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 821" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="12" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="14.65" y="-31.1" kX="0.13" kY="0.01" cX="0.46" cY="0.57" z="12" twE="0" dr="14"/>
+          <f x="33.25" y="-58.45" kX="0" kY="0.01" cX="0.11" cY="0.13" z="13" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 831" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="13" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="14.6" y="-31.05" kX="0.13" kY="0.01" cX="0.46" cY="0.57" z="12" twE="0" dr="14"/>
+          <f x="33.3" y="-58.4" kX="0" kY="0.01" cX="0.11" cY="0.13" z="12" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 861" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="7" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="14.65" y="-31" kX="0.13" kY="0.01" cX="0.46" cY="0.57" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 871" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.54" z="15" img="awake_light-888ziziZZ" twE="0" dr="13"/>
+          <f x="17.3" y="-25.35" kX="-0.16" kY="-0.01" cX="0.11" cY="0.13" z="15" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 82" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.64" cY="2.01" z="14" img="awake_light-888exZZ" twE="0" dr="17"/>
+          <f x="-20.95" y="-16.4" kX="0.01" kY="-0.11" cX="0.89" cY="1.09" z="8" twE="0" dr="17"/>
+          <f x="-36.05" y="-55.3" kX="0" kY="0" cX="0.14" cY="0.18" z="8" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 812" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="15" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-5.05" y="-34.55" kX="0.13" kY="0.02" cX="0.46" cY="0.57" z="11" twE="0" dr="14"/>
+          <f x="-23.05" y="-63.15" kX="0" kY="0" cX="0.11" cY="0.13" z="11" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 822" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="16" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-14.2" y="-31.25" kX="0.13" kY="0.02" cX="0.46" cY="0.57" z="16" twE="0" dr="14"/>
+          <f x="-23.05" y="-63.15" kX="0" kY="0" cX="0.11" cY="0.13" z="18" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 832" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="17" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-14.2" y="-31.3" kX="0.13" kY="0.02" cX="0.46" cY="0.57" z="16" twE="0" dr="14"/>
+          <f x="-23.05" y="-63.15" kX="0" kY="0" cX="0.11" cY="0.13" z="16" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 862" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.82" cY="1.01" z="9" img="awake_light-888ziziZZ" twE="0" dr="14"/>
+          <f x="-14.15" y="-31.15" kX="0.13" kY="0.02" cX="0.46" cY="0.57" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 872" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.44" cY="0.54" z="20" img="awake_light-888ziziZZ" twE="0" dr="13"/>
+          <f x="-8.2" y="-29.6" kX="-0.16" kY="-0.02" cX="0.11" cY="0.13" z="20" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="JXlv2">
+      <mov name="JXlv2" to="1" dr="44" drTW="44" lp="1">
+        <b name="图层 15" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="awake_light-level2" dr="44"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="awake_light-level2" twE="0" dr="22"/>
+          <f x="27.5" y="10.8" kX="0" kY="0" cX="0.63" cY="0.63" z="1" twE="0" dr="21"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="图层 19        复制 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.82" cY="2.24" z="2" img="awake_light-888ex" twE="0" dr="17"/>
+          <f x="-15.75" y="-24.9" kX="0.01" kY="-0.12" cX="0.99" cY="1.21" z="2" twE="0" dr="17"/>
+          <f x="-17" y="-71.35" kX="0" kY="0" cX="0.16" cY="0.2" z="2" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 81" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="1.12" z="3" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="7.65" y="-37.95" kX="0.13" kY="0.02" cX="0.51" cY="0.63" z="3" twE="0" dr="14"/>
+          <f x="-0.4" y="-74.6" kX="0" kY="0" cX="0.12" cY="0.15" z="3" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 22        复制 82" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="1.12" z="4" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="-3.15" y="-37.95" kX="0.13" kY="0.02" cX="0.51" cY="0.63" z="2" twE="0" dr="14"/>
+          <f x="-0.4" y="-74.6" kX="0" kY="0" cX="0.12" cY="0.15" z="2" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 22        复制 83" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="1.12" z="5" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="-3.2" y="-38" kX="0.13" kY="0.02" cX="0.51" cY="0.63" z="2" twE="0" dr="14"/>
+          <f x="-0.5" y="-74.7" kX="0" kY="0" cX="0.12" cY="0.15" z="2" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 86" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="1.12" z="3" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="-3.2" y="-37.95" kX="0.13" kY="0.02" cX="0.51" cY="0.63" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 87" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.6" z="5" img="awake_light-888zizi" twE="0" dr="13"/>
+          <f x="2.5" y="-34" kX="-0.16" kY="-0.02" cX="0.12" cY="0.15" z="5" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 80" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.82" cY="2.24" z="6" img="awake_light-888ex" twE="0" dr="17"/>
+          <f x="-15.7" y="-24.9" kX="0.01" kY="-0.12" cX="0.99" cY="1.21" z="4" twE="0" dr="17"/>
+          <f x="-8.8" y="-57" kX="0" kY="0" cX="0.16" cY="0.2" z="4" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 810" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="1.12" z="7" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="7.6" y="-38.05" kX="0.13" kY="0.02" cX="0.51" cY="0.63" z="5" twE="0" dr="14"/>
+          <f x="7.7" y="-60.35" kX="0" kY="0" cX="0.12" cY="0.15" z="5" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 820" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="1.12" z="8" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="-3.2" y="-38.05" kX="0.13" kY="0.02" cX="0.51" cY="0.63" z="8" twE="0" dr="14"/>
+          <f x="7.7" y="-60.35" kX="0" kY="0" cX="0.12" cY="0.15" z="8" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 830" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="1.12" z="9" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="-3.2" y="-38" kX="0.13" kY="0.02" cX="0.51" cY="0.63" z="8" twE="0" dr="14"/>
+          <f x="7.65" y="-60.3" kX="0" kY="0" cX="0.12" cY="0.15" z="8" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 860" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="1.12" z="5" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="-3.2" y="-38.05" kX="0.13" kY="0.02" cX="0.51" cY="0.63" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 870" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.6" z="10" img="awake_light-888zizi" twE="0" dr="13"/>
+          <f x="10.7" y="-19.75" kX="-0.16" kY="-0.02" cX="0.12" cY="0.15" z="10" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="JXlv1">
+      <mov name="JXlv1" to="1" dr="44" drTW="44" lp="1">
+        <b name="图层 15" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="awake_light-level1" dr="44"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="awake_light-level1" twE="0" dr="21"/>
+          <f x="23.2" y="9.2" kX="0" kY="0" cX="0.64" cY="0.64" z="1" twE="0" dr="22"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="图层 19        复制 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="1.55" z="2" img="awake_light-888ex" twE="0" dr="17"/>
+          <f x="-10.95" y="-17.3" kX="0.01" kY="-0.11" cX="0.69" cY="0.84" z="2" twE="0" dr="17"/>
+          <f x="-11.8" y="-49.55" kX="0" kY="0" cX="0.11" cY="0.14" z="2" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 81" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.78" z="3" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="5.3" y="-26.4" kX="0.13" kY="0.02" cX="0.36" cY="0.44" z="3" twE="0" dr="14"/>
+          <f x="-0.3" y="-51.85" kX="-0.01" kY="0.01" cX="0.08" cY="0.1" z="3" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 22        复制 82" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.78" z="4" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="-2.2" y="-26.4" kX="0.13" kY="0.02" cX="0.36" cY="0.44" z="2" twE="0" dr="14"/>
+          <f x="-0.3" y="-51.85" kX="-0.01" kY="0.01" cX="0.08" cY="0.1" z="2" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 22        复制 83" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.78" z="5" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="-2.2" y="-26.4" kX="0.13" kY="0.02" cX="0.36" cY="0.44" z="2" twE="0" dr="14"/>
+          <f x="-0.3" y="-51.85" kX="-0.01" kY="0.01" cX="0.08" cY="0.1" z="2" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 86" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.78" z="3" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="-2.2" y="-26.4" kX="0.13" kY="0.02" cX="0.36" cY="0.44" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 87" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.34" cY="0.41" z="5" img="awake_light-888zizi" twE="0" dr="13"/>
+          <f x="1.75" y="-23.65" kX="-0.17" kY="-0.01" cX="0.08" cY="0.1" z="5" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 19        复制 80" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="1.55" z="6" img="awake_light-888ex" twE="0" dr="17"/>
+          <f x="-10.95" y="-17.3" kX="0.01" kY="-0.11" cX="0.69" cY="0.84" z="4" twE="0" dr="17"/>
+          <f x="-11.8" y="-49.55" kX="0" kY="0" cX="0.11" cY="0.14" z="4" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22        复制 810" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.78" z="7" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="5.3" y="-26.4" kX="0.13" kY="0.02" cX="0.36" cY="0.44" z="5" twE="0" dr="14"/>
+          <f x="-0.3" y="-51.85" kX="-0.01" kY="0.01" cX="0.08" cY="0.1" z="5" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 22        复制 820" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.78" z="8" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="-2.2" y="-26.4" kX="0.13" kY="0.02" cX="0.36" cY="0.44" z="8" twE="0" dr="14"/>
+          <f x="-0.3" y="-51.85" kX="-0.01" kY="0.01" cX="0.08" cY="0.1" z="8" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 22        复制 830" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.78" z="9" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="-2.2" y="-26.4" kX="0.13" kY="0.02" cX="0.36" cY="0.44" z="8" twE="0" dr="14"/>
+          <f x="-0.3" y="-51.85" kX="-0.01" kY="0.01" cX="0.08" cY="0.1" z="8" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 22        复制 860" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.78" z="5" img="awake_light-888zizi" twE="0" dr="14"/>
+          <f x="-2.2" y="-26.4" kX="0.13" kY="0.02" cX="0.36" cY="0.44" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22        复制 870" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.34" cY="0.41" z="10" img="awake_light-888zizi" twE="0" dr="13"/>
+          <f x="1.75" y="-23.65" kX="-0.17" kY="-0.01" cX="0.08" cY="0.1" z="10" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="觉醒光圈2" width="512" height="256">
+    <SubTexture name="awake_light-level6" x="0" y="0" width="182" height="81" pX="5" pY="6"/>
+    <SubTexture name="awake_light-level6 tou" x="0" y="82" width="175" height="66" pX="0" pY="0"/>
+    <SubTexture name="awake_light-level5" x="183" y="0" width="181" height="75" pX="2" pY="0"/>
+    <SubTexture name="awake_light-level5tou" x="183" y="76" width="177" height="71" pX="0" pY="0"/>
+    <SubTexture name="awake_light-888exEE" x="492" y="127" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="awake_light-888ziziEE" x="492" y="140" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="awake_light-level4" x="176" y="148" width="164" height="65" pX="0" pY="0"/>
+    <SubTexture name="awake_light-level4 tou" x="0" y="149" width="164" height="65" pX="0" pY="0"/>
+    <SubTexture name="awake_light-level3" x="365" y="0" width="146" height="56" pX="0" pY="0"/>
+    <SubTexture name="awake_light-level3 tou" x="365" y="57" width="146" height="56" pX="0" pY="0"/>
+    <SubTexture name="awake_light-888exZZ" x="492" y="114" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="awake_light-888ziziZZ" x="341" y="148" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="awake_light-level2" x="355" y="167" width="151" height="60" pX="0" pY="0"/>
+    <SubTexture name="awake_light-level1" x="361" y="114" width="130" height="52" pX="0" pY="0"/>
+    <SubTexture name="awake_light-888ex" x="492" y="153" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="awake_light-888zizi" x="341" y="161" width="13" height="12" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

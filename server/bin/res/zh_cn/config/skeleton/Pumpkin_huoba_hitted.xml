@@ -1,0 +1,30 @@
+<skeleton name="火南瓜被击(1)">
+  <armatures>
+    <armature name="hngbeiji">
+      <b name="图层 1" bT="0" bi="Pumpkin_huoba_hitted-hngbj2" x="22.2" y="14.95" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="hngbeiji">
+      <mov name="hngbeiji" to="1" dr="13" drTW="13">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="Pumpkin_huoba_hitted-hngbj2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="Pumpkin_huoba_hitted-hngbj3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="Pumpkin_huoba_hitted-hngbj4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="Pumpkin_huoba_hitted-hngbj5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="Pumpkin_huoba_hitted-hngbj6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="Pumpkin_huoba_hitted-hngbj7" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="火南瓜被击(1)" width="512" height="128">
+    <SubTexture name="Pumpkin_huoba_hitted-hngbj2" x="128" y="0" width="57" height="65" pX="37.55" pY="51"/>
+    <SubTexture name="Pumpkin_huoba_hitted-hngbj3" x="0" y="0" width="63" height="66" pX="36.5" pY="56"/>
+    <SubTexture name="Pumpkin_huoba_hitted-hngbj4" x="64" y="0" width="63" height="59" pX="40.5" pY="52"/>
+    <SubTexture name="Pumpkin_huoba_hitted-hngbj5" x="186" y="0" width="60" height="56" pX="40.5" pY="49"/>
+    <SubTexture name="Pumpkin_huoba_hitted-hngbj6" x="247" y="0" width="64" height="49" pX="40.5" pY="45"/>
+    <SubTexture name="Pumpkin_huoba_hitted-hngbj7" x="312" y="0" width="58" height="45" pX="41.5" pY="43"/>
+  </TextureAtlas>
+</skeleton>

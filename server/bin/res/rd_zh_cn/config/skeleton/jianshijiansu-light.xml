@@ -1,0 +1,23 @@
+<skeleton name="减速buff(1)">
+  <armatures>
+    <armature name="jiansubuff">
+      <b name="图层 1" bT="0" bi="jianshijiansu-shape3" x="0.3" y="-0.2" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="jiansubuff">
+      <mov name="jiansubuff" to="1" dr="30" drTW="30" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="jianshijiansu-shape3" twE="0" dr="7"/>
+          <f x="-0.3" y="-0.15" kX="43.4" kY="43.4" cX="1" cY="1" z="0" twE="0" dr="7"/>
+          <f x="-0.45" y="-0.4" kX="86.97" kY="86.97" cX="1" cY="1" z="0" twE="0" dr="8"/>
+          <f x="-0.35" y="-0.75" kX="136.62" kY="136.62" cX="1" cY="1" z="0" twE="0" dr="7"/>
+          <f x="0" y="-0.9" kX="180" kY="180" cX="1" cY="1" z="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="减速buff(1)" width="512" height="128">
+    <SubTexture name="jianshijiansu-shape3" x="0" y="0" width="101" height="101" pX="50" pY="50.45"/>
+  </TextureAtlas>
+</skeleton>

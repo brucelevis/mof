@@ -1,0 +1,254 @@
+<skeleton name="伊西铎爵士">
+  <armatures>
+    <armature name="stand">
+      <b name="jssb" bT="0" bi="NPC_Yixiduo-jssb05" x="201.45" y="195.55" kX="46.16" kY="46.16" z="0"/>
+      <b name="jssb0" bT="0" bi="NPC_Yixiduo-jssb05" x="172.05" y="193.95" kX="-29.74" kY="150.26" z="1"/>
+      <b name="Layer7" bT="0" bi="NPC_Yixiduo-jssb03" x="172.75" y="182.05" kX="33.45" kY="33.45" z="2"/>
+      <b name="Layer3" bT="0" bi="NPC_Yixiduo-jiaoya1" x="184.05" y="235" kX="0" kY="0" z="3"/>
+      <b name="jsst02" bT="0" bi="NPC_Yixiduo-jsyf" x="190.1" y="209.1" kX="0" kY="0" z="4"/>
+      <b name="jsst020" bT="0" bi="NPC_Yixiduo-jsyf02" x="189.25" y="180.85" kX="0" kY="0" z="5"/>
+      <b name="jsst01" bT="0" bi="NPC_Yixiduo-jsst01" x="181.75" y="174.15" kX="0" kY="0" z="6"/>
+      <b name="jssb01" bT="0" bi="NPC_Yixiduo-jssb04" x="202.5" y="182.3" kX="-21.7" kY="-21.7" z="7"/>
+      <b name="jstb" bT="0" bi="NPC_Yixiduo-t1" x="183.5" y="148.8" kX="0" kY="0" z="8"/>
+      <b name="jstb0" bT="0" bi="NPC_Yixiduo-yj1" x="189.15" y="152.55" kX="0" kY="0" z="9"/>
+      <b name="Layer10" bT="0" bi="NPC_Yixiduo-jssz01" x="156.95" y="208.05" kX="34.91" kY="-145.09" z="2"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="36" drTW="36" lp="1">
+        <b name="元件 48" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="fsn0-62a-1" sc="1" dl="0"/>
+        <b name="fsn0-71a-3" sc="1" dl="0"/>
+        <b name="fsn0-71b-1" sc="1" dl="0"/>
+        <b name="裙子" sc="1" dl="0"/>
+        <b name="元件 50" sc="1" dl="0"/>
+        <b name="元件 50 副本" sc="1" dl="0"/>
+        <b name="元件 45 副本站立" sc="1" dl="0"/>
+        <b name="元件 49" sc="1" dl="0"/>
+        <b name="元件 52" sc="1" dl="0"/>
+        <b name="元件 49 副本" sc="1" dl="0"/>
+        <b name="arm 4" sc="1" dl="0"/>
+        <b name="arm 40" sc="1" dl="0"/>
+        <b name="arm 3" sc="1" dl="0"/>
+        <b name="kuzi02" sc="1" dl="0"/>
+        <b name="rzn0-72a-1" sc="1" dl="0"/>
+        <b name="kzz" sc="1" dl="0"/>
+        <b name="rzn0-71a-1" sc="1" dl="0"/>
+        <b name="shenti" sc="1" dl="0"/>
+        <b name="jainban 02" sc="1" dl="0"/>
+        <b name="rzn0-81c-2" sc="1" dl="0"/>
+        <b name="dzz" sc="1" dl="0"/>
+        <b name="arm 2" sc="1" dl="0"/>
+        <b name="arm 1" sc="1" dl="0"/>
+        <b name="jianbang 01" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="arm 10" sc="1" dl="0"/>
+        <b name="jssb" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="NPC_Yixiduo-jssb05" twE="0" dr="18"/>
+          <f x="0.1" y="-0.35" kX="-4.44" kY="-4.44" cX="1" cY="1" z="0" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="jssb0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Yixiduo-jssb05" twE="0" dr="18"/>
+          <f x="-0.1" y="-1.35" kX="-0.17" kY="-0.17" cX="1" cY="1" z="1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="jsst02" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Yixiduo-jsyf" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="jsst020" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Yixiduo-jsyf02" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="jsst01" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Yixiduo-jsst01" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="jssb01" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Yixiduo-jssb04" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="1"/>
+        </b>
+        <b name="jstb" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Yixiduo-t1" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="jstb0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="NPC_Yixiduo-yj1" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="1"/>
+        </b>
+        <b name="Layer7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Yixiduo-jssb03" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="Layer3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Yixiduo-jiaoya1" dr="35"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+      </mov>
+      <mov name="physical_1" to="1" dr="164" drTW="164" lp="0">
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="arm 4" sc="1" dl="0"/>
+        <b name="arm 40" sc="1" dl="0"/>
+        <b name="arm 3" sc="1" dl="0"/>
+        <b name="kuzi02" sc="1" dl="0"/>
+        <b name="rzn0-72a-1" sc="1" dl="0"/>
+        <b name="kzz" sc="1" dl="0"/>
+        <b name="rzn0-71a-1" sc="1" dl="0"/>
+        <b name="shenti" sc="1" dl="0"/>
+        <b name="jainban 02" sc="1" dl="0"/>
+        <b name="rzn0-81c-2" sc="1" dl="0"/>
+        <b name="图层 27" sc="1" dl="0"/>
+        <b name="dzz" sc="1" dl="0"/>
+        <b name="arm 2" sc="1" dl="0"/>
+        <b name="arm 1" sc="1" dl="0"/>
+        <b name="jianbang 01" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="图层 26" sc="1" dl="0"/>
+        <b name="arm 10" sc="1" dl="0"/>
+        <b name="图层 25" sc="1" dl="0"/>
+        <b name="图层 23" sc="1" dl="0"/>
+        <b name="图层 24" sc="1" dl="0"/>
+        <b name="图层 21" sc="1" dl="0"/>
+        <b name="dzz0" sc="1" dl="0"/>
+        <b name="图层 8" sc="1" dl="0"/>
+        <b name="jssb" sc="1" dl="0">
+          <f x="0.7" y="-0.35" kX="-0.47" kY="-0.47" cX="1" cY="1" z="0" img="NPC_Yixiduo-jssb05" twE="0" dr="10"/>
+          <f x="1.1" y="-1" kX="-0.47" kY="-0.47" cX="1" cY="1" z="0" twE="0" dr="7"/>
+          <f x="-1.3" y="-0.9" kX="-7.03" kY="-6.93" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="-6.65" y="2.55" kX="2.57" kY="2.57" cX="1" cY="1" z="0" twE="0" dr="10"/>
+          <f x="-7.05" y="1.9" kX="1.34" kY="1.34" cX="1" cY="1" z="0" dr="130"/>
+          <f x="-7.05" y="1.9" kX="1.34" kY="1.34" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="-6.1" y="1.45" kX="1.34" kY="1.34" cX="1" cY="1" z="0" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="jssb0" sc="1" dl="0">
+          <f x="-4.7" y="1.7" kX="64.01" kY="-295.99" cX="1" cY="1" z="1" img="NPC_Yixiduo-jssb05" twE="0" dr="10"/>
+          <f x="-14.05" y="-5.85" kX="106.38" kY="-253.62" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="-11.05" y="-2.3" kX="84.17" kY="-275.83" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="-8.5" y="1.25" kX="69.17" kY="-290.83" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="-4.5" y="6.05" kX="51.23" kY="-308.77" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f dr="141" hide="1"/>
+          <f x="-4.4" y="7.85" kX="48.28" kY="-311.72" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="jsst02" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Yixiduo-jsyf" twE="0" dr="10"/>
+          <f x="0" y="-0.4" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="8"/>
+          <f x="-0.95" y="2.35" kX="-4.25" kY="-4.25" cX="1" cY="1" z="2" twE="0" dr="10"/>
+          <f x="-1.4" y="2.45" kX="-5.29" kY="-5.29" cX="1" cY="1" z="2" twE="0" dr="130"/>
+          <f x="-1.4" y="2.45" kX="-5.29" kY="-5.29" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="-0.95" y="1.35" kX="-4.25" kY="-4.25" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="jsst020" sc="1" dl="0">
+          <f x="1" y="-0.45" kX="3.97" kY="3.97" cX="1" cY="1" z="6" img="NPC_Yixiduo-jsyf02" twE="0" dr="10"/>
+          <f x="0.8" y="-0.85" kX="3.97" kY="3.97" cX="1" cY="1" z="6" twE="0" dr="7"/>
+          <f x="-2.6" y="0.2" kX="-3.06" kY="-3.06" cX="1" cY="1" z="6" twE="0" dr="1"/>
+          <f x="-11.4" y="4.85" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Yixiduo-sy12" twE="0" dr="10"/>
+          <f x="-12.6" y="5.1" kX="-1.23" kY="-1.23" cX="1" cY="1" z="3" dr="130"/>
+          <f x="-12.6" y="5.1" kX="-1.23" kY="-1.23" cX="1" cY="1" z="3" dr="1"/>
+          <f x="-3.55" y="1.05" kX="-6.01" kY="-6.01" cX="1" cY="1" z="6" img="NPC_Yixiduo-jsyf02" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="jsst01" sc="1" dl="0">
+          <f x="1.45" y="-0.95" kX="3.97" kY="3.97" cX="1" cY="1" z="7" img="NPC_Yixiduo-jsst01" twE="0" dr="10"/>
+          <f x="1.25" y="-1.35" kX="3.97" kY="3.97" cX="1" cY="1" z="7" twE="0" dr="7"/>
+          <f x="-2.7" y="0.85" kX="-2.77" kY="-2.77" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="-5.5" y="7.5" kX="-15.22" kY="-15.22" cX="1" cY="1" z="4" twE="0" dr="10"/>
+          <f x="-6.8" y="7.8" kX="-16.44" kY="-16.44" cX="1" cY="1" z="4" dr="130"/>
+          <f x="-6.8" y="7.8" kX="-16.44" kY="-16.44" cX="1" cY="1" z="4" dr="1"/>
+          <f x="-3.95" y="2.1" kX="-5.72" kY="-5.72" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="1"/>
+        </b>
+        <b name="jssb01" sc="1" dl="0">
+          <f x="0.85" y="0.45" kX="3.96" kY="3.96" cX="1" cY="1" z="8" img="NPC_Yixiduo-jssb04" twE="0" dr="10"/>
+          <f x="0.65" y="0.05" kX="3.96" kY="3.96" cX="1" cY="1" z="8" twE="0" dr="7"/>
+          <f x="-3.05" y="0.1" kX="-2.69" kY="-2.39" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="-7.6" y="3.15" kX="-7.66" kY="-7.66" cX="1" cY="1" z="5" twE="0" dr="10"/>
+          <f x="-8.8" y="3.05" kX="-8.89" kY="-8.89" cX="1" cY="1" z="5" dr="130"/>
+          <f x="-8.8" y="3.05" kX="-8.89" kY="-8.89" cX="1" cY="1" z="5" dr="1"/>
+          <f x="-5" y="0.2" kX="-0.16" kY="0.14" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="jstb" sc="1" dl="0">
+          <f x="3.2" y="-0.75" kX="3.97" kY="3.97" cX="1" cY="1" z="9" img="NPC_Yixiduo-t1" twE="0" dr="10"/>
+          <f x="3" y="-1.15" kX="3.97" kY="3.97" cX="1" cY="1" z="9" twE="0" dr="7"/>
+          <f x="-5.75" y="3.25" kX="-0.56" kY="-0.56" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="-10.8" y="9.4" kX="-5.18" kY="-5.18" cX="1" cY="1" z="6" img="NPC_Yixiduo-t3" twE="0" dr="10"/>
+          <f x="-13.2" y="11.25" kX="-7.61" kY="-7.61" cX="1" cY="1" z="6" dr="66"/>
+          <f x="-13.2" y="11.25" kX="-7.61" kY="-7.61" cX="1" cY="1" z="6" dr="64"/>
+          <f x="-13.2" y="11.25" kX="-7.61" kY="-7.61" cX="1" cY="1" z="6" dr="1"/>
+          <f x="-6.75" y="2.5" kX="-3.51" kY="-3.51" cX="1" cY="1" z="9" img="NPC_Yixiduo-t1" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="1"/>
+        </b>
+        <b name="jstb0" sc="1" dl="0">
+          <f x="2.95" y="-0.35" kX="3.97" kY="3.97" cX="1" cY="1" z="10" img="NPC_Yixiduo-yj1" twE="0" dr="10"/>
+          <f x="2.75" y="-0.75" kX="3.97" kY="3.97" cX="1" cY="1" z="10" img="NPC_Yixiduo-yj2" twE="0" dr="7"/>
+          <f x="-5.7" y="3.2" kX="-0.56" kY="-0.56" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="-10.3" y="13.25" kX="-13.86" kY="-13.86" cX="1" cY="0.79" z="7" twE="0" dr="10"/>
+          <f x="-12.35" y="14.85" kX="-16.29" kY="-16.29" cX="1" cY="0.79" z="7" dr="66"/>
+          <f x="-12.35" y="14.85" kX="-16.29" kY="-16.29" cX="1" cY="0.79" z="7" img="NPC_Yixiduo-yj3" dr="64"/>
+          <f x="-12.35" y="14.85" kX="-16.29" kY="-16.29" cX="1" cY="0.79" z="7" dr="1"/>
+          <f x="-6.5" y="2.15" kX="-3.51" kY="-3.51" cX="1" cY="1" z="10" img="NPC_Yixiduo-yj2" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="1"/>
+        </b>
+        <b name="Layer10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Yixiduo-jssz01" twE="0" dr="10"/>
+          <f x="-14.95" y="-17.9" kX="42.37" kY="42.37" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="-10.3" y="-9.5" kX="27" kY="27" cX="1" cY="1" z="2" twE="0" dr="2"/>
+          <f x="-5.2" y="-2.3" kX="5" kY="5" cX="1" cY="1" z="2" twE="0" dr="4"/>
+          <f x="2.6" y="5.65" kX="-12.94" kY="-12.94" cX="1" cY="1" z="2" dr="1"/>
+          <f dr="141" hide="1"/>
+          <f x="3.4" y="7.85" kX="-15.89" kY="-15.89" cX="1" cY="1" z="2" twE="0" dr="4"/>
+          <f x="28.05" y="-4" kX="-98.19" kY="261.81" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="Layer7" sc="1" dl="0">
+          <f x="2.9" y="-1.4" kX="-8.98" kY="-8.98" cX="1" cY="1" z="3" img="NPC_Yixiduo-jssb03" twE="0" dr="10"/>
+          <f x="-0.15" y="-2.95" kX="8.95" kY="8.95" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0.05" y="-0.25" kX="-3.18" kY="-3.18" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="-0.65" y="2.45" kX="-20.7" kY="-20.7" cX="1" cY="1" z="3" twE="0" dr="1"/>
+          <f dr="141" hide="1"/>
+          <f x="-1.4" y="4" kX="-23.65" kY="-23.65" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="Layer3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Yixiduo-jiaoya1" dr="163"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="伊西铎爵士" width="512" height="128">
+    <SubTexture name="NPC_Yixiduo-jssb05" x="303" y="0" width="10" height="24" pX="4.5" pY="11.05"/>
+    <SubTexture name="NPC_Yixiduo-jsyf" x="177" y="0" width="33" height="42" pX="20.05" pY="19.35"/>
+    <SubTexture name="NPC_Yixiduo-jsyf02" x="244" y="0" width="30" height="30" pX="17.75" pY="14.95"/>
+    <SubTexture name="NPC_Yixiduo-jsst01" x="340" y="0" width="15" height="8" pX="4.9" pY="3.6"/>
+    <SubTexture name="NPC_Yixiduo-jssb04" x="275" y="0" width="11" height="28" pX="4.8" pY="13.15"/>
+    <SubTexture name="NPC_Yixiduo-t1" x="72" y="0" width="51" height="48" pX="24.95" pY="23.2"/>
+    <SubTexture name="NPC_Yixiduo-yj1" x="326" y="0" width="13" height="10" pX="5.9" pY="4.75"/>
+    <SubTexture name="NPC_Yixiduo-jssb03" x="314" y="0" width="11" height="20" pX="4.65" pY="9.3"/>
+    <SubTexture name="NPC_Yixiduo-jiaoya1" x="0" y="0" width="71" height="68" pX="34.65" pY="33.05"/>
+    <SubTexture name="NPC_Yixiduo-sy12" x="211" y="0" width="32" height="33" pX="15.2" pY="15.9"/>
+    <SubTexture name="NPC_Yixiduo-t3" x="124" y="0" width="52" height="47" pX="26.5" pY="20.8"/>
+    <SubTexture name="NPC_Yixiduo-yj2" x="370" y="0" width="13" height="9" pX="5.85" pY="4.1"/>
+    <SubTexture name="NPC_Yixiduo-yj3" x="356" y="0" width="13" height="10" pX="5.9" pY="4.3"/>
+    <SubTexture name="NPC_Yixiduo-jssz01" x="287" y="0" width="15" height="21" pX="5.8" pY="9.15"/>
+  </TextureAtlas>
+</skeleton>

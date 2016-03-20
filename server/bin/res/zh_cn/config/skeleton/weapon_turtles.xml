@@ -1,0 +1,15 @@
+<skeleton name="玄武武器(2)">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_xiongmao" bT="0" bi="weapon_turtles-fs_turtles" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_turtles-fs_turtles"/>
+      <b name="weapon-ck_xiongmao" bT="0" bi="weapon_turtles-ck_turtles" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_turtles-ck_turtles"/>
+      <b name="weapon-zs_xiongmao" bT="0" bi="weapon_turtles-zs_turtles" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_turtles-zs_turtles"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="玄武武器(2)" width="512" height="256">
+    <SubTexture name="weapon_turtles-fs_turtles" x="0" y="0" width="54" height="204" pX="28.2" pY="102"/>
+    <SubTexture name="weapon_turtles-ck_turtles" x="236" y="0" width="60" height="124" pX="37.15" pY="74.2"/>
+    <SubTexture name="weapon_turtles-zs_turtles" x="55" y="0" width="180" height="59" pX="29.35" pY="37.4"/>
+  </TextureAtlas>
+</skeleton>

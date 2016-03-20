@@ -1,0 +1,28 @@
+<skeleton name="拳手专用被击(1)">
+  <armatures>
+    <armature name="quanshoubeiji">
+      <b name="图层 3" bT="0" bi="korea_quanshou_hit-ndfsjnfgj 1" x="-0.8" y="1.8" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="quanshoubeiji">
+      <mov name="quanshoubeiji" to="1" dr="11" drTW="11">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="korea_quanshou_hit-ndfsjnfgj 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="korea_quanshou_hit-ndfsjnfgj 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="korea_quanshou_hit-ndfsjnfgj 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="korea_quanshou_hit-ndfsjnfgj 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="korea_quanshou_hit-ndfsjnfgj 5" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="拳手专用被击(1)" width="512" height="64">
+    <SubTexture name="korea_quanshou_hit-ndfsjnfgj 1" x="231" y="0" width="49" height="35" pX="26" pY="18.6"/>
+    <SubTexture name="korea_quanshou_hit-ndfsjnfgj 2" x="162" y="0" width="68" height="43" pX="34.9" pY="19.2"/>
+    <SubTexture name="korea_quanshou_hit-ndfsjnfgj 3" x="84" y="0" width="77" height="52" pX="40.65" pY="27.2"/>
+    <SubTexture name="korea_quanshou_hit-ndfsjnfgj 4" x="0" y="0" width="83" height="60" pX="42.25" pY="34.7"/>
+    <SubTexture name="korea_quanshou_hit-ndfsjnfgj 5" x="281" y="0" width="32" height="16" pX="15.85" pY="1.4"/>
+  </TextureAtlas>
+</skeleton>

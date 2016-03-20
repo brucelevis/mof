@@ -1,0 +1,275 @@
+<skeleton name="莱格(1)">
+  <armatures>
+    <armature name="stand">
+      <b name="Layer1" bT="0" bi="NPC_Laige-yz1" x="155.2" y="252.75" kX="0" kY="0" z="0"/>
+      <b name="xf-st2-2" bT="0" bi="NPC_Laige-xf-st2-2" x="182.7" y="232.5" kX="0" kY="0" z="1"/>
+      <b name="xf-jb1-1" bT="0" bi="NPC_Laige-xf-jb1-1" x="196" y="251.75" kX="0" kY="0" z="2"/>
+      <b name="xf-jb1-2" bT="0" bi="NPC_Laige-xf-jb1-2" x="173.25" y="248.6" kX="0" kY="0" z="3"/>
+      <b name="xf-st2-1" bT="0" bi="NPC_Laige-xf-st2-1" x="187.45" y="224.65" kX="0" kY="0" z="4"/>
+      <b name="xf-wq-2" bT="0" bi="NPC_Laige-xf-wq-2" x="202.45" y="168.9" kX="31.44" kY="31.44" z="5"/>
+      <b name="xf-sb2-2" bT="0" bi="NPC_Laige-xf-sb2-2" x="172.15" y="190.7" kX="24.13" kY="24.13" z="6"/>
+      <b name="xf-st1-2" bT="0" bi="NPC_Laige-xf-st1-2" x="189.75" y="191.3" kX="0" kY="0" z="7"/>
+      <b name="xf-sb1-2" bT="0" bi="NPC_Laige-xf-sb1-2" x="199.75" y="190.25" kX="-20.77" kY="-20.77" z="8"/>
+      <b name="xf-st1-1" bT="0" bi="NPC_Laige-xf-st1-1" x="185.55" y="178.8" kX="0" kY="0" z="9"/>
+      <b name="xf-tb1-1" bT="0" bi="NPC_Laige-xf-tb1-2" x="185.6" y="157.2" kX="0" kY="0" z="10"/>
+      <b name="xf-wq-1" bT="0" bi="NPC_Laige-xf-wq-1" x="182.45" y="193.95" kX="-32.07" kY="-32.07" z="11"/>
+      <b name="xf-sb1-1" bT="0" bi="NPC_Laige-xf-sb1-1" x="190.6" y="198.45" kX="0" kY="0" z="12"/>
+      <b name="xf-sb2-1" bT="0" bi="NPC_Laige-xf-sb2-1" x="171.9" y="194.8" kX="45.56" kY="45.56" z="13"/>
+      <b name="Layer19" bT="0" bi="NPC_Laige-xf-tb1-6" x="183.7" y="162.5" kX="0" kY="0" z="14"/>
+      <b name="Layer18" bT="0" bi="NPC_Laige-xf-h-1" x="194.35" y="154.9" kX="1.55" kY="1.55" z="15"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="35" drTW="35" lp="1">
+        <b name="图层 1" sc="1" dl="0"/>
+        <b name="xf-st2-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Laige-xf-st2-2" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="17"/>
+        </b>
+        <b name="xf-jb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Laige-xf-jb1-1" dr="35"/>
+        </b>
+        <b name="xf-jb1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Laige-xf-jb1-2" dr="35"/>
+        </b>
+        <b name="xf-st2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Laige-xf-st2-1" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="0.98" cY="1" z="4" twE="0" dr="17"/>
+        </b>
+        <b name="xf-wq-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Laige-xf-wq-2" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="17"/>
+        </b>
+        <b name="xf-sb2-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Laige-xf-sb2-2" twE="0" dr="18"/>
+          <f x="0.45" y="-0.8" kX="-2.29" kY="-2.29" cX="1" cY="1" z="6" twE="0" dr="17"/>
+        </b>
+        <b name="xf-st1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Laige-xf-st1-2" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="17"/>
+        </b>
+        <b name="xf-sb1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Laige-xf-sb1-2" twE="0" dr="18"/>
+          <f x="-0.15" y="-0.7" kX="3" kY="3" cX="1" cY="1" z="8" twE="0" dr="17"/>
+        </b>
+        <b name="xf-st1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="NPC_Laige-xf-st1-1" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="17"/>
+        </b>
+        <b name="xf-tb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="NPC_Laige-xf-tb1-2" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="17"/>
+        </b>
+        <b name="xf-wq-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="NPC_Laige-xf-wq-1" twE="0" dr="18"/>
+          <f x="-0.3" y="-1.5" kX="1" kY="1" cX="1" cY="1" z="11" twE="0" dr="17"/>
+        </b>
+        <b name="xf-sb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="NPC_Laige-xf-sb1-1" twE="0" dr="18"/>
+          <f x="-0.3" y="-1.25" kX="2.5" kY="2.5" cX="1" cY="1" z="12" twE="0" dr="17"/>
+        </b>
+        <b name="xf-sb2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="NPC_Laige-xf-sb2-1" twE="0" dr="18"/>
+          <f x="-0.05" y="-0.9" kX="-4.3" kY="-4.3" cX="1" cY="1" z="13" twE="0" dr="17"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0"/>
+        <b name="Layer1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="NPC_Laige-yz1" dr="35"/>
+        </b>
+        <b name="Layer19" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="NPC_Laige-xf-tb1-6" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="17"/>
+        </b>
+      </mov>
+      <mov name="physical_1" to="1" dr="153" drTW="153">
+        <b name="图层 1" sc="1" dl="0"/>
+        <b name="xf-st2-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Laige-xf-st2-2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="13"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="1" dr="5"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="10"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="1" dr="111"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="xf-jb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Laige-xf-jb1-1" twE="0" dr="152"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="xf-jb1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Laige-xf-jb1-2" twE="0" dr="152"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="xf-st2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Laige-xf-st2-1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1.01" cY="1" z="4" twE="0" dr="13"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="4" dr="5"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="10"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="4" dr="111"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="xf-wq-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Laige-xf-wq-2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="5" dr="9"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="5" dr="5"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="10"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="5" dr="111"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="xf-sb2-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Laige-xf-sb2-2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-0.15" y="0.45" kX="1.27" kY="1.27" cX="1" cY="1" z="6" dr="9"/>
+          <f x="-0.15" y="0.45" kX="1.27" kY="1.27" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="0.9" y="-0.75" kX="-5.22" kY="-5.22" cX="1" cY="1" z="6" dr="5"/>
+          <f x="0.9" y="-0.75" kX="-5.22" kY="-5.22" cX="1" cY="1" z="6" twE="0" dr="10"/>
+          <f x="0.9" y="-0.25" kX="-5.22" kY="-5.22" cX="1" cY="1" z="6" dr="111"/>
+          <f x="0.9" y="-0.25" kX="-5.22" kY="-5.22" cX="1" cY="1" z="6" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="xf-st1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Laige-xf-st1-2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="7" dr="9"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="7" dr="5"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="10"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="7" dr="111"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="xf-sb1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Laige-xf-sb1-2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0.1" y="0.5" kX="-0.71" kY="-0.71" cX="1" cY="1" z="8" dr="9"/>
+          <f x="0.1" y="0.5" kX="-0.71" kY="-0.71" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="-0.4" y="-0.65" kX="4.7" kY="4.7" cX="1" cY="1" z="8" dr="5"/>
+          <f x="-0.4" y="-0.65" kX="4.7" kY="4.7" cX="1" cY="1" z="8" twE="0" dr="10"/>
+          <f x="-0.4" y="-0.15" kX="4.7" kY="4.7" cX="1" cY="1" z="8" dr="111"/>
+          <f x="-0.4" y="-0.15" kX="4.7" kY="4.7" cX="1" cY="1" z="8" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="xf-st1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="NPC_Laige-xf-st1-1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="9" dr="9"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="9" dr="5"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="10"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="9" dr="111"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="xf-tb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="NPC_Laige-xf-tb1-2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="0.25" y="1.2" kX="0.95" kY="0.95" cX="1" cY="1" z="10" dr="9"/>
+          <f x="0.25" y="1.2" kX="0.95" kY="0.95" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="-0.55" y="-1.5" kX="-2.13" kY="-2.13" cX="1" cY="1" z="10" dr="5"/>
+          <f x="-0.55" y="-1.5" kX="-2.13" kY="-2.13" cX="1" cY="1" z="10" twE="0" dr="10"/>
+          <f x="0" y="-0.55" kX="-0.59" kY="-0.59" cX="1" cY="1" z="10" dr="111"/>
+          <f x="0" y="-0.55" kX="-0.59" kY="-0.59" cX="1" cY="1" z="10" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="xf-wq-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="NPC_Laige-xf-wq-1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="0" y="0.5" kX="-0.71" kY="-0.71" cX="1" cY="1" z="11" dr="9"/>
+          <f x="0" y="0.5" kX="-0.71" kY="-0.71" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="-0.3" y="-1.5" kX="1.68" kY="1.68" cX="1" cY="1" z="11" dr="5"/>
+          <f x="-0.3" y="-1.5" kX="1.68" kY="1.68" cX="1" cY="1" z="11" twE="0" dr="10"/>
+          <f x="-0.3" y="-1" kX="1.68" kY="1.68" cX="1" cY="1" z="11" dr="111"/>
+          <f x="-0.3" y="-1" kX="1.68" kY="1.68" cX="1" cY="1" z="11" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="xf-sb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="NPC_Laige-xf-sb1-1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="0.2" y="0.6" kX="-0.71" kY="-0.71" cX="1" cY="1" z="12" dr="9"/>
+          <f x="0.2" y="0.6" kX="-0.71" kY="-0.71" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="-0.75" y="-1.5" kX="4.21" kY="4.21" cX="1" cY="1" z="12" dr="5"/>
+          <f x="-0.75" y="-1.5" kX="4.21" kY="4.21" cX="1" cY="1" z="12" twE="0" dr="10"/>
+          <f x="-0.75" y="-1" kX="4.21" kY="4.21" cX="1" cY="1" z="12" dr="111"/>
+          <f x="-0.75" y="-1" kX="4.21" kY="4.21" cX="1" cY="1" z="12" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" dr="1"/>
+        </b>
+        <b name="xf-sb2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="NPC_Laige-xf-sb2-1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-0.25" y="0.45" kX="1.27" kY="1.27" cX="1" cY="1" z="13" dr="9"/>
+          <f x="-0.25" y="0.45" kX="1.27" kY="1.27" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="0.35" y="-0.95" kX="-8.94" kY="-8.94" cX="1" cY="1" z="13" dr="5"/>
+          <f x="0.35" y="-0.95" kX="-8.94" kY="-8.94" cX="1" cY="1" z="13" twE="0" dr="10"/>
+          <f x="0.35" y="-0.45" kX="-8.94" kY="-8.94" cX="1" cY="1" z="13" dr="111"/>
+          <f x="0.35" y="-0.45" kX="-8.94" kY="-8.94" cX="1" cY="1" z="13" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0"/>
+        <b name="图层 18" sc="1" dl="0"/>
+        <b name="Layer1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="NPC_Laige-yz1" twE="0" dr="152"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="Layer19" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="NPC_Laige-xf-tb1-6" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="NPC_Laige-xf-tb1-4" twE="0" dr="3"/>
+          <f x="0.2" y="1.25" kX="0.95" kY="0.95" cX="1" cY="1" z="14" img="NPC_Laige-xf-tb1-1" dr="9"/>
+          <f x="0.2" y="1.25" kX="0.95" kY="0.95" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="-0.3" y="-1.15" kX="-2.72" kY="-2.72" cX="1" cY="1" z="14" img="NPC_Laige-xf-tb1-4" dr="5"/>
+          <f x="-0.3" y="-1.15" kX="-2.72" kY="-2.72" cX="1" cY="1" z="14" twE="0" dr="10"/>
+          <f x="0.05" y="-0.25" kX="-1.17" kY="-1.17" cX="1" cY="1" z="14" dr="111"/>
+          <f x="0.05" y="-0.25" kX="-1.17" kY="-1.17" cX="1" cY="1" z="14" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="NPC_Laige-xf-tb1-6" dr="1"/>
+        </b>
+        <b name="Layer18" sc="1" dl="0">
+          <f dr="50" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.35" cY="1.35" z="15" img="NPC_Laige-xf-h-1" twE="0" dr="5"/>
+          <f x="0.1" y="1.8" kX="0" kY="0" cX="1.8" cY="1.8" z="15" twE="0" dr="15"/>
+          <f x="0" y="9.25" kX="0" kY="0" cX="1.8" cY="1.8" z="15" twE="0" dr="11"/>
+          <f x="-0.1" y="14" kX="0" kY="0" cX="1.45" cY="1.45" z="15" twE="0" dr="5"/>
+          <f x="-0.1" y="16.8" kX="0" kY="0" cX="1.05" cY="1.05" z="15" dr="1"/>
+          <f dr="66" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="莱格(1)" width="512" height="128">
+    <SubTexture name="NPC_Laige-xf-st2-2" x="350" y="0" width="22" height="21" pX="10.15" pY="9.7"/>
+    <SubTexture name="NPC_Laige-xf-jb1-1" x="282" y="0" width="17" height="28" pX="7.9" pY="13.35"/>
+    <SubTexture name="NPC_Laige-xf-jb1-2" x="257" y="0" width="24" height="26" pX="11.15" pY="12.25"/>
+    <SubTexture name="NPC_Laige-xf-st2-1" x="90" y="0" width="42" height="46" pX="20.05" pY="22.3"/>
+    <SubTexture name="NPC_Laige-xf-wq-2" x="300" y="0" width="17" height="28" pX="7.7" pY="13.3"/>
+    <SubTexture name="NPC_Laige-xf-sb2-2" x="373" y="0" width="12" height="29" pX="5.1" pY="14"/>
+    <SubTexture name="NPC_Laige-xf-st1-2" x="182" y="0" width="32" height="30" pX="15.45" pY="14.25"/>
+    <SubTexture name="NPC_Laige-xf-sb1-2" x="386" y="0" width="10" height="23" pX="4.35" pY="10.75"/>
+    <SubTexture name="NPC_Laige-xf-st1-1" x="215" y="0" width="41" height="16" pX="19.7" pY="7.1"/>
+    <SubTexture name="NPC_Laige-xf-tb1-2" x="133" y="0" width="48" height="38" pX="23.5" pY="18.3"/>
+    <SubTexture name="NPC_Laige-xf-wq-1" x="0" y="0" width="17" height="114" pX="7.85" pY="56.05"/>
+    <SubTexture name="NPC_Laige-xf-sb1-1" x="318" y="0" width="31" height="12" pX="15.1" pY="5.25"/>
+    <SubTexture name="NPC_Laige-xf-sb2-1" x="397" y="0" width="12" height="20" pX="5.3" pY="9.05"/>
+    <SubTexture name="NPC_Laige-yz1" x="18" y="0" width="71" height="20" pX="5.8" pY="3.3"/>
+    <SubTexture name="NPC_Laige-xf-tb1-6" x="410" y="0" width="22" height="8" pX="10.2" pY="3.05"/>
+    <SubTexture name="NPC_Laige-xf-tb1-4" x="433" y="0" width="22" height="8" pX="10.05" pY="3"/>
+    <SubTexture name="NPC_Laige-xf-tb1-1" x="456" y="0" width="22" height="6" pX="9.9" pY="1.55"/>
+    <SubTexture name="NPC_Laige-xf-h-1" x="479" y="0" width="4" height="6" pX="1.35" pY="2.2"/>
+  </TextureAtlas>
+</skeleton>

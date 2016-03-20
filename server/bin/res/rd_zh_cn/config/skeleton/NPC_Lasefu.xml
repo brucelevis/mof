@@ -1,0 +1,199 @@
+<skeleton name="拉瑟弗">
+  <armatures>
+    <armature name="stand">
+      <b name="yz" bT="0" bi="NPC_Lasefu-yz1" x="155.2" y="252.75" kX="0" kY="0" z="0"/>
+      <b name="wq" bT="0" bi="NPC_Lasefu-wq" x="155.35" y="184.4" kX="0" kY="0" z="1"/>
+      <b name="bf-jb-1" bT="0" bi="NPC_Lasefu-bf-jb-1" x="185.95" y="232.85" kX="0" kY="0" z="2"/>
+      <b name="bf-st-1" bT="0" bi="NPC_Lasefu-bf-st-1" x="187.1" y="195.6" kX="0" kY="0" z="3"/>
+      <b name="bf-tb-1" bT="0" bi="NPC_Lasefu-bf-tb-1" x="188.95" y="156.05" kX="0" kY="0" z="4"/>
+      <b name="bf-sb-2" bT="0" bi="NPC_Lasefu-bf-sb1-2" x="203.3" y="191.9" kX="0" kY="0" z="5"/>
+      <b name="bf-sb-1" bT="0" bi="NPC_Lasefu-bf-sb-1" x="200.95" y="181.35" kX="0" kY="0" z="6"/>
+      <b name="bf-sb2-2" bT="0" bi="NPC_Lasefu-bf-sb2-2" x="173.85" y="187.45" kX="0" kY="0" z="7"/>
+      <b name="bf-sb-3" bT="0" bi="NPC_Lasefu-bf-sb-3" x="175.4" y="181.25" kX="0" kY="0" z="8"/>
+      <b name="bf-sb2-1" bT="0" bi="NPC_Lasefu-bf-sb-2" x="160.7" y="194.85" kX="0" kY="0" z="9"/>
+      <b name="sb" bT="0" bi="NPC_Lasefu-bf-sb1-1" x="204.4" y="211.2" kX="0" kY="0" z="10"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="36" drTW="36" lp="1">
+        <b name="yz" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="NPC_Lasefu-yz1" dr="36"/>
+        </b>
+        <b name="wq" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Lasefu-wq" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0"/>
+        <b name="图层 21" sc="1" dl="0"/>
+        <b name="bf-jb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Lasefu-bf-jb-1" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="bf-st-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Lasefu-bf-st-1" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="bf-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Lasefu-bf-tb-1" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="bf-sb-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Lasefu-bf-sb1-2" twE="0" dr="18"/>
+          <f x="0.15" y="-1.1" kX="-1.18" kY="-1.18" cX="1" cY="1" z="5" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="bf-sb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Lasefu-bf-sb-1" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="bf-sb2-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Lasefu-bf-sb2-2" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="bf-sb-3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Lasefu-bf-sb-3" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="bf-sb2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="NPC_Lasefu-bf-sb-2" twE="0" dr="18"/>
+          <f x="-0.05" y="-0.15" kX="-0.95" kY="-0.95" cX="1" cY="1" z="9" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="sb" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="NPC_Lasefu-bf-sb1-1" twE="0" dr="18"/>
+          <f x="0.55" y="-1.1" kX="-1.18" kY="-1.18" cX="1" cY="1" z="10" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+      </mov>
+      <mov name="physica_1" to="1" dr="95" drTW="95" lp="0">
+        <b name="yz" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="NPC_Lasefu-yz1" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="83"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="wq" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Lasefu-wq" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="83"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0"/>
+        <b name="图层 21" sc="1" dl="0"/>
+        <b name="bf-jb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Lasefu-bf-jb-1" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="77"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="bf-st-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Lasefu-bf-st-1" twE="0" dr="5"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="-0.75" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="-1.25" kX="0" kY="0" cX="1" cY="1" z="3" dr="77"/>
+          <f x="0" y="-1.25" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="bf-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Lasefu-bf-tb-1" twE="0" dr="5"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="0" y="-0.75" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="0.6" y="-1.5" kX="1.7" kY="1.7" cX="1" cY="1" z="4" dr="77"/>
+          <f x="0.6" y="-1.5" kX="1.7" kY="1.7" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="bf-sb-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Lasefu-bf-sb1-2" twE="0" dr="5"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="1.4" y="-1.65" kX="-9.69" kY="-9.69" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f x="2.5" y="-3.45" kX="-23.62" kY="-23.62" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f x="2.3" y="-4.2" kX="-23.49" kY="-23.49" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f dr="79" hide="1"/>
+          <f x="1.4" y="-1.65" kX="-9.69" kY="-9.69" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="bf-sb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Lasefu-bf-sb-1" twE="0" dr="5"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="0" y="-0.75" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="1.45" y="-4.65" kX="-21.64" kY="-21.64" cX="1" cY="1" z="5" dr="77"/>
+          <f x="1.45" y="-4.65" kX="-21.64" kY="-21.64" cX="1" cY="1" z="6" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="bf-sb2-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Lasefu-bf-sb2-2" twE="0" dr="5"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="-0.05" y="-0.8" kX="1.19" kY="1.19" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="-0.3" y="-1.25" kX="0" kY="0" cX="1" cY="1" z="6" dr="77"/>
+          <f x="-0.3" y="-1.25" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="bf-sb-3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Lasefu-bf-sb-3" twE="0" dr="5"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0" y="-0.75" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0" y="-1.25" kX="0" kY="0" cX="1" cY="1" z="7" dr="77"/>
+          <f x="0" y="-1.25" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="bf-sb2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="NPC_Lasefu-bf-sb-2" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="0" y="-0.25" kX="-0.95" kY="-1.53" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="-0.1" y="-0.35" kX="-1.45" kY="-2.48" cX="1" cY="1" z="8" dr="77"/>
+          <f x="-0.1" y="-0.35" kX="-1.45" kY="-2.48" cX="1" cY="1" z="9" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="bf-st-2" sc="1" dl="0"/>
+        <b name="bf-st-20" sc="1" dl="0"/>
+        <b name="sb" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="NPC_Lasefu-bf-sb1-1" twE="0" dr="5"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="-6.9" y="-4.3" kX="40.6" kY="40.6" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="-8.3" y="-9.6" kX="81.14" kY="81.14" cX="1" cY="1" z="10" img="NPC_Lasefu-bf-sb1-12" twE="0" dr="1"/>
+          <f x="-7.95" y="-12.3" kX="80.48" kY="80.48" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="1.65" y="-34.15" kX="175.51" kY="175.51" cX="1" cY="1" z="9" img="NPC_Lasefu-bf-sb1-13" dr="77"/>
+          <f x="1.65" y="-34.15" kX="175.51" kY="175.51" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="1.15" y="-33.65" kX="171.26" kY="171.26" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="-7.95" y="-12.3" kX="80.48" kY="80.48" cX="1" cY="1" z="10" img="NPC_Lasefu-bf-sb1-12" twE="0" dr="2"/>
+          <f x="-8.25" y="-7.7" kX="67.72" kY="67.72" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="NPC_Lasefu-bf-sb1-1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="拉瑟弗" width="512" height="256">
+    <SubTexture name="NPC_Lasefu-yz1" x="61" y="0" width="71" height="20" pX="5.8" pY="3.3"/>
+    <SubTexture name="NPC_Lasefu-wq" x="0" y="0" width="15" height="150" pX="6.7" pY="75.55"/>
+    <SubTexture name="NPC_Lasefu-bf-jb-1" x="16" y="0" width="44" height="62" pX="21.15" pY="30.1"/>
+    <SubTexture name="NPC_Lasefu-bf-st-1" x="174" y="0" width="30" height="47" pX="14.5" pY="23.7"/>
+    <SubTexture name="NPC_Lasefu-bf-tb-1" x="133" y="0" width="40" height="44" pX="20.1" pY="23.25"/>
+    <SubTexture name="NPC_Lasefu-bf-sb1-2" x="320" y="0" width="11" height="21" pX="4.55" pY="9.55"/>
+    <SubTexture name="NPC_Lasefu-bf-sb-1" x="269" y="0" width="18" height="17" pX="8.1" pY="7.8"/>
+    <SubTexture name="NPC_Lasefu-bf-sb2-2" x="256" y="0" width="12" height="23" pX="5.4" pY="10.55"/>
+    <SubTexture name="NPC_Lasefu-bf-sb-3" x="303" y="0" width="16" height="16" pX="7.5" pY="7.1"/>
+    <SubTexture name="NPC_Lasefu-bf-sb-2" x="234" y="0" width="21" height="14" pX="9.95" pY="6.15"/>
+    <SubTexture name="NPC_Lasefu-bf-sb1-1" x="221" y="0" width="12" height="26" pX="5.5" pY="12.5"/>
+    <SubTexture name="NPC_Lasefu-bf-sb1-12" x="288" y="0" width="14" height="19" pX="6.05" pY="13.9"/>
+    <SubTexture name="NPC_Lasefu-bf-sb1-13" x="205" y="0" width="15" height="41" pX="4.3" pY="12.65"/>
+  </TextureAtlas>
+</skeleton>

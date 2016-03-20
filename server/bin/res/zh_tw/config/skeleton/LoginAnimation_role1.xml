@@ -1,0 +1,165 @@
+<skeleton name="人物1 - 副本">
+  <armatures>
+    <armature name="role1">
+      <b name="毛" bT="0" bi="LoginAnimation_role1-6" x="-44.65" y="-171.15" kX="0" kY="0" z="0"/>
+      <b name="左发3" bT="0" bi="LoginAnimation_role1-4" x="-59.4" y="-165.15" kX="0" kY="0" z="1"/>
+      <b name="左发2" bT="0" bi="LoginAnimation_role1-3" x="-63.4" y="-165.65" kX="0" kY="0" z="2"/>
+      <b name="左发" bT="0" bi="LoginAnimation_role1-2" x="-76.15" y="-166.65" kX="0" kY="0" z="3"/>
+      <b name="右发" bT="0" bi="LoginAnimation_role1-11" x="-5.5" y="-159.65" kX="0" kY="0" z="4"/>
+      <b name="右发前" bT="0" bi="LoginAnimation_role1-13" x="2" y="-161.55" kX="8.22" kY="8.22" z="5"/>
+      <b name="右腕" bT="0" bi="LoginAnimation_role1-17" x="10.6" y="-99.65" kX="0" kY="0" z="6"/>
+      <b name="右手" bT="0" bi="LoginAnimation_role1-15" x="-4" y="-133.65" kX="0" kY="0" z="7"/>
+      <b name="左脚2" bT="0" bi="LoginAnimation_role1-19" x="-46.75" y="-27.5" kX="0" kY="0" z="8"/>
+      <b name="左脚" bT="0" bi="LoginAnimation_role1-16" x="-32.75" y="-79.5" kX="0" kY="0" z="9"/>
+      <b name="右脚2" bT="0" bi="LoginAnimation_role1-20" x="10.25" y="-29.15" kX="0" kY="0" z="10"/>
+      <b name="右脚" bT="0" bi="LoginAnimation_role1-18" x="-6.75" y="-79.15" kX="0" kY="0" z="11"/>
+      <b name="体" bT="0" bi="LoginAnimation_role1-7" x="-39.25" y="-147.25" kX="0" kY="0" z="12"/>
+      <b name="左胸" bT="0" bi="LoginAnimation_role1-8" x="-30" y="-134.4" kX="0" kY="0" z="13"/>
+      <b name="右胸" bT="0" bi="LoginAnimation_role1-9" x="-6.25" y="-129.9" kX="0" kY="0" z="14"/>
+      <b name="左手" bT="0" bi="LoginAnimation_role1-14" x="-43.5" y="-145.65" kX="0" kY="0" z="15"/>
+      <b name="杖" bT="0" bi="LoginAnimation_role1-10" x="-140.75" y="-167.65" kX="0" kY="0" z="16"/>
+      <b name="面" bT="0" bi="LoginAnimation_role1-5" x="-22.15" y="-164.9" kX="0" kY="0" z="17"/>
+      <b name="左发前" bT="0" bi="LoginAnimation_role1-12" x="-19.75" y="-164.4" kX="0" kY="0" z="18"/>
+      <b name="帽" bT="0" bi="LoginAnimation_role1-1" x="-44.65" y="-186.15" kX="0" kY="0" z="19"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="role1">
+      <mov name="role1" to="1" dr="80" drTW="80" lp="1">
+        <b name="毛" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="LoginAnimation_role1-6" twE="0" dr="15"/>
+          <f x="0.5" y="-6" kX="0" kY="19.18" cX="1.06" cY="1" z="0" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="15"/>
+          <f x="0.5" y="-6" kX="0" kY="19.18" cX="1.06" cY="1" z="0" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="左发3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="LoginAnimation_role1-4" twE="0" dr="35"/>
+          <f x="-0.15" y="3.45" kX="-1.29" kY="-1.29" cX="1" cY="0.72" z="1" twE="0" dr="44"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="左发2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="LoginAnimation_role1-3" twE="0" dr="39"/>
+          <f x="0.3" y="-2" kX="1.98" kY="3.01" cX="1" cY="0.85" z="2" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="左发" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="LoginAnimation_role1-2" twE="0" dr="36"/>
+          <f x="0.3" y="-3.55" kX="3.06" kY="3.06" cX="1" cY="0.94" z="3" twE="0" dr="19"/>
+          <f x="4.5" y="-5" kX="10.43" kY="4.58" cX="0.94" cY="0.92" z="3" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="右发" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="LoginAnimation_role1-11" twE="0" dr="20"/>
+          <f x="0.75" y="-2.9" kX="5.97" kY="5.97" cX="1" cY="1" z="4" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="20"/>
+          <f x="0.75" y="-2.9" kX="5.97" kY="5.97" cX="1" cY="1" z="4" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="右发前" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="LoginAnimation_role1-13" twE="0" dr="36"/>
+          <f x="-1.15" y="1.15" kX="-10.68" kY="-10.68" cX="1" cY="1" z="5" twE="0" dr="43"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="右腕" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="LoginAnimation_role1-17" twE="0" dr="54"/>
+          <f x="0.1" y="0.15" kX="-3.73" kY="-3.73" cX="1" cY="1" z="6" twE="0" dr="25"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="右手" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="LoginAnimation_role1-15" twE="0" dr="54"/>
+          <f x="0" y="-1.5" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="25"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="1"/>
+        </b>
+        <b name="左脚2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="LoginAnimation_role1-19" twE="0" dr="39"/>
+          <f x="0.5" y="-1.5" kX="0" kY="0" cX="1" cY="1.01" z="8" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="左脚" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="LoginAnimation_role1-16" twE="0" dr="39"/>
+          <f x="-0.25" y="-3" kX="0" kY="0" cX="1" cY="1.05" z="9" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="1"/>
+        </b>
+        <b name="右脚2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="LoginAnimation_role1-20" twE="0" dr="39"/>
+          <f x="-0.8" y="-0.8" kX="-0.66" kY="0" cX="1" cY="1.01" z="10" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="1"/>
+        </b>
+        <b name="右脚" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.01" z="11" img="LoginAnimation_role1-18" twE="0" dr="39"/>
+          <f x="-0.1" y="-2.15" kX="0" kY="0" cX="1" cY="1.05" z="11" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.01" z="11" twE="0" dr="1"/>
+        </b>
+        <b name="体" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="LoginAnimation_role1-7" twE="0" dr="39"/>
+          <f x="0.4" y="-1.05" kX="0.59" kY="0" cX="1" cY="0.99" z="12" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="1"/>
+        </b>
+        <b name="左胸" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="LoginAnimation_role1-8" twE="0" dr="39"/>
+          <f x="-0.1" y="2.45" kX="0" kY="-5.95" cX="1.01" cY="0.88" z="13" twE="0" dr="16"/>
+          <f x="-0.05" y="-1.95" kX="0" kY="7.86" cX="1.02" cY="0.92" z="13" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="1"/>
+        </b>
+        <b name="右胸" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="LoginAnimation_role1-9" twE="0" dr="39"/>
+          <f x="-0.45" y="-2.5" kX="0" kY="5.05" cX="1.08" cY="1.01" z="14" twE="0" dr="16"/>
+          <f x="-0.3" y="-1" kX="0" kY="-7.54" cX="1.06" cY="1" z="14" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="1"/>
+        </b>
+        <b name="左手" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="LoginAnimation_role1-14" twE="0" dr="45"/>
+          <f x="1.2" y="-2.55" kX="4.46" kY="4.46" cX="0.95" cY="1" z="15" twE="0" dr="34"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="1"/>
+        </b>
+        <b name="杖" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="LoginAnimation_role1-10" twE="0" dr="45"/>
+          <f x="-2" y="4.1" kX="-3" kY="-3" cX="1" cY="1" z="16" twE="0" dr="34"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="1"/>
+        </b>
+        <b name="面" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="LoginAnimation_role1-5" twE="0" dr="39"/>
+          <f x="0.1" y="-0.85" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="1"/>
+        </b>
+        <b name="左发前" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="LoginAnimation_role1-12" twE="0" dr="45"/>
+          <f x="1.7" y="-4.1" kX="14.47" kY="14.47" cX="1" cY="1" z="18" twE="0" dr="13"/>
+          <f x="1" y="-0.6" kX="3" kY="3" cX="0.88" cY="1" z="18" twE="0" dr="21"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="1"/>
+        </b>
+        <b name="帽" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="LoginAnimation_role1-1" twE="0" dr="40"/>
+          <f x="1.1" y="-0.55" kX="0.77" kY="0.77" cX="1" cY="0.96" z="19" twE="0" dr="7"/>
+          <f x="0.8" y="-0.85" kX="0.52" kY="0.52" cX="1" cY="0.97" z="19" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="人物1 - 副本" width="512" height="256">
+    <SubTexture name="LoginAnimation_role1-6" x="200" y="97" width="24" height="20" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-4" x="271" y="89" width="60" height="38" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-3" x="45" y="97" width="51" height="40" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-2" x="417" y="36" width="66" height="42" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-11" x="484" y="36" width="22" height="33" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-13" x="225" y="97" width="12" height="30" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-17" x="0" y="97" width="44" height="48" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-15" x="449" y="79" width="31" height="45" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-19" x="333" y="0" width="39" height="97" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-16" x="417" y="79" width="31" height="70" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-20" x="373" y="0" width="43" height="87" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-18" x="373" y="88" width="36" height="63" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-7" x="271" y="0" width="61" height="88" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-8" x="484" y="70" width="25" height="26" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-9" x="164" y="97" width="21" height="26" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-14" x="134" y="97" width="29" height="25" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-10" x="0" y="0" width="270" height="96" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-5" x="97" y="97" width="36" height="29" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-12" x="186" y="97" width="13" height="32" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_role1-1" x="417" y="0" width="87" height="35" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

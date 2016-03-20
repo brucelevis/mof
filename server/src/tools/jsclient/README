@@ -1,0 +1,7 @@
+机器人
+1：运行环境：node js
+2：main.js里面可以配置机器人数量和服务器ip端口
+3：运行命令：
+	  node main.js [accountsuffix]
+	  node main.js  使用默认账户登录机器人，账户后缀为gamepdc
+	  node main.js myaccount 使用自己定账户登录机器人，账户后缀为myaccount

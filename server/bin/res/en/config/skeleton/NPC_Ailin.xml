@@ -1,0 +1,297 @@
+<skeleton name="艾琳(1)">
+  <armatures>
+    <armature name="stand">
+      <b name="yz" bT="0" bi="NPC_Ailin-yz1" x="146.65" y="246.7" kX="0" kY="0" z="0"/>
+      <b name="tf" bT="0" bi="NPC_Ailin-al-tb-2" x="178.8" y="182.85" kX="0" kY="0" z="1"/>
+      <b name="jb" bT="0" bi="NPC_Ailin-al-st-4" x="175.05" y="228.95" kX="0" kY="0" z="2"/>
+      <b name="st" bT="0" bi="NPC_Ailin-al-st-3" x="171.85" y="187.25" kX="0" kY="0" z="3"/>
+      <b name="sb" bT="0" bi="NPC_Ailin-al-sb-2" x="177.85" y="182.15" kX="-21.3" kY="-21.3" z="4"/>
+      <b name="tb" bT="0" bi="NPC_Ailin-al-tb-1" x="175.5" y="157.35" kX="0" kY="0" z="5"/>
+      <b name="tb0" bT="0" bi="NPC_Ailin-al-zb-1" x="171.45" y="169.65" kX="0" kY="0" z="6"/>
+      <b name="wq" bT="0" bi="NPC_Ailin-wq" x="160.8" y="227" kX="-99.31" kY="-99.31" z="7"/>
+      <b name="sb1" bT="0" bi="NPC_Ailin-al-sb-1" x="155.1" y="181.2" kX="20.44" kY="20.44" z="8"/>
+      <b name="sb3" bT="0" bi="NPC_Ailin-al-sb-04" x="177.5" y="196.85" kX="-17.55" kY="-17.55" z="7"/>
+      <b name="sb2" bT="0" bi="NPC_Ailin-al-sb-03" x="168.95" y="200.45" kX="-18.27" kY="-18.27" z="8"/>
+      <b name="图层 4" bT="0" bi="NPC_Ailin-shouren p2 huohua" x="172.5" y="257.2" kX="-99.42" kY="-99.42" z="9"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="36" drTW="36" lp="1">
+        <b name="yz" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.9" z="0" img="NPC_Ailin-yz1" dr="36"/>
+        </b>
+        <b name="jb" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Ailin-al-st-4" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="tf" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Ailin-al-tb-2" twE="0" dr="18"/>
+          <f x="1.3" y="-2.5" kX="-3.23" kY="-3.23" cX="1" cY="1" z="1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="st" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Ailin-al-st-3" twE="0" dr="18"/>
+          <f x="0" y="-1.5" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="sb" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Ailin-al-sb-2" twE="0" dr="18"/>
+          <f x="0.5" y="-1.05" kX="-7.71" kY="-7.71" cX="1" cY="1" z="4" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="tb" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Ailin-al-tb-1" twE="0" dr="18"/>
+          <f x="0" y="-1.5" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="tb0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Ailin-al-zb-1" twE="0" dr="18"/>
+          <f x="0" y="-1.5" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="wq" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Ailin-wq" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="sb1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Ailin-al-sb-1" twE="0" dr="18"/>
+          <f x="0" y="-0.1" kX="-1.87" kY="-1.87" cX="1" cY="1" z="8" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+      </mov>
+      <mov name="physical_1" to="1" dr="65" drTW="65">
+        <b name="yz" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.9" z="0" img="NPC_Ailin-yz1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.9" z="0" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.9" z="0" dr="33"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.9" z="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.9" z="0" dr="1"/>
+        </b>
+        <b name="tf" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Ailin-al-tb-2" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="0" y="0" kX="-1.23" kY="-1.23" cX="1" cY="1" z="1" dr="35"/>
+          <f x="0" y="0" kX="-1.23" kY="-1.23" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Ailin-al-tb-3" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Ailin-al-tb-2" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="jb" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Ailin-al-st-4" dr="64"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="st" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Ailin-al-st-3" dr="64"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="sb" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Ailin-al-sb-2" dr="1"/>
+          <f x="6.2" y="3.9" kX="-57.26" kY="-57.26" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="8.45" y="3.2" kX="-83.94" kY="-83.94" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="11.45" y="2.4" kX="-107.96" kY="-107.96" cX="1" cY="1" z="4" twE="0" dr="1"/>
+          <f x="13.7" y="-1.85" kX="-153.92" kY="-153.92" cX="1" cY="1" z="4" twE="0" dr="1"/>
+          <f x="13.4" y="-2.9" kX="16.94" kY="196.94" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="13.35" y="-3.15" kX="15.46" kY="195.46" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="13.7" y="-0.1" kX="40.45" kY="-139.55" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="13.8" y="-0.45" kX="38.25" kY="-141.75" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="13.55" y="-2.1" kX="21" kY="201" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="13.4" y="-2.9" kX="16.94" kY="196.94" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="13.35" y="-3.15" kX="15.46" kY="195.46" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="13.7" y="-0.1" kX="40.45" kY="-139.55" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="13.8" y="-0.45" kX="38.25" kY="-141.75" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="13.55" y="-2.1" kX="21" kY="201" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="13.4" y="-2.9" kX="16.94" kY="196.94" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="13.7" y="-0.1" kX="40.45" kY="-139.55" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="14.15" y="0.15" kX="33.39" kY="-146.61" cX="1" cY="1" z="4" twE="0" dr="1"/>
+          <f x="13.55" y="1.3" kX="51.93" kY="-128.07" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="8.85" y="3.1" kX="97.22" kY="-82.78" cX="1" cY="1" z="4" twE="0" dr="1"/>
+          <f x="5.85" y="2.9" kX="121.82" kY="-58.18" cX="1" cY="1" z="4" twE="0" dr="1"/>
+          <f x="3.25" y="2.85" kX="-29.71" kY="-29.71" cX="1" cY="1" z="4" dr="4"/>
+          <f x="3.25" y="2.85" kX="-29.71" kY="-29.71" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="2.85" y="3.95" kX="-41.49" kY="-41.49" cX="1" cY="1" z="4" dr="15"/>
+          <f x="2.85" y="3.95" kX="-41.49" kY="-41.49" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="tb" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Ailin-al-tb-1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="2"/>
+          <f x="-0.9" y="-0.1" kX="-2.93" kY="-2.93" cX="1" cY="1" z="5" dr="24"/>
+          <f x="-0.9" y="-0.1" kX="-2.93" kY="-2.93" cX="1" cY="1" z="5" dr="11"/>
+          <f x="-0.9" y="-0.1" kX="-2.93" kY="-2.93" cX="1" cY="1" z="5" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="20"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="tb0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Ailin-al-zb-1" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="1"/>
+          <f x="0.25" y="-0.2" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Ailin-al-zb-2" dr="24"/>
+          <f x="0.25" y="-0.2" kX="0" kY="0" cX="1" cY="1" z="6" dr="11"/>
+          <f x="0.25" y="-0.2" kX="0" kY="0" cX="1" cY="1" z="6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Ailin-al-zb-1" dr="20"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="sb3" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Ailin-al-sb-04" twE="0" dr="2"/>
+          <f x="7.8" y="0.1" kX="-20.39" kY="-20.39" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="17.5" y="0.3" kX="-65.31" kY="-65.31" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="29.9" y="-15.05" kX="-149.78" kY="-149.78" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="28.4" y="-19.65" kX="-2.71" kY="177.29" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="28.5" y="-20.95" kX="-8.72" kY="171.28" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="28.65" y="-10.25" kX="25.57" kY="-154.43" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="29.75" y="-9.05" kX="40.55" kY="-139.45" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="28.65" y="-8.6" kX="-132.16" kY="-132.16" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="28.75" y="-13.6" kX="-136.84" kY="-136.84" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="29.2" y="-15.85" kX="-148.34" kY="-148.34" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="28.4" y="-19.65" kX="-2.71" kY="177.29" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="28.5" y="-20.95" kX="-8.72" kY="171.28" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="28.65" y="-10.25" kX="25.57" kY="-154.43" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="29.75" y="-9.05" kX="40.55" kY="-139.45" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="28.65" y="-8.6" kX="-132.16" kY="-132.16" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="28.75" y="-13.6" kX="-136.84" kY="-136.84" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="30.6" y="-15.7" kX="-145.58" kY="-145.58" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="28.4" y="-19.65" kX="-2.71" kY="177.29" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="28.65" y="-10.25" kX="25.57" kY="-154.43" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="27.15" y="-9.15" kX="43.11" kY="-136.89" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="21.5" y="-8.6" kX="-57.66" kY="-57.66" cX="0.75" cY="1" z="7" twE="0" dr="1"/>
+          <f x="15.95" y="-6.25" kX="-1.24" kY="-1.24" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="3.4" y="-3.65" kX="25.01" kY="25.01" cX="1" cY="0.99" z="7" twE="0" dr="1"/>
+          <f x="-3.15" y="-4.05" kX="28.84" kY="28.84" cX="1" cY="0.99" z="7" twE="0" dr="1"/>
+          <f x="-6.5" y="-6" kX="36.85" kY="36.85" cX="1" cY="0.98" z="7" dr="4"/>
+          <f x="-6.5" y="-6" kX="36.85" kY="36.85" cX="1" cY="0.98" z="7" twE="0" dr="2"/>
+          <f x="-5.35" y="1.95" kX="-21.59" kY="-21.59" cX="1" cY="0.98" z="7" dr="15"/>
+          <f x="-5.35" y="1.95" kX="-21.59" kY="-21.59" cX="1" cY="0.98" z="7" twE="0" dr="2"/>
+          <f x="-11.05" y="-7.5" kX="14.83" kY="14.83" cX="1" cY="0.98" z="7" twE="0" dr="1"/>
+          <f x="-13.3" y="-12.7" kX="40.33" kY="40.33" cX="1" cY="0.98" z="7" img="NPC_Ailin-al-sb-05" twE="0" dr="2"/>
+          <f x="-13.3" y="-12.7" kX="40.33" kY="40.33" cX="1" cY="0.98" z="7" dr="1"/>
+        </b>
+        <b name="sb2" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Ailin-al-sb-03" twE="0" dr="2"/>
+          <f x="9.6" y="2.8" kX="-17.92" kY="-17.92" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="17.3" y="4.65" kX="-42.54" kY="-42.54" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="47.15" y="-27.2" kX="0.04" kY="180.04" cX="1" cY="1" z="8" img="NPC_Ailin-al-sb-4" twE="0" dr="2"/>
+          <f x="46.45" y="-29.75" kX="-4.01" kY="175.99" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="47.7" y="-12.6" kX="23.37" kY="-156.63" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="47.15" y="-27.2" kX="0.04" kY="180.04" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="46.45" y="-29.75" kX="-4.01" kY="175.99" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="47.7" y="-12.6" kX="23.37" kY="-156.63" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="47.15" y="-27.2" kX="0.04" kY="180.04" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="47.7" y="-12.6" kX="23.37" kY="-156.63" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="43.25" y="-10.65" kX="23.05" kY="-156.95" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f dr="32" hide="1"/>
+        </b>
+        <b name="wq" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Ailin-wq" dr="1"/>
+          <f x="7.3" y="-0.05" kX="9.71" kY="9.71" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="7.6" y="1.35" kX="31.16" kY="31.16" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="8.1" y="-22.95" kX="118.6" kY="118.6" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="40.6" y="-59.15" kX="163.63" kY="163.63" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="54.55" y="-73" kX="184.77" kY="184.77" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="75.5" y="-65.75" kX="254.98" kY="254.98" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="76.6" y="-30.45" kX="-52.74" kY="-52.74" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="53.45" y="-17.25" kX="17.9" kY="17.9" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="39.2" y="-33.85" kX="91.71" kY="91.71" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="32.65" y="-56.6" kX="141.89" kY="141.89" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="54.55" y="-73" kX="184.77" kY="184.77" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="75.5" y="-65.75" kX="254.98" kY="254.98" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="76.6" y="-30.45" kX="-52.74" kY="-52.74" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="53.45" y="-17.25" kX="17.9" kY="17.9" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="39.2" y="-33.85" kX="91.71" kY="91.71" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="32.65" y="-56.6" kX="141.89" kY="141.89" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="54.55" y="-73" kX="184.77" kY="184.77" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="79.7" y="-39.65" kX="-72.63" kY="-72.63" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="74.1" y="-29.45" kX="-46.79" kY="-46.79" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="58.6" y="-24.15" kX="-12.2" kY="-12.2" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="41.1" y="-20.05" kX="-21.05" kY="-21.05" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="26.2" y="-15.4" kX="-8.38" kY="-8.38" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="4.8" y="-17.85" kX="0.03" kY="0.03" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="2.15" y="-21.35" kX="2.72" kY="2.72" cX="1" cY="1" z="8" dr="4"/>
+          <f x="2.15" y="-21.35" kX="2.72" kY="2.72" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="2.15" y="0.35" kX="2.72" kY="2.72" cX="1" cY="1" z="8" dr="15"/>
+          <f x="2.15" y="0.35" kX="2.72" kY="2.72" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="0.7" y="0.1" kX="1.02" kY="1.02" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="9" img="NPC_Ailin-shouren p2 huohua" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="9" img="NPC_Ailin-shouren p2 huohua 2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="9" img="NPC_Ailin-shouren p2 huohua 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="9" img="NPC_Ailin-shouren p2 huohua 4" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="sb1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Ailin-al-sb-1" dr="1"/>
+          <f x="11.4" y="22.45" kX="-21.92" kY="-21.92" cX="1" cY="1" z="10" img="NPC_Ailin-al-sb-01" twE="0" dr="2"/>
+          <f x="20.3" y="26.2" kX="0.83" kY="0.83" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="29.55" y="27.05" kX="7.07" kY="7.07" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="38.35" y="26.85" kX="-104.12" kY="-104.12" cX="1" cY="1" z="9" img="NPC_Ailin-al-sb-4" twE="0" dr="1"/>
+          <f x="58.55" y="4.1" kX="-54.5" kY="-54.5" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="62.25" y="-7.95" kX="-20.44" kY="-20.44" cX="1" cY="1" z="10" img="NPC_Ailin-al-sb-02" twE="0" dr="2"/>
+          <f x="61.3" y="-10.05" kX="17.66" kY="17.66" cX="1" cY="1" z="10" twE="0" dr="2"/>
+          <f x="62.15" y="6.5" kX="72.97" kY="72.97" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="62" y="10.7" kX="-179.38" kY="-179.38" cX="1" cY="1" z="9" img="NPC_Ailin-al-sb-4" twE="0" dr="1"/>
+          <f x="60.25" y="12.9" kX="-164.75" kY="-164.75" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="58.75" y="7.6" kX="-149.44" kY="-149.44" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="56.25" y="3.15" kX="-54.5" kY="-54.5" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="62.25" y="-7.95" kX="-20.44" kY="-20.44" cX="1" cY="1" z="10" img="NPC_Ailin-al-sb-02" twE="0" dr="2"/>
+          <f x="61.3" y="-10.05" kX="17.66" kY="17.66" cX="1" cY="1" z="10" twE="0" dr="2"/>
+          <f x="62.15" y="6.5" kX="72.97" kY="72.97" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="63.05" y="10" kX="-188.82" kY="-188.82" cX="1" cY="1" z="9" img="NPC_Ailin-al-sb-4" twE="0" dr="1"/>
+          <f x="60.25" y="12.9" kX="-164.75" kY="-164.75" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="58.75" y="7.6" kX="-149.44" kY="-149.44" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="57.6" y="3.55" kX="-60.95" kY="-60.95" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="62.25" y="-7.95" kX="-20.44" kY="-20.44" cX="1" cY="1" z="10" img="NPC_Ailin-al-sb-02" twE="0" dr="4"/>
+          <f x="62.15" y="6.5" kX="72.97" kY="72.97" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="57.75" y="7.85" kX="89.09" kY="89.09" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="39.9" y="12.05" kX="-40.54" kY="-40.54" cX="1" cY="1" z="9" img="NPC_Ailin-al-sb-4" twE="0" dr="1"/>
+          <f x="28.3" y="12.6" kX="-36.31" kY="-36.31" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="15.3" y="11.3" kX="-20.52" kY="-20.52" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="8.65" y="10.25" kX="-13.41" kY="-13.41" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="5.95" y="6.55" kX="-6.93" kY="-6.93" cX="1" cY="1" z="9" dr="4"/>
+          <f x="5.95" y="6.55" kX="-6.93" kY="-6.93" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="7.45" y="22.95" kX="-32.41" kY="-32.41" cX="1" cY="1" z="9" dr="15"/>
+          <f x="7.45" y="22.95" kX="-32.41" kY="-32.41" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="2.45" y="7.65" kX="-10.9" kY="-10.9" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="NPC_Ailin-al-sb-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="艾琳(1)" width="512" height="64">
+    <SubTexture name="NPC_Ailin-yz1" x="287" y="0" width="71" height="20" pX="7.6" pY="3.95"/>
+    <SubTexture name="NPC_Ailin-al-st-4" x="198" y="0" width="49" height="50" pX="23.55" pY="18.1"/>
+    <SubTexture name="NPC_Ailin-al-tb-2" x="248" y="0" width="38" height="55" pX="18.4" pY="26.6"/>
+    <SubTexture name="NPC_Ailin-al-st-3" x="359" y="0" width="32" height="46" pX="14.85" pY="15.7"/>
+    <SubTexture name="NPC_Ailin-al-sb-2" x="459" y="13" width="23" height="9" pX="11.3" pY="3.55"/>
+    <SubTexture name="NPC_Ailin-al-tb-1" x="150" y="0" width="47" height="52" pX="22.65" pY="25.3"/>
+    <SubTexture name="NPC_Ailin-al-zb-1" x="334" y="21" width="9" height="4" pX="3.65" pY="1.1"/>
+    <SubTexture name="NPC_Ailin-wq" x="0" y="0" width="95" height="55" pX="46.7" pY="26.9"/>
+    <SubTexture name="NPC_Ailin-al-sb-1" x="459" y="0" width="29" height="12" pX="10.95" pY="4.9"/>
+    <SubTexture name="NPC_Ailin-al-tb-3" x="96" y="0" width="53" height="57" pX="27" pY="26.6"/>
+    <SubTexture name="NPC_Ailin-al-zb-2" x="324" y="21" width="9" height="5" pX="3.45" pY="1.5"/>
+    <SubTexture name="NPC_Ailin-al-sb-04" x="489" y="0" width="17" height="11" pX="8.85" pY="4.6"/>
+    <SubTexture name="NPC_Ailin-al-sb-05" x="507" y="0" width="3" height="3" pX="0.55" pY="0.65"/>
+    <SubTexture name="NPC_Ailin-al-sb-03" x="312" y="21" width="11" height="10" pX="4.95" pY="4.45"/>
+    <SubTexture name="NPC_Ailin-al-sb-4" x="489" y="12" width="14" height="12" pX="6.4" pY="5.1"/>
+    <SubTexture name="NPC_Ailin-shouren p2 huohua" x="445" y="0" width="13" height="29" pX="8.1" pY="16.65"/>
+    <SubTexture name="NPC_Ailin-shouren p2 huohua 2" x="430" y="0" width="14" height="30" pX="7.05" pY="17.25"/>
+    <SubTexture name="NPC_Ailin-shouren p2 huohua 3" x="411" y="0" width="18" height="34" pX="7.65" pY="19.35"/>
+    <SubTexture name="NPC_Ailin-shouren p2 huohua 4" x="392" y="0" width="18" height="35" pX="7.05" pY="19.6"/>
+    <SubTexture name="NPC_Ailin-al-sb-01" x="300" y="21" width="11" height="11" pX="4.8" pY="4.85"/>
+    <SubTexture name="NPC_Ailin-al-sb-02" x="287" y="21" width="12" height="11" pX="5.25" pY="5.85"/>
+  </TextureAtlas>
+</skeleton>

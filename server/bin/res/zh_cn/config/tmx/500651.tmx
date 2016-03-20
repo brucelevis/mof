@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="124" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="1" tilewidth="64" tileheight="64">
+  <image source="ruiyishendian_1.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="17" name="7" tilewidth="64" tileheight="64">
+  <image source="ruiyishendian_7.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="33" name="2 (2)" tilewidth="64" tileheight="64">
+  <image source="Dungeons_1_2.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="49" name="1 (2)" tilewidth="64" tileheight="64">
+  <image source="Dungeons_1_1.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="65" name="3" tilewidth="64" tileheight="64">
+  <image source="ruiyishendian_3.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="81" name="4" tilewidth="64" tileheight="64">
+  <image source="ruiyishendian_4.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="97" name="1 (3)" tilewidth="64" tileheight="64">
+  <image source="Dungeons_3_1.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="113" name="5 (3)" tilewidth="64" tileheight="64">
+  <image source="Dungeons_3_5.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="129" name="2" tilewidth="64" tileheight="64">
+  <image source="ruiyishendian_2.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="145" name="5" tilewidth="64" tileheight="64">
+  <image source="ruiyishendian_5.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="161" name="5 (2)" tilewidth="64" tileheight="64">
+  <image source="Dungeons_2_5.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="177" name="3 (2)" tilewidth="64" tileheight="64">
+  <image source="Dungeons_2_3.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="193" name="9" tilewidth="64" tileheight="64">
+  <image source="ruiyishendian_9.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="209" name="6 (3)" tilewidth="64" tileheight="64">
+  <image source="Dungeons_2_6.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="225" name="9 (2)" tilewidth="64" tileheight="64">
+  <image source="Dungeons_3_9.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="229" name="8" tilewidth="64" tileheight="64">
+  <image source="Dungeons_3_8.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="233" name="6 (2)" tilewidth="64" tileheight="64">
+  <image source="Dungeons_3_6.png" width="256" height="256"/>
+ </tileset>
+ <layer name="块层 1" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8kNgDAQwMAlkIOb/qvFTeSz8kh+OEKSJEmSJM22UKGVNj/9V2rUafjpf6eDTrr89H/TQy99fvr/AT0jEHk=
+  </data>
+ </layer>
+ <layer name="块层 2" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8ENwCAQBDHaSIBA/1WyZYSTLc1jWgMAAP7iSW/qafjyP9OXVtq+/AMA9znv5xud
+  </data>
+ </layer>
+ <layer name="块层 3" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx9ENgCAQwFBWQVFEVNx/OroGl76kH01JkiStJtNGOxU//B90UqXLD/+Nbur0+OH/pY8G/X74lyRJ65lM4k55
+  </data>
+ </layer>
+ <layer name="块层 17" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztxoEJACAMBDH3H1VFHcEfo9AEDm4MAAAqm2ml7Vv8STc93+IBAKjtA41r5Zc=
+  </data>
+ </layer>
+ <layer name="块层 18" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzsENgCAABEH67xZE9OlVwMuEQGaS/W8pAADAKWpq6Up98cuMz3/caaQnvYtfZnwCALv6AOjCFu0=
+  </data>
+ </layer>
+ <layer name="块层 4" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8sRgCAQwNBtCUVRwU//VZEmvOzkzeSQEhELrVSp+Kl/o50aHX76P+miTsNP/zc99NLnp39JkiRJkvS/CZO5bXk=
+  </data>
+ </layer>
+ <layer name="块层 9" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzDEKgDAQRNE9u0qUGKJHdtp0C8lY/QfTDT9itGm7dsScVR363n/RTu1Kdt0d+t5/1W6tJbvuDn3vv2uP9ia77g79f/4AAAAAAGCdD8MQLPU=
+  </data>
+ </layer>
+ <layer name="块层 12" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0skNACAIBED778mjNG0CQTOT7BfIhtYA6usnI/uI4m52FL1rnqzA+T/8U3RHWbsivH4/AAAAeTa2tgvp
+  </data>
+ </layer>
+ <layer name="块层 5" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztyrkNgEAQBMFN7Tie4yf/aGgHC0ysVZfUzmhKRHRUqaeZFiruKfeBRpqo0U6He9r9sdIWb+4595Ouj5977l2SJEmSJP3vBquiXfs=
+  </data>
+ </layer>
+ <layer name="块层 6" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztykEOQEAURMG5IoIguP8t9HpuMF9V8jadbg0AGNGU5rTYf7GvaUt797PX3I90pqv72Wvud3rS2/3stXcAYAwfyctWoQ==
+  </data>
+ </layer>
+ <layer name="块层 7" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzzkKwEAMBMH9qu/b+//MEyuyAoEEXTBpw7QG/DdoozYl6VTvezvRv6xFW7UtSad639uJ/mUd2qldSTrV+95O9C/r0V6tJ+lU73s70b+sWdu1O0mnet/bif4FAAAAIM4HNSwkkQ==
+  </data>
+ </layer>
+ <layer name="块层 8" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzEEKwCAUA1GvXKtCC/XszQHc50PmwexCWgPOLtUNP2n7KqZahp+0fRWPeg0/afsqPrUNP2n7Km41DD9pewAAAAAZfjaqIHY=
+  </data>
+ </layer>
+ <layer name="块层 10" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzLkNwDAQxED1n/n/LZdqlnDJGTLAAZgtthRJkvRnHfU00NjAj/+5+4lmWmgN/Gb/+J+732ing87Ab/aP/7n7i26q9AR+s3/8/2YvSZLa9gI7UUK5
+  </data>
+ </layer>
+ <layer name="块层 13" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztz9EJwDAMA9Hsv1YDLSTQjlQPYSER7oF/ffYYAADgdFfNDG467kvoq7p3zSPY29V03JfQV3VXzRbs7Wo67kvoq7pvzSfY29V03JfQd/8NAAB0fhvTH30=
+  </data>
+ </layer>
+ <layer name="块层 14" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0MkNwCAQA0D67y4nKSdugBcgEWVG8tdrbSkAAADASrZkT47k/MHdltl7RvX39lzJndTk6djxlbsts/eM6l/tb8BcL/8FITU=
+  </data>
+ </layer>
+ <layer name="Foreground1" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzrsNACAIQEH339LPIFrTAonFXUJHHowBAAAAAGTMN+vjZmx1trN7nT9UdfebU3yrshlbne3sXucPFd0LcPAcUQ==
+  </data>
+ </layer>
+ <layer name="Foreground2" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztz0EKgDAMBMD+/ykq6hObo6cQWq2XGVjIIWxIawAAAADAG7bIHjmK81+do93ZncrezL2V/dlvT2fkitzFueKLztHu7E5lb+beyv7stw7YznWX
+  </data>
+ </layer>
+ <layer name="Foreground3" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztz7kNACAQA0H675OnDKgAEWBIZqRL17pSAAAAAIAf6rr2sHlz77SV+DHdTnX7uvGweXPvtJX4Md3edSdOmBk3
+  </data>
+ </layer>
+ <objectgroup name="area" width="78" height="12">
+  <object x="24" y="467" width="1536" height="288"/>
+ </objectgroup>
+ <objectgroup name="monster" width="78" height="12">
+  <object name="111139" x="738" y="626"/>
+ </objectgroup>
+ <objectgroup name="AreaBornPoint" width="78" height="12"/>
+</map>

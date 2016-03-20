@@ -1,0 +1,66 @@
+<skeleton name="军人火箭弹（子弹）">
+  <armatures>
+    <armature name="huojiandan">
+      <b name="图层 3" bT="0" bi="korea_juren_huojiandan-qichang" x="41.8" y="-0.5" kX="90" kY="-90" z="0"/>
+      <b name="图层 2" bT="0" bi="korea_juren_huojiandan-qichang" x="41.8" y="-0.5" kX="90" kY="-90" z="1"/>
+      <b name="图层 4" bT="0" bi="korea_juren_huojiandan-qichang" x="51.15" y="-0.3" kX="90" kY="-90" z="2"/>
+      <b name="图层 5" bT="0" bi="korea_juren_huojiandan-qichang" x="52.35" y="-0.75" kX="90" kY="-90" z="2"/>
+      <b name="图层 6" bT="0" bi="korea_juren_huojiandan-qichang" x="52.15" y="-1.65" kX="90" kY="-90" z="1"/>
+      <b name="图层 7" bT="0" bi="korea_juren_huojiandan-qichang" x="52.15" y="-1.65" kX="90" kY="-90" z="2"/>
+      <b name="图层 9" bT="0" bi="korea_juren_huojiandan-huohua" x="73.6" y="0.9" kX="0" kY="0" z="3"/>
+      <b name="图层 1" bT="0" bi="korea_juren_huojiandan-dan" x="27.15" y="-0.45" kX="0" kY="0" z="4"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="huojiandan">
+      <mov name="huojiandan" to="1" dr="7" drTW="7" lp="1">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.78" cY="4.13" z="0" img="korea_juren_huojiandan-qichang" twE="0" dr="2"/>
+          <f x="3.35" y="0" kX="0" kY="0" cX="2.16" cY="2.91" z="0" twE="0" dr="1"/>
+          <f x="3" y="0.5" kX="0" kY="0" cX="2.61" cY="3.44" z="0" twE="0" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.78" cY="4.13" z="1" img="korea_juren_huojiandan-qichang" twE="0" dr="2"/>
+          <f x="4.35" y="-0.4" kX="0" kY="0" cX="2.18" cY="2.97" z="0" twE="0" dr="3"/>
+          <f x="4.55" y="0.9" kX="0" kY="0" cX="3.55" cY="4.68" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.7" cY="3.63" z="2" img="korea_juren_huojiandan-qichang" twE="0" dr="1"/>
+          <f x="-0.45" y="0.7" kX="0" kY="0" cX="3.27" cY="4.31" z="2" twE="0" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.72" cY="3.71" z="2" img="korea_juren_huojiandan-qichang" twE="0" dr="3"/>
+          <f x="0.3" y="1.6" kX="0" kY="0" cX="4.44" cY="5.85" z="2" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="2.29" z="1" img="korea_juren_huojiandan-qichang" twE="0" dr="2"/>
+          <f x="-1" y="1.35" kX="0" kY="0" cX="2.7" cY="3.63" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="2.29" z="2" img="korea_juren_huojiandan-qichang" twE="0" dr="2"/>
+          <f x="0.2" y="0.9" kX="0" kY="0" cX="2.72" cY="3.71" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.31" cY="0.24" z="3" img="korea_juren_huojiandan-huohua" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="1.94" z="3" twE="0" dr="3"/>
+          <f x="18.6" y="-2.1" kX="0" kY="0" cX="2.54" cY="0.25" z="2" dr="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="4" img="korea_juren_huojiandan-dan" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="3" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="军人火箭弹（子弹）" width="512" height="64">
+    <SubTexture name="korea_juren_huojiandan-qichang" x="88" y="0" width="9" height="9" pX="3.95" pY="10.05"/>
+    <SubTexture name="korea_juren_huojiandan-huohua" x="0" y="0" width="41" height="41" pX="19.9" pY="19.8"/>
+    <SubTexture name="korea_juren_huojiandan-dan" x="42" y="0" width="45" height="19" pX="21.5" pY="8.55"/>
+  </TextureAtlas>
+</skeleton>

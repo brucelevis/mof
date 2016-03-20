@@ -1,0 +1,231 @@
+<skeleton name="niudianbuff3">
+  <armatures>
+    <armature name="niutouboss_buff">
+      <b name="图层 15" bT="0" bi="niutouboss_bianshen-ssd1" x="243.55" y="108.15" kX="4.55" kY="28.25" z="0"/>
+      <b name="图层 14" bT="0" bi="niutouboss_bianshen-ssd1" x="88.35" y="219.7" kX="-155.4" kY="-141.03" z="1"/>
+      <b name="图层 12" bT="0" bi="niutouboss_bianshen-ssd1" x="84.65" y="97.95" kX="-94.82" kY="-61.87" z="2"/>
+      <b name="图层 13" bT="0" bi="niutouboss_bianshen-ssd1" x="219.95" y="223.8" kX="105" kY="140.34" z="1"/>
+      <b name="图层 11" bT="0" bi="niutouboss_bianshen-ssd7" x="250.8" y="215.7" kX="152.75" kY="-59.41" z="2"/>
+      <b name="图层 10" bT="0" bi="niutouboss_bianshen-ssd1" x="250.8" y="215.7" kX="152.75" kY="-59.41" z="4"/>
+      <b name="图层 9" bT="0" bi="niutouboss_bianshen-ssd7" x="249" y="169.4" kX="55.61" kY="95.2" z="1"/>
+      <b name="图层 8" bT="0" bi="niutouboss_bianshen-ssd1" x="249" y="169.4" kX="55.61" kY="95.2" z="4"/>
+      <b name="图层 17" bT="0" bi="niutouboss_bianshen-ssd7" x="71.6" y="163" kX="-27.25" kY="120.59" z="3"/>
+      <b name="图层 18" bT="0" bi="niutouboss_bianshen-ssd1" x="71.6" y="163" kX="-27.25" kY="120.59" z="5"/>
+      <b name="图层 19" bT="0" bi="niutouboss_bianshen-ssd7" x="73.4" y="209.3" kX="-124.39" kY="-84.8" z="2"/>
+      <b name="图层 20" bT="0" bi="niutouboss_bianshen-ssd1" x="73.4" y="209.3" kX="-124.39" kY="-84.8" z="5"/>
+      <b name="图层 6" bT="0" bi="niutouboss_bianshen-ssd1" x="189.7" y="60.15" kX="48.6" kY="-173.25" z="7"/>
+      <b name="图层 5" bT="0" bi="niutouboss_bianshen-ssd1" x="141.7" y="75.55" kX="-49.44" kY="-6.06" z="9"/>
+      <b name="图层 4" bT="0" bi="niutouboss_bianshen-ssd6" x="141.7" y="75.55" kX="-49.44" kY="-6.06" z="3"/>
+      <b name="图层 3" bT="0" bi="niutouboss_bianshen-niudian1" x="198.8" y="156.1" kX="0" kY="0" z="6"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="niutouboss_buff">
+      <mov name="niutouboss_buff" to="1" dr="30" drTW="30" lp="1">
+        <b name="图层 15" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.2" z="0" img="niutouboss_bianshen-ssd1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.2" z="0" img="niutouboss_bianshen-ssd2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.2" z="0" img="niutouboss_bianshen-ssd3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.2" z="0" img="niutouboss_bianshen-ssd4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.2" z="0" img="niutouboss_bianshen-ssd5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.2" z="0" img="niutouboss_bianshen-ssd6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.2" z="0" img="niutouboss_bianshen-ssd7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.2" z="0" img="niutouboss_bianshen-ssd8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.2" z="0" img="niutouboss_bianshen-ssd9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.2" z="0" img="niutouboss_bianshen-ssd10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.2" z="0" img="niutouboss_bianshen-ssd11" dr="2"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.22" cY="0.85" z="1" img="niutouboss_bianshen-ssd1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.22" cY="0.85" z="1" img="niutouboss_bianshen-ssd2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.22" cY="0.85" z="1" img="niutouboss_bianshen-ssd3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.22" cY="0.85" z="1" img="niutouboss_bianshen-ssd4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.22" cY="0.85" z="1" img="niutouboss_bianshen-ssd5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.22" cY="0.85" z="1" img="niutouboss_bianshen-ssd6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.22" cY="0.85" z="1" img="niutouboss_bianshen-ssd7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.22" cY="0.85" z="1" img="niutouboss_bianshen-ssd8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.22" cY="0.85" z="0" img="niutouboss_bianshen-ssd9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.22" cY="0.85" z="0" img="niutouboss_bianshen-ssd10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.22" cY="0.85" z="0" img="niutouboss_bianshen-ssd11" dr="2"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.16" z="2" img="niutouboss_bianshen-ssd1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.16" z="2" img="niutouboss_bianshen-ssd2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.16" z="2" img="niutouboss_bianshen-ssd3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.16" z="2" img="niutouboss_bianshen-ssd4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.16" z="2" img="niutouboss_bianshen-ssd5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.16" z="2" img="niutouboss_bianshen-ssd6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.16" z="2" img="niutouboss_bianshen-ssd7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.16" z="1" img="niutouboss_bianshen-ssd8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.16" z="1" img="niutouboss_bianshen-ssd9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.16" z="1" img="niutouboss_bianshen-ssd10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.16" z="0" img="niutouboss_bianshen-ssd11" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.4" z="1" img="niutouboss_bianshen-ssd1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.4" z="2" img="niutouboss_bianshen-ssd2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.4" z="3" img="niutouboss_bianshen-ssd3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.4" z="3" img="niutouboss_bianshen-ssd4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.4" z="3" img="niutouboss_bianshen-ssd5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.4" z="3" img="niutouboss_bianshen-ssd6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.4" z="3" img="niutouboss_bianshen-ssd7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.4" z="3" img="niutouboss_bianshen-ssd8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.4" z="3" img="niutouboss_bianshen-ssd9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.4" z="2" img="niutouboss_bianshen-ssd10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.23" cY="1.4" z="2" img="niutouboss_bianshen-ssd11" dr="2"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="2" img="niutouboss_bianshen-ssd7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="2" img="niutouboss_bianshen-ssd8" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="4" img="niutouboss_bianshen-ssd9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="4" img="niutouboss_bianshen-ssd10" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="4" img="niutouboss_bianshen-ssd11" dr="2"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="4" img="niutouboss_bianshen-ssd1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="4" img="niutouboss_bianshen-ssd2" dr="2"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="3" img="niutouboss_bianshen-ssd3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="2" img="niutouboss_bianshen-ssd4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="1" img="niutouboss_bianshen-ssd5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="0" img="niutouboss_bianshen-ssd6" dr="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="1" img="niutouboss_bianshen-ssd7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="2" img="niutouboss_bianshen-ssd8" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="3" img="niutouboss_bianshen-ssd9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="5" img="niutouboss_bianshen-ssd10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="4" img="niutouboss_bianshen-ssd11" dr="2"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="4" img="niutouboss_bianshen-ssd1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="5" img="niutouboss_bianshen-ssd2" dr="2"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="5" img="niutouboss_bianshen-ssd3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="4" img="niutouboss_bianshen-ssd4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="3" img="niutouboss_bianshen-ssd5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="2" img="niutouboss_bianshen-ssd6" dr="2"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="3" img="niutouboss_bianshen-ssd7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="4" img="niutouboss_bianshen-ssd8" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="6" img="niutouboss_bianshen-ssd9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="6" img="niutouboss_bianshen-ssd10" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="5" img="niutouboss_bianshen-ssd11" dr="2"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="5" img="niutouboss_bianshen-ssd1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="6" img="niutouboss_bianshen-ssd2" dr="2"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="5" img="niutouboss_bianshen-ssd3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="4" img="niutouboss_bianshen-ssd4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="2" img="niutouboss_bianshen-ssd5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.34" z="1" img="niutouboss_bianshen-ssd6" dr="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="2" img="niutouboss_bianshen-ssd7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="4" img="niutouboss_bianshen-ssd8" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="4" img="niutouboss_bianshen-ssd9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="7" img="niutouboss_bianshen-ssd10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="5" img="niutouboss_bianshen-ssd11" dr="2"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="5" img="niutouboss_bianshen-ssd1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="7" img="niutouboss_bianshen-ssd2" dr="2"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="7" img="niutouboss_bianshen-ssd3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="6" img="niutouboss_bianshen-ssd4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="5" img="niutouboss_bianshen-ssd5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.33" cY="1.76" z="4" img="niutouboss_bianshen-ssd6" dr="2"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.34" z="7" img="niutouboss_bianshen-ssd1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.34" z="8" img="niutouboss_bianshen-ssd2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.34" z="4" img="niutouboss_bianshen-ssd3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.34" z="6" img="niutouboss_bianshen-ssd4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.34" z="4" img="niutouboss_bianshen-ssd5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.34" z="6" img="niutouboss_bianshen-ssd6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.34" z="8" img="niutouboss_bianshen-ssd7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.34" z="6" img="niutouboss_bianshen-ssd8" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.34" z="8" img="niutouboss_bianshen-ssd9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.34" z="7" img="niutouboss_bianshen-ssd10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.34" z="6" img="niutouboss_bianshen-ssd11" dr="2"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.49" z="9" img="niutouboss_bianshen-ssd1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.49" z="8" img="niutouboss_bianshen-ssd2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.49" z="7" img="niutouboss_bianshen-ssd3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.49" z="5" img="niutouboss_bianshen-ssd4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.49" z="2" img="niutouboss_bianshen-ssd5" dr="2"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.49" z="3" img="niutouboss_bianshen-ssd6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.49" z="4" img="niutouboss_bianshen-ssd7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.49" z="6" img="niutouboss_bianshen-ssd8" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.49" z="8" img="niutouboss_bianshen-ssd9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.49" z="9" img="niutouboss_bianshen-ssd10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.32" cY="1.49" z="5" img="niutouboss_bianshen-ssd11" dr="2"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="6" img="niutouboss_bianshen-niudian1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="7" img="niutouboss_bianshen-niudian2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="10" img="niutouboss_bianshen-niudian3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="5" img="niutouboss_bianshen-niudian4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="5" img="niutouboss_bianshen-niudian5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="7" img="niutouboss_bianshen-niudian1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="10" img="niutouboss_bianshen-niudian2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="9" img="niutouboss_bianshen-niudian3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="7" img="niutouboss_bianshen-niudian4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="3" img="niutouboss_bianshen-niudian5" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="niudianbuff3" width="512" height="512">
+    <SubTexture name="niutouboss_bianshen-ssd1" x="444" y="241" width="62" height="83" pX="36.95" pY="38.85"/>
+    <SubTexture name="niutouboss_bianshen-ssd2" x="253" y="292" width="59" height="80" pX="29.95" pY="43.85"/>
+    <SubTexture name="niutouboss_bianshen-ssd3" x="313" y="315" width="59" height="79" pX="29.9" pY="40.9"/>
+    <SubTexture name="niutouboss_bianshen-ssd4" x="183" y="292" width="69" height="74" pX="25" pY="38.9"/>
+    <SubTexture name="niutouboss_bianshen-ssd5" x="370" y="0" width="94" height="92" pX="49.4" pY="40.5"/>
+    <SubTexture name="niutouboss_bianshen-ssd6" x="367" y="241" width="76" height="73" pX="28.9" pY="40.95"/>
+    <SubTexture name="niutouboss_bianshen-ssd7" x="370" y="93" width="91" height="78" pX="42.95" pY="38.9"/>
+    <SubTexture name="niutouboss_bianshen-ssd8" x="367" y="172" width="87" height="68" pX="38.9" pY="37.9"/>
+    <SubTexture name="niutouboss_bianshen-ssd9" x="455" y="172" width="54" height="68" pX="39.95" pY="37.9"/>
+    <SubTexture name="niutouboss_bianshen-ssd10" x="465" y="0" width="38" height="40" pX="22" pY="15.85"/>
+    <SubTexture name="niutouboss_bianshen-ssd11" x="465" y="41" width="28" height="23" pX="15.65" pY="15"/>
+    <SubTexture name="niutouboss_bianshen-niudian1" x="0" y="292" width="182" height="143" pX="107.45" pY="80.5"/>
+    <SubTexture name="niutouboss_bianshen-niudian2" x="184" y="146" width="182" height="145" pX="114.5" pY="83"/>
+    <SubTexture name="niutouboss_bianshen-niudian3" x="0" y="0" width="184" height="145" pX="102.5" pY="83"/>
+    <SubTexture name="niutouboss_bianshen-niudian4" x="0" y="146" width="183" height="145" pX="101.5" pY="83"/>
+    <SubTexture name="niutouboss_bianshen-niudian5" x="185" y="0" width="184" height="145" pX="102.5" pY="83"/>
+  </TextureAtlas>
+</skeleton>

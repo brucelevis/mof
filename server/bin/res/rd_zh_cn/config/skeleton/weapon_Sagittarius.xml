@@ -1,0 +1,15 @@
+<skeleton name="射手座武器">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_Sagittarius" bT="0" bi="weapon_Sagittarius-weapon-fs_Sagittarius" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Sagittarius-weapon-fs_Sagittarius"/>
+      <b name="weapon-ck_Sagittarius" bT="0" bi="weapon_Sagittarius-weapon-ck_Sagittarius" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Sagittarius-weapon-ck_Sagittarius"/>
+      <b name="weapon-zs_Sagittarius" bT="0" bi="weapon_Sagittarius-weapon-zs_Sagittarius" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Sagittarius-weapon-zs_Sagittarius"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="射手座武器" width="512" height="256">
+    <SubTexture name="weapon_Sagittarius-weapon-fs_Sagittarius" x="0" y="0" width="68" height="202" pX="31.5" pY="102.6"/>
+    <SubTexture name="weapon_Sagittarius-weapon-ck_Sagittarius" x="246" y="0" width="65" height="117" pX="27.3" pY="68.9"/>
+    <SubTexture name="weapon_Sagittarius-weapon-zs_Sagittarius" x="69" y="0" width="176" height="49" pX="31.5" pY="25.25"/>
+  </TextureAtlas>
+</skeleton>

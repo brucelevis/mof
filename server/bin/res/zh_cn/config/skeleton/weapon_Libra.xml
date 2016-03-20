@@ -1,0 +1,15 @@
+<skeleton name="天平座武器(3)">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_Libra" bT="0" bi="weapon_Libra-weapon-fs_Libra" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Libra-weapon-fs_Libra"/>
+      <b name="weapon-ck_Libra" bT="0" bi="weapon_Libra-weapon-ck_Libra" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Libra-weapon-ck_Libra"/>
+      <b name="weapon-zs_Libra" bT="0" bi="weapon_Libra-weapon-zs_Libra" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Libra-weapon-zs_Libra"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="天平座武器(3)" width="512" height="256">
+    <SubTexture name="weapon_Libra-weapon-fs_Libra" x="0" y="0" width="81" height="218" pX="37" pY="121.9"/>
+    <SubTexture name="weapon_Libra-weapon-ck_Libra" x="270" y="0" width="49" height="124" pX="35.4" pY="71.2"/>
+    <SubTexture name="weapon_Libra-weapon-zs_Libra" x="82" y="0" width="187" height="52" pX="38.9" pY="26.7"/>
+  </TextureAtlas>
+</skeleton>

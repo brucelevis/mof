@@ -1,0 +1,186 @@
+<skeleton name="礼包光效">
+  <armatures>
+    <armature name="libao">
+      <b name="盒身" bT="0" bi="LibaoAnimation-l" x="75.15" y="99.5" kX="0" kY="0" z="0"/>
+      <b name="带子2" bT="0" bi="LibaoAnimation-l3" x="117.75" y="132.45" kX="0" kY="0" z="1"/>
+      <b name="带子1" bT="0" bi="LibaoAnimation-l2" x="84.1" y="132.45" kX="0" kY="0" z="2"/>
+      <b name="盖子" bT="0" bi="LibaoAnimation-l1" x="74.4" y="96.7" kX="0" kY="0" z="3"/>
+      <b name="光效" bT="0" bi="LibaoAnimation-dvsgg-1" x="100.6" y="113.35" kX="-90" kY="-90" z="4"/>
+      <b name="图层 8" bT="0" bi="LibaoAnimation-g1" x="63.5" y="77.2" kX="0" kY="0" z="5"/>
+      <b name="图层 8 复制" bT="0" bi="LibaoAnimation-g1" x="75.9" y="67.7" kX="0" kY="0" z="6"/>
+      <b name="图层 8  复制 2" bT="0" bi="LibaoAnimation-g1" x="91.75" y="64.7" kX="0" kY="0" z="7"/>
+      <b name="图层 8   复制 3" bT="0" bi="LibaoAnimation-g1" x="108.15" y="66.75" kX="0" kY="0" z="8"/>
+      <b name="图层 8    复制 4" bT="0" bi="LibaoAnimation-g1" x="119.6" y="76.25" kX="0" kY="0" z="9"/>
+      <b name="图层 8     复制 5" bT="0" bi="LibaoAnimation-g1" x="127.7" y="87.1" kX="0" kY="0" z="10"/>
+      <b name="图层 8      复制 6" bT="0" bi="LibaoAnimation-g1" x="130.8" y="100.95" kX="0" kY="0" z="11"/>
+      <b name="图层 8       复制 7" bT="0" bi="LibaoAnimation-g1" x="130.55" y="112.3" kX="0" kY="0" z="12"/>
+      <b name="图层 8        复制 8" bT="0" bi="LibaoAnimation-g1" x="126.25" y="123.5" kX="0" kY="0" z="13"/>
+      <b name="图层 8         复制 9" bT="0" bi="LibaoAnimation-g1" x="120.3" y="131.1" kX="0" kY="0" z="14"/>
+      <b name="图层 8          复制 10" bT="0" bi="LibaoAnimation-g1" x="112" y="136.6" kX="0" kY="0" z="15"/>
+      <b name="图层 8           复制 11" bT="0" bi="LibaoAnimation-g1" x="101.7" y="141.6" kX="0" kY="0" z="16"/>
+      <b name="图层 8            复制 12" bT="0" bi="LibaoAnimation-g1" x="89.15" y="141.6" kX="0" kY="0" z="17"/>
+      <b name="图层 8             复制 13" bT="0" bi="LibaoAnimation-g1" x="74" y="137.3" kX="0" kY="0" z="18"/>
+      <b name="图层 8              复制 14" bT="0" bi="LibaoAnimation-g1" x="64.45" y="130.35" kX="0" kY="0" z="19"/>
+      <b name="图层 8               复制 15" bT="0" bi="LibaoAnimation-g1" x="56.55" y="118.8" kX="0" kY="0" z="20"/>
+      <b name="图层 8                复制 16" bT="0" bi="LibaoAnimation-g1" x="53.2" y="104.55" kX="0" kY="0" z="21"/>
+      <b name="图层 8                 复制 17" bT="0" bi="LibaoAnimation-g1" x="57.05" y="88.8" kX="0" kY="0" z="22"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="libao">
+      <mov name="libao" to="1" dr="12" drTW="24">
+        <b name="盒身" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="0" img="LibaoAnimation-l" twE="0" dr="3"/>
+          <f x="-10.25" y="-8.55" kX="0" kY="0" cX="0.9" cY="0.9" z="0" dr="1"/>
+          <f x="-13.65" y="-4.35" kX="-2.81" kY="-2.81" cX="0.9" cY="0.9" z="0" dr="1"/>
+          <f x="-13.65" y="-4.35" kX="-2.81" kY="-2.81" cX="0.9" cY="0.9" z="0" dr="6"/>
+          <f x="-13.65" y="-4.35" kX="-2.81" kY="-2.81" cX="0.9" cY="0.9" z="0" dr="1"/>
+        </b>
+        <b name="带子2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="1" img="LibaoAnimation-l3" twE="0" dr="3"/>
+          <f x="3.45" y="0.7" kX="0" kY="0" cX="0.9" cY="0.9" z="1" dr="1"/>
+          <f x="2.25" y="3.45" kX="-2.81" kY="-2.81" cX="0.9" cY="0.9" z="1" dr="1"/>
+          <f x="3.25" y="3.95" kX="-2.81" kY="-2.81" cX="0.9" cY="0.9" z="1" dr="6"/>
+          <f x="3.25" y="3.95" kX="-2.81" kY="-2.81" cX="0.9" cY="0.9" z="1" dr="1"/>
+        </b>
+        <b name="带子1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="2" img="LibaoAnimation-l2" twE="0" dr="3"/>
+          <f x="-7" y="1.7" kX="0" kY="0" cX="0.9" cY="0.9" z="2" dr="1"/>
+          <f x="-8.15" y="6.55" kX="-2.81" kY="-2.81" cX="0.9" cY="0.9" z="2" dr="1"/>
+          <f x="-9.65" y="5.55" kX="-2.81" kY="-2.81" cX="0.9" cY="0.9" z="2" dr="6"/>
+          <f x="-9.65" y="5.55" kX="-2.81" kY="-2.81" cX="0.9" cY="0.9" z="2" dr="1"/>
+        </b>
+        <b name="盖子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="3" img="LibaoAnimation-l1" twE="0" dr="3"/>
+          <f x="-10.35" y="-10.5" kX="0" kY="0" cX="0.9" cY="0.9" z="3" dr="1"/>
+          <f x="-13.55" y="-5.15" kX="-2.81" kY="-2.81" cX="0.9" cY="0.9" z="3" dr="1"/>
+          <f x="20.55" y="-55.25" kX="27.05" kY="27.05" cX="0.9" cY="0.9" z="3" dr="6"/>
+          <f x="20.55" y="-55.25" kX="27.05" kY="27.05" cX="0.9" cY="0.9" z="3" dr="1"/>
+        </b>
+        <b name="光效" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.67" cY="0.67" z="4" img="LibaoAnimation-dvsgg-1" dr="1"/>
+          <f x="-0.1" y="1.1" kX="185.98" kY="185.98" cX="1" cY="1" z="4" dr="1"/>
+          <f x="1.4" y="1.6" kX="179.99" kY="179.99" cX="1.12" cY="1.12" z="4" dr="3"/>
+          <f x="0.9" y="-1.4" kX="180" kY="0" cX="0.82" cY="0.82" z="4" dr="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="5" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="-8.15" y="-4.65" kX="0" kY="0" cX="0.54" cY="0.54" z="5" twE="0" dr="2"/>
+          <f x="-17.4" y="-12.2" kX="0" kY="0" cX="0.2" cY="0.2" z="5" dr="1"/>
+        </b>
+        <b name="图层 8 复制" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="6" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="-10.9" y="-15.45" kX="0" kY="0" cX="0.54" cY="0.54" z="6" twE="0" dr="2"/>
+          <f x="-9.8" y="-17.75" kX="0" kY="0" cX="0.2" cY="0.2" z="6" dr="1"/>
+        </b>
+        <b name="图层 8  复制 2" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="7" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="0.45" y="-8.25" kX="0" kY="0" cX="0.54" cY="0.54" z="7" twE="0" dr="2"/>
+          <f x="1.35" y="-22.7" kX="0" kY="0" cX="0.2" cY="0.2" z="7" dr="1"/>
+        </b>
+        <b name="图层 8   复制 3" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="8" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="6.1" y="-21.25" kX="0" kY="0" cX="0.54" cY="0.54" z="8" twE="0" dr="2"/>
+          <f x="10.95" y="-24.75" kX="0" kY="0" cX="0.2" cY="0.2" z="8" dr="1"/>
+        </b>
+        <b name="图层 8    复制 4" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="9" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="10.1" y="-10.5" kX="0" kY="0" cX="0.54" cY="0.54" z="9" twE="0" dr="2"/>
+          <f x="25.2" y="-20.3" kX="0" kY="0" cX="0.2" cY="0.2" z="9" dr="1"/>
+        </b>
+        <b name="图层 8     复制 5" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="10" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="25.35" y="-13" kX="0" kY="0" cX="0.54" cY="0.54" z="10" twE="0" dr="2"/>
+          <f x="34.1" y="-13.6" kX="0" kY="0" cX="0.2" cY="0.2" z="10" dr="1"/>
+        </b>
+        <b name="图层 8      复制 6" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="11" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="21.3" y="-3.9" kX="0" kY="0" cX="0.54" cY="0.54" z="11" twE="0" dr="2"/>
+          <f x="40" y="-3.4" kX="0" kY="0" cX="0.2" cY="0.2" z="11" dr="1"/>
+        </b>
+        <b name="图层 8       复制 7" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="12" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="30.35" y="7.35" kX="0" kY="0" cX="0.54" cY="0.54" z="12" twE="0" dr="2"/>
+          <f x="40.25" y="11.2" kX="0" kY="0" cX="0.2" cY="0.2" z="12" dr="1"/>
+        </b>
+        <b name="图层 8        复制 8" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="13" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="21.35" y="13.8" kX="0" kY="0" cX="0.54" cY="0.54" z="13" twE="0" dr="2"/>
+          <f x="35.55" y="23" kX="0" kY="0" cX="0.2" cY="0.2" z="13" dr="1"/>
+        </b>
+        <b name="图层 8         复制 9" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="14" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="17.35" y="26.65" kX="0" kY="0" cX="0.54" cY="0.54" z="14" twE="0" dr="2"/>
+          <f x="24.5" y="34.4" kX="0" kY="0" cX="0.2" cY="0.2" z="14" dr="1"/>
+        </b>
+        <b name="图层 8          复制 10" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="15" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="5.4" y="27.25" kX="0" kY="0" cX="0.54" cY="0.54" z="15" twE="0" dr="2"/>
+          <f x="12.8" y="40" kX="0" kY="0" cX="0.2" cY="0.2" z="15" dr="1"/>
+        </b>
+        <b name="图层 8           复制 11" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="16" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="-1.8" y="30.7" kX="0" kY="0" cX="0.54" cY="0.54" z="16" twE="0" dr="2"/>
+          <f x="1.1" y="40" kX="0" kY="0" cX="0.2" cY="0.2" z="16" dr="1"/>
+        </b>
+        <b name="图层 8            复制 12" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="17" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="-9.1" y="22.4" kX="0" kY="0" cX="0.54" cY="0.54" z="17" twE="0" dr="2"/>
+          <f x="-11.15" y="35" kX="0" kY="0" cX="0.2" cY="0.2" z="17" dr="1"/>
+        </b>
+        <b name="图层 8             复制 13" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="18" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="-10.9" y="25.5" kX="0" kY="0" cX="0.54" cY="0.54" z="18" twE="0" dr="2"/>
+          <f x="-10" y="33.15" kX="0" kY="0" cX="0.2" cY="0.2" z="18" dr="1"/>
+        </b>
+        <b name="图层 8              复制 14" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="19" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="-8.5" y="16.8" kX="0" kY="0" cX="0.54" cY="0.54" z="19" twE="0" dr="2"/>
+          <f x="-15.45" y="27.35" kX="0" kY="0" cX="0.2" cY="0.2" z="19" dr="1"/>
+        </b>
+        <b name="图层 8               复制 15" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="20" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="-18.1" y="14.65" kX="0" kY="0" cX="0.54" cY="0.54" z="20" twE="0" dr="2"/>
+          <f x="-19.5" y="20.55" kX="0" kY="0" cX="0.2" cY="0.2" z="20" dr="1"/>
+        </b>
+        <b name="图层 8                复制 16" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="21" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="-10.15" y="10.3" kX="0" kY="0" cX="0.54" cY="0.54" z="21" twE="0" dr="2"/>
+          <f x="-22.1" y="13.8" kX="0" kY="0" cX="0.2" cY="0.2" z="21" dr="1"/>
+        </b>
+        <b name="图层 8                 复制 17" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.84" z="22" img="LibaoAnimation-g1" twE="0" dr="3"/>
+          <f x="-21.2" y="-0.65" kX="0" kY="0" cX="0.54" cY="0.54" z="22" twE="0" dr="2"/>
+          <f x="-22.9" y="1.55" kX="0" kY="0" cX="0.2" cY="0.2" z="22" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="礼包光效" width="512" height="256">
+    <SubTexture name="LibaoAnimation-l" x="147" y="0" width="96" height="87" pX="0" pY="0"/>
+    <SubTexture name="LibaoAnimation-l3" x="373" y="0" width="21" height="31" pX="0" pY="0"/>
+    <SubTexture name="LibaoAnimation-l2" x="395" y="0" width="19" height="31" pX="0" pY="0"/>
+    <SubTexture name="LibaoAnimation-l1" x="244" y="0" width="99" height="72" pX="0" pY="0"/>
+    <SubTexture name="LibaoAnimation-dvsgg-1" x="0" y="0" width="146" height="142" pX="72.15" pY="70.3"/>
+    <SubTexture name="LibaoAnimation-g1" x="344" y="0" width="28" height="26" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

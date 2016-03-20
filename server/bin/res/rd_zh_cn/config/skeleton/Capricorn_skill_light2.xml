@@ -1,0 +1,40 @@
+<skeleton name="摩羯施法资源">
+  <armatures>
+    <armature name="mojieshifa">
+      <b name="图层 1" bT="0" bi="Capricorn_skill_light2-MJSF1" x="135.55" y="-419.55" kX="0" kY="180" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="mojieshifa">
+      <mov name="mojieshifa" to="1" dr="34" drTW="34" lp="0">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Capricorn_skill_light2-MJSF1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Capricorn_skill_light2-MJSF2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Capricorn_skill_light2-MJSF3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Capricorn_skill_light2-MJSF4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Capricorn_skill_light2-MJSF5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Capricorn_skill_light2-MJSF6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Capricorn_skill_light2-MJSF7" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Capricorn_skill_light2-MJSF8" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Capricorn_skill_light2-MJSF9" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Capricorn_skill_light2-MJSF10" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Capricorn_skill_light2-MJSF11" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="摩羯施法资源" width="512" height="1024">
+    <SubTexture name="Capricorn_skill_light2-MJSF1" x="0" y="0" width="165" height="241" pX="0" pY="0"/>
+    <SubTexture name="Capricorn_skill_light2-MJSF2" x="166" y="0" width="165" height="241" pX="0" pY="0"/>
+    <SubTexture name="Capricorn_skill_light2-MJSF3" x="332" y="0" width="165" height="241" pX="0" pY="0"/>
+    <SubTexture name="Capricorn_skill_light2-MJSF4" x="0" y="484" width="165" height="241" pX="0" pY="0"/>
+    <SubTexture name="Capricorn_skill_light2-MJSF5" x="332" y="242" width="165" height="241" pX="0" pY="0"/>
+    <SubTexture name="Capricorn_skill_light2-MJSF6" x="166" y="242" width="165" height="241" pX="0" pY="0"/>
+    <SubTexture name="Capricorn_skill_light2-MJSF7" x="0" y="242" width="165" height="241" pX="0" pY="0"/>
+    <SubTexture name="Capricorn_skill_light2-MJSF8" x="166" y="484" width="129" height="241" pX="0" pY="0"/>
+    <SubTexture name="Capricorn_skill_light2-MJSF9" x="296" y="484" width="95" height="241" pX="-34" pY="0"/>
+    <SubTexture name="Capricorn_skill_light2-MJSF10" x="392" y="484" width="90" height="32" pX="-44.05" pY="-209.05"/>
+    <SubTexture name="Capricorn_skill_light2-MJSF11" x="392" y="517" width="87" height="32" pX="-40.05" pY="-207.05"/>
+  </TextureAtlas>
+</skeleton>

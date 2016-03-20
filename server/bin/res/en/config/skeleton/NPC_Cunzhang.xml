@@ -1,0 +1,200 @@
+<skeleton name="村长(2)">
+  <armatures>
+    <armature name="stand">
+      <b name="图层 1" bT="0" bi="NPC_Cunzhang-yz1-1" x="155.2" y="252.75" kX="0" kY="0" z="0"/>
+      <b name="图层 5" bT="0" bi="NPC_Cunzhang-czxt1" x="181.7" y="236.75" kX="0" kY="0" z="1"/>
+      <b name="czsb2" bT="0" bi="NPC_Cunzhang-czsb2" x="168.3" y="202.8" kX="12.48" kY="12.48" z="2"/>
+      <b name="czst1" bT="0" bi="NPC_Cunzhang-czst1" x="185.7" y="202.2" kX="0" kY="0" z="3"/>
+      <b name="czt1" bT="0" bi="NPC_Cunzhang-czt1" x="176.95" y="176.55" kX="0" kY="0" z="4"/>
+      <b name="czsb1" bT="0" bi="NPC_Cunzhang-czsb1" x="183.95" y="211.75" kX="0" kY="0" z="5"/>
+      <b name="图层 8" bT="0" bi="NPC_Cunzhang-czz1" x="173.85" y="234.2" kX="0" kY="0" z="6"/>
+      <b name="图层 7" bT="0" bi="NPC_Cunzhang-czsz1" x="170.75" y="210.2" kX="-30" kY="-30" z="7"/>
+      <b name="图层 13" bT="0" bi="NPC_Cunzhang-czsb3" x="163.45" y="205.6" kX="-48.73" kY="131.27" z="6"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="36" drTW="36" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="NPC_Cunzhang-yz1-1" dr="36"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Cunzhang-czxt1" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="czsb2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Cunzhang-czsb2" twE="0" dr="18"/>
+          <f x="0" y="1.25" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="czst1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Cunzhang-czst1" twE="0" dr="18"/>
+          <f x="0" y="1.25" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="czt1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Cunzhang-czt1" twE="0" dr="18"/>
+          <f x="0" y="2.5" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="17"/>
+          <f x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="czsb1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Cunzhang-czsb1" twE="0" dr="18"/>
+          <f x="-0.15" y="0.5" kX="5.94" kY="5.94" cX="1" cY="1" z="5" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Cunzhang-czz1" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Cunzhang-czsz1" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+      </mov>
+      <mov name="physical_1" to="1" dr="85" drTW="85">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="NPC_Cunzhang-yz1-1" dr="84"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Cunzhang-czxt1" dr="84"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="czsb2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Cunzhang-czsb2" twE="0" dr="5"/>
+          <f x="-3.55" y="-8.65" kX="35.21" kY="35.21" cX="1" cY="1" z="2" dr="4"/>
+          <f x="-3.55" y="-8.65" kX="35.21" kY="35.21" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-3.95" y="-8.2" kX="34.21" kY="34.21" cX="1" cY="1" z="2" twE="0" dr="5"/>
+          <f x="-3.55" y="-8.65" kX="35.21" kY="35.21" cX="1" cY="1" z="2" dr="12"/>
+          <f x="-3.55" y="-8.65" kX="35.21" kY="35.21" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-3.95" y="-8.2" kX="34.21" kY="34.21" cX="1" cY="1" z="2" twE="0" dr="5"/>
+          <f x="-3.55" y="-8.65" kX="35.21" kY="35.21" cX="1" cY="1" z="2" dr="2"/>
+          <f x="-3.55" y="-8.65" kX="35.21" kY="35.21" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-3.95" y="-8.2" kX="34.21" kY="34.21" cX="1" cY="1" z="2" twE="0" dr="5"/>
+          <f x="-3.55" y="-8.65" kX="35.21" kY="35.21" cX="1" cY="1" z="2" dr="4"/>
+          <f x="-3.55" y="-8.65" kX="35.21" kY="35.21" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-3.95" y="-8.2" kX="34.21" kY="34.21" cX="1" cY="1" z="2" twE="0" dr="2"/>
+          <f x="-3.95" y="-8.2" kX="34.21" kY="34.21" cX="1" cY="1" z="2" twE="0" dr="5"/>
+          <f x="-3.55" y="-8.65" kX="35.21" kY="35.21" cX="1" cY="1" z="2" dr="14"/>
+          <f x="-3.55" y="-8.65" kX="35.21" kY="35.21" cX="1" cY="1" z="2" twE="0" dr="9"/>
+          <f x="0" y="-2.5" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="czst1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Cunzhang-czst1" twE="0" dr="5"/>
+          <f x="0.45" y="0" kX="1.51" kY="1.51" cX="1" cY="1" z="3" dr="4"/>
+          <f x="0.45" y="0" kX="1.51" kY="1.51" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="-0.9" y="-0.6" kX="-3.19" kY="-3.19" cX="1" cY="1.05" z="3" twE="0" dr="5"/>
+          <f x="0.45" y="0" kX="1.51" kY="1.51" cX="1" cY="1" z="3" dr="12"/>
+          <f x="0.45" y="0" kX="1.51" kY="1.51" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="-0.9" y="-0.6" kX="-3.19" kY="-3.19" cX="1" cY="1.05" z="3" twE="0" dr="5"/>
+          <f x="0.45" y="0" kX="1.51" kY="1.51" cX="1" cY="1" z="3" dr="2"/>
+          <f x="0.45" y="0" kX="1.51" kY="1.51" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="-0.9" y="-0.6" kX="-3.19" kY="-3.19" cX="1" cY="1.05" z="3" twE="0" dr="5"/>
+          <f x="0.45" y="0" kX="1.51" kY="1.51" cX="1" cY="1" z="3" dr="4"/>
+          <f x="0.45" y="0" kX="1.51" kY="1.51" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="-0.9" y="-0.6" kX="-3.19" kY="-3.19" cX="1" cY="1.05" z="3" twE="0" dr="2"/>
+          <f x="-0.9" y="-0.6" kX="-3.19" kY="-3.19" cX="1" cY="1.05" z="3" twE="0" dr="5"/>
+          <f x="0.45" y="0" kX="1.51" kY="1.51" cX="1" cY="1" z="3" dr="14"/>
+          <f x="0.45" y="0" kX="1.51" kY="1.51" cX="1" cY="1" z="3" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="czt1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Cunzhang-czt1" twE="0" dr="5"/>
+          <f x="0.8" y="0.15" kX="-2.49" kY="-2.49" cX="1" cY="1" z="4" dr="4"/>
+          <f x="0.8" y="0.15" kX="-2.49" kY="-2.49" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="-3.9" y="3.6" kX="-10.69" kY="-10.69" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="0.8" y="0.15" kX="-2.49" kY="-2.49" cX="1" cY="1" z="4" dr="12"/>
+          <f x="0.8" y="0.15" kX="-2.49" kY="-2.49" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="-3.9" y="3.6" kX="-10.69" kY="-10.69" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="0.8" y="0.15" kX="-2.49" kY="-2.49" cX="1" cY="1" z="4" dr="2"/>
+          <f x="0.8" y="0.15" kX="-2.49" kY="-2.49" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="-3.9" y="3.6" kX="-10.69" kY="-10.69" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="0.8" y="0.15" kX="-2.49" kY="-2.49" cX="1" cY="1" z="4" dr="4"/>
+          <f x="0.8" y="0.15" kX="-2.49" kY="-2.49" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="-3.9" y="3.6" kX="-10.69" kY="-10.69" cX="1" cY="1" z="4" twE="0" dr="2"/>
+          <f x="-3.9" y="3.6" kX="-10.69" kY="-10.69" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="0.8" y="0.15" kX="-2.49" kY="-2.49" cX="1" cY="1" z="4" dr="14"/>
+          <f x="0.8" y="0.15" kX="-2.49" kY="-2.49" cX="1" cY="1" z="4" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="czsb1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Cunzhang-czsb1" twE="0" dr="5"/>
+          <f x="0.15" y="-0.05" kX="1.52" kY="1.52" cX="1" cY="1" z="5" dr="4"/>
+          <f x="0.15" y="-0.05" kX="1.52" kY="1.52" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="-0.2" y="-0.1" kX="-0.48" kY="-0.48" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="0.15" y="-0.05" kX="1.52" kY="1.52" cX="1" cY="1" z="5" dr="12"/>
+          <f x="0.15" y="-0.05" kX="1.52" kY="1.52" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="-0.2" y="-0.1" kX="-0.48" kY="-0.48" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="0.15" y="-0.05" kX="1.52" kY="1.52" cX="1" cY="1" z="5" dr="2"/>
+          <f x="0.15" y="-0.05" kX="1.52" kY="1.52" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="-0.2" y="-0.1" kX="-0.48" kY="-0.48" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="0.15" y="-0.05" kX="1.52" kY="1.52" cX="1" cY="1" z="5" dr="4"/>
+          <f x="0.15" y="-0.05" kX="1.52" kY="1.52" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="-0.2" y="-0.1" kX="-0.48" kY="-0.48" cX="1" cY="1" z="5" twE="0" dr="2"/>
+          <f x="-0.2" y="-0.1" kX="-0.48" kY="-0.48" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="0.15" y="-0.05" kX="1.52" kY="1.52" cX="1" cY="1" z="5" dr="14"/>
+          <f x="0.15" y="-0.05" kX="1.52" kY="1.52" cX="1" cY="1" z="5" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Cunzhang-czsb3" twE="0" dr="3"/>
+          <f x="-1.2" y="-8.3" kX="0.32" kY="0.32" cX="1" cY="1" z="6" dr="4"/>
+          <f x="-1.2" y="-8.3" kX="0.32" kY="0.32" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-4" y="-7.4" kX="6.76" kY="6.76" cX="1" cY="1" z="6" twE="0" dr="5"/>
+          <f x="-1.2" y="-8.3" kX="0.32" kY="0.32" cX="1" cY="1" z="6" dr="12"/>
+          <f x="-1.2" y="-8.3" kX="0.32" kY="0.32" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-4" y="-7.4" kX="6.76" kY="6.76" cX="1" cY="1" z="6" twE="0" dr="5"/>
+          <f x="-1.2" y="-8.3" kX="0.32" kY="0.32" cX="1" cY="1" z="6" dr="2"/>
+          <f x="-1.2" y="-8.3" kX="0.32" kY="0.32" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-4" y="-7.4" kX="6.76" kY="6.76" cX="1" cY="1" z="6" twE="0" dr="5"/>
+          <f x="-1.2" y="-8.3" kX="0.32" kY="0.32" cX="1" cY="1" z="6" dr="4"/>
+          <f x="-1.2" y="-8.3" kX="0.32" kY="0.32" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-4" y="-7.4" kX="6.76" kY="6.76" cX="1" cY="1" z="6" twE="0" dr="2"/>
+          <f x="-4" y="-7.4" kX="6.76" kY="6.76" cX="1" cY="1" z="6" twE="0" dr="5"/>
+          <f x="-1.2" y="-8.3" kX="0.32" kY="0.32" cX="1" cY="1" z="6" dr="14"/>
+          <f x="-1.2" y="-8.3" kX="0.32" kY="0.32" cX="1" cY="1" z="6" twE="0" dr="7"/>
+          <f x="3.35" y="0.7" kX="17.21" kY="17.21" cX="1" cY="1" z="6" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Cunzhang-czz1" dr="84"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Cunzhang-czsz1" twE="0" dr="5"/>
+          <f x="-3.25" y="-18.4" kX="-53.67" kY="-53.67" cX="1" cY="1" z="8" dr="4"/>
+          <f x="-3.25" y="-18.4" kX="-53.67" kY="-53.67" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-5.05" y="-17.55" kX="-55.69" kY="-55.69" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="-3.25" y="-18.4" kX="-53.67" kY="-53.67" cX="1" cY="1" z="8" dr="12"/>
+          <f x="-3.25" y="-18.4" kX="-53.67" kY="-53.67" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-5.05" y="-17.55" kX="-55.69" kY="-55.69" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="-3.25" y="-18.4" kX="-53.67" kY="-53.67" cX="1" cY="1" z="8" dr="2"/>
+          <f x="-3.25" y="-18.4" kX="-53.67" kY="-53.67" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-5.05" y="-17.55" kX="-55.69" kY="-55.69" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="-3.25" y="-18.4" kX="-53.67" kY="-53.67" cX="1" cY="1" z="8" dr="4"/>
+          <f x="-3.25" y="-18.4" kX="-53.67" kY="-53.67" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-5.05" y="-17.55" kX="-55.69" kY="-55.69" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="-5.05" y="-17.55" kX="-55.69" kY="-55.69" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="-3.25" y="-18.4" kX="-53.67" kY="-53.67" cX="1" cY="1" z="8" dr="14"/>
+          <f x="-3.25" y="-18.4" kX="-53.67" kY="-53.67" cX="1" cY="1" z="7" twE="0" dr="9"/>
+          <f x="0" y="-2.5" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="村长(2)" width="512" height="64">
+    <SubTexture name="NPC_Cunzhang-yz1-1" x="43" y="0" width="71" height="20" pX="5.8" pY="3.3"/>
+    <SubTexture name="NPC_Cunzhang-czxt1" x="0" y="0" width="42" height="55" pX="20.3" pY="28.15"/>
+    <SubTexture name="NPC_Cunzhang-czsb2" x="208" y="0" width="9" height="23" pX="3.7" pY="10.35"/>
+    <SubTexture name="NPC_Cunzhang-czst1" x="155" y="0" width="35" height="50" pX="16.5" pY="27.35"/>
+    <SubTexture name="NPC_Cunzhang-czt1" x="115" y="0" width="39" height="47" pX="16.65" pY="26.05"/>
+    <SubTexture name="NPC_Cunzhang-czsb1" x="218" y="0" width="16" height="14" pX="7" pY="8.15"/>
+    <SubTexture name="NPC_Cunzhang-czz1" x="191" y="0" width="16" height="54" pX="7.2" pY="27.25"/>
+    <SubTexture name="NPC_Cunzhang-czsz1" x="251" y="0" width="12" height="9" pX="5.45" pY="6.45"/>
+    <SubTexture name="NPC_Cunzhang-czsb3" x="235" y="0" width="15" height="11" pX="6.25" pY="4.75"/>
+  </TextureAtlas>
+</skeleton>

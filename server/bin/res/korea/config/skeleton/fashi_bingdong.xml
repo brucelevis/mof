@@ -1,0 +1,45 @@
+<skeleton name="减速冰块">
+  <armatures>
+    <armature name="bingdongjiansu">
+      <b name="xiaobing" bT="0" bi="fashi_bingdong-xiaobing" x="-2" y="-11" kX="0" kY="0" z="0"/>
+      <b name="xiaobing0" bT="0" bi="fashi_bingdong-xiaobing" x="-19" y="-82" kX="0" kY="0" z="1"/>
+      <b name="xiaobing1" bT="0" bi="fashi_bingdong-xiaobing" x="35" y="21.5" kX="0" kY="180" z="2"/>
+      <b name="xiaobing2" bT="0" bi="fashi_bingdong-xiaobing" x="-33" y="38" kX="0" kY="180" z="3"/>
+      <b name="xiaobing3" bT="0" bi="fashi_bingdong-xiaobing" x="24.25" y="-71" kX="0" kY="180" z="4"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="bingdongjiansu">
+      <mov name="bingdongjiansu" to="1" dr="40" drTW="40" lp="1">
+        <b name="xiaobing" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="fashi_bingdong-xiaobing" twE="0" dr="19"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="20"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="xiaobing0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="1" img="fashi_bingdong-xiaobing" twE="0" dr="23"/>
+          <f x="0" y="5" kX="0" kY="0" cX="0.5" cY="0.5" z="1" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="1" dr="1"/>
+        </b>
+        <b name="xiaobing1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="2" img="fashi_bingdong-xiaobing" twE="0" dr="19"/>
+          <f x="0" y="-5" kX="0" kY="0" cX="0.5" cY="0.5" z="2" twE="0" dr="20"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="2" dr="1"/>
+        </b>
+        <b name="xiaobing2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.3" cY="0.3" z="3" img="fashi_bingdong-xiaobing" twE="0" dr="23"/>
+          <f x="0" y="-5" kX="0" kY="0" cX="0.3" cY="0.3" z="3" twE="0" dr="16"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.3" cY="0.3" z="3" dr="1"/>
+        </b>
+        <b name="xiaobing3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.25" cY="0.25" z="4" img="fashi_bingdong-xiaobing" twE="0" dr="19"/>
+          <f x="0" y="-1.5" kX="0" kY="0" cX="0.25" cY="0.25" z="4" twE="0" dr="20"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.25" cY="0.25" z="4" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="减速冰块" width="512" height="128">
+    <SubTexture name="fashi_bingdong-xiaobing" x="0" y="0" width="71" height="74" pX="35" pY="36.5"/>
+  </TextureAtlas>
+</skeleton>

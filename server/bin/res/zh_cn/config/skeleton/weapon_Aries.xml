@@ -1,0 +1,15 @@
+<skeleton name="白羊座武器2">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_xiongmao" bT="0" bi="weapon_Aries-fs_Aries" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Aries-fs_Aries"/>
+      <b name="weapon-ck_xiongmao" bT="0" bi="weapon_Aries-ck_Aries" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Aries-ck_Aries"/>
+      <b name="weapon-zs_xiongmao" bT="0" bi="weapon_Aries-zs_Aries" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Aries-zs_Aries"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="白羊座武器2" width="512" height="256">
+    <SubTexture name="weapon_Aries-fs_Aries" x="0" y="0" width="53" height="202" pX="31.9" pY="102.5"/>
+    <SubTexture name="weapon_Aries-ck_Aries" x="234" y="0" width="55" height="120" pX="40.4" pY="74.85"/>
+    <SubTexture name="weapon_Aries-zs_Aries" x="54" y="0" width="179" height="53" pX="28.15" pY="27.4"/>
+  </TextureAtlas>
+</skeleton>

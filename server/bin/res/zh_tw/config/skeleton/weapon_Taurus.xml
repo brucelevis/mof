@@ -1,0 +1,15 @@
+<skeleton name="金牛座武器">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_Taurus" bT="0" bi="weapon_Taurus-weapon-fs_Taurus" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Taurus-weapon-fs_Taurus"/>
+      <b name="weapon-ck_Taurus" bT="0" bi="weapon_Taurus-weapon-ck_Taurus" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Taurus-weapon-ck_Taurus"/>
+      <b name="weapon-zs_Taurus" bT="0" bi="weapon_Taurus-weapon-zs_Taurus" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Taurus-weapon-zs_Taurus"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="金牛座武器" width="512" height="256">
+    <SubTexture name="weapon_Taurus-weapon-fs_Taurus" x="0" y="0" width="68" height="191" pX="31.5" pY="95.1"/>
+    <SubTexture name="weapon_Taurus-weapon-ck_Taurus" x="228" y="0" width="36" height="105" pX="21.65" pY="59.55"/>
+    <SubTexture name="weapon_Taurus-weapon-zs_Taurus" x="69" y="0" width="158" height="59" pX="23.95" pY="28.15"/>
+  </TextureAtlas>
+</skeleton>

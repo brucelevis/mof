@@ -1,0 +1,306 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0196438D1E73106C4E594C59 /* Utils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 730B177241C22D4272115D30 /* Utils.cpp */; };
+		0BD758B30ED7696D2B5E686C /* iniparser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 268036EB15761CF54794594D /* iniparser.cpp */; };
+		1BD0306351C30E9F7D78002C /* json_reader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 488F5C0A1C52677552E54CD4 /* json_reader.cpp */; };
+		261B46451BDD5D58651F56D8 /* dbconnector.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 69C073F5627C4D5A58EB3B44 /* dbconnector.cpp */; };
+		35E906222B732BBD1FBE03AE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 55A42378479A57F80A524EA5 /* main.cpp */; };
+		36E17E3E46F52C254B5022DC /* inifile.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5FE35F9E0C0F31123F5E54A5 /* inifile.cpp */; };
+		39FD37195E9046F313DB4DE2 /* redis_helper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CC04FD1458545205DB133A5 /* redis_helper.cpp */; };
+		43646F7635BD456508883FB9 /* json_writer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0C0552182D64109C780C5C02 /* json_writer.cpp */; };
+		4F66544049DD6E2E10371759 /* tee.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 76880BA04BFF06472F01015E /* tee.cpp */; };
+		59B31D79282D39D4333F753D /* json_value.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 504B28AB73EF60003A85755F /* json_value.cpp */; };
+		5E122278063A676F47703349 /* log.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6D1E62134E4C019D77610202 /* log.cpp */; };
+		742F3DB15EA270353C404CA4 /* Worker.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7E2A2F0F2B4D625761D86D3B /* Worker.cpp */; };
+		DA1319E018C5F69700D76F0F /* libhiredis_apple.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DA1319DF18C5F69700D76F0F /* libhiredis_apple.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		08CF51A354F8679E46916990 /* core.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = core.h; sourceTree = "<group>"; };
+		0B61221933777AAB74A26CE6 /* checked.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = checked.h; sourceTree = "<group>"; };
+		0C0552182D64109C780C5C02 /* json_writer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = json_writer.cpp; sourceTree = "<group>"; };
+		0E5B067B26C57AE17BBC0C32 /* hiredis.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hiredis.h; sourceTree = "<group>"; };
+		11FC632F516F630B6DB311DD /* unchecked.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = unchecked.h; sourceTree = "<group>"; };
+		168C5A1479547D3C7739618E /* Utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Utils.h; sourceTree = "<group>"; };
+		1E8278FC0DD270B870FE6148 /* log.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = log.h; sourceTree = "<group>"; };
+		203B41934A6C7B3A2EA9007C /* value.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = value.h; sourceTree = "<group>"; };
+		21E36CF2260F343A0BCE01B0 /* forwards.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = forwards.h; sourceTree = "<group>"; };
+		25F0474F184F744776A4438E /* inifile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = inifile.h; sourceTree = "<group>"; };
+		268036EB15761CF54794594D /* iniparser.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = iniparser.cpp; sourceTree = "<group>"; };
+		27F552874A8044AE24270DD2 /* Worker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Worker.h; sourceTree = "<group>"; };
+		29CB631514041BD55BFE0514 /* features.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = features.h; sourceTree = "<group>"; };
+		2DFF55F55D5A696915032A6A /* dbconnector.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dbconnector.h; sourceTree = "<group>"; };
+		3112369049AF34EF74840814 /* reader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = reader.h; sourceTree = "<group>"; };
+		326323121C1E321B10516EA1 /* iniparser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iniparser.h; sourceTree = "<group>"; };
+		358356F370A255EC29DB7980 /* redis_helper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = redis_helper.h; sourceTree = "<group>"; };
+		388A13AE0C6001E968750A0D /* MergeDB */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MergeDB; sourceTree = BUILT_PRODUCTS_DIR; };
+		488F5C0A1C52677552E54CD4 /* json_reader.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = json_reader.cpp; sourceTree = "<group>"; };
+		504B28AB73EF60003A85755F /* json_value.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = json_value.cpp; sourceTree = "<group>"; };
+		55A42378479A57F80A524EA5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		56F52E5412025D3B0D434CAD /* config.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
+		5FE35F9E0C0F31123F5E54A5 /* inifile.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = inifile.cpp; sourceTree = "<group>"; };
+		6103494756353696727037C6 /* json_batchallocator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = json_batchallocator.h; sourceTree = "<group>"; };
+		63664EA00E0642A45D524D54 /* utf8.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = utf8.h; sourceTree = "<group>"; };
+		6822444052D058BE390E7D34 /* writer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = writer.h; sourceTree = "<group>"; };
+		69C073F5627C4D5A58EB3B44 /* dbconnector.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dbconnector.cpp; sourceTree = "<group>"; };
+		6CDB221467E5070C51D37F6D /* tee.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = tee.h; sourceTree = "<group>"; };
+		6D1E62134E4C019D77610202 /* log.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = log.cpp; sourceTree = "<group>"; };
+		730B177241C22D4272115D30 /* Utils.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Utils.cpp; sourceTree = "<group>"; };
+		76880BA04BFF06472F01015E /* tee.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tee.cpp; sourceTree = "<group>"; };
+		7B646ECD04530E8543BE7308 /* json.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = json.h; sourceTree = "<group>"; };
+		7CC04FD1458545205DB133A5 /* redis_helper.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = redis_helper.cpp; sourceTree = "<group>"; };
+		7E2A2F0F2B4D625761D86D3B /* Worker.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Worker.cpp; sourceTree = "<group>"; };
+		DA1319DF18C5F69700D76F0F /* libhiredis_apple.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libhiredis_apple.a; path = lib/libhiredis_apple.a; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1C174BA77A5F7E59397C1F6D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DA1319E018C5F69700D76F0F /* libhiredis_apple.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		39854FB72B9A46943ECD33EC /* json */ = {
+			isa = PBXGroup;
+			children = (
+				56F52E5412025D3B0D434CAD /* config.h */,
+				29CB631514041BD55BFE0514 /* features.h */,
+				21E36CF2260F343A0BCE01B0 /* forwards.h */,
+				7B646ECD04530E8543BE7308 /* json.h */,
+				3112369049AF34EF74840814 /* reader.h */,
+				74D00E7F5D7C7AEA45474B8A /* src */,
+				203B41934A6C7B3A2EA9007C /* value.h */,
+				6822444052D058BE390E7D34 /* writer.h */,
+			);
+			path = json;
+			sourceTree = "<group>";
+		};
+		4FE97BB73BE93E324EC2308D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				388A13AE0C6001E968750A0D /* MergeDB */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		50E62FAA75595E1615AB3D1E /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				0E5B067B26C57AE17BBC0C32 /* hiredis.h */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		519953425304399B27A43733 /* utf8 */ = {
+			isa = PBXGroup;
+			children = (
+				0B61221933777AAB74A26CE6 /* checked.h */,
+				08CF51A354F8679E46916990 /* core.h */,
+				11FC632F516F630B6DB311DD /* unchecked.h */,
+			);
+			path = utf8;
+			sourceTree = "<group>";
+		};
+		5E7641AE363173B70EF126E6 /* MergeDB */ = {
+			isa = PBXGroup;
+			children = (
+				DA1319DF18C5F69700D76F0F /* libhiredis_apple.a */,
+				7FC560E0215C4711673F5F3E /* Utils */,
+				7E2A2F0F2B4D625761D86D3B /* Worker.cpp */,
+				27F552874A8044AE24270DD2 /* Worker.h */,
+				69C073F5627C4D5A58EB3B44 /* dbconnector.cpp */,
+				2DFF55F55D5A696915032A6A /* dbconnector.h */,
+				50E62FAA75595E1615AB3D1E /* lib */,
+				55A42378479A57F80A524EA5 /* main.cpp */,
+				4FE97BB73BE93E324EC2308D /* Products */,
+			);
+			name = MergeDB;
+			sourceTree = "<group>";
+		};
+		74D00E7F5D7C7AEA45474B8A /* src */ = {
+			isa = PBXGroup;
+			children = (
+				6103494756353696727037C6 /* json_batchallocator.h */,
+				488F5C0A1C52677552E54CD4 /* json_reader.cpp */,
+				504B28AB73EF60003A85755F /* json_value.cpp */,
+				0C0552182D64109C780C5C02 /* json_writer.cpp */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		7FC560E0215C4711673F5F3E /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				730B177241C22D4272115D30 /* Utils.cpp */,
+				168C5A1479547D3C7739618E /* Utils.h */,
+				5FE35F9E0C0F31123F5E54A5 /* inifile.cpp */,
+				25F0474F184F744776A4438E /* inifile.h */,
+				268036EB15761CF54794594D /* iniparser.cpp */,
+				326323121C1E321B10516EA1 /* iniparser.h */,
+				39854FB72B9A46943ECD33EC /* json */,
+				6D1E62134E4C019D77610202 /* log.cpp */,
+				1E8278FC0DD270B870FE6148 /* log.h */,
+				7CC04FD1458545205DB133A5 /* redis_helper.cpp */,
+				358356F370A255EC29DB7980 /* redis_helper.h */,
+				76880BA04BFF06472F01015E /* tee.cpp */,
+				6CDB221467E5070C51D37F6D /* tee.h */,
+				519953425304399B27A43733 /* utf8 */,
+				63664EA00E0642A45D524D54 /* utf8.h */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		18246A8B5E4118D83EBC3FB7 /* MergeDB */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7E701DE20E7A7BBB56E434B7 /* Build configuration list for PBXNativeTarget "MergeDB" */;
+			buildPhases = (
+				619329E24E0E058D29632CE5 /* Resources */,
+				00E032A868054AAD441000FD /* Sources */,
+				1C174BA77A5F7E59397C1F6D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MergeDB;
+			productInstallPath = "$(HOME)/bin";
+			productName = MergeDB;
+			productReference = 388A13AE0C6001E968750A0D /* MergeDB */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB928908733DD80010E9CD /* Build configuration list for PBXProject "MergeDB" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5E7641AE363173B70EF126E6 /* MergeDB */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				18246A8B5E4118D83EBC3FB7 /* MergeDB */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		619329E24E0E058D29632CE5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		00E032A868054AAD441000FD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0196438D1E73106C4E594C59 /* Utils.cpp in Sources */,
+				36E17E3E46F52C254B5022DC /* inifile.cpp in Sources */,
+				0BD758B30ED7696D2B5E686C /* iniparser.cpp in Sources */,
+				1BD0306351C30E9F7D78002C /* json_reader.cpp in Sources */,
+				59B31D79282D39D4333F753D /* json_value.cpp in Sources */,
+				43646F7635BD456508883FB9 /* json_writer.cpp in Sources */,
+				5E122278063A676F47703349 /* log.cpp in Sources */,
+				39FD37195E9046F313DB4DE2 /* redis_helper.cpp in Sources */,
+				4F66544049DD6E2E10371759 /* tee.cpp in Sources */,
+				742F3DB15EA270353C404CA4 /* Worker.cpp in Sources */,
+				261B46451BDD5D58651F56D8 /* dbconnector.cpp in Sources */,
+				35E906222B732BBD1FBE03AE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0A191A8142F17E0C4D5603A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CONFIGURATION_BUILD_DIR = bin/debug;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/lib\"",
+				);
+				PRODUCT_NAME = MergeDB;
+			};
+			name = Debug;
+		};
+		2A5E37C96D3611B660D20AEB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				CONFIGURATION_BUILD_DIR = "$(SYMROOT)";
+				CONFIGURATION_TEMP_DIR = "$(OBJROOT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					.,
+					lib,
+					Utils,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					lib,
+					bin/debug,
+				);
+				OBJROOT = obj/Debug;
+				ONLY_ACTIVE_ARCH = YES;
+				SYMROOT = bin/debug;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB928908733DD80010E9CD /* Build configuration list for PBXProject "MergeDB" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2A5E37C96D3611B660D20AEB /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7E701DE20E7A7BBB56E434B7 /* Build configuration list for PBXNativeTarget "MergeDB" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0A191A8142F17E0C4D5603A4 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}

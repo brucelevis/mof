@@ -1,0 +1,15 @@
+<skeleton name="牛魔王武器">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_xiongmao" bT="0" bi="weapon_devilbull-fs_devilbull" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_devilbull-fs_devilbull"/>
+      <b name="weapon-ck_xiongmao" bT="0" bi="weapon_devilbull-ck_devilbull" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_devilbull-ck_devilbull"/>
+      <b name="weapon-zs_xiongmao" bT="0" bi="weapon_devilbull-zs_devilbull" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_devilbull-zs_devilbull"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="牛魔王武器" width="512" height="256">
+    <SubTexture name="weapon_devilbull-fs_devilbull" x="0" y="0" width="78" height="199" pX="50" pY="100.5"/>
+    <SubTexture name="weapon_devilbull-ck_devilbull" x="256" y="0" width="64" height="122" pX="46.3" pY="72.25"/>
+    <SubTexture name="weapon_devilbull-zs_devilbull" x="79" y="0" width="176" height="44" pX="28.15" pY="25.7"/>
+  </TextureAtlas>
+</skeleton>

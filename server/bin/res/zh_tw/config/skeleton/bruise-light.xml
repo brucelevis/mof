@@ -1,0 +1,613 @@
+<skeleton name="最终版受创，击中，死亡光效 - 副本(1)">
+  <armatures>
+    <armature name="guaiwubaozha">
+      <b name="图层 19" bT="0" bi="bruise-H1" x="-18.15" y="-130.95" kX="0" kY="0" z="0"/>
+      <b name="图层 17" bT="0" bi="bruise-H1" x="28.2" y="-82.6" kX="0" kY="0" z="0"/>
+      <b name="图层 18" bT="0" bi="bruise-H1" x="-34.25" y="-56.15" kX="0" kY="0" z="0"/>
+      <b name="图层 16" bT="0" bi="bruise-H1" x="1.7" y="-14.4" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="bruise6">
+      <b name="k679" bT="0" bi="bruise-k679" x="-25.35" y="-14.15" kX="0" kY="0" z="0"/>
+      <b name="k6790" bT="0" bi="bruise-k679" x="2.1" y="2.2" kX="0" kY="0" z="1"/>
+      <b name="k6791" bT="0" bi="bruise-k679" x="22.75" y="-41.35" kX="0" kY="0" z="2"/>
+      <b name="k6792" bT="0" bi="bruise-k679" x="40.25" y="-77.4" kX="0" kY="0" z="3"/>
+      <b name="图层 49" bT="0" bi="bruise-dfsdfsdf" x="14.15" y="0.3" kX="0" kY="0" z="4"/>
+      <b name="图层 46" bT="0" bi="bruise-pop" x="0.05" y="-45.45" kX="0" kY="180" z="5"/>
+      <b name="图层 45" bT="0" bi="bruise-pop" x="-15.15" y="-56.15" kX="-15" kY="165" z="6"/>
+      <b name="图层 44" bT="0" bi="bruise-pop" x="-17.65" y="-53.4" kX="0" kY="-180" z="7"/>
+      <b name="图层 43" bT="0" bi="bruise-pop" x="-11.3" y="-49.4" kX="-30" kY="150" z="8"/>
+      <b name="图层 42" bT="0" bi="bruise-pop" x="-3.25" y="-34.55" kX="0" kY="180" z="9"/>
+      <b name="图层 41" bT="0" bi="bruise-pop" x="-13.5" y="-37.1" kX="0" kY="180" z="10"/>
+      <b name="图层 40" bT="0" bi="bruise-pop" x="-22.35" y="-46.5" kX="0" kY="180" z="11"/>
+      <b name="图层 39" bT="0" bi="bruise-pop" x="1.95" y="-59.1" kX="-15" kY="165" z="12"/>
+      <b name="图层 38" bT="0" bi="bruise-pop" x="4.3" y="-56.3" kX="-15" kY="165" z="13"/>
+      <b name="图层 37" bT="0" bi="bruise-dfsdfsdf" x="-9.85" y="18" kX="0" kY="180" z="4"/>
+      <b name="图层 35" bT="0" bi="bruise-pop" x="37.05" y="-34.75" kX="9.71" kY="-170.29" z="5"/>
+      <b name="图层 34" bT="0" bi="bruise-pop" x="23.85" y="-47.85" kX="-5.29" kY="174.71" z="6"/>
+      <b name="图层 33" bT="0" bi="bruise-pop" x="20.95" y="-45.6" kX="9.71" kY="-170.29" z="7"/>
+      <b name="图层 32" bT="0" bi="bruise-pop" x="26.55" y="-40.55" kX="-20.29" kY="159.71" z="8"/>
+      <b name="图层 31" bT="0" bi="bruise-pop" x="32" y="-24.55" kX="9.71" kY="-170.29" z="9"/>
+      <b name="图层 30" bT="0" bi="bruise-pop" x="22.25" y="-28.8" kX="9.71" kY="-170.29" z="10"/>
+      <b name="图层 29" bT="0" bi="bruise-pop" x="15.15" y="-39.55" kX="9.71" kY="-170.29" z="11"/>
+      <b name="图层 28" bT="0" bi="bruise-pop" x="41.2" y="-47.85" kX="-5.29" kY="174.71" z="12"/>
+      <b name="图层 27" bT="0" bi="bruise-pop" x="43.05" y="-44.75" kX="-5.29" kY="174.71" z="13"/>
+      <b name="图层 26" bT="0" bi="bruise-dfsdfsdf" x="16.55" y="26.15" kX="9.71" kY="-170.29" z="5"/>
+      <b name="图层 24" bT="0" bi="bruise-pop" x="4.25" y="-63.15" kX="0" kY="0" z="14"/>
+      <b name="图层 23" bT="0" bi="bruise-pop" x="19.45" y="-73.85" kX="15" kY="15" z="15"/>
+      <b name="图层 22" bT="0" bi="bruise-pop" x="21.95" y="-71.1" kX="0" kY="0" z="16"/>
+      <b name="图层 21" bT="0" bi="bruise-pop" x="15.6" y="-67.1" kX="30" kY="30" z="17"/>
+      <b name="图层 20" bT="0" bi="bruise-pop" x="7.55" y="-52.25" kX="0" kY="0" z="18"/>
+      <b name="图层 19" bT="0" bi="bruise-pop" x="17.8" y="-54.8" kX="0" kY="0" z="19"/>
+      <b name="图层 18" bT="0" bi="bruise-pop" x="26.65" y="-64.2" kX="0" kY="0" z="20"/>
+      <b name="图层 17" bT="0" bi="bruise-pop" x="2.35" y="-76.8" kX="15" kY="15" z="21"/>
+      <b name="图层 16" bT="0" bi="bruise-pop" x="0" y="-74" kX="15" kY="15" z="22"/>
+      <b name="图层 15" bT="0" bi="bruise-dfsdfsdf" x="14.15" y="0.3" kX="0" kY="0" z="6"/>
+      <b name="图层 4" bT="0" bi="bruise-pop" x="-19.65" y="-75.9" kX="0" kY="0" z="32"/>
+      <b name="图层 5" bT="0" bi="bruise-pop" x="-4.45" y="-86.6" kX="15" kY="15" z="33"/>
+      <b name="图层 6" bT="0" bi="bruise-pop" x="-1.95" y="-83.85" kX="0" kY="0" z="34"/>
+      <b name="图层 7" bT="0" bi="bruise-pop" x="-8.3" y="-79.85" kX="30" kY="30" z="35"/>
+      <b name="图层 8" bT="0" bi="bruise-pop" x="-16.35" y="-65" kX="0" kY="0" z="36"/>
+      <b name="图层 10" bT="0" bi="bruise-pop" x="-6.1" y="-67.55" kX="0" kY="0" z="37"/>
+      <b name="图层 11" bT="0" bi="bruise-pop" x="2.75" y="-76.95" kX="0" kY="0" z="38"/>
+      <b name="图层 12" bT="0" bi="bruise-pop" x="-21.55" y="-89.55" kX="15" kY="15" z="39"/>
+      <b name="图层 13" bT="0" bi="bruise-pop" x="-23.9" y="-86.75" kX="15" kY="15" z="40"/>
+      <b name="图层 1" bT="0" bi="bruise-dfsdfsdf" x="-9.75" y="-12.45" kX="0" kY="0" z="7"/>
+      <b name="图层 69" bT="0" bi="bruise-pop" x="4.25" y="-63.15" kX="0" kY="0" z="8"/>
+      <b name="图层 68" bT="0" bi="bruise-pop" x="19.45" y="-73.85" kX="15" kY="15" z="9"/>
+      <b name="图层 67" bT="0" bi="bruise-pop" x="21.95" y="-71.1" kX="0" kY="0" z="10"/>
+      <b name="图层 66" bT="0" bi="bruise-pop" x="15.6" y="-67.1" kX="30" kY="30" z="11"/>
+      <b name="图层 65" bT="0" bi="bruise-pop" x="7.55" y="-52.25" kX="0" kY="0" z="12"/>
+      <b name="图层 64" bT="0" bi="bruise-pop" x="17.8" y="-54.8" kX="0" kY="0" z="13"/>
+      <b name="图层 63" bT="0" bi="bruise-pop" x="26.65" y="-64.2" kX="0" kY="0" z="14"/>
+      <b name="图层 62" bT="0" bi="bruise-pop" x="2.35" y="-76.8" kX="15" kY="15" z="15"/>
+      <b name="图层 61" bT="0" bi="bruise-pop" x="0" y="-74" kX="15" kY="15" z="16"/>
+      <b name="图层 60" bT="0" bi="bruise-dfsdfsdf" x="15.55" y="-36.75" kX="0" kY="0" z="8"/>
+    </armature>
+    <armature name="bruise5">
+      <b name="图层 4" bT="0" bi="bruise-duyan1" x="-13.35" y="-17.1" kX="0" kY="0" z="0"/>
+      <b name="图层 2" bT="0" bi="bruise-fdfefefeagagaergw" x="-14.4" y="-16.4" kX="9.69" kY="18.68" z="1"/>
+      <b name="图层 5" bT="0" bi="bruise-kulou" x="-13.65" y="-16.8" kX="0" kY="0" z="2"/>
+    </armature>
+    <armature name="bruise4">
+      <b name="图层 2" bT="0" bi="bruise-huoqiueiji" x="15.95" y="1.25" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="bruise1">
+      <b name="图层 7" bT="0" bi="bruise-xuehua2" x="21.4" y="-18.5" kX="0" kY="-11.31" z="0"/>
+      <b name="图层 6" bT="0" bi="bruise-xuehua2" x="35.8" y="-21.6" kX="0" kY="0" z="1"/>
+      <b name="图层 8" bT="0" bi="bruise-xuehua2" x="10.15" y="-1.05" kX="-14.67" kY="-9.93" z="2"/>
+      <b name="图层 2" bT="0" bi="bruise-xuehua1" x="39.7" y="-29.65" kX="0" kY="0" z="1"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="guaiwubaozha">
+      <mov name="guaiwubaozha" to="1" dr="22" drTW="32" lp="0">
+        <b name="A" sc="1" dl="0"/>
+        <b name="A0" sc="1" dl="0"/>
+        <b name="A1" sc="1" dl="0"/>
+        <b name="A2" sc="1" dl="0"/>
+        <b name="A3" sc="1" dl="0"/>
+        <b name="A20" sc="1" dl="0"/>
+        <b name="A21" sc="1" dl="0"/>
+        <b name="A22" sc="1" dl="0"/>
+        <b name="A23" sc="1" dl="0"/>
+        <b name="图层 20" sc="1" dl="0"/>
+        <b name="图层 16" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="0" img="bruise-H1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="0" img="bruise-H2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="0" img="bruise-H3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="1" img="bruise-H4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="1" img="bruise-H5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="1" img="bruise-H6" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="2" img="bruise-H7" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="2" img="bruise-H8" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="2" img="bruise-H9" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="bruise-H10" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="bruise-H11" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="bruise-H12" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="0" img="bruise-H1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="0" img="bruise-H2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="0" img="bruise-H3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="1" img="bruise-H4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="1" img="bruise-H5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="1" img="bruise-H6" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="1" img="bruise-H7" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="1" img="bruise-H8" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="1" img="bruise-H9" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="1" img="bruise-H10" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="1" img="bruise-H11" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="1" img="bruise-H12" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="0" img="bruise-H1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="0" img="bruise-H2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="0" img="bruise-H3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="1" img="bruise-H4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="1" img="bruise-H5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="1" img="bruise-H6" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="2" img="bruise-H7" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="2" img="bruise-H8" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="2" img="bruise-H9" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="2" img="bruise-H10" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="2" img="bruise-H11" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="1.44" z="2" img="bruise-H12" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="1.53" z="0" img="bruise-H1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="1.53" z="0" img="bruise-H2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="1.53" z="0" img="bruise-H3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="1.53" z="0" img="bruise-H4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="1.53" z="0" img="bruise-H5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="1.53" z="0" img="bruise-H6" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="1.53" z="0" img="bruise-H7" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="1.53" z="0" img="bruise-H8" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="1.53" z="0" img="bruise-H9" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="1.53" z="0" img="bruise-H10" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="1.53" z="0" img="bruise-H11" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="1.53" z="0" img="bruise-H12" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="bruise6">
+      <mov name="bruise6" to="1" dr="40" drTW="40" lp="1">
+        <b name="图层 49" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.41" cY="0.41" z="4" img="bruise-dfsdfsdf" twE="0" dr="14"/>
+          <f x="11.35" y="-35.95" kX="0" kY="0" cX="1.12" cY="1.12" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="图层 46" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.68" cY="0.68" z="5" img="bruise-pop" twE="0" dr="10"/>
+          <f x="9.95" y="-25.75" kX="0" kY="0" cX="0.07" cY="0.07" z="5" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 45" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="6" img="bruise-pop" twE="0" dr="10"/>
+          <f x="4.5" y="-19.5" kX="0" kY="0" cX="0.05" cY="0.05" z="6" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 44" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="7" img="bruise-pop" twE="0" dr="10"/>
+          <f x="11.4" y="-17.95" kX="0" kY="360" cX="0.05" cY="0.05" z="7" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 43" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="8" img="bruise-pop" twE="0" dr="10"/>
+          <f x="0.4" y="-15.5" kX="0.01" kY="0.01" cX="0.05" cY="0.05" z="8" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 42" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="9" img="bruise-pop" twE="0" dr="10"/>
+          <f x="10" y="-18.05" kX="0" kY="0" cX="0.05" cY="0.05" z="9" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 41" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="10" img="bruise-pop" twE="0" dr="10"/>
+          <f x="10" y="-18.05" kX="0" kY="0" cX="0.05" cY="0.05" z="10" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 40" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.24" z="11" img="bruise-pop" twE="0" dr="10"/>
+          <f x="10.05" y="-8.5" kX="0" kY="0" cX="0.02" cY="0.02" z="11" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 39" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="12" img="bruise-pop" twE="0" dr="10"/>
+          <f x="3.55" y="-12.5" kX="-0.02" kY="-0.02" cX="0.02" cY="0.02" z="12" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 38" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="13" img="bruise-pop" twE="0" dr="10"/>
+          <f x="11.65" y="-18" kX="-0.02" kY="-0.02" cX="0.02" cY="0.02" z="13" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 37" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.41" cY="0.41" z="4" img="bruise-dfsdfsdf" twE="0" dr="11"/>
+          <f x="-1.4" y="-37.05" kX="0" kY="0" cX="1.12" cY="1.12" z="4" twE="0" dr="9"/>
+          <f x="1.85" y="-65.9" kX="0" kY="0" cX="1.09" cY="1.09" z="13" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="图层 35" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.68" cY="0.68" z="5" img="bruise-pop" twE="0" dr="10"/>
+          <f x="14.5" y="-25.35" kX="0" kY="0" cX="0.07" cY="0.07" z="5" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 34" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="6" img="bruise-pop" twE="0" dr="10"/>
+          <f x="8.05" y="-20.15" kX="0" kY="0" cX="0.05" cY="0.05" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 33" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="7" img="bruise-pop" twE="0" dr="10"/>
+          <f x="14.55" y="-17.4" kX="0" kY="0" cX="0.05" cY="0.05" z="7" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 32" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="8" img="bruise-pop" twE="0" dr="10"/>
+          <f x="3.35" y="-16.85" kX="0" kY="0" cX="0.05" cY="0.05" z="8" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 31" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="9" img="bruise-pop" twE="0" dr="10"/>
+          <f x="13.2" y="-17.8" kX="0" kY="0" cX="0.05" cY="0.05" z="9" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 30" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="10" img="bruise-pop" twE="0" dr="10"/>
+          <f x="13.25" y="-17.75" kX="0" kY="0" cX="0.05" cY="0.05" z="10" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 29" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.24" z="11" img="bruise-pop" twE="0" dr="10"/>
+          <f x="11.65" y="-8.35" kX="-0.01" kY="-0.01" cX="0.02" cY="0.02" z="11" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 28" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="12" img="bruise-pop" twE="0" dr="10"/>
+          <f x="5.95" y="-13.4" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="12" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 27" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="13" img="bruise-pop" twE="0" dr="10"/>
+          <f x="14.85" y="-17.4" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="13" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.41" cY="0.41" z="5" img="bruise-dfsdfsdf" twE="0" dr="11"/>
+          <f x="4.9" y="-36.75" kX="0" kY="0" cX="1.12" cY="1.12" z="14" twE="0" dr="9"/>
+          <f x="13" y="-64.65" kX="0" kY="0" cX="1.09" cY="1.09" z="23" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.68" cY="0.68" z="14" img="bruise-pop" twE="0" dr="10"/>
+          <f x="9.95" y="-25.75" kX="0" kY="0" cX="0.07" cY="0.07" z="14" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="15" img="bruise-pop" twE="0" dr="10"/>
+          <f x="15.4" y="-19.5" kX="0" kY="0" cX="0.05" cY="0.05" z="15" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 22" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="16" img="bruise-pop" twE="0" dr="10"/>
+          <f x="8.5" y="-17.95" kX="0" kY="0" cX="0.05" cY="0.05" z="16" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="17" img="bruise-pop" twE="0" dr="10"/>
+          <f x="19.5" y="-15.5" kX="-0.01" kY="-0.01" cX="0.05" cY="0.05" z="17" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="18" img="bruise-pop" twE="0" dr="10"/>
+          <f x="9.9" y="-18.05" kX="0" kY="0" cX="0.05" cY="0.05" z="18" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="19" img="bruise-pop" twE="0" dr="10"/>
+          <f x="9.9" y="-18.05" kX="0" kY="0" cX="0.05" cY="0.05" z="19" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.24" z="20" img="bruise-pop" twE="0" dr="10"/>
+          <f x="9.85" y="-8.5" kX="0" kY="0" cX="0.02" cY="0.02" z="20" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="21" img="bruise-pop" twE="0" dr="10"/>
+          <f x="16.35" y="-12.5" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="21" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="22" img="bruise-pop" twE="0" dr="10"/>
+          <f x="8.25" y="-18" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="22" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.41" cY="0.41" z="6" img="bruise-dfsdfsdf" twE="0" dr="11"/>
+          <f x="1.4" y="-37.05" kX="0" kY="0" cX="1.12" cY="1.12" z="14" twE="0" dr="9"/>
+          <f x="-1.85" y="-65.9" kX="0" kY="0" cX="1.09" cY="1.09" z="24" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.68" cY="0.68" z="32" img="bruise-pop" twE="0" dr="10"/>
+          <f x="0" y="-26.85" kX="0" kY="0" cX="0.07" cY="0.07" z="32" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="33" img="bruise-pop" twE="0" dr="10"/>
+          <f x="5.45" y="-20.6" kX="0" kY="0" cX="0.05" cY="0.05" z="33" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="34" img="bruise-pop" twE="0" dr="10"/>
+          <f x="-1.45" y="-19.05" kX="0" kY="0" cX="0.05" cY="0.05" z="34" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="35" img="bruise-pop" twE="0" dr="10"/>
+          <f x="9.55" y="-16.6" kX="-0.01" kY="-0.01" cX="0.05" cY="0.05" z="35" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="36" img="bruise-pop" twE="0" dr="10"/>
+          <f x="-0.05" y="-19.15" kX="0" kY="0" cX="0.05" cY="0.05" z="36" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="37" img="bruise-pop" twE="0" dr="10"/>
+          <f x="-0.05" y="-19.15" kX="0" kY="0" cX="0.05" cY="0.05" z="37" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.24" z="38" img="bruise-pop" twE="0" dr="10"/>
+          <f x="-0.1" y="-9.6" kX="0" kY="0" cX="0.02" cY="0.02" z="38" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="39" img="bruise-pop" twE="0" dr="10"/>
+          <f x="6.4" y="-13.6" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="39" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="40" img="bruise-pop" twE="0" dr="10"/>
+          <f x="-1.7" y="-19.1" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="40" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.41" cY="0.41" z="7" img="bruise-dfsdfsdf" twE="0" dr="11"/>
+          <f x="1.4" y="-37.05" kX="0" kY="0" cX="1.12" cY="1.12" z="7" twE="0" dr="9"/>
+          <f x="-1.85" y="-65.9" kX="0" kY="0" cX="1.09" cY="1.09" z="16" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="图层 69" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.68" cY="0.68" z="8" img="bruise-pop" twE="0" dr="10"/>
+          <f x="0" y="-26.85" kX="0" kY="0" cX="0.07" cY="0.07" z="8" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 68" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="9" img="bruise-pop" twE="0" dr="10"/>
+          <f x="5.45" y="-20.6" kX="0" kY="0" cX="0.05" cY="0.05" z="9" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 67" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="10" img="bruise-pop" twE="0" dr="10"/>
+          <f x="-1.45" y="-19.05" kX="0" kY="0" cX="0.05" cY="0.05" z="10" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 66" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="11" img="bruise-pop" twE="0" dr="10"/>
+          <f x="9.55" y="-16.6" kX="-0.01" kY="-0.01" cX="0.05" cY="0.05" z="11" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 65" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="12" img="bruise-pop" twE="0" dr="10"/>
+          <f x="-0.05" y="-19.15" kX="0" kY="0" cX="0.05" cY="0.05" z="12" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 64" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.49" cY="0.49" z="13" img="bruise-pop" twE="0" dr="10"/>
+          <f x="-0.05" y="-19.15" kX="0" kY="0" cX="0.05" cY="0.05" z="13" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 63" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.24" z="14" img="bruise-pop" twE="0" dr="10"/>
+          <f x="-0.1" y="-9.6" kX="0" kY="0" cX="0.02" cY="0.02" z="14" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 62" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="15" img="bruise-pop" twE="0" dr="10"/>
+          <f x="6.4" y="-13.6" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="15" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 61" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="16" img="bruise-pop" twE="0" dr="10"/>
+          <f x="-1.7" y="-19.1" kX="0.02" kY="0.02" cX="0.02" cY="0.02" z="16" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 60" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.12" cY="1.12" z="8" img="bruise-dfsdfsdf" twE="0" dr="9"/>
+          <f x="-3.25" y="-28.85" kX="0" kY="0" cX="1.09" cY="1.09" z="17" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="k679" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="0" img="bruise-k679" twE="0" dr="23"/>
+          <f x="0.15" y="-52.3" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="16"/>
+          <f x="0" y="-73.25" kX="0" kY="0" cX="0.5" cY="0.5" z="0" dr="1"/>
+        </b>
+        <b name="k6790" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="1" img="bruise-k679" twE="0" dr="22"/>
+          <f x="-0.45" y="-68.05" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="17"/>
+          <f x="0" y="-100.75" kX="0" kY="0" cX="0.5" cY="0.5" z="1" dr="1"/>
+        </b>
+        <b name="k6791" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="bruise-k679" twE="0" dr="16"/>
+          <f x="0.5" y="-35.1" kX="0" kY="0" cX="0.5" cY="0.5" z="2" dr="1"/>
+          <f x="-0.85" y="46.8" kX="0" kY="0" cX="0.5" cY="0.5" z="2" twE="0" dr="22"/>
+          <f x="0" y="4.65" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="k6792" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="bruise-k679" twE="0" dr="15"/>
+          <f x="0.65" y="-17.7" kX="0" kY="0" cX="0.5" cY="0.5" z="3" dr="1"/>
+          <f x="0.65" y="41.2" kX="0" kY="0" cX="0.5" cY="0.5" z="3" twE="0" dr="23"/>
+          <f x="0" y="4.15" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="bruise5">
+      <mov name="bruise5" to="1" dr="14" drTW="15" lp="0">
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.5" z="0" img="bruise-duyan1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.5" z="0" img="bruise-duyan3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.5" z="0" img="bruise-duyan5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.5" z="0" img="bruise-duyan7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.5" z="0" img="bruise-duyan9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.5" z="0" img="bruise-duyan11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.5" z="0" img="bruise-duyan13" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="0.73" z="1" img="bruise-fdfefefeagagaergw" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="0.73" z="1" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.25" cY="0.25" z="2" img="bruise-kulou" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="1" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="bruise4">
+      <mov name="bruise4" to="1" dr="11" drTW="15">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="0" img="bruise-huoqiueiji" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="0" img="bruise-huoqiueiji 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="0" img="bruise-huoqiueiji 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="0" img="bruise-huoqiueiji4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="0" img="bruise-huoqiueiji5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="0" img="bruise-huoqiueiji6" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="bruise1">
+      <mov name="bruise1" to="1" dr="11" drTW="14" lp="0">
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="1" img="bruise-xuehua1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="bruise-xuehua2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="bruise-xuehua3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="bruise-xuehua4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="bruise-xuehua5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="bruise-xuehua6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.44" cY="1.44" z="3" img="bruise-xuehua7" dr="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.77" z="1" img="bruise-xuehua2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.77" z="1" img="bruise-xuehua3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.77" z="1" img="bruise-xuehua4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.77" z="1" img="bruise-xuehua5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.77" z="1" img="bruise-xuehua6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.77" z="1" img="bruise-xuehua7" dr="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="0.77" z="0" img="bruise-xuehua2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="0.77" z="0" img="bruise-xuehua3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="0.77" z="0" img="bruise-xuehua4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="0.77" z="0" img="bruise-xuehua5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="0.77" z="0" img="bruise-xuehua6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="0.77" z="0" img="bruise-xuehua7" dr="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="0.72" z="2" img="bruise-xuehua2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="0.72" z="2" img="bruise-xuehua3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="0.72" z="2" img="bruise-xuehua4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="0.72" z="2" img="bruise-xuehua5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="0.72" z="2" img="bruise-xuehua6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="0.72" z="2" img="bruise-xuehua7" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="最终版受创，击中，死亡光效 - 副本(1)" width="512" height="512">
+    <SubTexture name="bruise-H1" x="414" y="327" width="34" height="24" pX="16.2" pY="-5.55"/>
+    <SubTexture name="bruise-H2" x="0" y="172" width="66" height="57" pX="31.45" pY="28.35"/>
+    <SubTexture name="bruise-H3" x="0" y="107" width="83" height="64" pX="40.65" pY="34.45"/>
+    <SubTexture name="bruise-H4" x="297" y="92" width="88" height="67" pX="42.65" pY="37.95"/>
+    <SubTexture name="bruise-H5" x="99" y="98" width="98" height="69" pX="47.55" pY="39.35"/>
+    <SubTexture name="bruise-H6" x="279" y="160" width="104" height="69" pX="50.95" pY="40.05"/>
+    <SubTexture name="bruise-H7" x="391" y="68" width="110" height="69" pX="54.85" pY="39.25"/>
+    <SubTexture name="bruise-H8" x="391" y="0" width="116" height="67" pX="56.95" pY="38.05"/>
+    <SubTexture name="bruise-H9" x="384" y="205" width="105" height="65" pX="52.45" pY="35.05"/>
+    <SubTexture name="bruise-H10" x="386" y="138" width="110" height="66" pX="56.75" pY="35.25"/>
+    <SubTexture name="bruise-H11" x="84" y="168" width="109" height="60" pX="54.8" pY="30.45"/>
+    <SubTexture name="bruise-H12" x="67" y="229" width="100" height="54" pX="58.85" pY="33.2"/>
+    <SubTexture name="bruise-dfsdfsdf" x="279" y="94" width="14" height="14" pX="6.45" pY="6.45"/>
+    <SubTexture name="bruise-pop" x="84" y="107" width="14" height="14" pX="6.45" pY="6.45"/>
+    <SubTexture name="bruise-k679" x="272" y="285" width="52" height="45" pX="22.65" pY="20.75"/>
+    <SubTexture name="bruise-duyan1" x="0" y="324" width="50" height="33" pX="23.9" pY="16.1"/>
+    <SubTexture name="bruise-duyan3" x="200" y="314" width="57" height="38" pX="26.5" pY="18"/>
+    <SubTexture name="bruise-duyan5" x="0" y="280" width="62" height="43" pX="28.55" pY="19.2"/>
+    <SubTexture name="bruise-duyan7" x="383" y="271" width="64" height="44" pX="29.15" pY="19.85"/>
+    <SubTexture name="bruise-duyan9" x="168" y="235" width="64" height="46" pX="29.65" pY="20.9"/>
+    <SubTexture name="bruise-duyan11" x="0" y="230" width="66" height="49" pX="30.3" pY="22"/>
+    <SubTexture name="bruise-duyan13" x="325" y="298" width="45" height="50" pX="21.5" pY="23.1"/>
+    <SubTexture name="bruise-fdfefefeagagaergw" x="0" y="0" width="98" height="106" pX="47.95" pY="52.15"/>
+    <SubTexture name="bruise-kulou" x="276" y="230" width="60" height="54" pX="29.5" pY="25.25"/>
+    <SubTexture name="bruise-huoqiueiji" x="371" y="316" width="42" height="49" pX="20.55" pY="25.75"/>
+    <SubTexture name="bruise-huoqiueiji 2" x="194" y="171" width="60" height="63" pX="28.3" pY="31.25"/>
+    <SubTexture name="bruise-huoqiueiji 3" x="201" y="94" width="77" height="76" pX="36.3" pY="38.75"/>
+    <SubTexture name="bruise-huoqiueiji4" x="297" y="0" width="93" height="91" pX="44.55" pY="46.25"/>
+    <SubTexture name="bruise-huoqiueiji5" x="201" y="0" width="95" height="93" pX="48.55" pY="47.25"/>
+    <SubTexture name="bruise-huoqiueiji6" x="99" y="0" width="101" height="97" pX="45.3" pY="50.4"/>
+    <SubTexture name="bruise-xuehua1" x="116" y="284" width="47" height="49" pX="24.95" pY="25.65"/>
+    <SubTexture name="bruise-xuehua2" x="63" y="284" width="52" height="49" pX="12.95" pY="36.7"/>
+    <SubTexture name="bruise-xuehua3" x="448" y="271" width="53" height="55" pX="0.1" pY="42.3"/>
+    <SubTexture name="bruise-xuehua4" x="337" y="230" width="45" height="67" pX="-16.1" pY="47.95"/>
+    <SubTexture name="bruise-xuehua5" x="233" y="244" width="38" height="69" pX="-31.8" pY="46.4"/>
+    <SubTexture name="bruise-xuehua6" x="168" y="282" width="31" height="72" pX="-47.25" pY="44.3"/>
+    <SubTexture name="bruise-xuehua7" x="255" y="171" width="20" height="72" pX="-64.2" pY="42.1"/>
+  </TextureAtlas>
+</skeleton>

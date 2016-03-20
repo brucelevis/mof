@@ -1,0 +1,280 @@
+<skeleton name="宝箱整合 (2)(2)">
+  <armatures>
+    <armature name="OpenBox">
+      <b name="q3" bT="0" bi="BoxAnimation-g02" x="83.1" y="120.75" kX="0" kY="0" z="0"/>
+      <b name="BoxPicture" bT="0" bi="BoxAnimation-close" x="206.15" y="122.95" kX="0" kY="0" z="0"/>
+      <b name="Layer3" bT="0" bi="BoxAnimation-guangxiantiao" x="322.5" y="142.9" kX="37.95" kY="37.95" z="2"/>
+      <b name="Layer4" bT="0" bi="BoxAnimation-guangxiantiao" x="297.65" y="147.5" kX="27.22" kY="27.22" z="3"/>
+      <b name="Layer5" bT="0" bi="BoxAnimation-guangxiantiao" x="275.5" y="164.85" kX="-17.24" kY="-17.24" z="4"/>
+      <b name="Layer9" bT="0" bi="BoxAnimation-guangxiantiao" x="257.8" y="190.3" kX="-60.44" kY="-60.44" z="5"/>
+      <b name="Layer10" bT="0" bi="BoxAnimation-guangxiantiao" x="253.85" y="165.3" kX="-52.94" kY="-52.94" z="6"/>
+      <b name="Layer11" bT="0" bi="BoxAnimation-guangxiantiao" x="258.35" y="154.8" kX="-38.66" kY="-38.66" z="7"/>
+      <b name="Layer12" bT="0" bi="BoxAnimation-guangxiantiao" x="305.85" y="176.8" kX="42.48" kY="42.48" z="8"/>
+      <b name="Layer13" bT="0" bi="BoxAnimation-guangxiantiao" x="285.35" y="168.3" kX="12.48" kY="12.48" z="9"/>
+      <b name="Layer8-copy" bT="0" bi="BoxAnimation-shape3" x="264.15" y="208.5" kX="0" kY="0" z="1"/>
+      <b name="Layer1-45-3" bT="0" bi="BoxAnimation-888" x="247.1" y="157.8" kX="-0.19" kY="179.72" z="11"/>
+      <b name="Layer1-450" bT="0" bi="BoxAnimation-888" x="325.3" y="130.3" kX="-0.19" kY="179.72" z="12"/>
+      <b name="Layer1-451" bT="0" bi="BoxAnimation-888" x="214.45" y="168.65" kX="-0.19" kY="179.72" z="13"/>
+      <b name="Layer1-452" bT="0" bi="BoxAnimation-888" x="337.95" y="165.95" kX="-0.19" kY="179.72" z="14"/>
+      <b name="Layer1-453" bT="0" bi="BoxAnimation-888" x="280.35" y="126.55" kX="-0.19" kY="179.72" z="11"/>
+      <b name="Layer1-454" bT="0" bi="BoxAnimation-888" x="282.75" y="186.8" kX="-0.19" kY="179.72" z="14"/>
+      <b name="Layer1-455" bT="0" bi="BoxAnimation-888" x="313" y="152.55" kX="-0.19" kY="179.72" z="11"/>
+      <b name="Layer1-456" bT="0" bi="BoxAnimation-888" x="346.75" y="172.45" kX="-0.19" kY="179.72" z="12"/>
+      <b name="Layer1-457" bT="0" bi="BoxAnimation-888" x="346.75" y="172.45" kX="-0.19" kY="179.72" z="13"/>
+      <b name="Layer1-458" bT="0" bi="BoxAnimation-888" x="346.75" y="172.45" kX="-0.19" kY="179.72" z="14"/>
+      <b name="Layer1-459" bT="0" bi="BoxAnimation-888" x="326.75" y="232.6" kX="-0.19" kY="179.72" z="14"/>
+      <b name="Layer1to45-2" bT="0" bi="BoxAnimation-888" x="196.45" y="214.4" kX="-0.19" kY="179.72" z="14"/>
+      <b name="Layer1to4510" bT="0" bi="BoxAnimation-888" x="243.2" y="244.9" kX="-0.19" kY="179.72" z="14"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="OpenBox">
+      <mov name="OpenBox" to="1" dr="43" drTW="43" lp="0">
+        <b name="q3" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.59" cY="1.26" z="0" img="BoxAnimation-g02" twE="0" dr="1"/>
+          <f x="-22.05" y="-10.75" kX="0" kY="0" cX="2.9" cY="1.41" z="0" dr="1"/>
+          <f x="-22.05" y="-10.75" kX="0" kY="0" cX="2.9" cY="1.41" z="0" dr="1"/>
+          <f x="-40.05" y="-19.55" kX="0" kY="0" cX="3.15" cY="1.54" z="0" img="BoxAnimation-g05" twE="0" dr="3"/>
+          <f x="-59.4" y="-29.1" kX="0" kY="0" cX="3.42" cY="1.67" z="0" twE="0" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="宝箱" sc="1" dl="0"/>
+        <b name="图层 8 复制" sc="1" dl="0"/>
+        <b name="Layer 1 复制45" sc="1" dl="0"/>
+        <b name="Layer 1 复制450" sc="1" dl="0"/>
+        <b name="Layer 1 复制451" sc="1" dl="0"/>
+        <b name="Layer 1 复制452" sc="1" dl="0"/>
+        <b name="Layer 1 复制453" sc="1" dl="0"/>
+        <b name="Layer 1 复制454" sc="1" dl="0"/>
+        <b name="Layer 1 复制455" sc="1" dl="0"/>
+        <b name="Layer 1 复制456" sc="1" dl="0"/>
+        <b name="Layer 1 复制457" sc="1" dl="0"/>
+        <b name="Layer 1 复制458" sc="1" dl="0"/>
+        <b name="Layer 1 复制459" sc="1" dl="0"/>
+        <b name="Layer 1 复制4510" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0"/>
+        <b name="图层 9" sc="1" dl="0"/>
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 11" sc="1" dl="0"/>
+        <b name="图层 12" sc="1" dl="0"/>
+        <b name="图层 13" sc="1" dl="0"/>
+        <b name="BoxPicture" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="BoxAnimation-close" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="3.95" y="17.35" kX="0" kY="0" cX="0.95" cY="0.83" z="0" dr="1"/>
+          <f x="-0.95" y="-15.9" kX="0" kY="0" cX="1.01" cY="1.14" z="1" img="BoxAnimation-open" twE="0" dr="3"/>
+          <f x="2.5" y="-11" kX="0" kY="0" cX="0.97" cY="1.09" z="0" dr="22"/>
+          <f x="2.5" y="-11" kX="0" kY="0" cX="0.97" cY="1.09" z="0" dr="1"/>
+        </b>
+        <b name="Layer3" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="2" img="BoxAnimation-guangxiantiao" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="1" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="1" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="1" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer4" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="3" img="BoxAnimation-guangxiantiao" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="2" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="2" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="2" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer5" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="4" img="BoxAnimation-guangxiantiao" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="3" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="3" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="3" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="3" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer9" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="5" img="BoxAnimation-guangxiantiao" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="4" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="4" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="4" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="4" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer10" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="6" img="BoxAnimation-guangxiantiao" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="5" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="5" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="5" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer11" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="7" img="BoxAnimation-guangxiantiao" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="6" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="6" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="6" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="6" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="6" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer12" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="8" img="BoxAnimation-guangxiantiao" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="7" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="7" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="7" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="7" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="7" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer13" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="9" img="BoxAnimation-guangxiantiao" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="8" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="8" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.59" cY="7.59" z="8" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="6.47" cY="8.63" z="8" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="8" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer8-copy" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="BoxAnimation-shape3" twE="0" dr="1"/>
+          <f x="-0.05" y="0" kX="0" kY="0" cX="2" cY="2" z="10" twE="0" dr="1"/>
+          <f x="-0.05" y="0" kX="0" kY="0" cX="2" cY="2" z="10" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="10" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="10" img="BoxAnimation-shape5" twE="0" dr="1"/>
+          <f x="-0.1" y="-0.2" kX="0" kY="0" cX="2" cY="2" z="10" twE="0" dr="1"/>
+          <f x="-0.15" y="-0.4" kX="0" kY="0" cX="2" cY="2" z="10" twE="0" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="Layer1-45-3" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.42" cY="0.52" z="11" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="6.3" y="-7.05" kX="0.01" kY="0" cX="1.51" cY="1.86" z="11" twE="0" dr="1"/>
+          <f x="5.7" y="-6.3" kX="0.01" kY="0" cX="1.4" cY="1.72" z="10" twE="0" dr="4"/>
+          <f x="-1.35" y="1.6" kX="0.02" kY="0.01" cX="0.18" cY="0.23" z="9" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="Layer1-450" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.74" cY="0.91" z="12" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="10.95" y="-12.3" kX="0.01" kY="0" cX="2.64" cY="3.25" z="12" twE="0" dr="1"/>
+          <f x="9.9" y="-11" kX="0.01" kY="0" cX="2.45" cY="3.01" z="10" twE="0" dr="4"/>
+          <f x="-2.45" y="2.85" kX="0.01" kY="0.01" cX="0.32" cY="0.39" z="9" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="Layer1-451" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.74" cY="0.91" z="13" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="10.95" y="-12.3" kX="0.01" kY="0" cX="2.64" cY="3.25" z="13" twE="0" dr="1"/>
+          <f x="9.9" y="-11" kX="0.01" kY="0" cX="2.45" cY="3.01" z="10" twE="0" dr="4"/>
+          <f x="-2.45" y="2.85" kX="0.01" kY="0.01" cX="0.32" cY="0.39" z="9" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="Layer1-452" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.59" cY="0.73" z="14" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="8.75" y="-9.85" kX="0.01" kY="0" cX="2.11" cY="2.6" z="14" twE="0" dr="1"/>
+          <f x="7.9" y="-8.8" kX="0.01" kY="0" cX="1.96" cY="2.41" z="11" twE="0" dr="4"/>
+          <f x="-1.95" y="2.3" kX="0.01" kY="0.01" cX="0.26" cY="0.32" z="10" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="Layer1-453" sc="1" dl="0">
+          <f dr="24" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.59" cY="0.73" z="11" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="8.75" y="-9.85" kX="0.01" kY="0" cX="2.11" cY="2.6" z="9" twE="0" dr="1"/>
+          <f x="7.9" y="-8.8" kX="0.01" kY="0" cX="1.96" cY="2.41" z="9" twE="0" dr="4"/>
+          <f x="-1.95" y="2.3" kX="0.01" kY="0.01" cX="0.26" cY="0.32" z="9" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="Layer1-454" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.74" cY="0.91" z="14" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="10.95" y="-12.3" kX="0.01" kY="0" cX="2.64" cY="3.25" z="13" twE="0" dr="1"/>
+          <f x="9.9" y="-11" kX="0.01" kY="0" cX="2.45" cY="3.01" z="10" twE="0" dr="4"/>
+          <f x="-2.45" y="2.85" kX="0.01" kY="0.01" cX="0.32" cY="0.39" z="10" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="Layer1-455" sc="1" dl="0">
+          <f dr="26" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.31" z="11" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="15.7" y="-17.75" kX="0.01" kY="0" cX="3.8" cY="4.68" z="11" twE="0" dr="1"/>
+          <f x="14.25" y="-15.8" kX="0.01" kY="0" cX="3.52" cY="4.33" z="9" twE="0" dr="4"/>
+          <f x="-3.55" y="4.2" kX="0.01" kY="0.01" cX="0.46" cY="0.57" z="9" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="Layer1-456" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.65" z="12" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="7.85" y="-8.9" kX="0.01" kY="0" cX="1.9" cY="2.34" z="12" twE="0" dr="1"/>
+          <f x="7.15" y="-7.95" kX="0.01" kY="0" cX="1.76" cY="2.17" z="10" twE="0" dr="4"/>
+          <f x="-1.75" y="2.05" kX="0.01" kY="0.01" cX="0.23" cY="0.28" z="9" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="Layer1-457" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.65" z="13" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="-43.15" y="-8.9" kX="0.01" kY="0" cX="1.9" cY="2.34" z="13" twE="0" dr="1"/>
+          <f x="-43.85" y="-7.95" kX="0.01" kY="0" cX="1.76" cY="2.17" z="11" twE="0" dr="4"/>
+          <f x="-52.75" y="2.05" kX="0.01" kY="0.01" cX="0.23" cY="0.28" z="10" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="Layer1-458" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.65" z="14" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="-43.15" y="-8.9" kX="0.01" kY="0" cX="1.9" cY="2.34" z="13" twE="0" dr="1"/>
+          <f x="-43.85" y="-7.95" kX="0.01" kY="0" cX="1.76" cY="2.17" z="11" twE="0" dr="4"/>
+          <f x="-52.75" y="2.05" kX="0.01" kY="0.01" cX="0.23" cY="0.28" z="9" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="Layer1-459" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.78" z="14" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="16.65" y="-15.5" kX="0.01" kY="0" cX="2.28" cY="2.81" z="14" twE="0" dr="1"/>
+          <f x="15.8" y="-14.35" kX="0.01" kY="0" cX="2.11" cY="2.6" z="10" twE="0" dr="4"/>
+          <f x="5.1" y="-2.35" kX="0.01" kY="0.01" cX="0.28" cY="0.34" z="9" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer1to45-2" sc="1" dl="0">
+          <f dr="31" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.78" z="14" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="16.65" y="-15.5" kX="0.01" kY="0" cX="2.28" cY="2.81" z="14" twE="0" dr="1"/>
+          <f x="15.8" y="-14.35" kX="0.01" kY="0" cX="2.11" cY="2.6" z="1" twE="0" dr="4"/>
+          <f x="5.1" y="-2.35" kX="0.01" kY="0.01" cX="0.28" cY="0.34" z="1" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="Layer1to4510" sc="1" dl="0">
+          <f dr="33" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.78" z="14" img="BoxAnimation-888" twE="0" dr="3"/>
+          <f x="16.65" y="-15.5" kX="0.01" kY="0" cX="2.28" cY="2.81" z="12" twE="0" dr="1"/>
+          <f x="15.8" y="-14.35" kX="0.01" kY="0" cX="2.11" cY="2.6" z="1" twE="0" dr="4"/>
+          <f x="5.1" y="-2.35" kX="0.01" kY="0.01" cX="0.28" cY="0.34" z="1" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="宝箱整合 (2)(2)" width="512" height="512">
+    <SubTexture name="BoxAnimation-g02" x="0" y="0" width="172" height="177" pX="14" pY="17.5"/>
+    <SubTexture name="BoxAnimation-g05" x="333" y="0" width="162" height="155" pX="11.9" pY="6.1"/>
+    <SubTexture name="BoxAnimation-close" x="333" y="156" width="146" height="133" pX="0" pY="0"/>
+    <SubTexture name="BoxAnimation-open" x="173" y="0" width="159" height="175" pX="14.05" pY="42.9"/>
+    <SubTexture name="BoxAnimation-guangxiantiao" x="496" y="0" width="14" height="22" pX="5.35" pY="17.6"/>
+    <SubTexture name="BoxAnimation-shape3" x="173" y="176" width="109" height="79" pX="54.6" pY="37.55"/>
+    <SubTexture name="BoxAnimation-shape5" x="0" y="178" width="100" height="76" pX="51.45" pY="36"/>
+    <SubTexture name="BoxAnimation-888" x="496" y="23" width="13" height="12" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

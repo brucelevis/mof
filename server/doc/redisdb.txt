@@ -1,0 +1,36 @@
+redis 数据库设计
+哈希表设计分两种:
+一种是总索引(用来保存所有玩家数据)
+一种是属性字段名+value（用来保持单个玩家数据）
+
+设计规则
+尽量以玩家ID做索引
+当出现设计值为复合数据时以功能名:玩家Id（RoleId） 拼接 为key
+综合数据key value 形式 存储（hash）
+例如：
+RoleBag:roleid {Index:JsonData}
+hmset RoleBag:1000 1 "{name='xxx'}" 2 "{name='yyy'}"
+
+Player:Account [Name,Pwd,roleids,Email] (单个玩家数据)
+Role:roleid [Name,Job,Sex,Lvl,Exp,Hp,AtkRange,Def,Atk] (角色基础属性)
+RoleBag:roleid {Index:JsonData}
+RoleQuest:roleid [] (所接任务集合,待扩展)
+RoleFriend:roleid(set)
+RoleSkill:roleid(set)
+RoleArchive:roleid [LastLoginTime,LastScene,LastPos] (玩家存档相关)
+
+questProgress:10002 {10002:"0;0",10001:"0;0"}
+questFinish:10002 <questids>(set)
+
+增加 获取 数据：
+验证密码：hget Player:Account Pwd
+取得角色数据: hmget Role:RoleId Name Job Sex Lvl Exp Hp AtkRange Def Atk
+取得角色背包数据: hgetall RoleBag:RoleId
+
+取得好友数据: smembers RoleFriend:RoleId
+判断A是否是好友B: sismember RoleFriend:RoleIdB RoleIdA 
+B添加A为好友: sadd RoleFriend:RoleIdB RoleIdA
+取得技能数据: smembers RoleSkill:RoleId
+学习新的技能: sadd RoleSkill:RoleId xxx
+
+

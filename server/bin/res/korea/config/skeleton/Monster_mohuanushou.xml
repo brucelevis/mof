@@ -1,0 +1,1648 @@
+<skeleton name="人类弩手">
+  <armatures>
+    <armature name="stand">
+      <b name="影子" bT="0" bi="nushou-nushou-yz-1" x="202.9" y="259.05" kX="0" kY="0" z="0"/>
+      <b name="右大腿" bT="0" bi="nushou-nushou-5a-1" x="199.65" y="198.55" kX="29.44" kY="29.44" z="1"/>
+      <b name="guidao-2a-2" bT="0" bi="nushou-nushou2a-20" x="196.25" y="162.15" kX="14.11" kY="13.23" z="2"/>
+      <b name="shou1" bT="0" bi="nushou-nushou-shou1" x="184.15" y="192.05" kX="74.56" kY="74.56" z="3"/>
+      <b name="左手" bT="0" bi="nushou-nushou-5a-1" x="215.25" y="201.3" kX="6.52" kY="6.52" z="4"/>
+      <b name="左小腿" bT="0" bi="nushou-nushou-6a-2" x="208.3" y="222.55" kX="0" kY="0" z="5"/>
+      <b name="左鞋子0" bT="0" bi="nushou-nushou-7a-8" x="208.85" y="248.15" kX="0" kY="0" z="6"/>
+      <b name="图层 19" bT="0" bi="nushou-nushou-g-6" x="207.75" y="130.8" kX="34.93" kY="34.93" z="7"/>
+      <b name="身体" bT="0" bi="nushou-nushou-st-2" x="194.25" y="154.35" kX="0" kY="0" z="8"/>
+      <b name="裤子" bT="0" bi="nushou-nushou-kz-1" x="192.95" y="192.5" kX="0" kY="0" z="9"/>
+      <b name="图层 9" bT="0" bi="nushou-pidai-1" x="191.4" y="192" kX="0" kY="0" z="10"/>
+      <b name="图层 3" bT="0" bi="nushou-pidai-2" x="205.4" y="198.5" kX="-51.15" kY="-51.15" z="11"/>
+      <b name="左手臂" bT="0" bi="nushou-nushou2a-10" x="211" y="164.7" kX="-28.68" kY="-28.68" z="12"/>
+      <b name="左手0" bT="0" bi="nushou-nushou-shou1" x="213.9" y="189.8" kX="72.12" kY="72.12" z="13"/>
+      <b name="图层 6" bT="0" bi="nushou-nushou-shou2" x="195.75" y="196.35" kX="72.12" kY="72.12" z="14"/>
+      <b name="脖子" bT="0" bi="nushou-nushou-wb-1" x="195.85" y="147.7" kX="0" kY="0" z="15"/>
+      <b name="右鞋子" bT="0" bi="nushou-nushou-6a-1" x="184.95" y="215" kX="0" kY="0" z="16"/>
+      <b name="左鞋子" bT="0" bi="nushou-nushou-7a-1" x="178.2" y="239.1" kX="0" kY="0" z="17"/>
+      <b name="nushou-tb-1" bT="0" bi="nushou-nushou-lb-1" x="173.85" y="111.55" kX="-8.13" kY="-8.13" z="18"/>
+      <b name="nushou-yj-1" bT="0" bi="nushou-nushou-yj-1" x="183.65" y="141.3" kX="0" kY="0" z="19"/>
+      <b name="yumao-1" bT="0" bi="nushou-yumao-1" x="219.15" y="106.6" kX="23.76" kY="23.76" z="20"/>
+      <b name="yumao-2" bT="0" bi="nushou-yumao-2" x="221.95" y="123.1" kX="45" kY="45" z="21"/>
+      <b name="toukui-1" bT="0" bi="nushou-toukui-1" x="178.95" y="134.15" kX="-3.48" kY="-3.52" z="22"/>
+      <b name="lu" bT="0" bi="nushou-nu-1" x="122.45" y="191.25" kX="-22.47" kY="-22.47" z="23"/>
+      <b name="图层 2" bT="0" bi="nushou-x-1" x="178.1" y="224.65" kX="-172.95" kY="-172.95" z="24"/>
+      <b name="图层 4" bT="0" bi="nushou-x-1" x="147.2" y="183" kX="-78.43" kY="-78.43" z="25"/>
+      <b name="shou3" bT="0" bi="nushou-nushou-shou3" x="165.7" y="198.5" kX="74.07" kY="74.07" z="26"/>
+    </armature>
+    <armature name="run">
+      <b name="图层 2" bT="0" bi="nushou-nushou-yz-1" x="202.9" y="259.05" kX="0" kY="0" z="0"/>
+      <b name="左手臂" bT="0" bi="nushou-nushou2a-20" x="193.6" y="163.95" kX="15.41" kY="14.53" z="1"/>
+      <b name="shou1" bT="0" bi="nushou-nushou-shou1" x="182.15" y="188.6" kX="77.32" kY="77.32" z="2"/>
+      <b name="右大腿" bT="0" bi="nushou-nushou-5a-1" x="196.9" y="198.5" kX="7.76" kY="7.76" z="3"/>
+      <b name="身体" bT="0" bi="nushou-nushou-6a-1" x="189.9" y="219.35" kX="-6.64" kY="-6.64" z="4"/>
+      <b name="右鞋子" bT="0" bi="nushou-nushou-7a-1" x="184.6" y="244.1" kX="-1.78" kY="-1.78" z="5"/>
+      <b name="图层 5" bT="0" bi="nushou-nushou-g-6" x="204.45" y="128.25" kX="33.61" kY="33.61" z="6"/>
+      <b name="左小腿" bT="0" bi="nushou-nushou-st-2" x="191.45" y="152.15" kX="-1.31" kY="-1.31" z="7"/>
+      <b name="右大腿0" bT="0" bi="nushou-nushou-5a-1" x="209.8" y="199.55" kX="4.59" kY="4.59" z="8"/>
+      <b name="身体0" bT="0" bi="nushou-nushou-6a-1" x="202.85" y="220.85" kX="-39.5" kY="-39.5" z="9"/>
+      <b name="右鞋子0" bT="0" bi="nushou-nushou-7a-1" x="211.85" y="243.6" kX="-38.6" kY="-35.38" z="10"/>
+      <b name="左手" bT="0" bi="nushou-nushou-kz-1" x="191" y="190.2" kX="-1.31" kY="-1.31" z="11"/>
+      <b name="图层 3" bT="0" bi="nushou-pidai-1" x="189.45" y="189.75" kX="-1.31" kY="-1.31" z="12"/>
+      <b name="图层 12" bT="0" bi="nushou-pidai-2" x="203.3" y="195.25" kX="-37.46" kY="-37.46" z="13"/>
+      <b name="脖子" bT="0" bi="nushou-nushou2a-10" x="208.15" y="160.35" kX="-17.01" kY="-17.01" z="14"/>
+      <b name="图层 8" bT="0" bi="nushou-nushou-shou1" x="208.8" y="187.35" kX="75.16" kY="75.16" z="15"/>
+      <b name="图层 9" bT="0" bi="nushou-nushou-shou2" x="190.45" y="192.8" kX="75.16" kY="75.16" z="16"/>
+      <b name="lu" bT="0" bi="nushou-nu-1" x="121.3" y="184.85" kX="-19.72" kY="-19.72" z="17"/>
+      <b name="图层 40" bT="0" bi="nushou-x-1" x="174.65" y="220.5" kX="-170.2" kY="-170.19" z="18"/>
+      <b name="图层 4" bT="0" bi="nushou-x-1" x="146.1" y="177.9" kX="-75.68" kY="-75.68" z="19"/>
+      <b name="shou3" bT="0" bi="nushou-nushou-shou3" x="163.55" y="194" kX="76.83" kY="76.82" z="20"/>
+      <b name="图层 127" bT="0" bi="nushou-nushou-wb-1" x="192.9" y="145.35" kX="-1.31" kY="-1.31" z="21"/>
+      <b name="nushou-tb-1" bT="0" bi="nushou-nushou-lb-1" x="169.7" y="109.75" kX="-9.45" kY="-9.45" z="22"/>
+      <b name="nushou-yj-1" bT="0" bi="nushou-nushou-yj-1" x="180.2" y="139.25" kX="-1.31" kY="-1.31" z="23"/>
+      <b name="yumao-1" bT="0" bi="nushou-yumao-1" x="214.85" y="103.75" kX="22.44" kY="22.44" z="24"/>
+      <b name="yumao-2" bT="0" bi="nushou-yumao-2" x="218.05" y="120.2" kX="43.69" kY="43.69" z="25"/>
+      <b name="toukui-1" bT="0" bi="nushou-toukui-1" x="175.35" y="132.25" kX="-4.79" kY="-4.84" z="26"/>
+    </armature>
+    <armature name="physical_1">
+      <b name="影子" bT="0" bi="nushou-nushou-yz-1" x="202.9" y="259.05" kX="0" kY="0" z="0"/>
+      <b name="图层 145" bT="0" bi="nushou-nushou2a-10" x="205.65" y="172.05" kX="45.45" kY="-134.55" z="1"/>
+      <b name="shou1" bT="0" bi="nushou-nushou-shou1" x="177.75" y="187.95" kX="81.7" kY="81.68" z="2"/>
+      <b name="图层 141" bT="0" bi="nushou-nushou-5a-1" x="198.85" y="203.1" kX="26.7" kY="26.7" z="3"/>
+      <b name="图层 140" bT="0" bi="nushou-nushou-6a-1" x="184.95" y="220.25" kX="0" kY="0" z="4"/>
+      <b name="右鞋子" bT="0" bi="nushou-nushou-7a-1" x="178.3" y="244.35" kX="0" kY="0" z="5"/>
+      <b name="图层 2" bT="0" bi="nushou-nushou-g-6" x="207.8" y="137.8" kX="34.93" kY="34.93" z="6"/>
+      <b name="身体" bT="0" bi="nushou-nushou-st-2" x="192.15" y="157.1" kX="-1.19" kY="-1.19" z="7"/>
+      <b name="头0" bT="0" bi="nushou-nushou-5a-1" x="215.7" y="201.35" kX="7.97" kY="7.97" z="8"/>
+      <b name="头1" bT="0" bi="nushou-nushou-6a-2" x="208.3" y="222.8" kX="0" kY="0" z="9"/>
+      <b name="头2" bT="0" bi="nushou-nushou-7a-8" x="208.85" y="248.4" kX="0" kY="0" z="10"/>
+      <b name="裤子" bT="0" bi="nushou-nushou-kz-1" x="191.65" y="195.3" kX="-1.57" kY="-1.57" z="11"/>
+      <b name="图层 147" bT="0" bi="nushou-pidai-1" x="190.1" y="194.85" kX="-1.57" kY="-1.57" z="12"/>
+      <b name="图层 5" bT="0" bi="nushou-pidai-2" x="204.3" y="200.95" kX="-52.72" kY="-52.72" z="13"/>
+      <b name="图层 133" bT="0" bi="nushou-nushou2a-10" x="208.05" y="168.2" kX="-0.62" kY="-0.62" z="14"/>
+      <b name="图层 132" bT="0" bi="nushou-nushou-shou1" x="200" y="195.05" kX="85.42" kY="85.42" z="15"/>
+      <b name="图层 4" bT="0" bi="nushou-nushou-shou2" x="180.9" y="197.25" kX="85.42" kY="85.42" z="16"/>
+      <b name="lu" bT="0" bi="nushou-nu-1" x="117.05" y="179.55" kX="-15.35" kY="-15.33" z="17"/>
+      <b name="图层 40" bT="0" bi="nushou-x-1" x="167.7" y="219.35" kX="-165.82" kY="-165.82" z="18"/>
+      <b name="图层 6" bT="0" bi="nushou-x-1" x="142.45" y="174.5" kX="-71.31" kY="-71.3" z="19"/>
+      <b name="shou3" bT="0" bi="nushou-nushou-shou3" x="158.8" y="191.95" kX="81.21" kY="81.19" z="20"/>
+      <b name="sdzh" bT="0" bi="nushou-nushou-wb-1" x="193.55" y="150.4" kX="-1.19" kY="-1.19" z="21"/>
+      <b name="nushou-tb-1" bT="0" bi="nushou-nushou-lb-1" x="179.65" y="109.75" kX="0.84" kY="0.84" z="22"/>
+      <b name="nushou-yj-1" bT="0" bi="nushou-nushou-yj-1" x="184.7" y="140.7" kX="8.97" kY="8.97" z="23"/>
+      <b name="yumao-1" bT="0" bi="nushou-yumao-1" x="225.15" y="111.9" kX="32.73" kY="32.73" z="24"/>
+      <b name="yumao-2" bT="0" bi="nushou-yumao-2" x="225.35" y="128.65" kX="53.97" kY="53.97" z="25"/>
+      <b name="toukui-1" bT="0" bi="nushou-toukui-1" x="181.2" y="132.85" kX="5.5" kY="5.45" z="26"/>
+    </armature>
+    <armature name="fell">
+      <b name="图层 5" bT="0" bi="nushou-nushou-yz-1" x="205.6" y="259.05" kX="0" kY="0" z="0"/>
+      <b name="右手臂" bT="0" bi="nushou-nushou2a-10" x="231.4" y="163.7" kX="96.29" kY="-83.71" z="1"/>
+      <b name="shou1" bT="0" bi="nushou-nushou-shou1" x="204.85" y="149.7" kX="155.66" kY="155.66" z="2"/>
+      <b name="lu" bT="0" bi="nushou-nu-1" x="196.2" y="88.95" kX="58.63" kY="58.63" z="3"/>
+      <b name="图层 2" bT="0" bi="nushou-x-1" x="171.85" y="148.8" kX="-91.85" kY="-91.85" z="4"/>
+      <b name="图层 10" bT="0" bi="nushou-x-1" x="208.05" y="112.1" kX="2.66" kY="2.67" z="5"/>
+      <b name="shou3" bT="0" bi="nushou-nushou-shou3" x="195.7" y="132.45" kX="155.17" kY="155.17" z="6"/>
+      <b name="右大腿" bT="0" bi="nushou-nushou-5a-1" x="219.4" y="197.4" kX="81.41" kY="81.41" z="7"/>
+      <b name="右小腿" bT="0" bi="nushou-nushou-6a-1" x="195.3" y="196.7" kX="28.43" kY="28.43" z="8"/>
+      <b name="右鞋子" bT="0" bi="nushou-nushou-7a-1" x="179" y="216.7" kX="11.82" kY="11.82" z="9"/>
+      <b name="图层 7" bT="0" bi="nushou-nushou-g-6" x="259.1" y="139.1" kX="65.15" kY="65.15" z="10"/>
+      <b name="裤子" bT="0" bi="nushou-nushou-st-2" x="235.65" y="152.6" kX="30.22" kY="30.22" z="11"/>
+      <b name="左小腿" bT="0" bi="nushou-nushou-5a-1" x="232.5" y="203.6" kX="68.82" kY="68.82" z="12"/>
+      <b name="脖子" bT="0" bi="nushou-nushou-6a-2" x="209.95" y="208.8" kX="31.65" kY="31.65" z="13"/>
+      <b name="左鞋子" bT="0" bi="nushou-nushou-7a-8" x="200.35" y="234.6" kX="10.47" kY="10.47" z="14"/>
+      <b name="左手" bT="0" bi="nushou-nushou-kz-1" x="215.35" y="184.9" kX="30.22" kY="30.22" z="15"/>
+      <b name="图层 3" bT="0" bi="nushou-pidai-1" x="214.2" y="183.7" kX="30.22" kY="30.22" z="16"/>
+      <b name="图层 9" bT="0" bi="nushou-pidai-2" x="223.1" y="196.35" kX="-20.93" kY="-20.93" z="17"/>
+      <b name="图层 70" bT="0" bi="nushou-nushou2a-10" x="243.55" y="167.25" kX="72.13" kY="72.13" z="18"/>
+      <b name="图层 71" bT="0" bi="nushou-nushou-shou1" x="212.05" y="173.65" kX="122.77" kY="122.77" z="19"/>
+      <b name="图层 6" bT="0" bi="nushou-nushou-shou2" x="196" y="164.55" kX="122.77" kY="122.77" z="20"/>
+      <b name="图层 8" bT="0" bi="nushou-nushou-wb-1" x="234.45" y="146.4" kX="18.88" kY="18.88" z="21"/>
+      <b name="nushou-tb-1" bT="0" bi="nushou-nushou-lb-1" x="209.1" y="114.2" kX="-12.06" kY="-12.06" z="22"/>
+      <b name="nushou-yj-1" bT="0" bi="nushou-nushou-yj-3" x="220.95" y="143.25" kX="-3.92" kY="-3.92" z="23"/>
+      <b name="yumao-1" bT="0" bi="nushou-yumao-1" x="242.1" y="105.2" kX="-2.16" kY="-2.16" z="24"/>
+      <b name="yumao-2" bT="0" bi="nushou-yumao-2" x="253.7" y="120.15" kX="26.07" kY="26.07" z="25"/>
+      <b name="toukui-1" bT="0" bi="nushou-toukui-1" x="215.75" y="136.45" kX="-7.4" kY="-7.45" z="26"/>
+    </armature>
+    <armature name="dead">
+      <b name="图层 2" bT="0" bi="nushou-nushou-yz-1" x="205.6" y="259.05" kX="0" kY="0" z="0"/>
+      <b name="图层 36" bT="0" bi="nushou-nushou2a-10" x="231.4" y="163.7" kX="96.29" kY="-83.71" z="1"/>
+      <b name="右手臂" bT="0" bi="nushou-nushou-shou1" x="204.85" y="149.7" kX="155.66" kY="155.66" z="2"/>
+      <b name="shou1" bT="0" bi="nushou-nu-1" x="196.2" y="88.95" kX="58.63" kY="58.63" z="3"/>
+      <b name="lu" bT="0" bi="nushou-x-1" x="171.85" y="148.8" kX="-91.85" kY="-91.85" z="4"/>
+      <b name="图层 32" bT="0" bi="nushou-x-1" x="208.05" y="112.1" kX="2.66" kY="2.67" z="5"/>
+      <b name="shou3" bT="0" bi="nushou-nushou-shou3" x="195.7" y="132.45" kX="155.17" kY="155.17" z="6"/>
+      <b name="右大腿" bT="0" bi="nushou-nushou-5a-1" x="219.4" y="197.4" kX="81.41" kY="81.41" z="7"/>
+      <b name="右小腿" bT="0" bi="nushou-nushou-6a-1" x="195.3" y="196.7" kX="28.43" kY="28.43" z="8"/>
+      <b name="右鞋子" bT="0" bi="nushou-nushou-7a-1" x="179" y="216.7" kX="11.82" kY="11.82" z="9"/>
+      <b name="图层 27" bT="0" bi="nushou-nushou-g-6" x="259.1" y="139.1" kX="65.15" kY="65.15" z="10"/>
+      <b name="裤子" bT="0" bi="nushou-nushou-st-2" x="235.65" y="152.6" kX="30.22" kY="30.22" z="11"/>
+      <b name="左小腿" bT="0" bi="nushou-nushou-5a-1" x="232.5" y="203.6" kX="68.82" kY="68.82" z="12"/>
+      <b name="脖子" bT="0" bi="nushou-nushou-6a-2" x="209.95" y="208.8" kX="31.65" kY="31.65" z="13"/>
+      <b name="左鞋子" bT="0" bi="nushou-nushou-7a-8" x="200.35" y="234.6" kX="10.47" kY="10.47" z="14"/>
+      <b name="左手" bT="0" bi="nushou-nushou-kz-1" x="215.35" y="184.9" kX="30.22" kY="30.22" z="15"/>
+      <b name="图层 21" bT="0" bi="nushou-pidai-1" x="214.2" y="183.7" kX="30.22" kY="30.22" z="16"/>
+      <b name="图层 20" bT="0" bi="nushou-pidai-2" x="223.1" y="196.35" kX="-20.93" kY="-20.93" z="17"/>
+      <b name="图层 19" bT="0" bi="nushou-nushou2a-10" x="243.55" y="167.25" kX="72.13" kY="72.13" z="18"/>
+      <b name="图层 18" bT="0" bi="nushou-nushou-shou1" x="212.05" y="173.65" kX="122.77" kY="122.77" z="19"/>
+      <b name="图层 17" bT="0" bi="nushou-nushou-shou2" x="196" y="164.55" kX="122.77" kY="122.77" z="20"/>
+      <b name="图层 16" bT="0" bi="nushou-nushou-wb-1" x="234.45" y="146.4" kX="18.88" kY="18.88" z="21"/>
+      <b name="nushou-tb-1" bT="0" bi="nushou-nushou-lb-1" x="209.1" y="114.2" kX="-12.06" kY="-12.06" z="22"/>
+      <b name="nushou-yj-1" bT="0" bi="nushou-nushou-yj-3" x="220.95" y="143.25" kX="-3.92" kY="-3.92" z="23"/>
+      <b name="yumao-1" bT="0" bi="nushou-yumao-1" x="242.1" y="105.2" kX="-2.16" kY="-2.16" z="24"/>
+      <b name="yumao-2" bT="0" bi="nushou-yumao-2" x="253.7" y="120.15" kX="26.07" kY="26.07" z="25"/>
+      <b name="toukui-1" bT="0" bi="nushou-toukui-1" x="215.75" y="136.45" kX="-7.4" kY="-7.45" z="26"/>
+    </armature>
+    <armature name="bruise">
+      <b name="影子" bT="0" bi="nushou-nushou-yz-1" x="202.9" y="259.05" kX="0" kY="0" z="0"/>
+      <b name="右大腿" bT="0" bi="nushou-nushou2a-20" x="196.25" y="162.15" kX="14.11" kY="13.23" z="1"/>
+      <b name="shou1" bT="0" bi="nushou-nushou-shou1" x="184.15" y="192.05" kX="74.56" kY="74.56" z="2"/>
+      <b name="右小腿" bT="0" bi="nushou-nushou-5a-1" x="199.65" y="198.55" kX="29.44" kY="29.44" z="3"/>
+      <b name="身体" bT="0" bi="nushou-nushou-6a-1" x="184.95" y="215" kX="0" kY="0" z="4"/>
+      <b name="左大腿" bT="0" bi="nushou-nushou-7a-1" x="178.2" y="239.1" kX="0" kY="0" z="5"/>
+      <b name="图层 4" bT="0" bi="nushou-nushou-g-6" x="207.75" y="130.8" kX="34.93" kY="34.93" z="6"/>
+      <b name="左小腿" bT="0" bi="nushou-nushou-5a-1" x="215.25" y="201.3" kX="6.52" kY="6.52" z="7"/>
+      <b name="脖子" bT="0" bi="nushou-nushou-6a-2" x="208.3" y="222.55" kX="0" kY="0" z="8"/>
+      <b name="左鞋子" bT="0" bi="nushou-nushou-7a-8" x="208.85" y="248.15" kX="0" kY="0" z="9"/>
+      <b name="裤子" bT="0" bi="nushou-nushou-st-2" x="194.25" y="154.35" kX="0" kY="0" z="10"/>
+      <b name="右鞋子" bT="0" bi="nushou-nushou-kz-1" x="192.95" y="192.5" kX="0" kY="0" z="11"/>
+      <b name="图层 2" bT="0" bi="nushou-pidai-1" x="191.4" y="192" kX="0" kY="0" z="12"/>
+      <b name="图层 7" bT="0" bi="nushou-pidai-2" x="205.4" y="198.5" kX="-51.15" kY="-51.15" z="13"/>
+      <b name="图层 33" bT="0" bi="nushou-nushou2a-10" x="211.05" y="164.65" kX="-28.13" kY="-28.13" z="14"/>
+      <b name="图层 35" bT="0" bi="nushou-nushou-shou1" x="213.9" y="189.8" kX="72.12" kY="72.12" z="15"/>
+      <b name="图层 5" bT="0" bi="nushou-nushou-shou2" x="195.75" y="196.35" kX="72.12" kY="72.12" z="16"/>
+      <b name="lu" bT="0" bi="nushou-nu-1" x="122.45" y="191.25" kX="-22.47" kY="-22.47" z="17"/>
+      <b name="图层 6" bT="0" bi="nushou-x-1" x="178.1" y="224.65" kX="-172.95" kY="-172.95" z="18"/>
+      <b name="图层 10" bT="0" bi="nushou-x-1" x="147.2" y="183" kX="-78.43" kY="-78.43" z="19"/>
+      <b name="shou3" bT="0" bi="nushou-nushou-shou3" x="165.7" y="198.5" kX="74.07" kY="74.07" z="20"/>
+      <b name="头" bT="0" bi="nushou-nushou-wb-1" x="195.85" y="147.7" kX="0" kY="0" z="21"/>
+      <b name="nushou-tb-1" bT="0" bi="nushou-nushou-lb-1" x="173.85" y="111.55" kX="-8.13" kY="-8.13" z="22"/>
+      <b name="nushou-yj-1" bT="0" bi="nushou-nushou-yj-1" x="183.65" y="141.3" kX="0" kY="0" z="23"/>
+      <b name="yumao-1" bT="0" bi="nushou-yumao-1" x="219.15" y="106.6" kX="23.76" kY="23.76" z="24"/>
+      <b name="yumao-2" bT="0" bi="nushou-yumao-2" x="221.95" y="123.1" kX="45" kY="45" z="25"/>
+      <b name="toukui-1" bT="0" bi="nushou-toukui-1" x="178.95" y="134.15" kX="-3.48" kY="-3.52" z="26"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="14" drTW="14" lp="1">
+        <b name="影子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" img="nushou-nushou-yz-1" dr="14"/>
+        </b>
+        <b name="右大腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="nushou-nushou-5a-1" twE="0" dr="7"/>
+          <f x="0.15" y="1.2" kX="3.53" kY="3.53" cX="1" cY="1" z="1" twE="0" dr="7"/>
+        </b>
+        <b name="guidao-2a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="nushou-nushou2a-20" twE="0" dr="7"/>
+          <f x="0.15" y="0.05" kX="-1.25" kY="-1.25" cX="1" cY="1" z="2" twE="0" dr="7"/>
+        </b>
+        <b name="shou1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="nushou-nushou-shou1" twE="0" dr="7"/>
+          <f x="0.65" y="-0.55" kX="2.44" kY="2.44" cX="1" cY="1" z="3" twE="0" dr="7"/>
+        </b>
+        <b name="左手" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="nushou-nushou-5a-1" twE="0" dr="7"/>
+          <f x="0.2" y="1.05" kX="3.52" kY="3.52" cX="1" cY="1" z="4" twE="0" dr="7"/>
+        </b>
+        <b name="左小腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="nushou-nushou-6a-2" twE="0" dr="7"/>
+          <f x="-0.95" y="0.6" kX="-2.25" kY="-2.25" cX="1" cY="1" z="5" twE="0" dr="7"/>
+        </b>
+        <b name="左鞋子0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="nushou-nushou-7a-8" twE="0" dr="7"/>
+          <f x="-0.25" y="0" kX="-1.21" kY="0" cX="1" cY="1" z="6" twE="0" dr="7"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="nushou-nushou-g-6" twE="0" dr="7"/>
+          <f x="0" y="0.9" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="7"/>
+        </b>
+        <b name="身体" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="nushou-nushou-st-2" twE="0" dr="7"/>
+          <f x="0" y="0.9" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="7"/>
+        </b>
+        <b name="裤子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="nushou-nushou-kz-1" twE="0" dr="7"/>
+          <f x="0" y="0.9" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="7"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="nushou-pidai-1" twE="0" dr="7"/>
+          <f x="0" y="0.9" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="7"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="nushou-pidai-2" twE="0" dr="7"/>
+          <f x="-0.2" y="0.25" kX="13.05" kY="13.05" cX="1" cY="1" z="11" twE="0" dr="7"/>
+        </b>
+        <b name="左手臂" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="nushou-nushou2a-10" twE="0" dr="7"/>
+          <f x="0.5" y="1.4" kX="-1.46" kY="-1.46" cX="1" cY="1" z="12" twE="0" dr="7"/>
+        </b>
+        <b name="左手0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="nushou-nushou-shou1" twE="0" dr="7"/>
+          <f x="0.7" y="0.75" kX="2.72" kY="2.72" cX="1" cY="1" z="13" twE="0" dr="7"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="nushou-nushou-shou2" twE="0" dr="7"/>
+          <f x="0.5" y="-0.15" kX="2.72" kY="2.72" cX="1" cY="1" z="14" twE="0" dr="7"/>
+        </b>
+        <b name="脖子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="nushou-nushou-wb-1" twE="0" dr="7"/>
+          <f x="0" y="0.9" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="7"/>
+        </b>
+        <b name="右鞋子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="nushou-nushou-6a-1" twE="0" dr="7"/>
+          <f x="-0.95" y="0.45" kX="-3.06" kY="-3.06" cX="1" cY="1" z="16" twE="0" dr="7"/>
+        </b>
+        <b name="左鞋子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="nushou-nushou-7a-1" twE="0" dr="7"/>
+          <f x="-0.35" y="0" kX="-1.31" kY="0" cX="1" cY="1" z="17" twE="0" dr="7"/>
+        </b>
+        <b name="nushou-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="nushou-nushou-lb-1" twE="0" dr="7"/>
+          <f x="0" y="0.9" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="7"/>
+        </b>
+        <b name="nushou-yj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="nushou-nushou-yj-1" twE="0" dr="7"/>
+          <f x="0" y="0.9" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="7"/>
+        </b>
+        <b name="yumao-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="nushou-yumao-1" twE="0" dr="7"/>
+          <f x="-2.9" y="-0.05" kX="-5.53" kY="-5.53" cX="1" cY="1" z="20" twE="0" dr="7"/>
+        </b>
+        <b name="yumao-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="nushou-yumao-2" twE="0" dr="7"/>
+          <f x="-1.1" y="0.05" kX="-4.28" kY="-4.28" cX="1" cY="1" z="21" twE="0" dr="7"/>
+        </b>
+        <b name="toukui-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="nushou-toukui-1" twE="0" dr="7"/>
+          <f x="0" y="0.9" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="7"/>
+        </b>
+        <b name="lu" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="nushou-nu-1" twE="0" dr="7"/>
+          <f x="0.8" y="-3.15" kX="2.43" kY="2.43" cX="1" cY="1" z="23" twE="0" dr="7"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="0.99" z="24" img="nushou-x-1" twE="0" dr="7"/>
+          <f x="-0.65" y="-0.75" kX="2.43" kY="2.44" cX="0.81" cY="0.99" z="24" twE="0" dr="7"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1" z="25" img="nushou-x-1" twE="0" dr="7"/>
+          <f x="1.15" y="-2.1" kX="2.43" kY="2.43" cX="0.81" cY="1" z="25" twE="0" dr="7"/>
+        </b>
+        <b name="shou3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="nushou-nushou-shou3" twE="0" dr="7"/>
+          <f x="0.4" y="-1.35" kX="2.44" kY="2.44" cX="1" cY="1" z="26" twE="0" dr="7"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="run">
+      <mov name="run" to="1" dr="36" drTW="36" lp="1">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" img="nushou-nushou-yz-1" dr="36"/>
+        </b>
+        <b name="左手臂" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="nushou-nushou2a-20" twE="0" dr="6"/>
+          <f x="-0.15" y="1.1" kX="-2.19" kY="-2.19" cX="1" cY="1" z="1" twE="0" dr="6"/>
+          <f x="-1.45" y="5.4" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="6"/>
+          <f x="-1" y="-0.35" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="6"/>
+          <f x="-1.55" y="1.55" kX="2.73" kY="2.72" cX="1" cY="1" z="1" twE="0" dr="6"/>
+          <f x="0" y="6.4" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="6"/>
+        </b>
+        <b name="右手 副本" sc="1" dl="0"/>
+        <b name="小刀" sc="1" dl="0"/>
+        <b name="右手 副本 2" sc="1" dl="0"/>
+        <b name="右大腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="nushou-nushou-5a-1" twE="0" dr="6"/>
+          <f x="0.4" y="0.6" kX="-13.67" kY="-13.67" cX="1" cY="1" z="3" twE="0" dr="6"/>
+          <f x="0.3" y="6.05" kX="-23.5" kY="-23.5" cX="1" cY="1" z="3" twE="0" dr="6"/>
+          <f x="-1.1" y="-3.15" kX="-3.17" kY="-3.17" cX="1" cY="1" z="3" twE="0" dr="6"/>
+          <f x="-3" y="0.65" kX="11.1" kY="11.1" cX="0.99" cY="0.99" z="3" twE="0" dr="6"/>
+          <f x="0.3" y="4.1" kX="18.79" kY="18.79" cX="0.99" cY="0.99" z="3" twE="0" dr="6"/>
+        </b>
+        <b name="身体" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="nushou-nushou-6a-1" twE="0" dr="6"/>
+          <f x="5.75" y="2.2" kX="-11.33" kY="-11.33" cX="1" cY="1" z="4" twE="0" dr="6"/>
+          <f x="8.25" y="7.1" kX="-42.48" kY="-42.48" cX="1" cY="1" z="4" twE="0" dr="6"/>
+          <f x="-1.05" y="-1.3" kX="-32.86" kY="-32.86" cX="0.99" cY="0.99" z="4" twE="0" dr="6"/>
+          <f x="-7.55" y="-2.9" kX="-1.58" kY="-1.58" cX="0.99" cY="0.99" z="4" twE="0" dr="6"/>
+          <f x="-5.8" y="-0.3" kX="25.76" kY="25.76" cX="0.99" cY="0.99" z="4" twE="0" dr="6"/>
+        </b>
+        <b name="右鞋子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="nushou-nushou-7a-1" twE="0" dr="6"/>
+          <f x="9.05" y="0.6" kX="-3.11" kY="1.52" cX="1" cY="1" z="5" twE="0" dr="6"/>
+          <f x="24.7" y="3.45" kX="-43.32" kY="-38.56" cX="0.99" cY="1.01" z="5" twE="0" dr="6"/>
+          <f x="13.25" y="-4" kX="-36.82" kY="-33.6" cX="1" cY="0.99" z="5" twE="0" dr="6"/>
+          <f x="-6.05" y="-3.45" kX="-6.74" kY="-6.74" cX="0.99" cY="0.99" z="5" twE="0" dr="6"/>
+          <f x="-15.55" y="-4.25" kX="22.15" kY="21.62" cX="0.99" cY="0.99" z="5" twE="0" dr="6"/>
+        </b>
+        <b name="左小腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="nushou-nushou-st-2" twE="0" dr="6"/>
+          <f x="-1.05" y="1.85" kX="-2.49" kY="-2.49" cX="1" cY="1" z="7" twE="0" dr="6"/>
+          <f x="-1.8" y="6.65" kX="-3.27" kY="-3.27" cX="1" cY="1" z="7" twE="0" dr="6"/>
+          <f x="-1.1" y="-0.1" kX="1.27" kY="1.27" cX="1" cY="1" z="7" twE="0" dr="6"/>
+          <f x="-1.1" y="1.45" kX="4.3" kY="4.3" cX="1" cY="1" z="7" twE="0" dr="6"/>
+          <f x="-0.05" y="6.35" kX="1.21" kY="1.21" cX="1" cY="1" z="7" twE="0" dr="6"/>
+        </b>
+        <b name="左手" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="nushou-nushou-kz-1" twE="0" dr="6"/>
+          <f x="0.55" y="1.75" kX="-2.49" kY="-2.49" cX="1" cY="1" z="11" twE="0" dr="6"/>
+          <f x="0.4" y="6.55" kX="-3.27" kY="-3.27" cX="1" cY="1" z="11" twE="0" dr="6"/>
+          <f x="-2" y="-0.1" kX="1.27" kY="1.27" cX="1" cY="1" z="11" twE="0" dr="6"/>
+          <f x="-4.05" y="1.75" kX="2" kY="2" cX="1" cY="1" z="11" twE="0" dr="6"/>
+          <f x="-0.9" y="6.3" kX="1.21" kY="1.21" cX="1" cY="1" z="11" twE="0" dr="6"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="nushou-pidai-1" twE="0" dr="6"/>
+          <f x="0.5" y="1.85" kX="-2.49" kY="-2.49" cX="1" cY="1" z="12" twE="0" dr="6"/>
+          <f x="0.35" y="6.65" kX="-3.27" kY="-3.27" cX="1" cY="1" z="12" twE="0" dr="6"/>
+          <f x="-2" y="-0.15" kX="1.27" kY="1.27" cX="1" cY="1" z="12" twE="0" dr="6"/>
+          <f x="-4.05" y="1.7" kX="2" kY="2" cX="1" cY="1" z="12" twE="0" dr="6"/>
+          <f x="-0.9" y="6.25" kX="1.21" kY="1.21" cX="1" cY="1" z="12" twE="0" dr="6"/>
+        </b>
+        <b name="头" sc="1" dl="0"/>
+        <b name="图层 129" sc="1" dl="0"/>
+        <b name="左鞋子2" sc="1" dl="0"/>
+        <b name="脖子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="nushou-nushou2a-10" twE="0" dr="6"/>
+          <f x="-0.65" y="0.6" kX="-2.2" kY="-2.2" cX="1" cY="1" z="14" twE="0" dr="6"/>
+          <f x="-1.45" y="5.4" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="6"/>
+          <f x="-1" y="-0.35" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="6"/>
+          <f x="-1.35" y="2.25" kX="2.72" kY="2.72" cX="1" cY="1" z="14" twE="0" dr="6"/>
+          <f x="0" y="6.4" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="6"/>
+        </b>
+        <b name="图层 128" sc="1" dl="0"/>
+        <b name="图层 127" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="nushou-nushou-wb-1" twE="0" dr="6"/>
+          <f x="-1.4" y="1.75" kX="-2.49" kY="-2.49" cX="1" cY="1" z="21" twE="0" dr="6"/>
+          <f x="-2.2" y="6.55" kX="-3.27" kY="-3.27" cX="1" cY="1" z="21" twE="0" dr="6"/>
+          <f x="-1" y="-0.05" kX="1.27" kY="1.27" cX="1" cY="1" z="21" twE="0" dr="6"/>
+          <f x="-0.6" y="1.55" kX="4.3" kY="4.3" cX="1" cY="1" z="21" twE="0" dr="6"/>
+          <f x="0.05" y="6.45" kX="1.21" kY="1.21" cX="1" cY="1" z="21" twE="0" dr="6"/>
+        </b>
+        <b name="图层 126" sc="1" dl="0"/>
+        <b name="shou1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.98" cY="0.98" z="2" img="nushou-nushou-shou1" twE="0" dr="6"/>
+          <f x="0.1" y="0.6" kX="3.99" kY="3.99" cX="0.98" cY="0.98" z="2" twE="0" dr="6"/>
+          <f x="-2.4" y="3.5" kX="10.67" kY="10.67" cX="0.98" cY="0.98" z="2" twE="0" dr="6"/>
+          <f x="-1.3" y="-1.25" kX="6.93" kY="6.93" cX="0.98" cY="0.98" z="2" twE="0" dr="6"/>
+          <f x="-2.7" y="0.85" kX="3.93" kY="3.93" cX="0.98" cY="0.98" z="2" twE="0" dr="6"/>
+          <f x="0" y="6.4" kX="0" kY="0" cX="0.98" cY="0.98" z="2" twE="0" dr="6"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="nushou-nushou-g-6" twE="0" dr="6"/>
+          <f x="-2.2" y="1.4" kX="-2.48" kY="-2.48" cX="1" cY="1" z="6" twE="0" dr="6"/>
+          <f x="-3.25" y="6.05" kX="-3.26" kY="-3.26" cX="1" cY="1" z="6" twE="0" dr="6"/>
+          <f x="-0.6" y="0.25" kX="1.27" kY="1.27" cX="1" cY="1" z="6" twE="0" dr="6"/>
+          <f x="0.55" y="2.6" kX="4.31" kY="4.31" cX="1" cY="1" z="6" twE="0" dr="6"/>
+          <f x="0.45" y="6.7" kX="1.22" kY="1.22" cX="1" cY="1" z="6" twE="0" dr="6"/>
+        </b>
+        <b name="右大腿0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="nushou-nushou-5a-1" twE="0" dr="6"/>
+          <f x="-1.9" y="2.75" kX="14.27" kY="14.27" cX="0.99" cY="0.99" z="8" twE="0" dr="6"/>
+          <f x="1.4" y="5.15" kX="21.96" kY="21.96" cX="0.99" cY="0.99" z="8" twE="0" dr="6"/>
+          <f x="1.1" y="-0.35" kX="3.17" kY="3.17" cX="1" cY="1" z="8" twE="0" dr="6"/>
+          <f x="1.5" y="0.95" kX="-10.5" kY="-10.5" cX="1" cY="1" z="8" twE="0" dr="6"/>
+          <f x="1.4" y="7.1" kX="-20.33" kY="-20.33" cX="1" cY="1" z="8" twE="0" dr="6"/>
+        </b>
+        <b name="身体0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="9" img="nushou-nushou-6a-1" twE="0" dr="6"/>
+          <f x="-6.5" y="-1.25" kX="31.28" kY="31.28" cX="0.99" cY="0.99" z="9" twE="0" dr="6"/>
+          <f x="-4.75" y="0.3" kX="58.62" kY="58.62" cX="0.99" cY="0.99" z="9" twE="0" dr="6"/>
+          <f x="1.05" y="0.6" kX="32.86" kY="32.86" cX="1" cY="1" z="9" twE="0" dr="6"/>
+          <f x="6.8" y="2.8" kX="21.53" kY="21.53" cX="1" cY="1" z="9" twE="0" dr="6"/>
+          <f x="9.3" y="7.7" kX="-9.62" kY="-9.62" cX="1" cY="1" z="9" twE="0" dr="6"/>
+        </b>
+        <b name="右鞋子0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.99" z="10" img="nushou-nushou-7a-1" twE="0" dr="6"/>
+          <f x="-19.3" y="0.9" kX="30.08" kY="26.86" cX="0.99" cY="0.99" z="10" twE="0" dr="6"/>
+          <f x="-28.8" y="-0.95" kX="58.97" kY="55.22" cX="0.99" cY="0.99" z="10" twE="0" dr="6"/>
+          <f x="-13.25" y="3.3" kX="36.82" kY="33.6" cX="1" cY="1" z="10" twE="0" dr="6"/>
+          <f x="-3.15" y="3.9" kX="25.45" kY="35.12" cX="1" cY="1.02" z="10" twE="0" dr="4"/>
+          <f x="8.6" y="6.65" kX="2.05" kY="2.74" cX="0.98" cY="1.01" z="10" twE="0" dr="2"/>
+          <f x="11.8" y="6.05" kX="-6.5" kY="-4.96" cX="0.99" cY="1.01" z="10" twE="0" dr="6"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="nushou-pidai-2" twE="0" dr="6"/>
+          <f x="1.05" y="1.9" kX="-17.49" kY="-17.49" cX="1" cY="1" z="13" twE="0" dr="6"/>
+          <f x="1.4" y="7.1" kX="-33.27" kY="-33.27" cX="1" cY="1" z="13" twE="0" dr="6"/>
+          <f x="-1.85" y="0.85" kX="-13.73" kY="-13.73" cX="1" cY="1" z="13" twE="0" dr="6"/>
+          <f x="-4" y="2.85" kX="-13" kY="-13" cX="1" cY="1" z="13" twE="0" dr="6"/>
+          <f x="-0.75" y="7.25" kX="-13.79" kY="-13.79" cX="1" cY="1" z="13" twE="0" dr="6"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="15" img="nushou-nushou-shou1" twE="0" dr="6"/>
+          <f x="0.35" y="0.5" kX="-1.93" kY="-1.93" cX="0.99" cY="0.99" z="15" twE="0" dr="6"/>
+          <f x="-1.55" y="5.35" kX="0.27" kY="0.27" cX="0.99" cY="0.99" z="15" twE="0" dr="6"/>
+          <f x="-0.85" y="-0.1" kX="-1.25" kY="-1.25" cX="0.99" cY="0.99" z="15" twE="0" dr="6"/>
+          <f x="-2.65" y="2.25" kX="2.72" kY="2.72" cX="0.99" cY="0.99" z="15" twE="0" dr="6"/>
+          <f x="0" y="6.4" kX="0" kY="0" cX="0.99" cY="0.99" z="15" twE="0" dr="6"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="16" img="nushou-nushou-shou2" twE="0" dr="6"/>
+          <f x="0.5" y="1.15" kX="-1.93" kY="-1.93" cX="0.99" cY="0.99" z="16" twE="0" dr="6"/>
+          <f x="-1.55" y="5.25" kX="0.27" kY="0.27" cX="0.99" cY="0.99" z="16" twE="0" dr="6"/>
+          <f x="-0.7" y="0.3" kX="-1.25" kY="-1.25" cX="0.99" cY="0.99" z="16" twE="0" dr="6"/>
+          <f x="-2.85" y="1.4" kX="2.72" kY="2.72" cX="0.99" cY="0.99" z="16" twE="0" dr="6"/>
+          <f x="0" y="6.4" kX="0" kY="0" cX="0.99" cY="0.99" z="16" twE="0" dr="6"/>
+        </b>
+        <b name="lu" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="17" img="nushou-nu-1" twE="0" dr="6"/>
+          <f x="0.55" y="-3.6" kX="4" kY="4" cX="0.99" cY="0.99" z="17" twE="0" dr="6"/>
+          <f x="-0.65" y="-7.65" kX="10.67" kY="10.68" cX="0.99" cY="0.99" z="17" twE="0" dr="6"/>
+          <f x="-0.45" y="-8.55" kX="6.94" kY="6.94" cX="0.99" cY="0.99" z="17" twE="0" dr="6"/>
+          <f x="-2.3" y="-3.35" kX="3.93" kY="3.93" cX="0.99" cY="0.99" z="17" twE="0" dr="6"/>
+          <f x="0" y="6.4" kX="0" kY="0" cX="0.99" cY="0.99" z="17" twE="0" dr="6"/>
+        </b>
+        <b name="图层 40" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.98" z="18" img="nushou-x-1" twE="0" dr="6"/>
+          <f x="-2.1" y="0.05" kX="4" kY="3.99" cX="0.8" cY="0.98" z="18" twE="0" dr="6"/>
+          <f x="-8.2" y="1.6" kX="10.68" kY="10.67" cX="0.8" cY="0.98" z="18" twE="0" dr="6"/>
+          <f x="-5.15" y="-2.35" kX="6.94" kY="6.93" cX="0.8" cY="0.98" z="18" twE="0" dr="6"/>
+          <f x="-4.9" y="0.2" kX="3.93" kY="3.93" cX="0.8" cY="0.98" z="18" twE="0" dr="6"/>
+          <f x="0" y="6.4" kX="0" kY="0" cX="0.8" cY="0.98" z="18" twE="0" dr="6"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.99" z="19" img="nushou-x-1" twE="0" dr="6"/>
+          <f x="1" y="-1.85" kX="4" kY="4" cX="0.8" cY="0.99" z="19" twE="0" dr="6"/>
+          <f x="0.2" y="-2.95" kX="10.67" kY="10.68" cX="0.8" cY="0.99" z="19" twE="0" dr="6"/>
+          <f x="0.25" y="-5.5" kX="6.94" kY="6.94" cX="0.8" cY="0.99" z="19" twE="0" dr="6"/>
+          <f x="-1.85" y="-1.65" kX="3.93" kY="3.93" cX="0.8" cY="0.99" z="19" twE="0" dr="6"/>
+          <f x="0" y="6.4" kX="0" kY="0" cX="0.8" cY="0.99" z="19" twE="0" dr="6"/>
+        </b>
+        <b name="shou3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.98" cY="0.98" z="20" img="nushou-nushou-shou3" twE="0" dr="6"/>
+          <f x="-0.2" y="-0.6" kX="3.99" kY="4" cX="0.98" cY="0.98" z="20" twE="0" dr="6"/>
+          <f x="-3.05" y="0" kX="10.67" kY="10.68" cX="0.98" cY="0.98" z="20" twE="0" dr="6"/>
+          <f x="-1.9" y="-3.45" kX="6.93" kY="6.94" cX="0.98" cY="0.98" z="20" twE="0" dr="6"/>
+          <f x="-3.05" y="-0.4" kX="3.93" kY="3.93" cX="0.98" cY="0.98" z="20" twE="0" dr="6"/>
+          <f x="0" y="6.4" kX="0" kY="0" cX="0.98" cY="0.98" z="20" twE="0" dr="6"/>
+        </b>
+        <b name="nushou-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="nushou-nushou-lb-1" twE="0" dr="6"/>
+          <f x="-2.25" y="2.55" kX="-2" kY="-2" cX="1" cY="1" z="22" twE="0" dr="6"/>
+          <f x="-3.55" y="7.7" kX="-2.7" kY="-2.7" cX="1" cY="1" z="22" twE="0" dr="6"/>
+          <f x="0.1" y="-0.7" kX="1.71" kY="1.71" cX="1" cY="1" z="22" twE="0" dr="6"/>
+          <f x="2.3" y="-0.15" kX="4.43" kY="4.43" cX="1" cY="1" z="22" twE="0" dr="6"/>
+          <f x="1.15" y="5.7" kX="1.73" kY="1.73" cX="1" cY="1" z="22" twE="0" dr="6"/>
+        </b>
+        <b name="nushou-yj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="nushou-nushou-yj-1" twE="0" dr="6"/>
+          <f x="-1.25" y="2.2" kX="-2" kY="-2" cX="1" cY="1" z="23" twE="0" dr="6"/>
+          <f x="-2.2" y="7.2" kX="-2.71" kY="-2.71" cX="1" cY="1" z="23" twE="0" dr="6"/>
+          <f x="-0.8" y="-0.4" kX="1.7" kY="1.7" cX="1" cY="1" z="23" twE="0" dr="6"/>
+          <f x="0" y="0.6" kX="4.42" kY="4.42" cX="1" cY="1" z="23" twE="0" dr="6"/>
+          <f x="0.25" y="6" kX="1.73" kY="1.73" cX="1" cY="1" z="23" twE="0" dr="6"/>
+        </b>
+        <b name="yumao-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="nushou-yumao-1" twE="0" dr="6"/>
+          <f x="-6.75" y="0.1" kX="-10.02" kY="-10.02" cX="1" cY="1" z="24" twE="0" dr="6"/>
+          <f x="-9.45" y="4.25" kX="-13.48" kY="-13.48" cX="1" cY="1" z="24" twE="0" dr="6"/>
+          <f x="-4.1" y="-0.55" kX="-6.51" kY="-6.51" cX="1" cY="1" z="24" twE="0" dr="6"/>
+          <f x="0.8" y="2.7" kX="0.79" kY="0.79" cX="1" cY="1" z="24" twE="0" dr="6"/>
+          <f x="1.9" y="7.4" kX="3.02" kY="3.02" cX="1" cY="1" z="24" twE="0" dr="6"/>
+        </b>
+        <b name="yumao-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="nushou-yumao-2" twE="0" dr="6"/>
+          <f x="-3.95" y="-0.8" kX="-10.03" kY="-10.03" cX="1" cY="1" z="25" twE="0" dr="6"/>
+          <f x="-5.7" y="3.05" kX="-13.48" kY="-13.48" cX="1" cY="1" z="25" twE="0" dr="6"/>
+          <f x="-2.25" y="-0.9" kX="-6.52" kY="-6.52" cX="1" cY="1" z="25" twE="0" dr="6"/>
+          <f x="0.5" y="2.65" kX="0.78" kY="0.78" cX="1" cY="1" z="25" twE="0" dr="6"/>
+          <f x="0.95" y="7.4" kX="3.02" kY="3.02" cX="1" cY="1" z="25" twE="0" dr="6"/>
+        </b>
+        <b name="toukui-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="nushou-toukui-1" twE="0" dr="6"/>
+          <f x="-1.5" y="2.3" kX="-2" kY="-2" cX="1" cY="1" z="26" twE="0" dr="6"/>
+          <f x="-2.5" y="7.4" kX="-2.7" kY="-2.7" cX="1" cY="1" z="26" twE="0" dr="6"/>
+          <f x="-0.6" y="-0.55" kX="1.71" kY="1.71" cX="1" cY="1" z="26" twE="0" dr="6"/>
+          <f x="0.55" y="0.2" kX="4.43" kY="4.43" cX="1" cY="1" z="26" twE="0" dr="6"/>
+          <f x="0.45" y="5.85" kX="1.73" kY="1.74" cX="1" cY="1" z="26" twE="0" dr="6"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_1">
+      <mov name="physical_1" to="1" dr="47" drTW="47">
+        <b name="影子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" img="nushou-nushou-yz-1" dr="47"/>
+        </b>
+        <b name="图层 145" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="1" img="nushou-nushou2a-10" twE="0" dr="6"/>
+          <f x="-16.05" y="14.45" kX="16.74" kY="16.74" cX="0.99" cY="0.99" z="1" twE="0" dr="4"/>
+          <f x="-23.5" y="29.3" kX="26.02" kY="26.02" cX="0.99" cY="0.99" z="1" twE="0" dr="18"/>
+          <f x="-23.5" y="29.3" kX="26.02" kY="26.02" cX="0.99" cY="0.99" z="1" twE="0" dr="1"/>
+          <f x="-15.3" y="27.6" kX="33.02" kY="33.02" cX="0.99" cY="0.99" z="1" twE="0" dr="3"/>
+          <f x="-15.3" y="27.6" kX="33.02" kY="33.02" cX="0.99" cY="0.99" z="1" twE="0" dr="1"/>
+          <f x="-23.5" y="29.3" kX="26.02" kY="26.02" cX="0.99" cY="0.99" z="1" twE="0" dr="6"/>
+          <f x="-23.5" y="29.3" kX="26.02" kY="26.02" cX="0.99" cY="0.99" z="1" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="1" dr="2"/>
+        </b>
+        <b name="shou1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="2" img="nushou-nushou-shou1" twE="0" dr="6"/>
+          <f x="-21.2" y="-9.25" kX="13.93" kY="13.95" cX="0.99" cY="0.99" z="2" twE="0" dr="4"/>
+          <f x="-27.2" y="6" kX="13.93" kY="13.95" cX="0.99" cY="0.99" z="2" twE="0" dr="18"/>
+          <f x="-27.2" y="6" kX="13.93" kY="13.95" cX="0.99" cY="0.99" z="2" twE="0" dr="1"/>
+          <f x="-18" y="-2.55" kX="41.82" kY="41.84" cX="0.99" cY="0.99" z="2" twE="0" dr="3"/>
+          <f x="-18" y="-2.55" kX="41.82" kY="41.84" cX="0.99" cY="0.99" z="2" twE="0" dr="1"/>
+          <f x="-28.05" y="6.25" kX="16.11" kY="16.13" cX="0.99" cY="0.99" z="2" twE="0" dr="6"/>
+          <f x="-28.05" y="6.25" kX="16.11" kY="16.13" cX="0.99" cY="0.99" z="2" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="2" dr="2"/>
+        </b>
+        <b name="图层 141" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="nushou-nushou-5a-1" twE="0" dr="6"/>
+          <f x="-4.5" y="14.6" kX="43.66" kY="42.78" cX="0.99" cY="0.99" z="3" twE="0" dr="4"/>
+          <f x="-10.85" y="27.3" kX="75.42" kY="74.54" cX="0.99" cY="0.99" z="3" twE="0" dr="18"/>
+          <f x="-10.85" y="27.3" kX="75.42" kY="74.54" cX="0.99" cY="0.99" z="3" twE="0" dr="1"/>
+          <f x="-10.05" y="27.1" kX="72.47" kY="71.59" cX="0.99" cY="0.99" z="3" twE="0" dr="3"/>
+          <f x="-10.05" y="27.1" kX="72.47" kY="71.59" cX="0.99" cY="0.99" z="3" twE="0" dr="1"/>
+          <f x="-10.85" y="27.3" kX="75.42" kY="74.54" cX="0.99" cY="0.99" z="3" twE="0" dr="6"/>
+          <f x="-10.85" y="27.3" kX="75.42" kY="74.54" cX="0.99" cY="0.99" z="3" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="2"/>
+        </b>
+        <b name="图层 140" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="nushou-nushou-6a-1" twE="0" dr="6"/>
+          <f x="-14.65" y="2.35" kX="-2.29" kY="-3" cX="1" cY="0.99" z="4" twE="0" dr="4"/>
+          <f x="-21.85" y="4.4" kX="-9.24" kY="-9.94" cX="1" cY="0.99" z="4" twE="0" dr="18"/>
+          <f x="-21.85" y="4.4" kX="-9.24" kY="-9.94" cX="1" cY="0.99" z="4" twE="0" dr="1"/>
+          <f x="-21.4" y="4.4" kX="-9.24" kY="-9.94" cX="1" cY="0.99" z="4" twE="0" dr="3"/>
+          <f x="-21.4" y="4.4" kX="-9.24" kY="-9.94" cX="1" cY="0.99" z="4" twE="0" dr="1"/>
+          <f x="-21.85" y="4.4" kX="-9.24" kY="-9.94" cX="1" cY="0.99" z="4" twE="0" dr="6"/>
+          <f x="-21.85" y="4.4" kX="-9.24" kY="-9.94" cX="1" cY="0.99" z="4" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="2"/>
+        </b>
+        <b name="右鞋子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="nushou-nushou-7a-1" twE="0" dr="6"/>
+          <f x="-16.6" y="0.25" kX="-3.03" kY="0" cX="1" cY="0.99" z="5" twE="0" dr="4"/>
+          <f x="-18.5" y="0.25" kX="-9.73" kY="0" cX="1" cY="1" z="5" twE="0" dr="18"/>
+          <f x="-18.5" y="0.25" kX="-9.73" kY="0" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f x="-18" y="0.25" kX="-9.73" kY="0" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="-18" y="0.25" kX="-9.73" kY="0" cX="1" cY="1" z="5" twE="0" dr="1"/>
+          <f x="-18.5" y="0.25" kX="-9.73" kY="0" cX="1" cY="1" z="5" twE="0" dr="6"/>
+          <f x="-18.5" y="0.25" kX="-9.73" kY="0" cX="1" cY="1" z="5" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="2"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="nushou-nushou-g-6" twE="0" dr="6"/>
+          <f x="-11.95" y="15.5" kX="-3.93" kY="-3.93" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="-18.95" y="26.7" kX="-3.93" kY="-3.93" cX="1" cY="1" z="6" twE="0" dr="18"/>
+          <f x="-18.95" y="26.7" kX="-3.93" kY="-3.93" cX="1" cY="1" z="6" twE="0" dr="1"/>
+          <f x="-8" y="30.4" kX="2.77" kY="2.77" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-8" y="30.4" kX="2.77" kY="2.77" cX="1" cY="1" z="6" twE="0" dr="1"/>
+          <f x="-18.95" y="26.7" kX="-3.93" kY="-3.93" cX="1" cY="1" z="6" twE="0" dr="6"/>
+          <f x="-18.95" y="26.7" kX="-3.93" kY="-3.93" cX="1" cY="1" z="6" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="2"/>
+        </b>
+        <b name="身体" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="nushou-nushou-st-2" twE="0" dr="6"/>
+          <f x="-11.4" y="15.9" kX="-6.84" kY="-6.84" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="-14.3" y="30.4" kX="-4.13" kY="-4.13" cX="1" cY="1" z="7" twE="0" dr="18"/>
+          <f x="-14.3" y="30.4" kX="-4.13" kY="-4.13" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="-4.95" y="28.25" kX="6.8" kY="6.8" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="-4.95" y="28.25" kX="6.8" kY="6.8" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="-14.3" y="30.4" kX="-4.13" kY="-4.13" cX="1" cY="1" z="7" twE="0" dr="6"/>
+          <f x="-14.3" y="30.4" kX="-4.13" kY="-4.13" cX="1" cY="1" z="7" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="2"/>
+        </b>
+        <b name="头0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="nushou-nushou-5a-1" twE="0" dr="6"/>
+          <f x="-4.7" y="15.3" kX="9.29" kY="9.5" cX="1" cY="0.98" z="8" twE="0" dr="4"/>
+          <f x="-12.75" y="32.2" kX="9.4" kY="7.15" cX="0.99" cY="0.84" z="8" twE="0" dr="18"/>
+          <f x="-12.75" y="32.2" kX="9.4" kY="7.15" cX="0.99" cY="0.84" z="8" twE="0" dr="1"/>
+          <f x="-12.15" y="32.2" kX="9.4" kY="7.15" cX="0.99" cY="0.84" z="8" twE="0" dr="3"/>
+          <f x="-12.4" y="32.65" kX="9.62" kY="6.99" cX="0.99" cY="0.82" z="8" twE="0" dr="1"/>
+          <f x="-12.75" y="32.2" kX="9.4" kY="7.15" cX="0.99" cY="0.84" z="8" twE="0" dr="6"/>
+          <f x="-12.75" y="32.2" kX="9.4" kY="7.15" cX="0.99" cY="0.84" z="8" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="2"/>
+        </b>
+        <b name="头1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="nushou-nushou-6a-2" twE="0" dr="6"/>
+          <f x="-6.25" y="16.6" kX="-43.65" kY="-43.2" cX="1" cY="0.99" z="9" twE="0" dr="4"/>
+          <f x="-9.2" y="30.05" kX="-75.15" kY="-74.7" cX="1" cY="0.99" z="9" twE="0" dr="18"/>
+          <f x="-9.2" y="30.05" kX="-75.15" kY="-74.7" cX="1" cY="0.99" z="9" twE="0" dr="1"/>
+          <f x="-8.6" y="30.05" kX="-75.15" kY="-74.7" cX="1" cY="0.99" z="9" twE="0" dr="3"/>
+          <f x="-8.8" y="30.05" kX="-75.15" kY="-74.7" cX="1" cY="0.99" z="9" twE="0" dr="1"/>
+          <f x="-9.2" y="30.05" kX="-75.15" kY="-74.7" cX="1" cY="0.99" z="9" twE="0" dr="6"/>
+          <f x="-9.2" y="30.05" kX="-75.15" kY="-74.7" cX="1" cY="0.99" z="9" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="2"/>
+        </b>
+        <b name="头2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="nushou-nushou-7a-8" twE="0" dr="6"/>
+          <f x="4.9" y="4.8" kX="-24.22" kY="-24.22" cX="1" cY="0.98" z="10" img="nushou-nushou-7a-3" twE="0" dr="4"/>
+          <f x="1.6" y="13.1" kX="-73.68" kY="-73.68" cX="1" cY="0.98" z="10" img="nushou-nushou-7a-7" twE="0" dr="18"/>
+          <f x="1.6" y="13.1" kX="-73.68" kY="-73.68" cX="1" cY="0.98" z="10" twE="0" dr="1"/>
+          <f x="2.2" y="13.1" kX="-73.68" kY="-73.68" cX="1" cY="0.98" z="10" twE="0" dr="3"/>
+          <f x="2.05" y="13.1" kX="-73.68" kY="-73.68" cX="1" cY="0.98" z="10" twE="0" dr="1"/>
+          <f x="1.6" y="13.1" kX="-73.68" kY="-73.68" cX="1" cY="0.98" z="10" twE="0" dr="6"/>
+          <f x="1.6" y="13.1" kX="-73.68" kY="-73.68" cX="1" cY="0.98" z="10" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="nushou-nushou-7a-8" dr="2"/>
+        </b>
+        <b name="裤子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="nushou-nushou-kz-1" twE="0" dr="6"/>
+          <f x="-5.95" y="11.15" kX="6.81" kY="6.81" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="-11.05" y="25.45" kX="7.05" kY="7.05" cX="1" cY="1" z="11" img="nushou-nushou-kz-2" twE="0" dr="18"/>
+          <f x="-11.05" y="25.45" kX="7.05" kY="7.05" cX="1" cY="1" z="11" twE="0" dr="1"/>
+          <f x="-10.4" y="25.55" kX="5.05" kY="5.05" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="-10.4" y="25.55" kX="5.05" kY="5.05" cX="1" cY="1" z="11" twE="0" dr="1"/>
+          <f x="-10.15" y="25.45" kX="7.05" kY="7.05" cX="1" cY="1" z="11" twE="0" dr="6"/>
+          <f x="-10.15" y="25.45" kX="7.05" kY="7.05" cX="1" cY="1" z="11" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="nushou-nushou-kz-1" dr="2"/>
+        </b>
+        <b name="图层 147" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="nushou-pidai-1" twE="0" dr="6"/>
+          <f x="-6.25" y="12.9" kX="0.11" kY="0.11" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="-10.35" y="26.65" kX="2.55" kY="2.55" cX="1" cY="1" z="12" twE="0" dr="18"/>
+          <f x="-10.35" y="26.65" kX="2.55" kY="2.55" cX="1" cY="1" z="12" twE="0" dr="1"/>
+          <f x="-6.2" y="23.55" kX="16.74" kY="16.74" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-6.2" y="23.55" kX="16.74" kY="16.74" cX="1" cY="1" z="12" twE="0" dr="1"/>
+          <f x="-10.35" y="26.65" kX="2.55" kY="2.55" cX="1" cY="1" z="12" twE="0" dr="6"/>
+          <f x="-10.35" y="26.65" kX="2.55" kY="2.55" cX="1" cY="1" z="12" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" dr="2"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="nushou-pidai-2" twE="0" dr="6"/>
+          <f x="-6.3" y="12.95" kX="0.11" kY="0.11" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="-10.45" y="27.3" kX="0.11" kY="0.11" cX="1" cY="1" z="13" twE="0" dr="18"/>
+          <f x="-10.45" y="27.3" kX="0.11" kY="0.11" cX="1" cY="1" z="13" twE="0" dr="1"/>
+          <f x="-8.7" y="26.3" kX="30.11" kY="30.11" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-8.7" y="26.3" kX="30.11" kY="30.11" cX="1" cY="1" z="13" twE="0" dr="1"/>
+          <f x="-10.45" y="27.3" kX="0.11" kY="0.11" cX="1" cY="1" z="13" twE="0" dr="6"/>
+          <f x="-10.45" y="27.3" kX="0.11" kY="0.11" cX="1" cY="1" z="13" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="2"/>
+        </b>
+        <b name="图层 133" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="nushou-nushou2a-10" twE="0" dr="6"/>
+          <f x="-11.15" y="12.85" kX="42.6" kY="42.6" cX="0.99" cY="0.99" z="14" twE="0" dr="4"/>
+          <f x="-15.9" y="27.95" kX="42.6" kY="42.6" cX="0.99" cY="0.99" z="14" twE="0" dr="18"/>
+          <f x="-15.9" y="27.95" kX="42.6" kY="42.6" cX="0.99" cY="0.99" z="14" twE="0" dr="1"/>
+          <f x="-9.6" y="27.8" kX="48.83" kY="48.83" cX="0.99" cY="0.99" z="14" twE="0" dr="3"/>
+          <f x="-9.6" y="27.8" kX="48.83" kY="48.83" cX="0.99" cY="0.99" z="14" twE="0" dr="1"/>
+          <f x="-15.9" y="27.95" kX="42.6" kY="42.6" cX="0.99" cY="0.99" z="14" twE="0" dr="6"/>
+          <f x="-15.9" y="27.95" kX="42.6" kY="42.6" cX="0.99" cY="0.99" z="14" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" dr="2"/>
+        </b>
+        <b name="图层 132" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="15" img="nushou-nushou-shou1" twE="0" dr="6"/>
+          <f x="-23.3" y="0.1" kX="28.21" kY="28.21" cX="0.99" cY="0.99" z="15" twE="0" dr="4"/>
+          <f x="-30.65" y="15.85" kX="28.21" kY="28.21" cX="0.99" cY="0.99" z="15" twE="0" dr="18"/>
+          <f x="-30.65" y="15.85" kX="28.21" kY="28.21" cX="0.99" cY="0.99" z="15" twE="0" dr="1"/>
+          <f x="-21.6" y="13.1" kX="43.46" kY="43.46" cX="0.99" cY="0.99" z="15" twE="0" dr="3"/>
+          <f x="-21.6" y="13.1" kX="43.46" kY="43.46" cX="0.99" cY="0.99" z="15" twE="0" dr="1"/>
+          <f x="-30.65" y="15.85" kX="28.21" kY="28.21" cX="0.99" cY="0.99" z="15" twE="0" dr="6"/>
+          <f x="-30.65" y="15.85" kX="28.21" kY="28.21" cX="0.99" cY="0.99" z="15" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="15" dr="2"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="16" img="nushou-nushou-shou2" twE="0" dr="6"/>
+          <f x="-21.95" y="-9.15" kX="28.21" kY="28.21" cX="0.99" cY="0.99" z="16" twE="0" dr="4"/>
+          <f x="-29.3" y="6.6" kX="28.21" kY="28.21" cX="0.99" cY="0.99" z="16" twE="0" dr="18"/>
+          <f x="-29.3" y="6.6" kX="28.21" kY="28.21" cX="0.99" cY="0.99" z="16" twE="0" dr="1"/>
+          <f x="-17.9" y="-0.5" kX="43.46" kY="43.46" cX="0.99" cY="0.99" z="16" twE="0" dr="3"/>
+          <f x="-17.9" y="-0.5" kX="43.46" kY="43.46" cX="0.99" cY="0.99" z="16" twE="0" dr="1"/>
+          <f x="-29.3" y="6.6" kX="28.21" kY="28.21" cX="0.99" cY="0.99" z="16" twE="0" dr="6"/>
+          <f x="-29.3" y="6.6" kX="28.21" kY="28.21" cX="0.99" cY="0.99" z="16" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="16" dr="2"/>
+        </b>
+        <b name="lu" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="17" img="nushou-nu-1" twE="0" dr="6"/>
+          <f x="-17.45" y="-23.65" kX="13.95" kY="13.93" cX="0.99" cY="0.99" z="17" twE="0" dr="4"/>
+          <f x="-23.45" y="-8.4" kX="13.95" kY="13.93" cX="0.99" cY="0.99" z="17" twE="0" dr="18"/>
+          <f x="-23.45" y="-8.4" kX="13.95" kY="13.93" cX="0.99" cY="0.99" z="17" twE="0" dr="1"/>
+          <f x="3.1" y="-40.95" kX="41.83" kY="41.81" cX="0.99" cY="0.99" z="17" twE="0" dr="3"/>
+          <f x="3.1" y="-40.95" kX="41.83" kY="41.81" cX="0.99" cY="0.99" z="17" twE="0" dr="1"/>
+          <f x="-23.4" y="-10.25" kX="16.12" kY="16.1" cX="0.99" cY="0.99" z="17" twE="0" dr="6"/>
+          <f x="-23.4" y="-10.25" kX="16.12" kY="16.1" cX="0.99" cY="0.99" z="17" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="17" dr="2"/>
+        </b>
+        <b name="图层 40" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="0.99" z="18" img="nushou-x-1" twE="0" dr="6"/>
+          <f x="-28.4" y="-12.55" kX="13.94" kY="13.94" cX="0.81" cY="0.99" z="18" twE="0" dr="4"/>
+          <f x="-34.4" y="2.7" kX="13.94" kY="13.94" cX="0.81" cY="0.99" z="18" twE="0" dr="18"/>
+          <f x="-34.4" y="2.7" kX="13.94" kY="13.94" cX="0.81" cY="0.99" z="18" twE="0" dr="1"/>
+          <f x="-34.55" y="-17.9" kX="-2.76" kY="-2.76" cX="0.81" cY="1.47" z="18" twE="0" dr="3"/>
+          <f x="-34.55" y="-17.9" kX="-2.76" kY="-2.76" cX="0.81" cY="1.47" z="18" twE="0" dr="1"/>
+          <f x="-35.45" y="2.35" kX="332.04" kY="332.04" cX="0.81" cY="1.47" z="18" twE="0" dr="6"/>
+          <f x="-35.45" y="2.35" kX="332.04" kY="332.04" cX="0.81" cY="1.47" z="18" twE="0" dr="6"/>
+          <f x="1.05" y="-0.2" kX="316.1" kY="316.1" cX="0.81" cY="1.47" z="18" twE="0" dr="2"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="0.99" z="19" img="nushou-x-1" twE="0" dr="6"/>
+          <f x="-16.9" y="-17.4" kX="13.95" kY="13.94" cX="0.81" cY="0.99" z="19" twE="0" dr="4"/>
+          <f x="-22.9" y="-2.15" kX="13.95" kY="13.94" cX="0.81" cY="0.99" z="19" twE="0" dr="18"/>
+          <f x="-22.9" y="-2.15" kX="13.95" kY="13.94" cX="0.81" cY="0.99" z="19" dr="1"/>
+          <f x="-22.9" y="-2.15" kX="13.95" kY="13.94" cX="0.81" cY="0.99" z="19" img="nushou-x-k" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="shou3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="20" img="nushou-nushou-shou3" twE="0" dr="6"/>
+          <f x="-21.7" y="-13.9" kX="13.93" kY="13.95" cX="0.99" cY="0.99" z="20" twE="0" dr="4"/>
+          <f x="-27.7" y="1.35" kX="13.93" kY="13.95" cX="0.99" cY="0.99" z="20" twE="0" dr="18"/>
+          <f x="-27.7" y="1.35" kX="13.93" kY="13.95" cX="0.99" cY="0.99" z="20" twE="0" dr="1"/>
+          <f x="-15.9" y="-16.2" kX="41.82" kY="41.84" cX="0.99" cY="0.99" z="19" twE="0" dr="3"/>
+          <f x="-15.9" y="-16.2" kX="41.82" kY="41.84" cX="0.99" cY="0.99" z="19" twE="0" dr="1"/>
+          <f x="-28.5" y="0.85" kX="16.1" kY="16.12" cX="0.99" cY="0.99" z="19" twE="0" dr="6"/>
+          <f x="-28.5" y="0.85" kX="16.1" kY="16.12" cX="0.99" cY="0.99" z="19" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="19" dr="2"/>
+        </b>
+        <b name="sdzh" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="nushou-nushou-wb-1" twE="0" dr="6"/>
+          <f x="-8.55" y="17.15" kX="11.84" kY="11.84" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="-13.35" y="32.25" kX="10.57" kY="10.57" cX="1" cY="1" z="21" twE="0" dr="18"/>
+          <f x="-13.35" y="32.25" kX="10.57" kY="10.57" cX="1" cY="1" z="21" twE="0" dr="1"/>
+          <f x="-3.1" y="31.05" kX="23.32" kY="23.32" cX="1" cY="1" z="20" twE="0" dr="3"/>
+          <f x="-3.1" y="31.05" kX="23.32" kY="23.32" cX="1" cY="1" z="20" twE="0" dr="1"/>
+          <f x="-13.35" y="32.25" kX="10.57" kY="10.57" cX="1" cY="1" z="20" twE="0" dr="6"/>
+          <f x="-13.35" y="32.25" kX="10.57" kY="10.57" cX="1" cY="1" z="20" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" dr="2"/>
+        </b>
+        <b name="nushou-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="nushou-nushou-lb-1" twE="0" dr="6"/>
+          <f x="-25.6" y="28.95" kX="-15.62" kY="-15.62" cX="1" cY="1" z="22" twE="0" dr="4"/>
+          <f x="-31" y="43.9" kX="-15.62" kY="-15.62" cX="1" cY="1" z="22" twE="0" dr="18"/>
+          <f x="-31" y="43.9" kX="-15.62" kY="-15.62" cX="1" cY="1" z="22" twE="0" dr="1"/>
+          <f x="-8.05" y="34.35" kX="3.75" kY="3.75" cX="1" cY="1" z="21" twE="0" dr="3"/>
+          <f x="-8.05" y="34.35" kX="3.75" kY="3.75" cX="1" cY="1" z="21" twE="0" dr="1"/>
+          <f x="-31" y="43.9" kX="-15.62" kY="-15.62" cX="1" cY="1" z="21" twE="0" dr="6"/>
+          <f x="-31" y="43.9" kX="-15.62" kY="-15.62" cX="1" cY="1" z="21" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="2"/>
+        </b>
+        <b name="nushou-yj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="nushou-nushou-yj-1" twE="0" dr="6"/>
+          <f x="-17.5" y="26.35" kX="-15.62" kY="-15.62" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="-22.9" y="41.3" kX="-15.62" kY="-15.62" cX="1" cY="1" z="23" img="nushou-nushou-yj-2" twE="0" dr="18"/>
+          <f x="-22.9" y="41.3" kX="-15.62" kY="-15.62" cX="1" cY="1" z="23" twE="0" dr="1"/>
+          <f x="-10.1" y="34.5" kX="3.76" kY="3.76" cX="1" cY="1" z="22" img="nushou-nushou-yj-1" twE="0" dr="3"/>
+          <f x="-10.1" y="34.5" kX="3.76" kY="3.76" cX="1" cY="1" z="22" twE="0" dr="1"/>
+          <f x="-22.9" y="41.3" kX="-15.62" kY="-15.62" cX="1" cY="1" z="22" twE="0" dr="6"/>
+          <f x="-22.9" y="41.3" kX="-15.62" kY="-15.62" cX="1" cY="1" z="22" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="2"/>
+        </b>
+        <b name="yumao-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="nushou-yumao-1" twE="0" dr="6"/>
+          <f x="-32.9" y="16.1" kX="-27.06" kY="-27.06" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="-24.5" y="34.4" kX="-0.62" kY="-0.62" cX="1" cY="1" z="24" twE="0" dr="18"/>
+          <f x="-24.5" y="34.4" kX="-0.62" kY="-0.62" cX="1" cY="1" z="24" twE="0" dr="1"/>
+          <f x="-15.4" y="33.65" kX="-11.25" kY="-11.25" cX="1" cY="1" z="23" twE="0" dr="3"/>
+          <f x="-15.4" y="33.65" kX="-11.25" kY="-11.25" cX="1" cY="1" z="23" twE="0" dr="1"/>
+          <f x="-32.1" y="31.6" kX="-15.62" kY="-15.62" cX="1" cY="1" z="23" twE="0" dr="6"/>
+          <f x="-32.1" y="31.6" kX="-15.62" kY="-15.62" cX="1" cY="1" z="23" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="2"/>
+        </b>
+        <b name="yumao-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="nushou-yumao-2" twE="0" dr="6"/>
+          <f x="-21.2" y="16.55" kX="-12.06" kY="-12.06" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="-24.35" y="34.35" kX="-0.62" kY="-0.62" cX="1" cY="1" z="25" twE="0" dr="18"/>
+          <f x="-24.35" y="34.35" kX="-0.62" kY="-0.62" cX="1" cY="1" z="25" twE="0" dr="1"/>
+          <f x="-8" y="38.7" kX="10.26" kY="10.26" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="-8" y="38.7" kX="10.26" kY="10.26" cX="1" cY="1" z="24" twE="0" dr="1"/>
+          <f x="-27.65" y="30.9" kX="-15.62" kY="-15.62" cX="1" cY="1" z="24" twE="0" dr="6"/>
+          <f x="-27.65" y="30.9" kX="-15.62" kY="-15.62" cX="1" cY="1" z="24" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="2"/>
+        </b>
+        <b name="toukui-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="nushou-toukui-1" twE="0" dr="6"/>
+          <f x="-19.5" y="27.7" kX="-15.62" kY="-15.62" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="-24.9" y="42.65" kX="-15.62" kY="-15.62" cX="1" cY="1" z="26" twE="0" dr="18"/>
+          <f x="-24.9" y="42.65" kX="-15.62" kY="-15.62" cX="1" cY="1" z="26" twE="0" dr="1"/>
+          <f x="-9.65" y="34.4" kX="3.75" kY="3.76" cX="1" cY="1" z="25" twE="0" dr="3"/>
+          <f x="-9.65" y="34.4" kX="3.75" kY="3.76" cX="1" cY="1" z="25" twE="0" dr="1"/>
+          <f x="-24.9" y="42.65" kX="-15.62" kY="-15.62" cX="1" cY="1" z="25" twE="0" dr="6"/>
+          <f x="-24.9" y="42.65" kX="-15.62" kY="-15.62" cX="1" cY="1" z="25" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="fell">
+      <mov name="fell" to="1" dr="85" drTW="85" lp="0">
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" img="nushou-nushou-yz-1" twE="0" dr="5"/>
+          <f x="30.8" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" twE="0" dr="7"/>
+          <f x="35.3" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" twE="0" dr="5"/>
+          <f x="69.8" y="0" kX="0" kY="0" cX="2.28" cY="1" z="0" twE="0" dr="2"/>
+          <f x="69.8" y="0" kX="0" kY="0" cX="2.28" cY="1" z="0" twE="0" dr="2"/>
+          <f x="69.2" y="0" kX="0" kY="0" cX="2.28" cY="1" z="0" dr="52"/>
+          <f x="69.2" y="0" kX="0" kY="0" cX="2.28" cY="1" z="0" twE="0" dr="4"/>
+          <f x="32.45" y="0" kX="0" kY="0" cX="1.9" cY="1" z="0" twE="0" dr="3"/>
+          <f x="19.1" y="0" kX="0" kY="0" cX="1.61" cY="1" z="0" twE="0" dr="4"/>
+          <f x="6.1" y="0" kX="0" kY="0" cX="1.61" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="右手臂" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="1" img="nushou-nushou2a-10" twE="0" dr="5"/>
+          <f x="11.75" y="-19.65" kX="50" kY="50" cX="0.99" cY="0.99" z="1" twE="0" dr="7"/>
+          <f x="18.3" y="-37.3" kX="65.27" kY="65.27" cX="0.99" cY="0.99" z="1" twE="0" dr="5"/>
+          <f x="63.15" y="79.8" kX="12.5" kY="12.5" cX="0.99" cY="0.99" z="1" twE="0" dr="2"/>
+          <f x="63.15" y="69.8" kX="12.5" kY="12.5" cX="0.99" cY="0.99" z="1" twE="0" dr="2"/>
+          <f x="65.55" y="79.8" kX="12.5" kY="12.5" cX="0.99" cY="0.99" z="1" dr="52"/>
+          <f x="65.55" y="79.8" kX="12.5" kY="12.5" cX="0.99" cY="0.99" z="1" twE="0" dr="4"/>
+          <f x="25.5" y="41.05" kX="-13.77" kY="-13.77" cX="0.99" cY="0.99" z="1" twE="0" dr="3"/>
+          <f x="-2.3" y="41.45" kX="-89.78" kY="-89.78" cX="0.99" cY="0.99" z="1" twE="0" dr="4"/>
+          <f x="-21.85" y="25.45" kX="-93.44" kY="-93.44" cX="0.99" cY="0.99" z="1" dr="1"/>
+        </b>
+        <b name="左大腿" sc="1" dl="0"/>
+        <b name="右大腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="nushou-nushou-5a-1" twE="0" dr="5"/>
+          <f x="3.6" y="-27.35" kX="3.73" kY="3.73" cX="1" cY="1" z="7" twE="0" dr="7"/>
+          <f x="4.15" y="-54.5" kX="-0.72" kY="-0.72" cX="1" cY="1" z="7" twE="0" dr="5"/>
+          <f x="43.3" y="43.2" kX="56.03" kY="56.03" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="43.6" y="33.55" kX="48.11" kY="48.11" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="45.7" y="43.2" kX="56.03" kY="56.03" cX="1" cY="1" z="7" dr="52"/>
+          <f x="45.7" y="43.2" kX="56.03" kY="56.03" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="20.05" y="36.7" kX="40.98" kY="40.98" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="15.55" y="39.1" kX="35.01" kY="35.01" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="-6.7" y="24.6" kX="-25.1" kY="-25.1" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="右小腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="nushou-nushou-6a-1" twE="0" dr="5"/>
+          <f x="3.25" y="-29.85" kX="-4.57" kY="-4.57" cX="1" cY="1" z="8" twE="0" dr="7"/>
+          <f x="4.5" y="-56.6" kX="5.97" kY="5.97" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="52.3" y="23.45" kX="28.67" kY="28.67" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="49.85" y="16.1" kX="20.74" kY="20.74" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="54.7" y="23.45" kX="28.67" kY="28.67" cX="1" cY="1" z="8" dr="52"/>
+          <f x="54.7" y="23.45" kX="28.67" kY="28.67" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="20.55" y="21.4" kX="-19.32" kY="-19.32" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="17.4" y="23.4" kX="-11.26" kY="-11.26" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="-3.85" y="38.8" kX="-64.39" kY="-64.39" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="右鞋子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="nushou-nushou-7a-1" twE="0" dr="5"/>
+          <f x="2.85" y="-28.05" kX="-4.58" kY="-4.58" cX="1" cY="1" z="9" twE="0" dr="7"/>
+          <f x="0.35" y="-58.3" kX="5.97" kY="5.97" cX="1" cY="1" z="9" twE="0" dr="5"/>
+          <f x="42.6" y="10.05" kX="40.1" kY="40.1" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="41.3" y="6.25" kX="32.18" kY="32.18" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="45" y="10.05" kX="40.1" kY="40.1" cX="1" cY="1" z="9" dr="52"/>
+          <f x="45" y="10.05" kX="40.1" kY="40.1" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="26.1" y="21.05" kX="-5.94" kY="-5.94" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="22.25" y="20.65" kX="3.72" kY="3.72" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="11" y="30.2" kX="-41.02" kY="-24.21" cX="1" cY="1.04" z="9" dr="1"/>
+        </b>
+        <b name="裤子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="nushou-nushou-st-2" twE="0" dr="5"/>
+          <f x="17.75" y="-14.8" kX="25.02" kY="25.02" cX="1" cY="1" z="11" twE="0" dr="7"/>
+          <f x="25.65" y="-29.55" kX="40.29" kY="40.29" cX="1" cY="1" z="11" twE="0" dr="5"/>
+          <f x="74.15" y="87.3" kX="71.98" kY="71.98" cX="1" cY="1" z="11" twE="0" dr="2"/>
+          <f x="74.15" y="77.3" kX="71.98" kY="71.98" cX="1" cY="1" z="11" twE="0" dr="2"/>
+          <f x="76.55" y="87.3" kX="71.98" kY="71.98" cX="1" cY="1" z="11" dr="52"/>
+          <f x="76.55" y="87.3" kX="71.98" kY="71.98" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="30.1" y="39.6" kX="21.25" kY="21.25" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="-10.9" y="38.15" kX="-27.12" kY="-27.12" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="-31.4" y="22.45" kX="-30.78" kY="-30.78" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="左手" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="nushou-nushou-kz-1" twE="0" dr="5"/>
+          <f x="6" y="-26.3" kX="25.02" kY="25.02" cX="1" cY="1" z="15" twE="0" dr="7"/>
+          <f x="9.55" y="-50.15" kX="40.29" kY="40.29" cX="1" cY="1" z="15" twE="0" dr="5"/>
+          <f x="54.85" y="43.9" kX="57.32" kY="57.32" cX="1" cY="1" z="15" twE="0" dr="2"/>
+          <f x="54.85" y="33.9" kX="57.32" kY="57.32" cX="1" cY="1" z="15" twE="0" dr="2"/>
+          <f x="57.25" y="43.9" kX="57.32" kY="57.32" cX="1" cY="1" z="15" dr="52"/>
+          <f x="57.25" y="43.9" kX="57.32" kY="57.32" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="22.95" y="29.3" kX="29.38" kY="29.38" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="5.95" y="43.75" kX="-27.12" kY="-27.12" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="-12.15" y="28.2" kX="-30.78" kY="-30.78" cX="1" cY="1" z="15" dr="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="nushou-pidai-1" twE="0" dr="5"/>
+          <f x="6.65" y="-26.75" kX="25.02" kY="25.02" cX="1" cY="1" z="16" twE="0" dr="7"/>
+          <f x="10.7" y="-50.6" kX="40.29" kY="40.29" cX="1" cY="1" z="16" twE="0" dr="5"/>
+          <f x="57.8" y="44.15" kX="61.81" kY="61.81" cX="1" cY="1" z="16" twE="0" dr="2"/>
+          <f x="57.8" y="34.15" kX="61.81" kY="61.81" cX="1" cY="1" z="16" twE="0" dr="2"/>
+          <f x="60.2" y="44.15" kX="61.81" kY="61.81" cX="1" cY="1" z="16" dr="52"/>
+          <f x="60.2" y="44.15" kX="61.81" kY="61.81" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="22.55" y="29.45" kX="29.38" kY="29.38" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="5.6" y="44.4" kX="-27.12" kY="-27.12" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="-12.55" y="28.9" kX="-30.78" kY="-30.78" cX="1" cY="1" z="16" dr="1"/>
+        </b>
+        <b name="左小腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="nushou-nushou-5a-1" twE="0" dr="5"/>
+          <f x="-4.25" y="-24.35" kX="-21.68" kY="-21.68" cX="1" cY="1" z="12" twE="0" dr="7"/>
+          <f x="-8" y="-49.05" kX="-23.37" kY="-23.37" cX="1" cY="1" z="12" twE="0" dr="5"/>
+          <f x="28.9" y="47.45" kX="28.12" kY="28.12" cX="1" cY="1" z="12" twE="0" dr="2"/>
+          <f x="29" y="36.95" kX="21.85" kY="21.85" cX="1" cY="1" z="12" twE="0" dr="2"/>
+          <f x="31.3" y="47.45" kX="28.12" kY="28.12" cX="1" cY="1" z="12" dr="52"/>
+          <f x="31.3" y="47.45" kX="28.12" kY="28.12" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="11.15" y="42.5" kX="44.57" kY="44.57" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="11.85" y="36.85" kX="38.1" kY="38.1" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="1.05" y="20.6" kX="8.61" kY="8.61" cX="1" cY="1" z="12" dr="1"/>
+        </b>
+        <b name="脖子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="nushou-nushou-6a-2" twE="0" dr="5"/>
+          <f x="-1.2" y="-17.05" kX="-1.87" kY="-1.87" cX="1" cY="1" z="13" twE="0" dr="7"/>
+          <f x="-4.95" y="-41.55" kX="-3.85" kY="-3.85" cX="1" cY="1" z="13" twE="0" dr="5"/>
+          <f x="27.3" y="35.2" kX="63" kY="63" cX="1" cY="1" z="13" twE="0" dr="2"/>
+          <f x="26.45" y="27.5" kX="52.02" kY="52.02" cX="1" cY="1" z="13" twE="0" dr="2"/>
+          <f x="29.7" y="35.2" kX="63" kY="63" cX="1" cY="1" z="13" dr="52"/>
+          <f x="29.7" y="35.2" kX="63" kY="63" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="13.55" y="24.85" kX="41.28" kY="41.28" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="13" y="21.8" kX="32.35" kY="32.35" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="-2.55" y="20.15" kX="-37.3" kY="-37.3" cX="1" cY="1" z="13" dr="1"/>
+        </b>
+        <b name="左鞋子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="nushou-nushou-7a-8" twE="0" dr="5"/>
+          <f x="-1.45" y="-18" kX="5.47" kY="5.47" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="-5" y="-43.8" kX="6.22" kY="6.22" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="12.55" y="7.25" kX="85.26" kY="85.26" cX="1" cY="1" z="14" twE="0" dr="2"/>
+          <f x="11.75" y="4.2" kX="74.28" kY="74.28" cX="1" cY="1" z="14" twE="0" dr="2"/>
+          <f x="14.95" y="7.25" kX="85.26" kY="85.26" cX="1" cY="1" z="14" dr="52"/>
+          <f x="14.95" y="7.25" kX="85.26" kY="85.26" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="-0.8" y="5.5" kX="59.06" kY="59.06" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="1.4" y="7.85" kX="53.81" kY="53.81" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="9.65" y="16.3" kX="-23.54" kY="-3.9" cX="1" cY="0.92" z="14" dr="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="nushou-nushou-wb-1" twE="0" dr="5"/>
+          <f x="21.5" y="-13.05" kX="28.49" kY="28.49" cX="1" cY="1" z="21" twE="0" dr="7"/>
+          <f x="30.5" y="-26.9" kX="43.76" kY="43.76" cX="1" cY="1" z="21" twE="0" dr="5"/>
+          <f x="80.3" y="92.2" kX="73.72" kY="73.72" cX="1" cY="1" z="21" twE="0" dr="2"/>
+          <f x="80.3" y="82.2" kX="73.72" kY="73.72" cX="1" cY="1" z="21" twE="0" dr="2"/>
+          <f x="82.7" y="92.2" kX="73.72" kY="73.72" cX="1" cY="1" z="21" dr="52"/>
+          <f x="82.7" y="92.2" kX="73.72" kY="73.72" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="33.4" y="41.15" kX="22.98" kY="22.98" cX="1" cY="1" z="21" twE="0" dr="3"/>
+          <f x="-6.75" y="39.5" kX="-15.65" kY="-15.65" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="-26.25" y="21.6" kX="-11.77" kY="-11.77" cX="1" cY="1" z="21" dr="1"/>
+        </b>
+        <b name="图层 72" sc="1" dl="0"/>
+        <b name="图层 70" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="nushou-nushou2a-10" twE="0" dr="5"/>
+          <f x="10.65" y="-12.8" kX="24.34" kY="24.34" cX="1" cY="1" z="18" twE="0" dr="7"/>
+          <f x="14.1" y="-27.95" kX="39.61" kY="39.61" cX="1" cY="1" z="18" twE="0" dr="5"/>
+          <f x="49.8" y="84.1" kX="17.05" kY="17.05" cX="1" cY="1" z="18" twE="0" dr="2"/>
+          <f x="49.2" y="74.6" kX="9.83" kY="9.83" cX="1" cY="1" z="18" twE="0" dr="2"/>
+          <f x="52.2" y="84.1" kX="17.05" kY="17.05" cX="1" cY="1" z="18" dr="52"/>
+          <f x="52.2" y="84.1" kX="17.05" kY="17.05" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="20.5" y="45.5" kX="-39.46" kY="-39.46" cX="1" cY="1" z="18" twE="0" dr="3"/>
+          <f x="-1.6" y="35.85" kX="-91.89" kY="-91.89" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="-21.5" y="19.2" kX="-96.13" kY="-96.13" cX="1" cY="1" z="18" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="0.99" z="4" img="nushou-x-1" twE="0" dr="5"/>
+          <f x="44.95" y="-58" kX="48.83" kY="48.83" cX="0.81" cY="0.99" z="4" twE="0" dr="7"/>
+          <f x="66.5" y="-80.65" kX="64.1" kY="64.1" cX="0.81" cY="0.99" z="4" twE="0" dr="5"/>
+          <f x="137.25" y="54.05" kX="118.59" kY="118.59" cX="0.81" cY="0.99" z="4" twE="0" dr="2"/>
+          <f x="140.35" y="49" kX="126.32" kY="126.32" cX="0.81" cY="0.99" z="4" twE="0" dr="2"/>
+          <f x="139.65" y="54.05" kX="118.59" kY="118.59" cX="0.81" cY="0.99" z="4" dr="52"/>
+          <f x="139.65" y="54.05" kX="118.59" kY="118.59" cX="0.81" cY="0.99" z="4" twE="0" dr="2"/>
+          <f x="77.05" y="30.45" kX="62.55" kY="62.55" cX="0.81" cY="0.99" z="4" twE="0" dr="2"/>
+          <f x="26.35" y="39.95" kX="6.54" kY="6.54" cX="0.81" cY="0.99" z="4" twE="0" dr="3"/>
+          <f x="35.6" y="112.85" kX="-83.57" kY="-83.57" cX="0.81" cY="0.99" z="4" twE="0" dr="4"/>
+          <f x="39.4" y="99.3" kX="243.92" kY="243.92" cX="0.81" cY="0.99" z="4" dr="1"/>
+        </b>
+        <b name="图层 71" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="19" img="nushou-nushou-shou1" twE="0" dr="5"/>
+          <f x="13.35" y="-28.65" kX="44.68" kY="44.68" cX="0.99" cY="0.99" z="19" twE="0" dr="7"/>
+          <f x="20.3" y="-51" kX="-300.05" kY="-300.05" cX="0.99" cY="0.99" z="19" twE="0" dr="5"/>
+          <f x="52.8" y="80.8" kX="-21.27" kY="-21.27" cX="0.99" cY="0.99" z="19" twE="0" dr="2"/>
+          <f x="52.85" y="74.9" kX="-28.49" kY="-28.49" cX="0.99" cY="0.99" z="19" twE="0" dr="2"/>
+          <f x="55.2" y="80.8" kX="-21.27" kY="-21.27" cX="0.99" cY="0.99" z="19" dr="52"/>
+          <f x="55.2" y="80.8" kX="-21.27" kY="-21.27" cX="0.99" cY="0.99" z="19" twE="0" dr="4"/>
+          <f x="35.05" y="54.35" kX="-16.23" kY="-16.23" cX="0.99" cY="0.99" z="19" twE="0" dr="3"/>
+          <f x="47.05" y="58.85" kX="-134.24" kY="-134.24" cX="0.99" cY="0.99" z="19" twE="0" dr="4"/>
+          <f x="21.95" y="43.65" kX="-98.26" kY="-98.26" cX="0.99" cY="0.99" z="19" dr="1"/>
+        </b>
+        <b name="shou1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="2" img="nushou-nushou-shou1" twE="0" dr="5"/>
+          <f x="32.9" y="-33.35" kX="-311.17" kY="-311.17" cX="0.99" cY="0.99" z="2" twE="0" dr="7"/>
+          <f x="47.05" y="-51.3" kX="-295.9" kY="-295.9" cX="0.99" cY="0.99" z="2" twE="0" dr="5"/>
+          <f x="84.85" y="83.6" kX="-241.41" kY="-241.41" cX="0.99" cY="0.99" z="2" twE="0" dr="2"/>
+          <f x="84" y="75.6" kX="-233.67" kY="-233.67" cX="0.99" cY="0.99" z="2" twE="0" dr="2"/>
+          <f x="87.25" y="83.6" kX="-241.41" kY="-241.41" cX="0.99" cY="0.99" z="2" dr="52"/>
+          <f x="87.25" y="83.6" kX="-241.41" kY="-241.41" cX="0.99" cY="0.99" z="2" twE="0" dr="4"/>
+          <f x="26.05" y="43.75" kX="6.54" kY="6.54" cX="0.99" cY="0.99" z="2" twE="0" dr="3"/>
+          <f x="7.2" y="79.35" kX="-83.57" kY="-83.57" cX="0.99" cY="0.99" z="2" twE="0" dr="4"/>
+          <f x="-7.2" y="68.35" kX="-116.08" kY="-116.08" cX="0.99" cY="0.99" z="2" dr="1"/>
+        </b>
+        <b name="lu" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="3" img="nushou-nu-1" twE="0" dr="5"/>
+          <f x="81.7" y="-19.25" kX="48.83" kY="48.83" cX="0.99" cY="0.99" z="3" twE="0" dr="7"/>
+          <f x="106.65" y="-25.05" kX="64.1" kY="64.1" cX="0.99" cY="0.99" z="3" twE="0" dr="5"/>
+          <f x="151.05" y="165.85" kX="118.59" kY="118.59" cX="0.99" cY="0.99" z="3" twE="0" dr="2"/>
+          <f x="146.8" y="165.4" kX="-233.68" kY="-233.68" cX="0.99" cY="0.99" z="3" twE="0" dr="2"/>
+          <f x="153.45" y="165.85" kX="118.59" kY="118.59" cX="0.99" cY="0.99" z="3" dr="52"/>
+          <f x="153.45" y="165.85" kX="118.59" kY="118.59" cX="0.99" cY="0.99" z="3" twE="0" dr="4"/>
+          <f x="32.9" y="43.15" kX="6.53" kY="6.53" cX="0.99" cY="0.99" z="3" twE="0" dr="3"/>
+          <f x="-45.45" y="141.85" kX="-83.58" kY="-83.58" cX="0.99" cY="0.99" z="3" twE="0" dr="4"/>
+          <f x="-49.35" y="163.65" kX="-116.08" kY="-116.08" cX="0.99" cY="0.99" z="3" dr="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1" z="5" img="nushou-x-1" twE="0" dr="5"/>
+          <f x="60.25" y="-18.25" kX="48.84" kY="48.83" cX="0.81" cY="1" z="5" twE="0" dr="7"/>
+          <f x="79.1" y="-27.4" kX="64.11" kY="64.1" cX="0.81" cY="1" z="5" twE="0" dr="5"/>
+          <f x="116" y="140.15" kX="118.6" kY="118.59" cX="0.81" cY="1" z="5" twE="0" dr="2"/>
+          <f x="112.3" y="136.6" kX="126.33" kY="126.32" cX="0.81" cY="1" z="5" twE="0" dr="2"/>
+          <f x="118.4" y="140.15" kX="118.6" kY="118.59" cX="0.81" cY="1" z="5" dr="52"/>
+          <f x="118.4" y="140.15" kX="118.6" kY="118.59" cX="0.81" cY="1" z="5" twE="0" dr="2"/>
+          <f x="90.35" y="82.5" kX="62.55" kY="62.54" cX="0.81" cY="0.99" z="5" twE="0" dr="2"/>
+          <f x="30.25" y="44.2" kX="6.54" kY="6.54" cX="0.81" cY="1" z="5" twE="0" dr="3"/>
+          <f x="-33.05" y="109.5" kX="-83.57" kY="-83.58" cX="0.81" cY="1" z="5" twE="0" dr="4"/>
+          <f x="-45.7" y="119.65" kX="-116.07" kY="-116.08" cX="0.81" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="shou3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="6" img="nushou-nushou-shou3" twE="0" dr="5"/>
+          <f x="49" y="-34.3" kX="-311.17" kY="-311.17" cX="0.99" cY="0.99" z="6" twE="0" dr="7"/>
+          <f x="67.7" y="-49.85" kX="-295.9" kY="-295.9" cX="0.99" cY="0.99" z="6" twE="0" dr="5"/>
+          <f x="113.75" y="102.4" kX="-241.41" kY="-241.41" cX="0.99" cY="0.99" z="6" twE="0" dr="2"/>
+          <f x="112.55" y="97.05" kX="-233.68" kY="-233.68" cX="0.99" cY="0.99" z="6" twE="0" dr="2"/>
+          <f x="116.15" y="102.4" kX="-241.41" kY="-241.41" cX="0.99" cY="0.99" z="6" dr="52"/>
+          <f x="116.15" y="102.4" kX="-241.41" kY="-241.41" cX="0.99" cY="0.99" z="6" twE="0" dr="4"/>
+          <f x="28.05" y="42.95" kX="6.54" kY="6.54" cX="0.99" cY="0.99" z="6" twE="0" dr="3"/>
+          <f x="-1.8" y="103.8" kX="-83.57" kY="-83.57" cX="0.99" cY="0.99" z="6" twE="0" dr="4"/>
+          <f x="-9.45" y="101.35" kX="-116.08" kY="-116.08" cX="0.99" cY="0.99" z="6" dr="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="nushou-nushou-g-6" twE="0" dr="5"/>
+          <f x="21.3" y="-3.65" kX="25.02" kY="25.02" cX="1" cY="1" z="10" twE="0" dr="7"/>
+          <f x="28.85" y="-11.15" kX="40.28" kY="40.28" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="60.15" y="91.75" kX="47.53" kY="47.53" cX="1" cY="1" z="10" twE="0" dr="2"/>
+          <f x="60.15" y="81.75" kX="47.53" kY="47.53" cX="1" cY="1" z="10" twE="0" dr="2"/>
+          <f x="62.55" y="91.75" kX="47.53" kY="47.53" cX="1" cY="1" z="10" dr="52"/>
+          <f x="62.55" y="91.75" kX="47.53" kY="47.53" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="5.6" y="40.05" kX="-3.2" kY="-3.2" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="-19.55" y="28.85" kX="-27.13" kY="-27.13" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="-41.55" y="12.25" kX="-30.78" kY="-30.78" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="nushou-pidai-2" twE="0" dr="5"/>
+          <f x="0.25" y="-23.5" kX="10.02" kY="10.02" cX="1" cY="1" z="17" twE="0" dr="7"/>
+          <f x="-0.05" y="-47.35" kX="25.29" kY="25.29" cX="1" cY="1" z="17" twE="0" dr="5"/>
+          <f x="40.65" y="45.3" kX="54.51" kY="54.51" cX="0.97" cY="0.99" z="17" twE="0" dr="2"/>
+          <f x="40.65" y="35.3" kX="54.51" kY="54.51" cX="0.97" cY="0.99" z="17" twE="0" dr="2"/>
+          <f x="43.05" y="45.3" kX="54.51" kY="54.51" cX="0.97" cY="0.99" z="17" dr="52"/>
+          <f x="43.05" y="45.3" kX="54.51" kY="54.51" cX="0.97" cY="0.99" z="17" twE="0" dr="4"/>
+          <f x="15.15" y="32.15" kX="29.38" kY="29.38" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="10.35" y="39" kX="-27.12" kY="-27.12" cX="1" cY="1" z="17" twE="0" dr="4"/>
+          <f x="-7.4" y="22.65" kX="-30.78" kY="-30.78" cX="1" cY="1" z="17" dr="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="20" img="nushou-nushou-shou2" twE="0" dr="5"/>
+          <f x="24.3" y="-37.35" kX="44.68" kY="44.68" cX="0.99" cY="0.99" z="20" twE="0" dr="7"/>
+          <f x="36.2" y="-60.4" kX="-300.05" kY="-300.05" cX="0.99" cY="0.99" z="20" twE="0" dr="5"/>
+          <f x="50.55" y="87.2" kX="-21.27" kY="-21.27" cX="0.99" cY="0.99" z="20" twE="0" dr="2"/>
+          <f x="50.4" y="83.6" kX="-28.49" kY="-28.49" cX="0.99" cY="0.99" z="20" twE="0" dr="2"/>
+          <f x="52.95" y="87.2" kX="-21.27" kY="-21.27" cX="0.99" cY="0.99" z="20" dr="52"/>
+          <f x="52.95" y="87.2" kX="-21.27" kY="-21.27" cX="0.99" cY="0.99" z="20" twE="0" dr="4"/>
+          <f x="33" y="59.15" kX="-16.23" kY="-16.23" cX="0.99" cY="0.99" z="20" twE="0" dr="3"/>
+          <f x="67.8" y="85.85" kX="-134.24" kY="-134.24" cX="0.99" cY="0.99" z="20" twE="0" dr="4"/>
+          <f x="31.3" y="70" kX="-98.26" kY="-98.26" cX="0.99" cY="0.99" z="20" dr="1"/>
+        </b>
+        <b name="nushou-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="nushou-nushou-lb-1" twE="0" dr="5"/>
+          <f x="52.2" y="-19.15" kX="40.64" kY="40.64" cX="1" cY="1" z="22" twE="0" dr="7"/>
+          <f x="71.15" y="-30.25" kX="55.91" kY="55.91" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="145.55" y="113.25" kX="107.35" kY="107.35" cX="1" cY="1" z="22" twE="0" dr="2"/>
+          <f x="146.7" y="110.9" kX="115.82" kY="115.82" cX="1" cY="1" z="22" twE="0" dr="2"/>
+          <f x="147.95" y="113.25" kX="107.35" kY="107.35" cX="1" cY="1" z="22" dr="52"/>
+          <f x="147.95" y="113.25" kX="107.35" kY="107.35" cX="1" cY="1" z="22" twE="0" dr="4"/>
+          <f x="70.15" y="33.6" kX="48.65" kY="48.65" cX="1" cY="1" z="22" twE="0" dr="3"/>
+          <f x="-20.3" y="52" kX="-20.77" kY="-20.77" cX="1" cY="1" z="22" twE="0" dr="4"/>
+          <f x="-41.5" y="32.7" kX="-19.21" kY="-19.21" cX="1" cY="1" z="22" dr="1"/>
+        </b>
+        <b name="nushou-yj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="nushou-nushou-yj-3" twE="0" dr="5"/>
+          <f x="30.45" y="-18.55" kX="40.64" kY="40.64" cX="1" cY="1" z="23" twE="0" dr="7"/>
+          <f x="41.85" y="-33.35" kX="55.91" kY="55.91" cX="1" cY="1" z="23" twE="0" dr="5"/>
+          <f x="102.5" y="86.8" kX="107.34" kY="107.34" cX="1" cY="1" z="23" twE="0" dr="2"/>
+          <f x="103.6" y="79.85" kX="115.81" kY="115.81" cX="1" cY="1" z="23" twE="0" dr="2"/>
+          <f x="104.9" y="86.8" kX="107.34" kY="107.34" cX="1" cY="1" z="23" dr="52"/>
+          <f x="104.9" y="86.8" kX="107.34" kY="107.34" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="44.35" y="32.55" kX="48.64" kY="48.64" cX="1" cY="1" z="23" img="nushou-nushou-yj-1" twE="0" dr="3"/>
+          <f x="-10.85" y="45.9" kX="-20.78" kY="-20.78" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="-32.65" y="27.2" kX="-19.22" kY="-19.22" cX="1" cY="1" z="23" dr="1"/>
+        </b>
+        <b name="yumao-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="nushou-yumao-1" twE="0" dr="5"/>
+          <f x="46.35" y="2.25" kX="32.63" kY="32.63" cX="1" cY="1" z="24" twE="0" dr="7"/>
+          <f x="61" y="-2.1" kX="47.9" kY="47.9" cX="1" cY="1" z="24" twE="0" dr="5"/>
+          <f x="111.65" y="154.4" kX="103.39" kY="103.39" cX="1" cY="1" z="24" twE="0" dr="2"/>
+          <f x="108.05" y="151.65" kX="111.86" kY="111.86" cX="1" cY="1" z="24" twE="0" dr="2"/>
+          <f x="114.05" y="154.4" kX="103.39" kY="103.39" cX="1" cY="1" z="24" dr="52"/>
+          <f x="114.05" y="154.4" kX="103.39" kY="103.39" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="72.8" y="70.9" kX="70.64" kY="70.64" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="-14.25" y="37.55" kX="1.22" kY="1.22" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="-34.75" y="19.35" kX="2.78" kY="2.78" cX="1" cY="1" z="24" dr="1"/>
+        </b>
+        <b name="yumao-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="nushou-yumao-2" twE="0" dr="5"/>
+          <f x="37.65" y="8.35" kX="40.65" kY="40.65" cX="1" cY="1" z="25" twE="0" dr="7"/>
+          <f x="46.7" y="4" kX="55.92" kY="55.92" cX="1" cY="1" z="25" twE="0" dr="5"/>
+          <f x="84.5" y="145.8" kX="96.4" kY="96.4" cX="1" cY="1" z="25" twE="0" dr="2"/>
+          <f x="80.15" y="140.6" kX="104.87" kY="104.87" cX="1" cY="1" z="25" twE="0" dr="2"/>
+          <f x="86.9" y="145.8" kX="96.4" kY="96.4" cX="1" cY="1" z="25" dr="52"/>
+          <f x="86.9" y="145.8" kX="96.4" kY="96.4" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="51.6" y="69.7" kX="63.65" kY="63.65" cX="1" cY="1" z="25" twE="0" dr="3"/>
+          <f x="-16.4" y="36.45" kX="-5.77" kY="-5.77" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="-37.3" y="18.5" kX="-4.21" kY="-4.21" cX="1" cY="1" z="25" dr="1"/>
+        </b>
+        <b name="toukui-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="nushou-toukui-1" twE="0" dr="5"/>
+          <f x="36.2" y="-20.35" kX="40.64" kY="40.64" cX="1" cY="1" z="26" twE="0" dr="7"/>
+          <f x="49.8" y="-34.65" kX="55.91" kY="55.91" cX="1" cY="1" z="26" twE="0" dr="5"/>
+          <f x="115.7" y="90.75" kX="107.35" kY="107.35" cX="1" cY="1" z="26" twE="0" dr="2"/>
+          <f x="117.1" y="85" kX="115.82" kY="115.82" cX="1" cY="1" z="26" twE="0" dr="2"/>
+          <f x="118.1" y="90.75" kX="107.35" kY="107.35" cX="1" cY="1" z="26" dr="52"/>
+          <f x="118.1" y="90.75" kX="107.35" kY="107.35" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="51.2" y="30.95" kX="48.65" kY="48.65" cX="1" cY="1" z="26" twE="0" dr="3"/>
+          <f x="-12.85" y="48.15" kX="-20.77" kY="-20.77" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="-34.55" y="29.25" kX="-19.21" kY="-19.21" cX="1" cY="1" z="26" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dead">
+      <mov name="dead" to="1" dr="23" drTW="24" lp="0">
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="右手臂" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="2" img="nushou-nushou-shou1" twE="0" dr="5"/>
+          <f x="32.9" y="-33.35" kX="-311.17" kY="-311.17" cX="0.99" cY="0.99" z="2" twE="0" dr="7"/>
+          <f x="47.05" y="-51.3" kX="-295.9" kY="-295.9" cX="0.99" cY="0.99" z="2" twE="0" dr="5"/>
+          <f x="84.85" y="83.6" kX="-241.41" kY="-241.41" cX="0.99" cY="0.99" z="2" twE="0" dr="2"/>
+          <f x="84" y="75.6" kX="-233.67" kY="-233.67" cX="0.99" cY="0.99" z="2" twE="0" dr="2"/>
+          <f x="87.25" y="83.6" kX="-241.41" kY="-241.41" cX="0.99" cY="0.99" z="2" dr="2"/>
+        </b>
+        <b name="右大腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="nushou-nushou-5a-1" twE="0" dr="5"/>
+          <f x="3.6" y="-27.35" kX="3.73" kY="3.73" cX="1" cY="1" z="7" twE="0" dr="7"/>
+          <f x="4.15" y="-54.5" kX="-0.72" kY="-0.72" cX="1" cY="1" z="7" twE="0" dr="5"/>
+          <f x="43.3" y="43.2" kX="56.03" kY="56.03" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="43.6" y="33.55" kX="48.11" kY="48.11" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="45.7" y="43.2" kX="56.03" kY="56.03" cX="1" cY="1" z="7" dr="2"/>
+        </b>
+        <b name="左小腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="nushou-nushou-5a-1" twE="0" dr="5"/>
+          <f x="-4.25" y="-24.35" kX="-21.68" kY="-21.68" cX="1" cY="1" z="12" twE="0" dr="7"/>
+          <f x="-8" y="-49.05" kX="-23.37" kY="-23.37" cX="1" cY="1" z="12" twE="0" dr="5"/>
+          <f x="28.9" y="47.45" kX="28.12" kY="28.12" cX="1" cY="1" z="12" twE="0" dr="2"/>
+          <f x="29" y="36.95" kX="21.85" kY="21.85" cX="1" cY="1" z="12" twE="0" dr="2"/>
+          <f x="31.3" y="47.45" kX="28.12" kY="28.12" cX="1" cY="1" z="12" dr="2"/>
+        </b>
+        <b name="身体" sc="1" dl="0"/>
+        <b name="右鞋子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="nushou-nushou-7a-1" twE="0" dr="5"/>
+          <f x="2.85" y="-28.05" kX="-4.58" kY="-4.58" cX="1" cY="1" z="9" twE="0" dr="7"/>
+          <f x="0.35" y="-58.3" kX="5.97" kY="5.97" cX="1" cY="1" z="9" twE="0" dr="5"/>
+          <f x="42.6" y="10.05" kX="40.1" kY="40.1" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="41.3" y="6.25" kX="32.18" kY="32.18" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="45" y="10.05" kX="40.1" kY="40.1" cX="1" cY="1" z="9" dr="2"/>
+        </b>
+        <b name="身体0" sc="1" dl="0"/>
+        <b name="左小腿0" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" img="nushou-nushou-yz-1" twE="0" dr="5"/>
+          <f x="30.8" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" twE="0" dr="7"/>
+          <f x="35.3" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" twE="0" dr="5"/>
+          <f x="69.8" y="0" kX="0" kY="0" cX="2.28" cY="1" z="0" twE="0" dr="2"/>
+          <f x="69.8" y="0" kX="0" kY="0" cX="2.28" cY="1" z="0" twE="0" dr="2"/>
+          <f x="69.2" y="0" kX="0" kY="0" cX="2.28" cY="1" z="0" dr="2"/>
+        </b>
+        <b name="左大腿" sc="1" dl="0"/>
+        <b name="脖子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="nushou-nushou-6a-2" twE="0" dr="5"/>
+          <f x="-1.2" y="-17.05" kX="-1.87" kY="-1.87" cX="1" cY="1" z="13" twE="0" dr="7"/>
+          <f x="-4.95" y="-41.55" kX="-3.85" kY="-3.85" cX="1" cY="1" z="13" twE="0" dr="5"/>
+          <f x="27.3" y="35.2" kX="63" kY="63" cX="1" cY="1" z="13" twE="0" dr="2"/>
+          <f x="26.45" y="27.5" kX="52.02" kY="52.02" cX="1" cY="1" z="13" twE="0" dr="2"/>
+          <f x="29.7" y="35.2" kX="63" kY="63" cX="1" cY="1" z="13" dr="2"/>
+        </b>
+        <b name="左鞋子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="nushou-nushou-7a-8" twE="0" dr="5"/>
+          <f x="-1.45" y="-18" kX="5.47" kY="5.47" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="-5" y="-43.8" kX="6.22" kY="6.22" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="12.55" y="7.25" kX="85.26" kY="85.26" cX="1" cY="1" z="14" twE="0" dr="2"/>
+          <f x="11.75" y="4.2" kX="74.28" kY="74.28" cX="1" cY="1" z="14" twE="0" dr="2"/>
+          <f x="14.95" y="7.25" kX="85.26" kY="85.26" cX="1" cY="1" z="14" dr="2"/>
+        </b>
+        <b name="手" sc="1" dl="0"/>
+        <b name="元件 888" sc="1" dl="0"/>
+        <b name="左手" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="nushou-nushou-kz-1" twE="0" dr="5"/>
+          <f x="6" y="-26.3" kX="25.02" kY="25.02" cX="1" cY="1" z="15" twE="0" dr="7"/>
+          <f x="9.55" y="-50.15" kX="40.29" kY="40.29" cX="1" cY="1" z="15" twE="0" dr="5"/>
+          <f x="54.85" y="43.9" kX="57.32" kY="57.32" cX="1" cY="1" z="15" twE="0" dr="2"/>
+          <f x="54.85" y="33.9" kX="57.32" kY="57.32" cX="1" cY="1" z="15" twE="0" dr="2"/>
+          <f x="57.25" y="43.9" kX="57.32" kY="57.32" cX="1" cY="1" z="15" dr="2"/>
+        </b>
+        <b name="元件 8880" sc="1" dl="0"/>
+        <b name="图层 36" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="1" img="nushou-nushou2a-10" twE="0" dr="5"/>
+          <f x="11.75" y="-19.65" kX="50" kY="50" cX="0.99" cY="0.99" z="1" twE="0" dr="7"/>
+          <f x="18.3" y="-37.3" kX="65.27" kY="65.27" cX="0.99" cY="0.99" z="1" twE="0" dr="5"/>
+          <f x="63.15" y="79.8" kX="12.5" kY="12.5" cX="0.99" cY="0.99" z="1" twE="0" dr="2"/>
+          <f x="63.15" y="69.8" kX="12.5" kY="12.5" cX="0.99" cY="0.99" z="1" twE="0" dr="2"/>
+          <f x="65.55" y="79.8" kX="12.5" kY="12.5" cX="0.99" cY="0.99" z="1" dr="2"/>
+        </b>
+        <b name="shou1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="3" img="nushou-nu-1" twE="0" dr="5"/>
+          <f x="81.7" y="-19.25" kX="48.83" kY="48.83" cX="0.99" cY="0.99" z="3" twE="0" dr="7"/>
+          <f x="106.65" y="-25.05" kX="64.1" kY="64.1" cX="0.99" cY="0.99" z="3" twE="0" dr="5"/>
+          <f x="151.05" y="165.85" kX="118.59" kY="118.59" cX="0.99" cY="0.99" z="3" twE="0" dr="2"/>
+          <f x="146.8" y="165.4" kX="-233.68" kY="-233.68" cX="0.99" cY="0.99" z="3" twE="0" dr="2"/>
+          <f x="153.45" y="165.85" kX="118.59" kY="118.59" cX="0.99" cY="0.99" z="3" dr="2"/>
+        </b>
+        <b name="lu" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="0.99" z="4" img="nushou-x-1" twE="0" dr="5"/>
+          <f x="44.95" y="-58" kX="48.83" kY="48.83" cX="0.81" cY="0.99" z="4" twE="0" dr="7"/>
+          <f x="66.5" y="-80.65" kX="64.1" kY="64.1" cX="0.81" cY="0.99" z="4" twE="0" dr="5"/>
+          <f x="137.25" y="54.05" kX="118.59" kY="118.59" cX="0.81" cY="0.99" z="4" twE="0" dr="2"/>
+          <f x="140.35" y="49" kX="126.32" kY="126.32" cX="0.81" cY="0.99" z="4" twE="0" dr="2"/>
+          <f x="139.65" y="54.05" kX="118.59" kY="118.59" cX="0.81" cY="0.99" z="4" dr="2"/>
+        </b>
+        <b name="图层 32" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1" z="5" img="nushou-x-1" twE="0" dr="5"/>
+          <f x="60.25" y="-18.25" kX="48.84" kY="48.83" cX="0.81" cY="1" z="5" twE="0" dr="7"/>
+          <f x="79.1" y="-27.4" kX="64.11" kY="64.1" cX="0.81" cY="1" z="5" twE="0" dr="5"/>
+          <f x="116" y="140.15" kX="118.6" kY="118.59" cX="0.81" cY="1" z="5" twE="0" dr="2"/>
+          <f x="112.3" y="136.6" kX="126.33" kY="126.32" cX="0.81" cY="1" z="5" twE="0" dr="2"/>
+          <f x="118.4" y="140.15" kX="118.6" kY="118.59" cX="0.81" cY="1" z="5" dr="2"/>
+        </b>
+        <b name="shou3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="6" img="nushou-nushou-shou3" twE="0" dr="5"/>
+          <f x="49" y="-34.3" kX="-311.17" kY="-311.17" cX="0.99" cY="0.99" z="6" twE="0" dr="7"/>
+          <f x="67.7" y="-49.85" kX="-295.9" kY="-295.9" cX="0.99" cY="0.99" z="6" twE="0" dr="5"/>
+          <f x="113.75" y="102.4" kX="-241.41" kY="-241.41" cX="0.99" cY="0.99" z="6" twE="0" dr="2"/>
+          <f x="112.55" y="97.05" kX="-233.68" kY="-233.68" cX="0.99" cY="0.99" z="6" twE="0" dr="2"/>
+          <f x="116.15" y="102.4" kX="-241.41" kY="-241.41" cX="0.99" cY="0.99" z="6" dr="2"/>
+        </b>
+        <b name="右小腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="nushou-nushou-6a-1" twE="0" dr="5"/>
+          <f x="3.25" y="-29.85" kX="-4.57" kY="-4.57" cX="1" cY="1" z="8" twE="0" dr="7"/>
+          <f x="4.5" y="-56.6" kX="5.97" kY="5.97" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="52.3" y="23.45" kX="28.67" kY="28.67" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="49.85" y="16.1" kX="20.74" kY="20.74" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="54.7" y="23.45" kX="28.67" kY="28.67" cX="1" cY="1" z="8" dr="2"/>
+        </b>
+        <b name="图层 27" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="nushou-nushou-g-6" twE="0" dr="5"/>
+          <f x="21.3" y="-3.65" kX="25.02" kY="25.02" cX="1" cY="1" z="10" twE="0" dr="7"/>
+          <f x="28.85" y="-11.15" kX="40.28" kY="40.28" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="60.15" y="91.75" kX="47.53" kY="47.53" cX="1" cY="1" z="10" twE="0" dr="2"/>
+          <f x="60.15" y="81.75" kX="47.53" kY="47.53" cX="1" cY="1" z="10" twE="0" dr="2"/>
+          <f x="62.55" y="91.75" kX="47.53" kY="47.53" cX="1" cY="1" z="10" dr="2"/>
+        </b>
+        <b name="裤子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="nushou-nushou-st-2" twE="0" dr="5"/>
+          <f x="17.75" y="-14.8" kX="25.02" kY="25.02" cX="1" cY="1" z="11" twE="0" dr="7"/>
+          <f x="25.65" y="-29.55" kX="40.29" kY="40.29" cX="1" cY="1" z="11" twE="0" dr="5"/>
+          <f x="74.15" y="87.3" kX="71.98" kY="71.98" cX="1" cY="1" z="11" twE="0" dr="2"/>
+          <f x="74.15" y="77.3" kX="71.98" kY="71.98" cX="1" cY="1" z="11" twE="0" dr="2"/>
+          <f x="76.55" y="87.3" kX="71.98" kY="71.98" cX="1" cY="1" z="11" dr="2"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="nushou-pidai-1" twE="0" dr="5"/>
+          <f x="6.65" y="-26.75" kX="25.02" kY="25.02" cX="1" cY="1" z="16" twE="0" dr="7"/>
+          <f x="10.7" y="-50.6" kX="40.29" kY="40.29" cX="1" cY="1" z="16" twE="0" dr="5"/>
+          <f x="57.8" y="44.15" kX="61.81" kY="61.81" cX="1" cY="1" z="16" twE="0" dr="2"/>
+          <f x="57.8" y="34.15" kX="61.81" kY="61.81" cX="1" cY="1" z="16" twE="0" dr="2"/>
+          <f x="60.2" y="44.15" kX="61.81" kY="61.81" cX="1" cY="1" z="16" dr="2"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="nushou-pidai-2" twE="0" dr="5"/>
+          <f x="0.25" y="-23.5" kX="10.02" kY="10.02" cX="1" cY="1" z="17" twE="0" dr="7"/>
+          <f x="-0.05" y="-47.35" kX="25.29" kY="25.29" cX="1" cY="1" z="17" twE="0" dr="5"/>
+          <f x="40.65" y="45.3" kX="54.51" kY="54.51" cX="0.97" cY="0.99" z="17" twE="0" dr="2"/>
+          <f x="40.65" y="35.3" kX="54.51" kY="54.51" cX="0.97" cY="0.99" z="17" twE="0" dr="2"/>
+          <f x="43.05" y="45.3" kX="54.51" kY="54.51" cX="0.97" cY="0.99" z="17" dr="2"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="nushou-nushou2a-10" twE="0" dr="5"/>
+          <f x="10.65" y="-12.8" kX="24.34" kY="24.34" cX="1" cY="1" z="18" twE="0" dr="7"/>
+          <f x="14.1" y="-27.95" kX="39.61" kY="39.61" cX="1" cY="1" z="18" twE="0" dr="5"/>
+          <f x="49.8" y="84.1" kX="17.05" kY="17.05" cX="1" cY="1" z="18" twE="0" dr="2"/>
+          <f x="49.2" y="74.6" kX="9.83" kY="9.83" cX="1" cY="1" z="18" twE="0" dr="2"/>
+          <f x="52.2" y="84.1" kX="17.05" kY="17.05" cX="1" cY="1" z="18" dr="2"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="19" img="nushou-nushou-shou1" twE="0" dr="5"/>
+          <f x="13.35" y="-28.65" kX="44.68" kY="44.68" cX="0.99" cY="0.99" z="19" twE="0" dr="7"/>
+          <f x="20.3" y="-51" kX="-300.05" kY="-300.05" cX="0.99" cY="0.99" z="19" twE="0" dr="5"/>
+          <f x="52.8" y="80.8" kX="-21.27" kY="-21.27" cX="0.99" cY="0.99" z="19" twE="0" dr="2"/>
+          <f x="52.85" y="74.9" kX="-28.49" kY="-28.49" cX="0.99" cY="0.99" z="19" twE="0" dr="2"/>
+          <f x="55.2" y="80.8" kX="-21.27" kY="-21.27" cX="0.99" cY="0.99" z="19" dr="2"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="0.99" z="20" img="nushou-nushou-shou2" twE="0" dr="5"/>
+          <f x="24.3" y="-37.35" kX="44.68" kY="44.68" cX="0.99" cY="0.99" z="20" twE="0" dr="7"/>
+          <f x="36.2" y="-60.4" kX="-300.05" kY="-300.05" cX="0.99" cY="0.99" z="20" twE="0" dr="5"/>
+          <f x="50.55" y="87.2" kX="-21.27" kY="-21.27" cX="0.99" cY="0.99" z="20" twE="0" dr="2"/>
+          <f x="50.4" y="83.6" kX="-28.49" kY="-28.49" cX="0.99" cY="0.99" z="20" twE="0" dr="2"/>
+          <f x="52.95" y="87.2" kX="-21.27" kY="-21.27" cX="0.99" cY="0.99" z="20" dr="2"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="nushou-nushou-wb-1" twE="0" dr="5"/>
+          <f x="21.5" y="-13.05" kX="28.49" kY="28.49" cX="1" cY="1" z="21" twE="0" dr="7"/>
+          <f x="30.5" y="-26.9" kX="43.76" kY="43.76" cX="1" cY="1" z="21" twE="0" dr="5"/>
+          <f x="80.3" y="92.2" kX="73.72" kY="73.72" cX="1" cY="1" z="21" twE="0" dr="2"/>
+          <f x="80.3" y="82.2" kX="73.72" kY="73.72" cX="1" cY="1" z="21" twE="0" dr="2"/>
+          <f x="82.7" y="92.2" kX="73.72" kY="73.72" cX="1" cY="1" z="21" dr="2"/>
+        </b>
+        <b name="nushou-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="nushou-nushou-lb-1" twE="0" dr="5"/>
+          <f x="52.2" y="-19.15" kX="40.64" kY="40.64" cX="1" cY="1" z="22" twE="0" dr="7"/>
+          <f x="71.15" y="-30.25" kX="55.91" kY="55.91" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="145.55" y="113.25" kX="107.35" kY="107.35" cX="1" cY="1" z="22" twE="0" dr="2"/>
+          <f x="146.7" y="110.9" kX="115.82" kY="115.82" cX="1" cY="1" z="22" twE="0" dr="2"/>
+          <f x="147.95" y="113.25" kX="107.35" kY="107.35" cX="1" cY="1" z="22" dr="2"/>
+        </b>
+        <b name="nushou-yj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="nushou-nushou-yj-3" twE="0" dr="5"/>
+          <f x="30.45" y="-18.55" kX="40.64" kY="40.64" cX="1" cY="1" z="23" twE="0" dr="7"/>
+          <f x="41.85" y="-33.35" kX="55.91" kY="55.91" cX="1" cY="1" z="23" twE="0" dr="5"/>
+          <f x="102.5" y="86.8" kX="107.34" kY="107.34" cX="1" cY="1" z="23" twE="0" dr="2"/>
+          <f x="103.6" y="79.85" kX="115.81" kY="115.81" cX="1" cY="1" z="23" twE="0" dr="2"/>
+          <f x="104.9" y="86.8" kX="107.34" kY="107.34" cX="1" cY="1" z="23" dr="2"/>
+        </b>
+        <b name="yumao-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="nushou-yumao-1" twE="0" dr="5"/>
+          <f x="46.35" y="2.25" kX="32.63" kY="32.63" cX="1" cY="1" z="24" twE="0" dr="7"/>
+          <f x="61" y="-2.1" kX="47.9" kY="47.9" cX="1" cY="1" z="24" twE="0" dr="5"/>
+          <f x="111.65" y="154.4" kX="103.39" kY="103.39" cX="1" cY="1" z="24" twE="0" dr="2"/>
+          <f x="108.05" y="151.65" kX="111.86" kY="111.86" cX="1" cY="1" z="24" twE="0" dr="2"/>
+          <f x="114.05" y="154.4" kX="103.39" kY="103.39" cX="1" cY="1" z="24" dr="2"/>
+        </b>
+        <b name="yumao-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="nushou-yumao-2" twE="0" dr="5"/>
+          <f x="37.65" y="8.35" kX="40.65" kY="40.65" cX="1" cY="1" z="25" twE="0" dr="7"/>
+          <f x="46.7" y="4" kX="55.92" kY="55.92" cX="1" cY="1" z="25" twE="0" dr="5"/>
+          <f x="84.5" y="145.8" kX="96.4" kY="96.4" cX="1" cY="1" z="25" twE="0" dr="2"/>
+          <f x="80.15" y="140.6" kX="104.87" kY="104.87" cX="1" cY="1" z="25" twE="0" dr="2"/>
+          <f x="86.9" y="145.8" kX="96.4" kY="96.4" cX="1" cY="1" z="25" dr="2"/>
+        </b>
+        <b name="toukui-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="nushou-toukui-1" twE="0" dr="5"/>
+          <f x="36.2" y="-20.35" kX="40.64" kY="40.64" cX="1" cY="1" z="26" twE="0" dr="7"/>
+          <f x="49.8" y="-34.65" kX="55.91" kY="55.91" cX="1" cY="1" z="26" twE="0" dr="5"/>
+          <f x="115.7" y="90.75" kX="107.35" kY="107.35" cX="1" cY="1" z="26" twE="0" dr="2"/>
+          <f x="117.1" y="85" kX="115.82" kY="115.82" cX="1" cY="1" z="26" twE="0" dr="2"/>
+          <f x="118.1" y="90.75" kX="107.35" kY="107.35" cX="1" cY="1" z="26" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="bruise">
+      <mov name="bruise" to="1" dr="26" drTW="26">
+        <b name="影子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" img="nushou-nushou-yz-1" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" twE="0" dr="4"/>
+          <f x="7.5" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" twE="0" dr="4"/>
+          <f x="7.5" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="右大腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="nushou-nushou2a-20" twE="0" dr="4"/>
+          <f x="4.45" y="8.65" kX="91.23" kY="91.23" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="6.95" y="10.25" kX="83.76" kY="83.76" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="4.45" y="8.65" kX="91.23" kY="91.23" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="6.95" y="10.25" kX="83.76" kY="83.76" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="4.45" y="8.65" kX="91.23" kY="91.23" cX="1" cY="1" z="1" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="shou1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="nushou-nushou-shou1" twE="0" dr="4"/>
+          <f x="-10.65" y="-35.4" kX="100.45" kY="100.45" cX="0.99" cY="0.99" z="2" twE="0" dr="4"/>
+          <f x="-9.75" y="-29.75" kX="91.72" kY="91.72" cX="0.99" cY="0.99" z="2" twE="0" dr="4"/>
+          <f x="-10.65" y="-35.4" kX="100.45" kY="100.45" cX="0.99" cY="0.99" z="2" twE="0" dr="4"/>
+          <f x="-9.75" y="-29.75" kX="91.72" kY="91.72" cX="0.99" cY="0.99" z="2" twE="0" dr="4"/>
+          <f x="-10.65" y="-35.4" kX="100.45" kY="100.45" cX="0.99" cY="0.99" z="2" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="右小腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="nushou-nushou-5a-1" twE="0" dr="4"/>
+          <f x="1.8" y="5.9" kX="25.81" kY="25.81" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="9" y="5.9" kX="25.81" kY="25.81" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="1.8" y="5.9" kX="25.81" kY="25.81" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="9" y="5.9" kX="25.81" kY="25.81" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="1.8" y="5.9" kX="25.81" kY="25.81" cX="1" cY="1" z="3" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="身体" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="nushou-nushou-6a-1" twE="0" dr="4"/>
+          <f x="-6" y="2.1" kX="-8" kY="-8" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="1.2" y="2.1" kX="-8" kY="-8" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="-6" y="2.1" kX="-8" kY="-8" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="1.2" y="2.1" kX="-8" kY="-8" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="-6" y="2.1" kX="-8" kY="-8" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="左大腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="nushou-nushou-7a-1" twE="0" dr="4"/>
+          <f x="-5.25" y="-0.05" kX="2.52" kY="2.52" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="2.25" y="-0.05" kX="2.52" kY="2.52" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="-5.25" y="-0.05" kX="2.52" kY="2.52" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="2.25" y="-0.05" kX="2.52" kY="2.52" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="-5.25" y="-0.05" kX="2.52" kY="2.52" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="nushou-nushou-g-6" twE="0" dr="4"/>
+          <f x="11.6" y="8.9" kX="8.57" kY="8.57" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="11.65" y="8.5" kX="3.34" kY="3.34" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="11.6" y="8.9" kX="8.57" kY="8.57" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="11.65" y="8.5" kX="3.34" kY="3.34" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="11.6" y="8.9" kX="8.57" kY="8.57" cX="1" cY="1" z="6" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="左小腿" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="nushou-nushou-5a-1" twE="0" dr="4"/>
+          <f x="2" y="7.25" kX="20.27" kY="20.27" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="8.35" y="6.75" kX="15.03" kY="15.03" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="2" y="7.25" kX="20.27" kY="20.27" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="8.35" y="6.75" kX="15.03" kY="15.03" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="2" y="7.25" kX="20.27" kY="20.27" cX="1" cY="1" z="7" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="脖子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="nushou-nushou-6a-2" twE="0" dr="4"/>
+          <f x="-5.1" y="4.6" kX="-10.94" kY="-10.94" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="2.4" y="4.6" kX="-10.94" kY="-10.94" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="-5.1" y="4.6" kX="-10.94" kY="-10.94" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="2.4" y="4.6" kX="-10.94" kY="-10.94" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="-5.1" y="4.6" kX="-10.94" kY="-10.94" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="左鞋子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="nushou-nushou-7a-8" twE="0" dr="4"/>
+          <f x="-1.9" y="0.4" kX="-10.83" kY="-0.47" cX="1" cY="1.02" z="9" twE="0" dr="4"/>
+          <f x="5.6" y="0.4" kX="-10.83" kY="-0.47" cX="1" cY="1.02" z="9" twE="0" dr="4"/>
+          <f x="-1.9" y="0.4" kX="-10.83" kY="-0.47" cX="1" cY="1.02" z="9" twE="0" dr="4"/>
+          <f x="5.6" y="0.4" kX="-10.83" kY="-0.47" cX="1" cY="1.02" z="9" twE="0" dr="4"/>
+          <f x="-1.9" y="0.4" kX="-10.83" kY="-0.47" cX="1" cY="1.02" z="9" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="裤子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="nushou-nushou-st-2" twE="0" dr="4"/>
+          <f x="8.25" y="6.6" kX="8.57" kY="8.57" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="10.3" y="7.7" kX="3.34" kY="3.34" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="8.25" y="6.6" kX="8.57" kY="8.57" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="10.3" y="7.7" kX="3.34" kY="3.34" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="8.25" y="6.6" kX="8.57" kY="8.57" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="右鞋子" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="nushou-nushou-kz-1" twE="0" dr="4"/>
+          <f x="3.65" y="4.35" kX="13.81" kY="13.81" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="9.5" y="4.4" kX="11.82" kY="11.82" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="3.65" y="4.35" kX="13.81" kY="13.81" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="9.5" y="4.4" kX="11.82" kY="11.82" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="3.65" y="4.35" kX="13.81" kY="13.81" cX="1" cY="1" z="11" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="nushou-pidai-1" twE="0" dr="4"/>
+          <f x="3.8" y="4" kX="13.81" kY="13.81" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="9.6" y="4.15" kX="11.82" kY="11.82" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="3.8" y="4" kX="13.81" kY="13.81" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="9.6" y="4.15" kX="11.82" kY="11.82" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="3.8" y="4" kX="13.81" kY="13.81" cX="1" cY="1" z="12" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" dr="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="nushou-pidai-2" twE="0" dr="4"/>
+          <f x="2.5" y="8.15" kX="-5.63" kY="-5.63" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="8" y="6.9" kX="11.82" kY="11.82" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="2.5" y="8.15" kX="-5.63" kY="-5.63" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="8" y="6.9" kX="11.82" kY="11.82" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="2.5" y="8.15" kX="-5.63" kY="-5.63" cX="1" cY="1" z="13" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="1"/>
+        </b>
+        <b name="图层 33" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="nushou-nushou2a-10" twE="0" dr="4"/>
+          <f x="4.15" y="1.45" kX="61.45" kY="61.45" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="6.2" y="1.55" kX="56.22" kY="56.22" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="4.15" y="1.45" kX="61.45" kY="61.45" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="6.2" y="1.55" kX="56.22" kY="56.22" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="4.15" y="1.45" kX="61.45" kY="61.45" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="-0.05" y="0.05" kX="-0.55" kY="-0.55" cX="1" cY="1" z="14" dr="1"/>
+        </b>
+        <b name="图层 35" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="nushou-nushou-shou1" twE="0" dr="4"/>
+          <f x="-19.25" y="-9.45" kX="66.72" kY="66.72" cX="0.99" cY="0.99" z="15" twE="0" dr="4"/>
+          <f x="-16.45" y="-6.35" kX="54.54" kY="54.54" cX="0.99" cY="0.99" z="15" twE="0" dr="4"/>
+          <f x="-19.25" y="-9.45" kX="66.72" kY="66.72" cX="0.99" cY="0.99" z="15" twE="0" dr="4"/>
+          <f x="-16.45" y="-6.35" kX="54.54" kY="54.54" cX="0.99" cY="0.99" z="15" twE="0" dr="4"/>
+          <f x="-19.25" y="-9.45" kX="66.72" kY="66.72" cX="0.99" cY="0.99" z="15" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="nushou-nushou-shou2" twE="0" dr="4"/>
+          <f x="-14.05" y="-29.25" kX="66.72" kY="66.72" cX="0.99" cY="0.99" z="16" twE="0" dr="4"/>
+          <f x="-13.8" y="-23.05" kX="54.54" kY="54.54" cX="0.99" cY="0.99" z="16" twE="0" dr="4"/>
+          <f x="-14.05" y="-29.25" kX="66.72" kY="66.72" cX="0.99" cY="0.99" z="16" twE="0" dr="4"/>
+          <f x="-13.8" y="-23.05" kX="54.54" kY="54.54" cX="0.99" cY="0.99" z="16" twE="0" dr="4"/>
+          <f x="-14.05" y="-29.25" kX="66.72" kY="66.72" cX="0.99" cY="0.99" z="16" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" dr="1"/>
+        </b>
+        <b name="lu" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="nushou-nu-1" twE="0" dr="4"/>
+          <f x="62.95" y="-94.85" kX="100.44" kY="100.44" cX="0.99" cY="0.99" z="17" twE="0" dr="4"/>
+          <f x="54.55" y="-90.3" kX="91.72" kY="91.72" cX="0.99" cY="0.99" z="17" twE="0" dr="4"/>
+          <f x="62.95" y="-94.85" kX="100.44" kY="100.44" cX="0.99" cY="0.99" z="17" twE="0" dr="4"/>
+          <f x="54.55" y="-90.3" kX="91.72" kY="91.72" cX="0.99" cY="0.99" z="17" twE="0" dr="4"/>
+          <f x="62.95" y="-94.85" kX="100.44" kY="100.44" cX="0.99" cY="0.99" z="17" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" dr="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="0.99" z="18" img="nushou-x-1" twE="0" dr="2"/>
+          <f x="-32.55" y="-35.3" kX="50.34" kY="50.34" cX="0.81" cY="0.99" z="18" twE="0" dr="2"/>
+          <f x="-35.45" y="-79.85" kX="100.45" kY="100.45" cX="0.81" cY="0.99" z="18" twE="0" dr="4"/>
+          <f x="-36.05" y="-69.35" kX="91.72" kY="91.72" cX="0.81" cY="0.99" z="18" twE="0" dr="4"/>
+          <f x="-35.45" y="-79.85" kX="100.45" kY="100.45" cX="0.81" cY="0.99" z="18" twE="0" dr="4"/>
+          <f x="-36.05" y="-69.35" kX="91.72" kY="91.72" cX="0.81" cY="0.99" z="18" twE="0" dr="4"/>
+          <f x="-35.45" y="-79.85" kX="100.45" kY="100.45" cX="0.81" cY="0.99" z="18" twE="0" dr="3"/>
+          <f x="-27.5" y="-26.15" kX="40.11" kY="40.11" cX="0.81" cY="0.99" z="18" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="0.99" z="18" dr="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1" z="19" img="nushou-x-1" twE="0" dr="2"/>
+          <f x="10.75" y="-44.1" kX="50.34" kY="50.34" cX="0.81" cY="1" z="19" twE="0" dr="2"/>
+          <f x="41.8" y="-60.85" kX="100.44" kY="100.45" cX="0.81" cY="1" z="19" twE="0" dr="4"/>
+          <f x="37.25" y="-57.2" kX="91.72" kY="91.72" cX="0.81" cY="1" z="19" twE="0" dr="4"/>
+          <f x="41.8" y="-60.85" kX="100.44" kY="100.45" cX="0.81" cY="1" z="19" twE="0" dr="4"/>
+          <f x="37.25" y="-57.2" kX="91.72" kY="91.72" cX="0.81" cY="1" z="19" twE="0" dr="4"/>
+          <f x="41.8" y="-60.85" kX="100.44" kY="100.45" cX="0.81" cY="1" z="19" twE="0" dr="3"/>
+          <f x="6.9" y="-36.3" kX="40.11" kY="40.11" cX="0.81" cY="1" z="19" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1" z="19" dr="1"/>
+        </b>
+        <b name="shou3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="nushou-nushou-shou3" twE="0" dr="4"/>
+          <f x="4.85" y="-61.15" kX="100.45" kY="100.45" cX="0.99" cY="0.99" z="20" twE="0" dr="4"/>
+          <f x="2.8" y="-54.85" kX="91.72" kY="91.72" cX="0.99" cY="0.99" z="20" twE="0" dr="4"/>
+          <f x="4.85" y="-61.15" kX="100.45" kY="100.45" cX="0.99" cY="0.99" z="20" twE="0" dr="4"/>
+          <f x="2.8" y="-54.85" kX="91.72" kY="91.72" cX="0.99" cY="0.99" z="20" twE="0" dr="4"/>
+          <f x="4.85" y="-61.15" kX="100.45" kY="100.45" cX="0.99" cY="0.99" z="20" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" dr="1"/>
+        </b>
+        <b name="头" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="nushou-nushou-wb-1" twE="0" dr="4"/>
+          <f x="1.9" y="10.25" kX="-10.96" kY="-10.96" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="3.7" y="11.75" kX="-16.2" kY="-16.2" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="1.9" y="10.25" kX="-10.96" kY="-10.96" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="3.7" y="11.75" kX="-16.2" kY="-16.2" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="1.9" y="10.25" kX="-10.96" kY="-10.96" cX="1" cY="1" z="21" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" dr="1"/>
+        </b>
+        <b name="nushou-tb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="nushou-nushou-lb-1" twE="0" dr="4"/>
+          <f x="-9.25" y="20.15" kX="-20.56" kY="-20.56" cX="1" cY="1" z="22" twE="0" dr="4"/>
+          <f x="-9.75" y="24.4" kX="-25.79" kY="-25.79" cX="1" cY="1" z="22" twE="0" dr="4"/>
+          <f x="-9.25" y="20.15" kX="-20.56" kY="-20.56" cX="1" cY="1" z="22" twE="0" dr="4"/>
+          <f x="-9.75" y="24.4" kX="-25.79" kY="-25.79" cX="1" cY="1" z="22" twE="0" dr="4"/>
+          <f x="-9.25" y="20.15" kX="-20.56" kY="-20.56" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" dr="1"/>
+        </b>
+        <b name="nushou-yj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="nushou-nushou-yj-1" twE="0" dr="4"/>
+          <f x="0.55" y="14.8" kX="-20.56" kY="-20.56" cX="1" cY="1" z="23" img="nushou-nushou-yj-3" twE="0" dr="4"/>
+          <f x="2.2" y="17.15" kX="-25.79" kY="-25.79" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="0.55" y="14.8" kX="-20.56" kY="-20.56" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="2.2" y="17.15" kX="-25.79" kY="-25.79" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="0.55" y="14.8" kX="-20.56" kY="-20.56" cX="1" cY="1" z="23" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="nushou-nushou-yj-1" dr="1"/>
+        </b>
+        <b name="yumao-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="nushou-yumao-1" twE="0" dr="4"/>
+          <f x="-12.45" y="4.65" kX="-17.83" kY="-17.83" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="-8.2" y="5.3" kX="-10.64" kY="-10.64" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="-12.45" y="4.65" kX="-17.83" kY="-17.83" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="-8.2" y="5.3" kX="-10.64" kY="-10.64" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="-12.45" y="4.65" kX="-17.83" kY="-17.83" cX="1" cY="1" z="24" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" dr="1"/>
+        </b>
+        <b name="yumao-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="nushou-yumao-2" twE="0" dr="4"/>
+          <f x="-6.65" y="3.1" kX="-15.32" kY="-15.32" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="-2.65" y="5.9" kX="-1.38" kY="-1.38" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="-6.65" y="3.1" kX="-15.32" kY="-15.32" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="-2.65" y="5.9" kX="-1.38" kY="-1.38" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="-6.65" y="3.1" kX="-15.32" kY="-15.32" cX="1" cY="1" z="25" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" dr="1"/>
+        </b>
+        <b name="toukui-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="nushou-toukui-1" twE="0" dr="4"/>
+          <f x="-1.65" y="16.9" kX="-20.55" kY="-20.56" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="-0.4" y="19.9" kX="-25.78" kY="-25.79" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="-1.65" y="16.9" kX="-20.55" kY="-20.56" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="-0.4" y="19.9" kX="-25.78" kY="-25.79" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="-1.65" y="16.9" kX="-20.55" kY="-20.56" cX="1" cY="1" z="26" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="人类弩手" width="512" height="128">
+    <SubTexture name="nushou-nushou-7a-3" x="397" y="0" width="32" height="28" pX="6.05" pY="12.7"/>
+    <SubTexture name="nushou-nushou-7a-7" x="430" y="0" width="26" height="31" pX="0.4" pY="9.65"/>
+    <SubTexture name="nushou-nushou-kz-2" x="246" y="0" width="44" height="22" pX="8.65" pY="-1.4"/>
+    <SubTexture name="nushou-x-k" x="507" y="0" width="3" height="3" pX="0.55" pY="-15.95"/>
+    <SubTexture name="nushou-nushou-yj-2" x="364" y="31" width="23" height="9" pX="0" pY="0"/>
+    <SubTexture name="nushou-nushou-yz-1" x="119" y="0" width="72" height="26" pX="34.7" pY="12"/>
+    <SubTexture name="nushou-nushou2a-20" x="261" y="23" width="12" height="34" pX="3.3" pY="6.95"/>
+    <SubTexture name="nushou-nushou-shou1" x="457" y="0" width="19" height="34" pX="8.35" pY="19.3"/>
+    <SubTexture name="nushou-nushou-5a-1" x="274" y="23" width="10" height="27" pX="4.3" pY="-0.05"/>
+    <SubTexture name="nushou-nushou-6a-1" x="152" y="27" width="17" height="25" pX="4.05" pY="5.05"/>
+    <SubTexture name="nushou-nushou-7a-1" x="364" y="0" width="32" height="30" pX="6" pY="11.8"/>
+    <SubTexture name="nushou-nushou-g-6" x="192" y="0" width="21" height="75" pX="-16.6" pY="20.45"/>
+    <SubTexture name="nushou-nushou-6a-2" x="477" y="25" width="21" height="25" pX="4.65" pY="9"/>
+    <SubTexture name="nushou-nushou-7a-8" x="336" y="0" width="27" height="36" pX="0.65" pY="17.4"/>
+    <SubTexture name="nushou-nushou-st-2" x="214" y="0" width="31" height="45" pX="2.15" pY="0.55"/>
+    <SubTexture name="nushou-nushou-kz-1" x="291" y="0" width="44" height="21" pX="8.05" pY="-2.9"/>
+    <SubTexture name="nushou-pidai-1" x="119" y="27" width="32" height="11" pX="0" pY="0"/>
+    <SubTexture name="nushou-pidai-2" x="421" y="29" width="8" height="18" pX="0" pY="0"/>
+    <SubTexture name="nushou-nushou2a-10" x="246" y="23" width="14" height="35" pX="2.45" pY="8.5"/>
+    <SubTexture name="nushou-nushou-shou2" x="170" y="27" width="18" height="17" pX="7.9" pY="7.8"/>
+    <SubTexture name="nushou-nu-1" x="0" y="0" width="72" height="59" pX="0" pY="0"/>
+    <SubTexture name="nushou-x-1" x="504" y="0" width="2" height="37" pX="0" pY="0"/>
+    <SubTexture name="nushou-nushou-shou3" x="454" y="35" width="9" height="17" pX="-3" pY="6.75"/>
+    <SubTexture name="nushou-nushou-wb-1" x="477" y="0" width="26" height="24" pX="4.8" pY="-3"/>
+    <SubTexture name="nushou-nushou-lb-1" x="73" y="0" width="45" height="54" pX="0" pY="0"/>
+    <SubTexture name="nushou-nushou-yj-1" x="430" y="32" width="23" height="9" pX="0" pY="0"/>
+    <SubTexture name="nushou-nushou-yj-3" x="397" y="29" width="23" height="18" pX="0" pY="0"/>
+    <SubTexture name="nushou-yumao-1" x="327" y="22" width="8" height="33" pX="0" pY="0"/>
+    <SubTexture name="nushou-yumao-2" x="285" y="23" width="5" height="20" pX="0" pY="0"/>
+    <SubTexture name="nushou-toukui-1" x="291" y="22" width="35" height="17" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

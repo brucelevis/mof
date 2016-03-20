@@ -1,0 +1,15 @@
+<skeleton name="春节武器(5)">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_chunjie" bT="0" bi="weapon_SpringFestival-weapon-fs_chunjie" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_SpringFestival-weapon-fs_chunjie"/>
+      <b name="weapon-ck_chunjie" bT="0" bi="weapon_SpringFestival-weapon-ck_chunjie" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_SpringFestival-weapon-ck_chunjie"/>
+      <b name="weapon-zs_chunjie" bT="0" bi="weapon_SpringFestival-weapon-zs_chunjie" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_SpringFestival-weapon-zs_chunjie"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="春节武器(5)" width="512" height="256">
+    <SubTexture name="weapon_SpringFestival-weapon-fs_chunjie" x="0" y="0" width="53" height="193" pX="23.5" pY="95.2"/>
+    <SubTexture name="weapon_SpringFestival-weapon-ck_chunjie" x="217" y="0" width="40" height="97" pX="21.8" pY="50.75"/>
+    <SubTexture name="weapon_SpringFestival-weapon-zs_chunjie" x="54" y="0" width="162" height="45" pX="23.15" pY="28.2"/>
+  </TextureAtlas>
+</skeleton>

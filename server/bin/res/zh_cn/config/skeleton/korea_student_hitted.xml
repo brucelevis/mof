@@ -1,0 +1,39 @@
+<skeleton name="学生被击特效">
+  <armatures>
+    <armature name="rengshubeiji">
+      <b name="图层 2" bT="0" bi="korea_student_hitted-shuben" x="5.1" y="6.75" kX="-125.96" kY="-125.96" z="0"/>
+      <b name="图层 1" bT="0" bi="korea_student_hitted-xueshengbeiji1" x="-0.05" y="-0.05" kX="0" kY="0" z="1"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="rengshubeiji">
+      <mov name="rengshubeiji" to="1" dr="20" drTW="20">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="korea_student_hitted-shuben" twE="0" dr="5"/>
+          <f x="12.2" y="-27.45" kX="120.1" kY="120.1" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="26" y="-40.35" kX="292.59" kY="292.59" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="39.8" y="-53.25" kX="30.09" kY="30.09" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="55.3" y="-46.4" kX="139.26" kY="139.26" cX="1" cY="1" z="0" twE="0" dr="4"/>
+          <f x="75.8" y="-37.25" kX="225.09" kY="225.09" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="korea_student_hitted-xueshengbeiji1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="korea_student_hitted-xueshengbeiji2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="korea_student_hitted-xueshengbeiji3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="korea_student_hitted-xueshengbeiji4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="korea_student_hitted-xueshengbeji5" dr="2"/>
+          <f dr="10" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="学生被击特效" width="512" height="256">
+    <SubTexture name="korea_student_hitted-shuben" x="472" y="0" width="21" height="29" pX="9.65" pY="13.6"/>
+    <SubTexture name="korea_student_hitted-xueshengbeiji1" x="354" y="0" width="117" height="117" pX="58" pY="58"/>
+    <SubTexture name="korea_student_hitted-xueshengbeiji2" x="236" y="0" width="117" height="117" pX="58" pY="58"/>
+    <SubTexture name="korea_student_hitted-xueshengbeiji3" x="0" y="0" width="117" height="117" pX="58" pY="58"/>
+    <SubTexture name="korea_student_hitted-xueshengbeiji4" x="118" y="0" width="117" height="117" pX="58" pY="58"/>
+    <SubTexture name="korea_student_hitted-xueshengbeji5" x="0" y="118" width="117" height="117" pX="58" pY="58"/>
+  </TextureAtlas>
+</skeleton>

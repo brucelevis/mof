@@ -1,0 +1,598 @@
+<skeleton name="第N波">
+  <armatures>
+    <armature name="diyibo">
+      <b name="图层 1" bT="0" bi="Custom_counts-di1bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="diwubo">
+      <b name="图层 1" bT="0" bi="Custom_counts-di5bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="disibo">
+      <b name="图层 1" bT="0" bi="Custom_counts-di4bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="dishibo">
+      <b name="图层 1" bT="0" bi="Custom_counts-di10bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="disanbo">
+      <b name="图层 1" bT="0" bi="Custom_counts-di3bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="diqibo">
+      <b name="图层 1" bT="0" bi="Custom_counts-di7bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="diliubo">
+      <b name="图层 1" bT="0" bi="Custom_counts-di6bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="dijiubo">
+      <b name="图层 1" bT="0" bi="Custom_counts-di9bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="dierbo">
+      <b name="图层 1" bT="0" bi="Custom_counts-di2bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="dibabo">
+      <b name="图层 1" bT="0" bi="Custom_counts-di8bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="diyibo">
+      <mov name="diyibo" to="1" dr="54" drTW="54">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="Custom_counts-di1bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="diyibo0" to="6" dr="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" img="Custom_counts-di1bo" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="diwubo">
+      <mov name="diwubo" to="1" dr="54" drTW="54">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="Custom_counts-di5bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="diwubo0" to="6" dr="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" img="Custom_counts-di5bo" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="disibo">
+      <mov name="disibo" to="1" dr="54" drTW="54">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="Custom_counts-di4bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="disibo0" to="6" dr="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" img="Custom_counts-di4bo" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dishibo">
+      <mov name="dishibo" to="1" dr="54" drTW="54">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="Custom_counts-di10bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="dishibo0" to="6" dr="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" img="Custom_counts-di10bo" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="disanbo">
+      <mov name="disanbo" to="1" dr="54" drTW="54">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="Custom_counts-di3bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="disanbo0" to="6" dr="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" img="Custom_counts-di3bo" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="diqibo">
+      <mov name="diqibo" to="1" dr="54" drTW="54">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="Custom_counts-di7bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="diqibo0" to="6" dr="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" img="Custom_counts-di7bo" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="diliubo">
+      <mov name="diliubo" to="1" dr="54" drTW="54">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="Custom_counts-di6bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="diliubo0" to="6" dr="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" img="Custom_counts-di6bo" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dijiubo">
+      <mov name="dijiubo" to="1" dr="54" drTW="54">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="Custom_counts-di9bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="dijiubo0" to="6" dr="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" img="Custom_counts-di9bo" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dierbo">
+      <mov name="dierbo" to="1" dr="54" drTW="54">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="Custom_counts-di2bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="dierbo0" to="6" dr="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" img="Custom_counts-di2bo" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dibabo">
+      <mov name="dibabo" to="1" dr="54" drTW="55">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="Custom_counts-di8bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="dibabo0" to="6" dr="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" img="Custom_counts-di8bo" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="第N波" width="512" height="512">
+    <SubTexture name="Custom_counts-di1bo" x="193" y="232" width="192" height="57" pX="95.2" pY="27.6"/>
+    <SubTexture name="Custom_counts-di5bo" x="193" y="174" width="192" height="57" pX="95.2" pY="27.6"/>
+    <SubTexture name="Custom_counts-di4bo" x="0" y="174" width="192" height="57" pX="95.2" pY="27.6"/>
+    <SubTexture name="Custom_counts-di10bo" x="0" y="0" width="214" height="57" pX="105.2" pY="27.6"/>
+    <SubTexture name="Custom_counts-di3bo" x="0" y="116" width="192" height="57" pX="95.2" pY="27.6"/>
+    <SubTexture name="Custom_counts-di7bo" x="193" y="58" width="192" height="57" pX="95.2" pY="27.6"/>
+    <SubTexture name="Custom_counts-di6bo" x="0" y="58" width="192" height="57" pX="95.2" pY="27.6"/>
+    <SubTexture name="Custom_counts-di9bo" x="193" y="116" width="192" height="57" pX="95.2" pY="27.6"/>
+    <SubTexture name="Custom_counts-di2bo" x="215" y="0" width="192" height="57" pX="95.2" pY="27.6"/>
+    <SubTexture name="Custom_counts-di8bo" x="0" y="232" width="192" height="57" pX="95.2" pY="27.6"/>
+  </TextureAtlas>
+</skeleton>

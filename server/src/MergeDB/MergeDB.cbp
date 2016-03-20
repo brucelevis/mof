@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MergeDB" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/debug/MergeDB" prefix_auto="0" extension_auto="0" />
+				<Option object_output="obj/Debug" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DDEBUG" />
+					<Add directory="." />
+					<Add directory="lib" />
+					<Add directory="Utils" />
+				</Compiler>
+				<Linker>
+					<Add directory="lib" />
+					<Add directory="bin/debug" />
+					<Add library="pthread" />
+					<Add library="dl" />
+					<Add library="rt" />
+					<Add library="hiredis_linux" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="dbconnector.h">
+		</Unit>
+		<Unit filename="Worker.h">
+		</Unit>
+		<Unit filename="lib/hiredis.h">
+		</Unit>
+		<Unit filename="Utils/log.h">
+		</Unit>
+		<Unit filename="Utils/Utils.h">
+		</Unit>
+		<Unit filename="Utils/iniparser.h">
+		</Unit>
+		<Unit filename="Utils/redis_helper.h">
+		</Unit>
+		<Unit filename="Utils/inifile.h">
+		</Unit>
+		<Unit filename="Utils/utf8.h">
+		</Unit>
+		<Unit filename="Utils/tee.h">
+		</Unit>
+		<Unit filename="Utils/json/writer.h">
+		</Unit>
+		<Unit filename="Utils/json/config.h">
+		</Unit>
+		<Unit filename="Utils/json/value.h">
+		</Unit>
+		<Unit filename="Utils/json/features.h">
+		</Unit>
+		<Unit filename="Utils/json/forwards.h">
+		</Unit>
+		<Unit filename="Utils/json/json.h">
+		</Unit>
+		<Unit filename="Utils/json/reader.h">
+		</Unit>
+		<Unit filename="Utils/json/src/json_batchallocator.h">
+		</Unit>
+		<Unit filename="Utils/utf8/checked.h">
+		</Unit>
+		<Unit filename="Utils/utf8/core.h">
+		</Unit>
+		<Unit filename="Utils/utf8/unchecked.h">
+		</Unit>
+		<Unit filename="dbconnector.cpp">
+		</Unit>
+		<Unit filename="Worker.cpp">
+		</Unit>
+		<Unit filename="main.cpp">
+		</Unit>
+		<Unit filename="Utils/inifile.cpp">
+		</Unit>
+		<Unit filename="Utils/tee.cpp">
+		</Unit>
+		<Unit filename="Utils/Utils.cpp">
+		</Unit>
+		<Unit filename="Utils/log.cpp">
+		</Unit>
+		<Unit filename="Utils/redis_helper.cpp">
+		</Unit>
+		<Unit filename="Utils/iniparser.cpp">
+		</Unit>
+		<Unit filename="Utils/json/src/json_reader.cpp">
+		</Unit>
+		<Unit filename="Utils/json/src/json_value.cpp">
+		</Unit>
+		<Unit filename="Utils/json/src/json_writer.cpp">
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
+

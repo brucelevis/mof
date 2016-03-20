@@ -1,0 +1,15 @@
+<skeleton name="吸血鬼武器">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_Vampire" bT="0" bi="weapon_Vampire-weapon-fs_Vampire" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Vampire-weapon-fs_Vampire"/>
+      <b name="weapon-ck_Vampire" bT="0" bi="weapon_Vampire-weapon-ck_Vampire" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Vampire-weapon-ck_Vampire"/>
+      <b name="weapon-zs_Vampire" bT="0" bi="weapon_Vampire-weapon-zs_Vampire" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Vampire-weapon-zs_Vampire"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="吸血鬼武器" width="512" height="256">
+    <SubTexture name="weapon_Vampire-weapon-fs_Vampire" x="0" y="0" width="79" height="198" pX="46" pY="96.55"/>
+    <SubTexture name="weapon_Vampire-weapon-ck_Vampire" x="268" y="0" width="76" height="118" pX="48.3" pY="66.75"/>
+    <SubTexture name="weapon_Vampire-weapon-zs_Vampire" x="80" y="0" width="187" height="76" pX="39.3" pY="36.45"/>
+  </TextureAtlas>
+</skeleton>

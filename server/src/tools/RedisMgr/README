@@ -1,0 +1,5 @@
+Redis管理器
+1：运行环境：node js
+2：http.js里面可以配置redis服务器的ip，端口和密码
+3：运行命令：
+	  node http.js

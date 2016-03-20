@@ -1,0 +1,258 @@
+<skeleton name="技能提升">
+  <armatures>
+    <armature name="SkillUp">
+      <b name="Layer1" bT="0" bi="SkillAnimation_SkillUp-guangxianxiaoguo" x="-101.3" y="-82.2" kX="-16.13" kY="-16.11" z="0"/>
+      <b name="Layer2" bT="0" bi="SkillAnimation_SkillUp-guangxianxiaoguo" x="90.85" y="-96.85" kX="77.69" kY="77.7" z="1"/>
+      <b name="Layer3" bT="0" bi="SkillAnimation_SkillUp-guangxianxiaoguo" x="100.9" y="34.5" kX="161.38" kY="161.39" z="2"/>
+      <b name="Layer4" bT="0" bi="SkillAnimation_SkillUp-guangxianxiaoguo" x="-92.55" y="49.75" kX="-83" kY="-83" z="2"/>
+      <b name="Layer5" bT="0" bi="SkillAnimation_SkillUp-guangxianxiaoguo" x="-127.5" y="40.8" kX="-74.08" kY="-74.07" z="2"/>
+      <b name="Layer6" bT="0" bi="SkillAnimation_SkillUp-guangxianxiaoguo" x="-21.8" y="-158" kX="39.56" kY="39.57" z="4"/>
+      <b name="Layer7" bT="0" bi="SkillAnimation_SkillUp-guangxianxiaoguo" x="108.7" y="-7.3" kX="139.64" kY="139.65" z="4"/>
+      <b name="Layer8" bT="0" bi="SkillAnimation_SkillUp-guangxianxiaoguo" x="-30.55" y="102.05" kX="-130.46" kY="-130.45" z="6"/>
+      <b name="Layer30" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="-21.85" y="-1.2" kX="15" kY="15" z="7"/>
+      <b name="Layer29" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="-20" y="-6.35" kX="30" kY="30" z="7"/>
+      <b name="Layer28" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="-15.15" y="8.7" kX="-45" kY="-45" z="6"/>
+      <b name="Layer27" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="-15.15" y="-1.7" kX="-15" kY="-15" z="10"/>
+      <b name="Layer26" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="-10.75" y="-6.6" kX="0" kY="0" z="9"/>
+      <b name="Layer25" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="-1.6" y="-13.4" kX="75" kY="75" z="10"/>
+      <b name="Layer24" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="-20.3" y="-6.35" kX="15" kY="15" z="11"/>
+      <b name="Layer23" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="20.9" y="-8.4" kX="135" kY="135" z="11"/>
+      <b name="Layer22" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="13.3" y="-9.65" kX="135" kY="135" z="15"/>
+      <b name="Layer21" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="11.2" y="3.3" kX="180" kY="180" z="13"/>
+      <b name="Layer20" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="7.75" y="-17.35" kX="120" kY="120" z="17"/>
+      <b name="Layer19" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="-12.1" y="-15" kX="60" kY="60" z="17"/>
+      <b name="Layer18" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="0.95" y="-21.6" kX="-84.29" kY="-84.29" z="16"/>
+      <b name="Layer17" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="11.95" y="11.7" kX="-150" kY="-150" z="18"/>
+      <b name="Layer16" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="3.8" y="7.6" kX="-120" kY="-120" z="19"/>
+      <b name="Layer15" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="-11.3" y="15.1" kX="-75" kY="-75" z="21"/>
+      <b name="Layer14" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="3.15" y="16.75" kX="-270" kY="-270" z="23"/>
+      <b name="Layer13" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="20.65" y="-6.15" kX="135" kY="135" z="23"/>
+      <b name="Layer12" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="16.55" y="-11.25" kX="105" kY="105" z="23"/>
+      <b name="Layer11" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="2.75" y="-25.35" kX="105" kY="105" z="23"/>
+      <b name="Layer10" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="-0.25" y="8.15" kX="-75" kY="-75" z="24"/>
+      <b name="Layer9" bT="0" bi="SkillAnimation_SkillUp-liziziziziziq" x="7.25" y="-17.4" kX="75" kY="75" z="24"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="SkillUp">
+      <mov name="SkillUp" to="1" dr="26" drTW="26">
+        <b name="Layer1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.29" z="0" img="SkillAnimation_SkillUp-guangxianxiaoguo" twE="0" dr="2"/>
+          <f x="-1.2" y="-121.15" kX="0.01" kY="-0.01" cX="0.14" cY="0.6" z="0" twE="0" dr="3"/>
+          <f x="-34" y="-329" kX="0.01" kY="0" cX="0.05" cY="1.16" z="0" twE="0" dr="3"/>
+          <f x="53.7" y="-60.95" kX="0.01" kY="0.01" cX="0.02" cY="0.4" z="0" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="Layer2" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.29" z="1" img="SkillAnimation_SkillUp-guangxianxiaoguo" twE="0" dr="2"/>
+          <f x="120.95" y="6.85" kX="0" kY="0" cX="0.14" cY="0.6" z="1" twE="0" dr="3"/>
+          <f x="330.5" y="-12.05" kX="0" kY="0" cX="0.05" cY="1.16" z="1" twE="0" dr="3"/>
+          <f x="57.2" y="57.65" kX="0" kY="0" cX="0.02" cY="0.4" z="0" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="Layer3" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.17" z="2" img="SkillAnimation_SkillUp-guangxianxiaoguo" twE="0" dr="2"/>
+          <f x="-9.05" y="76.95" kX="0.01" kY="-0.01" cX="0.16" cY="0.36" z="1" twE="0" dr="3"/>
+          <f x="13.65" y="201.5" kX="0" kY="-0.01" cX="0.1" cY="0.69" z="0" twE="0" dr="3"/>
+          <f x="-67.75" y="50.45" kX="0" kY="-0.02" cX="0.01" cY="0.24" z="0" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="Layer4" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.19" cY="0.23" z="2" img="SkillAnimation_SkillUp-guangxianxiaoguo" twE="0" dr="2"/>
+          <f x="-89.5" y="-37.1" kX="-0.01" kY="0" cX="0.11" cY="0.48" z="1" twE="0" dr="3"/>
+          <f x="-252.7" y="-78.25" kX="-0.01" kY="0" cX="0.04" cY="0.92" z="0" twE="0" dr="3"/>
+          <f x="-27.9" y="-58.6" kX="-0.01" kY="-0.04" cX="0.02" cY="0.32" z="0" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="Layer5" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.24" cY="0.29" z="2" img="SkillAnimation_SkillUp-guangxianxiaoguo" twE="0" dr="2"/>
+          <f x="-103.25" y="-63.25" kX="0" kY="0" cX="0.14" cY="0.6" z="3" twE="0" dr="3"/>
+          <f x="-296.9" y="-145.75" kX="0" kY="0" cX="0.05" cY="1.16" z="3" twE="0" dr="3"/>
+          <f x="-23.15" y="-77.9" kX="0" kY="-0.02" cX="0.02" cY="0.4" z="2" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="Layer6" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.37" cY="0.29" z="4" img="SkillAnimation_SkillUp-guangxianxiaoguo" twE="0" dr="2"/>
+          <f x="131.15" y="-43.2" kX="0" kY="0" cX="0.14" cY="0.6" z="4" twE="0" dr="4"/>
+          <f x="284.35" y="-187.5" kX="0" kY="-0.02" cX="0.05" cY="1.16" z="2" twE="0" dr="4"/>
+          <f x="112.45" y="36.2" kX="0" kY="-0.08" cX="0.02" cY="0.4" z="1" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="Layer7" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.17" z="4" img="SkillAnimation_SkillUp-guangxianxiaoguo" twE="0" dr="2"/>
+          <f x="20.1" y="74.85" kX="0.01" kY="-0.01" cX="0.16" cY="0.36" z="5" twE="0" dr="3"/>
+          <f x="87.3" y="182.2" kX="0" kY="-0.01" cX="0.1" cY="0.69" z="4" twE="0" dr="3"/>
+          <f x="-44.2" y="72" kX="0" kY="-0.04" cX="0.01" cY="0.24" z="3" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="Layer8" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.19" cY="0.23" z="6" img="SkillAnimation_SkillUp-guangxianxiaoguo" twE="0" dr="2"/>
+          <f x="-87.85" y="40.9" kX="0" kY="-0.01" cX="0.11" cY="0.48" z="3" twE="0" dr="3"/>
+          <f x="-228.5" y="133.3" kX="0" kY="-0.03" cX="0.04" cY="0.92" z="1" twE="0" dr="3"/>
+          <f x="-62" y="-19.05" kX="0" kY="-0.13" cX="0.02" cY="0.32" z="1" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="Layer30" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="-10.1" y="-5.35" kX="0" kY="0" cX="1.28" cY="1.28" z="0" twE="0" dr="9"/>
+          <f x="-21.25" y="-10.35" kX="0" kY="0" cX="0.12" cY="0.12" z="0" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="Layer29" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="7" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="-10.2" y="-8.45" kX="0" kY="0" cX="1.28" cY="1.28" z="1" twE="0" dr="9"/>
+          <f x="-19.7" y="-16.15" kX="0" kY="0" cX="0.12" cY="0.12" z="0" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer28" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="-8.9" y="6.9" kX="0" kY="0" cX="1.28" cY="1.28" z="0" twE="0" dr="9"/>
+          <f x="-18.85" y="14.05" kX="0" kY="0" cX="0.12" cY="0.12" z="0" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="Layer27" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="-11.25" y="0.4" kX="0" kY="0" cX="1.28" cY="1.28" z="3" twE="0" dr="9"/>
+          <f x="-23.45" y="1.65" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="3" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="Layer26" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="9" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="-13.05" y="-2.3" kX="0" kY="0" cX="1.28" cY="1.28" z="2" twE="0" dr="9"/>
+          <f x="-25.15" y="-4.25" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="1" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="Layer25" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="10" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="-1.2" y="-13.2" kX="0" kY="0" cX="1.28" cY="1.28" z="3" twE="0" dr="9"/>
+          <f x="-2.45" y="-25.35" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="2" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="Layer24" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="11" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="-12.1" y="-5.55" kX="0" kY="0" cX="1.28" cY="1.28" z="4" twE="0" dr="9"/>
+          <f x="-23.15" y="-10.6" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="3" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="Layer23" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="9.3" y="-6.25" kX="0" kY="0" cX="1.28" cY="1.28" z="4" twE="0" dr="9"/>
+          <f x="19.2" y="-13.35" kX="0" kY="0" cX="0.12" cY="0.12" z="1" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="Layer22" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="8.65" y="-7.45" kX="0" kY="0" cX="1.28" cY="1.28" z="8" twE="0" dr="9"/>
+          <f x="18.65" y="-14.6" kX="0" kY="0" cX="0.12" cY="0.12" z="8" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="Layer21" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="13" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="12.95" y="2.25" kX="0" kY="0" cX="1.28" cY="1.28" z="2" twE="0" dr="9"/>
+          <f x="25.1" y="4.25" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="0" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="Layer20" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="6.9" y="-10.55" kX="0" kY="0" cX="1.28" cY="1.28" z="10" twE="0" dr="9"/>
+          <f x="14.6" y="-20.1" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="10" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="Layer19" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="17" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="-4.6" y="-12.35" kX="0" kY="0" cX="1.28" cY="1.28" z="11" twE="0" dr="9"/>
+          <f x="-8.95" y="-23.85" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="7" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer18" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="1.05" y="-11.4" kX="-5.71" kY="-5.71" cX="1.28" cY="1.28" z="6" twE="0" dr="9"/>
+          <f x="2.95" y="-23.55" kX="174.28" kY="174.28" cX="0.12" cY="0.12" z="3" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="Layer17" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="18" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="10.15" y="8.3" kX="0" kY="0" cX="1.28" cY="1.28" z="9" twE="0" dr="9"/>
+          <f x="19.7" y="16.15" kX="-0.02" kY="-0.02" cX="0.12" cY="0.12" z="7" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="Layer16" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.76" cY="0.76" z="19" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="3.7" y="9.85" kX="0" kY="0" cX="1.03" cY="1.03" z="10" twE="0" dr="9"/>
+          <f x="7.15" y="19.2" kX="-0.02" kY="-0.02" cX="0.09" cY="0.09" z="8" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="Layer15" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.76" cY="0.76" z="21" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="-4.35" y="9.55" kX="0" kY="0" cX="1.03" cY="1.03" z="15" twE="0" dr="9"/>
+          <f x="-8.5" y="18.6" kX="-0.03" kY="-0.03" cX="0.09" cY="0.09" z="11" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="23" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="-1.85" y="9.95" kX="180" kY="180" cX="1.03" cY="1.03" z="16" twE="0" dr="9"/>
+          <f x="-3.55" y="19.75" kX="179.97" kY="179.97" cX="0.09" cY="0.09" z="16" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="Layer13" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.76" cY="0.76" z="23" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="8.55" y="-6.05" kX="0" kY="0" cX="1.03" cY="1.03" z="17" twE="0" dr="9"/>
+          <f x="16.6" y="-11.75" kX="-0.03" kY="-0.03" cX="0.09" cY="0.09" z="12" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer12" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.76" cY="0.76" z="23" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="4.4" y="-9.55" kX="0" kY="0" cX="1.03" cY="1.03" z="13" twE="0" dr="9"/>
+          <f x="8.5" y="-18.5" kX="-0.03" kY="-0.03" cX="0.09" cY="0.09" z="9" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="Layer11" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="23" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="4.2" y="-9.45" kX="0" kY="0" cX="1.03" cY="1.03" z="10" twE="0" dr="9"/>
+          <f x="8.3" y="-18.4" kX="-0.03" kY="-0.03" cX="0.09" cY="0.09" z="4" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="Layer10" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.76" cY="0.76" z="24" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="-4.45" y="9.5" kX="0" kY="0" cX="1.03" cY="1.03" z="5" twE="0" dr="9"/>
+          <f x="-8.6" y="18.55" kX="-0.03" kY="-0.03" cX="0.09" cY="0.09" z="1" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="Layer9" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.76" cY="0.76" z="24" img="SkillAnimation_SkillUp-liziziziziziq" twE="0" dr="10"/>
+          <f x="-0.95" y="-10.5" kX="0" kY="0" cX="1.03" cY="1.03" z="2" twE="0" dr="9"/>
+          <f x="-1.85" y="-20.4" kX="-0.03" kY="-0.03" cX="0.09" cY="0.09" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="技能提升" width="512" height="128">
+    <SubTexture name="SkillAnimation_SkillUp-guangxianxiaoguo" x="0" y="0" width="146" height="107" pX="-232.2" pY="-271.55"/>
+    <SubTexture name="SkillAnimation_SkillUp-liziziziziziq" x="147" y="0" width="3" height="3" pX="0.8" pY="0.8"/>
+  </TextureAtlas>
+</skeleton>

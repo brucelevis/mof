@@ -1,0 +1,50 @@
+<skeleton name="1000像素飘雪(前景大雪)">
+  <armatures>
+    <armature name="stand">
+      <b name="xueda" bT="0" bi="NPC_snow_great-xueda" x="-38.2" y="-625.7" kX="-0.47" kY="179.53" z="0"/>
+      <b name="xueda0" bT="0" bi="NPC_snow_great-xueda" x="169.9" y="-625.7" kX="0.47" kY="0.47" z="1"/>
+      <b name="xueda1" bT="0" bi="NPC_snow_great-xueda" x="521.05" y="-576.65" kX="-0.47" kY="179.53" z="1"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="215" drTW="430" lp="1">
+        <b name="xueda" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.88" cY="0.88" z="0" img="NPC_snow_great-xueda" twE="0" dr="17"/>
+          <f x="-72.25" y="472.75" kX="0.17" kY="0.17" cX="0.88" cY="0.88" z="0" twE="0" dr="18"/>
+          <f x="-24" y="880.45" kX="0" kY="0" cX="0.88" cY="0.88" z="0" dr="1"/>
+          <f dr="20" hide="1"/>
+          <f x="461.4" y="7.25" kX="6.73" kY="-353.27" cX="0.88" cY="0.88" z="0" twE="0" dr="17"/>
+          <f x="334.25" y="468.25" kX="6.9" kY="-353.1" cX="0.88" cY="0.88" z="0" twE="0" dr="18"/>
+          <f x="334.35" y="878.8" kX="6.73" kY="-353.27" cX="0.88" cY="0.88" z="0" dr="1"/>
+          <f dr="71" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.88" cY="0.88" z="0" twE="0" dr="17"/>
+          <f x="-72.25" y="472.75" kX="0.17" kY="0.17" cX="0.88" cY="0.88" z="0" twE="0" dr="18"/>
+          <f x="-24" y="880.45" kX="0" kY="0" cX="0.88" cY="0.88" z="0" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="xueda0" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.88" cY="0.88" z="1" img="NPC_snow_great-xueda" twE="0" dr="17"/>
+          <f x="72.25" y="472.75" kX="-0.17" kY="-0.17" cX="0.88" cY="0.88" z="0" twE="0" dr="18"/>
+          <f x="24" y="880.45" kX="0" kY="0" cX="0.88" cY="0.88" z="0" dr="1"/>
+          <f dr="78" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.88" cY="0.88" z="0" twE="0" dr="17"/>
+          <f x="72.25" y="472.75" kX="-0.17" kY="-0.17" cX="0.88" cY="0.88" z="0" twE="0" dr="18"/>
+          <f x="24" y="880.45" kX="0" kY="0" cX="0.88" cY="0.88" z="0" dr="1"/>
+          <f dr="61" hide="1"/>
+        </b>
+        <b name="xueda1" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.79" cY="0.79" z="1" img="NPC_snow_great-xueda" twE="0" dr="19"/>
+          <f x="-57.05" y="433.5" kX="0.17" kY="0.17" cX="0.79" cY="0.79" z="0" twE="0" dr="20"/>
+          <f x="-21.6" y="832.4" kX="0" kY="0" cX="0.79" cY="0.79" z="0" dr="1"/>
+          <f dr="154" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="1000像素飘雪(前景大雪)" width="512" height="64">
+    <SubTexture name="NPC_snow_great-xueda" x="0" y="0" width="47" height="45" pX="22.5" pY="21.1"/>
+  </TextureAtlas>
+</skeleton>

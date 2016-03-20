@@ -1,0 +1,238 @@
+<skeleton name="打开物品光效(1)">
+  <armatures>
+    <armature name="Open">
+      <b name="图层 5" bT="0" bi="UIAnimation_Open-liangchagn" x="235.35" y="166.25" kX="139.64" kY="139.64" z="0"/>
+      <b name="图层 8" bT="0" bi="UIAnimation_Open-liangchagn" x="226.1" y="159.15" kX="7.2" kY="6.55" z="1"/>
+      <b name="图层 9" bT="0" bi="UIAnimation_Open-liangchagn" x="221.2" y="166.75" kX="-100.11" kY="-96.24" z="2"/>
+      <b name="图层 10" bT="0" bi="UIAnimation_Open-liangchagn" x="230.25" y="169.4" kX="-157.95" kY="-157.95" z="3"/>
+      <b name="图层 11" bT="0" bi="UIAnimation_Open-liangchagn" x="215.1" y="166.7" kX="-52.95" kY="-52.95" z="4"/>
+      <b name="图层 12" bT="0" bi="UIAnimation_Open-liangchagn" x="231" y="167.8" kX="168.27" kY="168.28" z="5"/>
+      <b name="Layer 1 复制" bT="0" bi="UIAnimation_Open-sprite 18" x="252.3" y="158.25" kX="0" kY="0" z="6"/>
+      <b name="Layer 1  复制 2" bT="0" bi="UIAnimation_Open-sprite 18" x="210.55" y="171.25" kX="0" kY="0" z="7"/>
+      <b name="Layer 1  复制 20" bT="0" bi="UIAnimation_Open-sprite 18" x="228.05" y="162.5" kX="0" kY="0" z="8"/>
+      <b name="Layer 1    复制 4" bT="0" bi="UIAnimation_Open-sprite 18" x="229.05" y="175.75" kX="0" kY="0" z="8"/>
+      <b name="Layer 1   复制 3" bT="0" bi="UIAnimation_Open-sprite 18" x="210.8" y="155.75" kX="0" kY="0" z="10"/>
+      <b name="Layer 1   复制 30" bT="0" bi="UIAnimation_Open-sprite 18" x="249.3" y="151.25" kX="0" kY="0" z="11"/>
+      <b name="Layer 1   复制 31" bT="0" bi="UIAnimation_Open-sprite 18" x="231.05" y="163.5" kX="0" kY="0" z="12"/>
+      <b name="Layer 1    复制 40" bT="0" bi="UIAnimation_Open-sprite 18" x="231.05" y="163.5" kX="0" kY="0" z="13"/>
+      <b name="Layer 1" bT="0" bi="UIAnimation_Open-sprite 18" x="251.05" y="141" kX="0" kY="0" z="14"/>
+      <b name="Layer 1  复制 21" bT="0" bi="UIAnimation_Open-sprite 18" x="219.4" y="145" kX="0" kY="0" z="14"/>
+      <b name="Layer 10" bT="0" bi="UIAnimation_Open-sprite 18" x="245.05" y="127.5" kX="0" kY="0" z="13"/>
+      <b name="Layer 1     复制 5" bT="0" bi="UIAnimation_Open-sprite 18" x="250.6" y="134.2" kX="0" kY="0" z="4"/>
+      <b name="Layer 1      复制 6" bT="0" bi="UIAnimation_Open-sprite 18" x="208.1" y="144.1" kX="0" kY="0" z="4"/>
+      <b name="Layer 1     复制 50" bT="0" bi="UIAnimation_Open-sprite 18" x="229.7" y="125" kX="0" kY="0" z="4"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="Open">
+      <mov name="Open" to="6" dr="43" drTW="43">
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.09" cY="0.66" z="0" img="UIAnimation_Open-liangchagn" twE="0" dr="3"/>
+          <f x="1.25" y="2.7" kX="5.94" kY="5.94" cX="1.05" cY="1" z="0" twE="0" dr="3"/>
+          <f x="1.3" y="3.05" kX="6.94" kY="6.94" cX="1.1" cY="1.05" z="0" twE="0" dr="7"/>
+          <f x="1.35" y="4.15" kX="9.23" kY="9.23" cX="1.21" cY="1.16" z="0" twE="0" dr="6"/>
+          <f x="-3.45" y="-3.75" kX="18.61" kY="18.61" cX="0.88" cY="0.04" z="0" twE="0" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.11" cY="0.59" z="1" img="UIAnimation_Open-liangchagn" twE="0" dr="3"/>
+          <f x="1.25" y="-2.45" kX="7.87" kY="4.47" cX="1.26" cY="0.91" z="1" twE="0" dr="3"/>
+          <f x="1.5" y="-2.65" kX="9.19" kY="5.23" cX="1.31" cY="0.95" z="1" twE="0" dr="7"/>
+          <f x="2.4" y="-3.4" kX="12.18" kY="6.97" cX="1.44" cY="1.06" z="1" twE="0" dr="6"/>
+          <f x="-0.3" y="4.65" kX="24.01" kY="14.23" cX="1.03" cY="0.03" z="1" twE="0" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.11" cY="0.66" z="2" img="UIAnimation_Open-liangchagn" twE="0" dr="3"/>
+          <f x="-3" y="-0.5" kX="7.54" kY="4.66" cX="1.35" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-3.25" y="-0.7" kX="8.81" kY="5.45" cX="1.4" cY="1.05" z="2" twE="0" dr="7"/>
+          <f x="-4.3" y="-1.4" kX="11.74" kY="7.24" cX="1.55" cY="1.16" z="2" twE="0" dr="6"/>
+          <f x="5.05" y="-1.15" kX="23.59" kY="14.63" cX="1.11" cY="0.04" z="2" twE="0" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.09" cY="0.66" z="3" img="UIAnimation_Open-liangchagn" twE="0" dr="3"/>
+          <f x="-1.85" y="2.4" kX="5.93" kY="5.93" cX="1.05" cY="1" z="3" twE="0" dr="3"/>
+          <f x="-2.05" y="2.5" kX="6.93" kY="6.94" cX="1.1" cY="1.05" z="3" twE="0" dr="7"/>
+          <f x="-3.1" y="3.2" kX="9.23" kY="9.23" cX="1.21" cY="1.16" z="3" twE="0" dr="6"/>
+          <f x="1.8" y="-4.8" kX="18.59" kY="18.61" cX="0.88" cY="0.04" z="3" twE="0" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.09" cY="0.66" z="4" img="UIAnimation_Open-liangchagn" twE="0" dr="3"/>
+          <f x="-1.8" y="-2.4" kX="5.94" kY="5.93" cX="1.05" cY="1" z="4" twE="0" dr="3"/>
+          <f x="-1.85" y="-2.65" kX="6.94" kY="6.94" cX="1.1" cY="1.05" z="4" twE="0" dr="7"/>
+          <f x="-2.25" y="-3.8" kX="9.23" kY="9.23" cX="1.21" cY="1.16" z="4" twE="0" dr="6"/>
+          <f x="4.2" y="3" kX="18.57" kY="18.61" cX="0.88" cY="0.04" z="4" twE="0" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.08" cY="0.59" z="5" img="UIAnimation_Open-liangchagn" twE="0" dr="3"/>
+          <f x="-0.25" y="2.65" kX="5.93" kY="5.92" cX="0.95" cY="0.9" z="5" twE="0" dr="3"/>
+          <f x="-0.35" y="2.9" kX="6.93" kY="6.92" cX="0.99" cY="0.94" z="5" twE="0" dr="7"/>
+          <f x="-0.75" y="3.85" kX="9.22" kY="9.21" cX="1.09" cY="1.05" z="5" twE="0" dr="6"/>
+          <f x="-1.1" y="-4.55" kX="-341.43" kY="-341.41" cX="0.79" cY="0.03" z="5" twE="0" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="Layer 1 复制" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.27" z="6" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="13" kX="0" kY="0" cX="0.3" cY="0.3" z="6" twE="0" dr="1"/>
+          <f x="0" y="13" kX="0" kY="0" cX="0.34" cY="0.34" z="6" twE="0" dr="3"/>
+          <f x="0" y="13" kX="0" kY="0" cX="1.21" cY="1.21" z="6" twE="0" dr="1"/>
+          <f x="0" y="13" kX="0" kY="0" cX="1.12" cY="1.12" z="6" twE="0" dr="4"/>
+          <f x="0" y="13" kX="0" kY="0" cX="0.15" cY="0.15" z="6" dr="1"/>
+          <f dr="29" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 2" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.27" z="7" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.3" cY="0.3" z="7" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.34" cY="0.34" z="7" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.21" cY="1.21" z="7" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.12" cY="1.12" z="7" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="6" dr="1"/>
+          <f dr="28" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 20" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.26" cY="0.26" z="8" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.3" cY="0.3" z="8" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.33" cY="0.33" z="8" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.19" cY="1.19" z="8" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="7" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.14" cY="0.14" z="6" dr="1"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="Layer 1    复制 4" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="8" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="9" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="9" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.41" cY="1.41" z="9" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="1.31" z="6" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.21" cY="0.21" z="6" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="-16.45" y="-46.55" kX="0" kY="0" cX="0.16" cY="0.16" z="4" twE="0" dr="1"/>
+          <f x="-16.45" y="-46.55" kX="0" kY="0" cX="0.18" cY="0.18" z="4" twE="0" dr="1"/>
+          <f x="-16.45" y="-46.55" kX="0" kY="0" cX="0.2" cY="0.2" z="2" twE="0" dr="3"/>
+          <f x="-16.45" y="-46.55" kX="0" kY="0" cX="0.57" cY="0.57" z="2" twE="0" dr="1"/>
+          <f x="-16.45" y="-46.55" kX="0" kY="0" cX="0.57" cY="0.57" z="1" twE="0" dr="4"/>
+          <f x="-16.45" y="-46.55" kX="0" kY="0" cX="0.09" cY="0.09" z="0" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="Layer 1   复制 3" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.25" cY="0.25" z="10" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.3" cY="0.3" z="10" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.31" cY="0.31" z="10" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="10" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="1.04" z="7" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.14" cY="0.14" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="24" y="-15.35" kX="0" kY="0" cX="0.22" cY="0.22" z="5" twE="0" dr="1"/>
+          <f x="24" y="-15.35" kX="0" kY="0" cX="0.25" cY="0.25" z="4" twE="0" dr="1"/>
+          <f x="24" y="-15.35" kX="0" kY="0" cX="0.28" cY="0.28" z="2" twE="0" dr="4"/>
+          <f x="24" y="-15.35" kX="0" kY="0" cX="0.8" cY="0.8" z="2" twE="0" dr="1"/>
+          <f x="24" y="-15.35" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="5"/>
+          <f x="24" y="-15.35" kX="0" kY="0" cX="0.12" cY="0.12" z="0" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="Layer 1   复制 30" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.27" z="11" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.3" cY="0.3" z="11" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.34" cY="0.34" z="11" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.21" cY="1.21" z="11" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.12" cY="1.12" z="8" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.34" cY="0.34" z="7" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="6" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="Layer 1   复制 31" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="12" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.25" cY="0.25" z="12" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.28" cY="0.28" z="12" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.93" cY="0.93" z="7" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="0" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="Layer 1    复制 40" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="13" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.25" cY="0.25" z="13" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.28" cY="0.28" z="11" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.93" cY="0.93" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="0" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="Layer 1" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="14" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.25" cY="0.25" z="14" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.28" cY="0.28" z="11" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.93" cY="0.93" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="0" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 21" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="14" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.25" cY="0.25" z="13" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.28" cY="0.28" z="10" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.93" cY="0.93" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="0" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="Layer 10" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="13" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.25" cY="0.25" z="12" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.28" cY="0.28" z="3" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="2" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="0" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="Layer 1     复制 5" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="4" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.18" cY="0.18" z="4" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="2" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="2" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.09" cY="0.09" z="0" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer 1      复制 6" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="4" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.18" cY="0.18" z="4" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="2" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.09" cY="0.09" z="0" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="Layer 1     复制 50" sc="1" dl="0">
+          <f dr="31" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="4" img="UIAnimation_Open-sprite 18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.18" cY="0.18" z="4" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="2" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.58" cY="0.58" z="2" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.58" cY="0.58" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.08" cY="0.08" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="打开物品光效(1)" width="512" height="128">
+    <SubTexture name="UIAnimation_Open-liangchagn" x="71" y="0" width="102" height="26" pX="0" pY="3.8"/>
+    <SubTexture name="UIAnimation_Open-sprite 18" x="0" y="0" width="70" height="70" pX="34.15" pY="34.15"/>
+  </TextureAtlas>
+</skeleton>

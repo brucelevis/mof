@@ -1,0 +1,133 @@
+<skeleton name="BOSS光效(3)">
+  <armatures>
+    <armature name="kulouboss_attack_02">
+      <b name="图层 3" bT="0" bi="jianshigx0-gq03" x="-36.9" y="265.65" kX="0" kY="0" z="0"/>
+      <b name="图层 30" bT="0" bi="jianshigx0-gq03" x="-36.9" y="265.65" kX="0" kY="180" z="1"/>
+      <b name="gxs2" bT="0" bi="bossgx-gxs3" x="234.45" y="120.65" kX="-112.38" kY="-112.38" z="0"/>
+      <b name="gxs3" bT="0" bi="bossgx-gxs3" x="226" y="116" kX="-5.73" kY="-5.74" z="1"/>
+      <b name="gxs30" bT="0" bi="bossgx-gxs3" x="231.05" y="108.7" kX="86.15" kY="86.14" z="2"/>
+      <b name="gxs31" bT="0" bi="bossgx-gxs3" x="230.15" y="114.65" kX="15.03" kY="15.13" z="3"/>
+      <b name="图层 5" bT="0" bi="bossgx-gxs3" x="236.2" y="114.5" kX="-9.41" kY="170.57" z="4"/>
+      <b name="gl-yj-10" bT="0" bi="bossgx-gx03 b" x="-349.85" y="-104" kX="0" kY="0" z="0"/>
+      <b name="gl-yj-100" bT="0" bi="bossgx-gx03 b" x="-120.3" y="-95.75" kX="0" kY="0" z="1"/>
+      <b name="gl-yj-101" bT="0" bi="bossgx-gx01c" x="144.75" y="14.8" kX="0" kY="0" z="2"/>
+      <b name="gl-yj-1000" bT="0" bi="bossgx-gx03 b" x="-247.8" y="-37.2" kX="0" kY="0" z="3"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="kulouboss_attack_02">
+      <mov name="kulouboss_attack_02" to="1" dr="96" drTW="96" lp="0">
+        <b name="gl-yj-10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="0" img="bossgx-gx03 b" dr="73"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="0" img="bossgx-gx03 b1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="0" img="bossgx-gx03 b2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="0" img="bossgx-gx03 b3" twE="0" dr="5"/>
+          <f x="75.05" y="298" kX="0" kY="0" cX="0.48" cY="0.48" z="0" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="gl-yj-100" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="1" img="bossgx-gx03 b" dr="51"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="1" dr="3"/>
+          <f x="-0.65" y="-1.2" kX="0" kY="0" cX="2.4" cY="2.4" z="3" img="bossgx-gx02" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="3" img="bossgx-gx03" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="3" img="bossgx-gx03 b1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="1" img="bossgx-gx03 b2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="1" img="bossgx-gx03 b3" twE="0" dr="5"/>
+          <f x="74.5" y="300.5" kX="0" kY="0" cX="0.48" cY="0.48" z="1" dr="1"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="54" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshigx0-gq03" twE="0" dr="2"/>
+          <f x="2.9" y="-0.35" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshigx0-gq04" twE="0" dr="2"/>
+          <f x="1.8" y="0.9" kX="0" kY="0" cX="3" cY="3" z="0" img="jianshigx0-gq05" dr="3"/>
+          <f x="1.8" y="0.85" kX="0" kY="0" cX="4" cY="4" z="0" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="图层 30" sc="1" dl="0">
+          <f dr="54" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshigx0-gq03" twE="0" dr="2"/>
+          <f x="2.9" y="-0.35" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshigx0-gq04" twE="0" dr="2"/>
+          <f x="1.8" y="0.9" kX="0" kY="0" cX="3" cY="3" z="1" img="jianshigx0-gq05" dr="3"/>
+          <f x="1.8" y="0.85" kX="0" kY="0" cX="4" cY="4" z="1" dr="1"/>
+          <f dr="34" hide="1"/>
+        </b>
+        <b name="gxs2" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.14" cY="0.08" z="0" img="bossgx-gxs3" twE="0" dr="3"/>
+          <f x="21.9" y="42.75" kX="0.01" kY="0.01" cX="1.19" cY="0.68" z="0" twE="0" dr="3"/>
+          <f x="72.85" y="53.5" kX="-21.99" kY="-21.99" cX="1.9" cY="2" z="0" img="bossgx-gxs2" twE="0" dr="2"/>
+          <f x="64.7" y="25.55" kX="-38.23" kY="-38.23" cX="0.71" cY="0.71" z="0" dr="1"/>
+          <f x="64.7" y="25.55" kX="-38.23" kY="-38.23" cX="0.71" cY="0.71" z="0" dr="1"/>
+          <f dr="79" hide="1"/>
+        </b>
+        <b name="gxs3" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.05" z="1" img="bossgx-gxs3" twE="0" dr="3"/>
+          <f x="-41.25" y="8.15" kX="-0.01" kY="0" cX="1.12" cY="0.45" z="1" twE="0" dr="3"/>
+          <f x="-50.9" y="96.2" kX="-48.66" kY="-48.65" cX="1.88" cY="2" z="1" twE="0" dr="2"/>
+          <f x="-52.15" y="79.9" kX="-48.66" kY="-48.65" cX="0.59" cY="0.59" z="1" dr="1"/>
+          <f x="-52.15" y="79.9" kX="-48.66" kY="-48.65" cX="0.59" cY="0.59" z="1" dr="1"/>
+          <f dr="79" hide="1"/>
+        </b>
+        <b name="gxs30" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.05" z="2" img="bossgx-gxs3" twE="0" dr="3"/>
+          <f x="-3.3" y="-46.5" kX="0" kY="0.01" cX="1.01" cY="0.42" z="2" twE="0" dr="3"/>
+          <f x="-85.55" y="-32.05" kX="-59.3" kY="-59.29" cX="1.6" cY="0.78" z="2" twE="0" dr="2"/>
+          <f x="-111.55" y="-51.35" kX="-59.3" kY="-59.29" cX="0.36" cY="0.18" z="2" dr="1"/>
+          <f x="-111.55" y="-51.35" kX="-59.3" kY="-59.29" cX="0.36" cY="0.18" z="2" dr="1"/>
+          <f dr="79" hide="1"/>
+        </b>
+        <b name="gxs31" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.02" cY="0.01" z="3" img="bossgx-gxs3" twE="0" dr="3"/>
+          <f x="-10.1" y="-2" kX="0.07" kY="-0.02" cX="0.31" cY="0.1" z="3" twE="0" dr="3"/>
+          <f x="-71.9" y="2.05" kX="-14.63" kY="-14.74" cX="1.31" cY="0.42" z="3" twE="0" dr="2"/>
+          <f x="-109.3" y="56.9" kX="-35.63" kY="-35.73" cX="0.32" cY="0.25" z="3" dr="1"/>
+          <f x="-109.3" y="56.9" kX="-35.63" kY="-35.73" cX="0.32" cY="0.25" z="3" dr="1"/>
+          <f dr="79" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.1" cY="0.05" z="4" img="bossgx-gxs3" twE="0" dr="3"/>
+          <f x="34.85" y="-3.25" kX="-0.02" kY="0.01" cX="0.83" cY="0.42" z="4" twE="0" dr="3"/>
+          <f x="40.25" y="-41.55" kX="-38.66" kY="-38.64" cX="1.31" cY="0.42" z="4" twE="0" dr="2"/>
+          <f x="-83.15" y="-77.3" kX="-126.92" kY="-126.9" cX="1.31" cY="0.42" z="4" dr="1"/>
+          <f x="-83.15" y="-77.3" kX="-126.92" kY="-126.9" cX="1.31" cY="0.42" z="4" dr="1"/>
+          <f dr="79" hide="1"/>
+        </b>
+        <b name="gl-yj-101" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="bossgx-gx01c" dr="52"/>
+          <f x="-78.6" y="-77.95" kX="0" kY="0" cX="2.4" cY="2.4" z="2" dr="1"/>
+          <f x="-228.5" y="67.3" kX="-44.43" kY="-44.43" cX="2.4" cY="2.4" z="2" img="bossgx-gx01" dr="1"/>
+          <f x="-78.6" y="-77.95" kX="0" kY="0" cX="2.4" cY="2.4" z="0" img="bossgx-gx01c" dr="41"/>
+          <f x="-78.6" y="-77.95" kX="0" kY="0" cX="2.4" cY="2.4" z="0" dr="1"/>
+        </b>
+        <b name="gl-yj-1000" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="3" img="bossgx-gx03 b" dr="64"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="3" img="bossgx-gx03 b1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="3" img="bossgx-gx03 b2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="2" img="bossgx-gx03 b3" twE="0" dr="5"/>
+          <f x="76" y="299.95" kX="0" kY="0" cX="0.48" cY="0.48" z="2" dr="1"/>
+          <f dr="21" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="BOSS光效(3)" width="512" height="512">
+    <SubTexture name="bossgx-gx03 b" x="433" y="0" width="39" height="2" pX="-64.6" pY="-112.45"/>
+    <SubTexture name="bossgx-gx03 b1" x="0" y="192" width="101" height="92" pX="10.45" pY="-73.4"/>
+    <SubTexture name="bossgx-gx03 b2" x="355" y="159" width="99" height="107" pX="6.8" pY="-55.65"/>
+    <SubTexture name="bossgx-gx03 b3" x="355" y="0" width="77" height="158" pX="0.65" pY="-5.15"/>
+    <SubTexture name="bossgx-gx02" x="0" y="0" width="194" height="191" pX="2.45" pY="5.65"/>
+    <SubTexture name="bossgx-gx03" x="195" y="0" width="159" height="171" pX="-0.35" pY="0.1"/>
+    <SubTexture name="jianshigx0-gq03" x="190" y="251" width="79" height="43" pX="77.85" pY="20.75"/>
+    <SubTexture name="jianshigx0-gq04" x="102" y="237" width="87" height="43" pX="85.75" pY="20.7"/>
+    <SubTexture name="jianshigx0-gq05" x="102" y="192" width="89" height="44" pX="87.7" pY="21.4"/>
+    <SubTexture name="bossgx-gxs3" x="270" y="267" width="97" height="13" pX="47.95" pY="5.1"/>
+    <SubTexture name="bossgx-gxs2" x="368" y="267" width="86" height="14" pX="42.4" pY="6.5"/>
+    <SubTexture name="bossgx-gx01c" x="473" y="0" width="7" height="2" pX="-53.45" pY="-55.55"/>
+    <SubTexture name="bossgx-gx01" x="195" y="172" width="122" height="78" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

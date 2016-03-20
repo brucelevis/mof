@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="地表" tilewidth="64" tileheight="64">
+  <image source="502101_1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="65" name="植物矮墙" tilewidth="64" tileheight="64">
+  <image source="502101_2.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="129" name="柱" tilewidth="64" tileheight="64">
+  <image source="502101_3.png" width="512" height="512"/>
+ </tileset>
+ <layer name="块层 1" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKBAcxAzDJKDxgNAARPAVE=
+  </data>
+ </layer>
+ <layer name="块层 16" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDBRgBGKmAaRHwcgGAHJAADE=
+  </data>
+ </layer>
+ <layer name="块层 2" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DkAkcgdhpAehSMgoEEAJuKCDE=
+  </data>
+ </layer>
+ <layer name="块层 3" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDBTgBGKuAaQFgVhoAGlJIJYaQHqkAwCPVgaR
+  </data>
+ </layer>
+ <layer name="块层 4" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDCTgBmIeIOalgT5izRYBYlES7SdWH7lmjwLaAwDVPwDo
+  </data>
+ </layer>
+ <layer name="块层 5 " width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjGQgTAW1pJiBDqSBWIZCtaSYMQoQAABKZwDf
+  </data>
+ </layer>
+ <layer name="块层 6" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDEagCMRKJIhTai66nDIQq2BRg0ucWIBPP6VmjwLSAAAglAIp
+  </data>
+ </layer>
+ <layer name="块层 7" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DkAnYg5hhAmh+IBQaQFgdiiQGkR8HAAgAl9AXR
+  </data>
+ </layer>
+ <layer name="块层 6" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DggPMAY+8Bxl4DjEfByAYAEFYbAQ==
+  </data>
+ </layer>
+ <layer name="复制 块层 6" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjFTANsCYb4Cx2ADjgQYAoMsFQQ==
+  </data>
+ </layer>
+ <layer name="Foreground1" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKRCQKBOAiIg4E4BIhDgTiMjuKRQBwFxNFAHAPEsUAcR0dxAN1mFdk=
+  </data>
+ </layer>
+ <layer name="Foreground2" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKRCVyB2A2I3YHYYwDM8AViPyD2B+IAMu2nxAwAuY4EqQ==
+  </data>
+ </layer>
+ <layer name="Foreground3" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRgAukAHEqEKcBcfoAmJMDxLlAnAfE+RTYj80cAOV+Bpk=
+  </data>
+ </layer>
+ <layer name="Foreground4" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKRCYoYGBoKgZiedhZC7GUoBuIqoN2VSPYjy5WQaT5QXwNQfwMuv1VC7GWoBmIA3cQMLw==
+  </data>
+ </layer>
+ <layer name="Foreground5" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRUArEZUBcPkD21wJxHRDXU9FMoF8agH5qAPqtAZs8AEOOBb8=
+  </data>
+ </layer>
+ <layer name="Foreground6" width="32" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKRCRIZGBoIyDMkAXEyEp9K9oLNzSRgP1CeIQuIs6lkL7q5AIFdBiY=
+  </data>
+ </layer>
+ <objectgroup name="portal" width="32" height="12">
+  <object name="2202" x="1920" y="512"/>
+  <object name="2203" x="1920" y="670"/>
+  <object name="2201" x="64" y="512"/>
+ </objectgroup>
+ <objectgroup name="area" width="32" height="12">
+  <object x="32" y="448" width="1984" height="288"/>
+ </objectgroup>
+ <objectgroup name="npc" width="32" height="12">
+  <object name="1004" x="448" y="448"/>
+  <object name="1005" x="960" y="448"/>
+  <object name="1006" x="1536" y="448"/>
+ </objectgroup>
+ <objectgroup name="bg" width="32" height="12">
+  <object name="502101_bg" x="0" y="-160" width="1408" height="704"/>
+ </objectgroup>
+</map>

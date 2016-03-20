@@ -1,0 +1,582 @@
+<skeleton name="扭蛋界面特效资源55">
+  <armatures>
+    <armature name="niudankuang">
+      <b name="图层 14" bT="0" bi="FunnyToy_petShow-shuidizhu" x="-220.75" y="30.4" kX="0" kY="0" z="0"/>
+      <b name="图层 13" bT="0" bi="FunnyToy_petShow-shuidizhu" x="-168.85" y="39.1" kX="0" kY="0" z="1"/>
+      <b name="图层 12" bT="0" bi="FunnyToy_petShow-shuidizhu" x="-209.3" y="25.2" kX="0" kY="0" z="2"/>
+      <b name="图层 11" bT="0" bi="FunnyToy_petShow-shuidizhu" x="-185.3" y="46" kX="0" kY="0" z="3"/>
+      <b name="Layer 1           复制 460441391" bT="0" bi="FunnyToy_petShow-888" x="-190.35" y="53.85" kX="-89.73" kY="-89.81" z="2"/>
+      <b name="图层 19         复制 9" bT="0" bi="FunnyToy_petShow-888ex" x="-187.25" y="0.85" kX="22.78" kY="-157.32" z="4"/>
+      <b name="图层 20         复制 9" bT="0" bi="FunnyToy_petShow-888ex" x="-204.75" y="17.35" kX="7.78" kY="-172.31" z="1"/>
+      <b name="图层 3         复制 9" bT="0" bi="FunnyToy_petShow-888zizi" x="-209.75" y="16.45" kX="-144.95" kY="34.95" z="6"/>
+      <b name="图层 21         复制 9" bT="0" bi="FunnyToy_petShow-888zizi" x="-165.8" y="-13.8" kX="98.92" kY="95.45" z="3"/>
+      <b name="图层 22         复制 9" bT="0" bi="FunnyToy_petShow-888zizi" x="-201.8" y="19.65" kX="-45.18" kY="134.72" z="7"/>
+      <b name="图层 22         复制 90" bT="0" bi="FunnyToy_petShow-888zizi" x="-211.7" y="12.55" kX="-45.14" kY="134.65" z="7"/>
+      <b name="Layer 1           复制 4604413910" bT="0" bi="FunnyToy_petShow-888" x="-196.25" y="34.35" kX="-89.93" kY="-89.83" z="4"/>
+      <b name="图层 14  复制 2" bT="0" bi="FunnyToy_petShow-shuidizhu" x="202.25" y="30.4" kX="0" kY="0" z="5"/>
+      <b name="图层 13  复制 2" bT="0" bi="FunnyToy_petShow-shuidizhu" x="254.15" y="39.1" kX="0" kY="0" z="9"/>
+      <b name="图层 12  复制 2" bT="0" bi="FunnyToy_petShow-shuidizhu" x="213.7" y="25.2" kX="0" kY="0" z="11"/>
+      <b name="图层 11  复制 2" bT="0" bi="FunnyToy_petShow-shuidizhu" x="237.7" y="46" kX="0" kY="0" z="11"/>
+      <b name="Layer 1            复制 460441392" bT="0" bi="FunnyToy_petShow-888" x="232.65" y="53.85" kX="-89.73" kY="-89.81" z="10"/>
+      <b name="图层 19          复制 10" bT="0" bi="FunnyToy_petShow-888ex" x="235.75" y="0.85" kX="22.78" kY="-157.32" z="12"/>
+      <b name="图层 20          复制 10" bT="0" bi="FunnyToy_petShow-888ex" x="218.25" y="17.35" kX="7.78" kY="-172.31" z="5"/>
+      <b name="图层 3          复制 10" bT="0" bi="FunnyToy_petShow-888zizi" x="213.25" y="16.45" kX="-144.95" kY="34.95" z="15"/>
+      <b name="图层 21          复制 10" bT="0" bi="FunnyToy_petShow-888zizi" x="257.2" y="-13.8" kX="98.92" kY="95.45" z="9"/>
+      <b name="图层 22          复制 91" bT="0" bi="FunnyToy_petShow-888zizi" x="221.2" y="19.65" kX="-45.18" kY="134.72" z="15"/>
+      <b name="图层 22          复制 910" bT="0" bi="FunnyToy_petShow-888zizi" x="211.3" y="12.55" kX="-45.14" kY="134.65" z="15"/>
+      <b name="Layer 1            复制 4604413920" bT="0" bi="FunnyToy_petShow-888" x="226.75" y="34.35" kX="-89.93" kY="-89.83" z="9"/>
+      <b name="图层 14 复制" bT="0" bi="FunnyToy_petShow-shuidizhu" x="-83.85" y="30.4" kX="0" kY="180" z="10"/>
+      <b name="图层 13 复制" bT="0" bi="FunnyToy_petShow-shuidizhu" x="-135.75" y="39.1" kX="0" kY="180" z="17"/>
+      <b name="图层 12 复制" bT="0" bi="FunnyToy_petShow-shuidizhu" x="-95.3" y="25.2" kX="0" kY="180" z="20"/>
+      <b name="图层 11 复制" bT="0" bi="FunnyToy_petShow-shuidizhu" x="19.7" y="44" kX="0" kY="180" z="19"/>
+      <b name="Layer 1            复制 4604413921" bT="0" bi="FunnyToy_petShow-888" x="24.75" y="51.85" kX="89.73" kY="-90.19" z="18"/>
+      <b name="图层 19          复制 100" bT="0" bi="FunnyToy_petShow-888ex" x="22.65" y="2.85" kX="-22.78" kY="-22.68" z="20"/>
+      <b name="图层 20          复制 100" bT="0" bi="FunnyToy_petShow-888ex" x="40.15" y="19.35" kX="-7.78" kY="-7.69" z="9"/>
+      <b name="图层 3          复制 100" bT="0" bi="FunnyToy_petShow-888zizi" x="-48.85" y="31.5" kX="144.95" kY="145.05" z="24"/>
+      <b name="图层 21          复制 100" bT="0" bi="FunnyToy_petShow-888zizi" x="-92.8" y="1.25" kX="-98.92" kY="84.55" z="15"/>
+      <b name="图层 22          复制 911" bT="0" bi="FunnyToy_petShow-888zizi" x="-102.8" y="19.65" kX="45.18" kY="45.28" z="23"/>
+      <b name="图层 22          复制 912" bT="0" bi="FunnyToy_petShow-888zizi" x="-22.9" y="12.55" kX="45.14" kY="45.35" z="23"/>
+      <b name="图层 22          复制 913" bT="0" bi="FunnyToy_petShow-888zizi" x="-23.35" y="16.25" kX="45.18" kY="45.28" z="10"/>
+      <b name="Layer 1            复制 4604413922" bT="0" bi="FunnyToy_petShow-888" x="-38.35" y="34.35" kX="89.93" kY="-90.17" z="14"/>
+      <b name="Layer 1            复制 4604413923" bT="0" bi="FunnyToy_petShow-888" x="-34.05" y="57.45" kX="89.73" kY="-90.19" z="17"/>
+      <b name="图层 14  复制 20" bT="0" bi="FunnyToy_petShow-shuidizhu" x="45.15" y="30.4" kX="0" kY="180" z="15"/>
+      <b name="图层 13  复制 20" bT="0" bi="FunnyToy_petShow-shuidizhu" x="-6.75" y="39.1" kX="0" kY="180" z="25"/>
+      <b name="图层 12  复制 20" bT="0" bi="FunnyToy_petShow-shuidizhu" x="33.7" y="25.2" kX="0" kY="180" z="29"/>
+      <b name="图层 11  复制 20" bT="0" bi="FunnyToy_petShow-shuidizhu" x="148.7" y="44" kX="0" kY="180" z="27"/>
+      <b name="Layer 1             复制 460441393" bT="0" bi="FunnyToy_petShow-888" x="153.75" y="51.85" kX="89.73" kY="-90.19" z="26"/>
+      <b name="图层 19           复制 11" bT="0" bi="FunnyToy_petShow-888ex" x="151.65" y="2.85" kX="-22.78" kY="-22.68" z="28"/>
+      <b name="图层 20           复制 11" bT="0" bi="FunnyToy_petShow-888ex" x="169.15" y="19.35" kX="-7.78" kY="-7.69" z="13"/>
+      <b name="图层 3           复制 11" bT="0" bi="FunnyToy_petShow-888zizi" x="80.15" y="31.5" kX="144.95" kY="145.05" z="33"/>
+      <b name="图层 21           复制 11" bT="0" bi="FunnyToy_petShow-888zizi" x="36.2" y="1.25" kX="-98.92" kY="84.55" z="21"/>
+      <b name="图层 22           复制 92" bT="0" bi="FunnyToy_petShow-888zizi" x="26.2" y="19.65" kX="45.18" kY="45.28" z="31"/>
+      <b name="图层 22           复制 920" bT="0" bi="FunnyToy_petShow-888zizi" x="106.1" y="12.55" kX="45.14" kY="45.35" z="31"/>
+      <b name="Layer 1             复制 4604413930" bT="0" bi="FunnyToy_petShow-888" x="90.65" y="34.35" kX="89.93" kY="-90.17" z="19"/>
+    </armature>
+    <armature name="niudanchoujiang">
+      <b name="图层 5" bT="0" bi="FunnyToy_petShow-NDB1" x="-0.05" y="290.75" kX="180" kY="180" z="0"/>
+      <b name="图层 3" bT="0" bi="FunnyToy_petShow-NDB1" x="-0.05" y="-289.1" kX="0" kY="0" z="1"/>
+      <b name="Layer 1            复制 460441392" bT="0" bi="FunnyToy_petShow-888" x="112.2" y="-116.45" kX="-90.27" kY="89.81" z="2"/>
+      <b name="Layer 1            复制 4604413920" bT="0" bi="FunnyToy_petShow-888" x="-143.9" y="3.55" kX="-90.27" kY="89.81" z="3"/>
+      <b name="Layer 1            复制 4604413921" bT="0" bi="FunnyToy_petShow-888" x="49.15" y="111.6" kX="-90.27" kY="89.81" z="4"/>
+      <b name="Layer 1            复制 4604413922" bT="0" bi="FunnyToy_petShow-888" x="0.25" y="-169.2" kX="-90.27" kY="89.81" z="3"/>
+      <b name="Layer 1            复制 4604413923" bT="0" bi="FunnyToy_petShow-888" x="22.15" y="30.55" kX="-90.27" kY="89.81" z="2"/>
+      <b name="Layer 1            复制 4604413924" bT="0" bi="FunnyToy_petShow-888" x="-121.9" y="17.55" kX="-90.27" kY="89.81" z="2"/>
+      <b name="Layer 1            复制 4604413925" bT="0" bi="FunnyToy_petShow-888" x="-121.9" y="-96.45" kX="-90.27" kY="89.81" z="4"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="niudankuang">
+      <mov name="niudankuang" to="1" dr="34" drTW="34" lp="1">
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="0" img="FunnyToy_petShow-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="0" twE="0" dr="9"/>
+          <f x="0" y="-29.85" kX="0" kY="0" cX="1.2" cY="1.2" z="0" twE="0" dr="7"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="0" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="1" img="FunnyToy_petShow-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="1" twE="0" dr="9"/>
+          <f x="0" y="-29.85" kX="0" kY="0" cX="1.2" cY="1.2" z="0" twE="0" dr="7"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="0" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="2" img="FunnyToy_petShow-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="1" twE="0" dr="9"/>
+          <f x="0" y="-29.9" kX="0" kY="0" cX="1.2" cY="1.2" z="0" twE="0" dr="8"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="3" img="FunnyToy_petShow-shuidizhu" twE="0" dr="5"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="3" twE="0" dr="8"/>
+          <f x="0" y="-29.85" kX="0" kY="0" cX="1.2" cY="1.2" z="1" twE="0" dr="8"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="1" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 460441391" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.16" cY="2.6" z="2" img="FunnyToy_petShow-888" twE="0" dr="2"/>
+          <f x="5.1" y="-13.1" kX="-0.2" kY="-0.02" cX="2" cY="1.65" z="3" twE="0" dr="2"/>
+          <f x="-1.45" y="-11.5" kX="0" kY="-0.01" cX="3.38" cY="2.78" z="3" twE="0" dr="2"/>
+          <f x="4.3" y="-23.1" kX="-0.2" kY="-0.02" cX="2.05" cY="1.68" z="4" twE="0" dr="2"/>
+          <f x="1.7" y="-22.2" kX="-0.23" kY="-0.02" cX="2.61" cY="2.15" z="4" twE="0" dr="4"/>
+          <f x="11.9" y="-38.3" kX="-0.02" kY="-0.01" cX="0.27" cY="0.22" z="4" dr="1"/>
+          <f dr="9" hide="1"/>
+          <f x="-10.2" y="3.6" kX="0" kY="0" cX="3.16" cY="2.6" z="5" twE="0" dr="3"/>
+          <f x="-5.1" y="-9.5" kX="-0.2" kY="-0.02" cX="2" cY="1.65" z="3" twE="0" dr="3"/>
+          <f x="-11.65" y="-7.9" kX="0" kY="-0.01" cX="3.38" cY="2.78" z="3" twE="0" dr="1"/>
+          <f x="-8.7" y="-13.7" kX="-0.23" kY="-0.14" cX="2.71" cY="2.23" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 19         复制 9" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.03" cY="3.73" z="4" img="FunnyToy_petShow-888ex" twE="0" dr="17"/>
+          <f x="-23.25" y="-21" kX="0" kY="0.01" cX="0.26" cY="0.33" z="4" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 20         复制 9" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.03" cY="3.73" z="1" img="FunnyToy_petShow-888ex" twE="0" dr="15"/>
+          <f x="-26.9" y="-10.8" kX="0" kY="0" cX="0.26" cY="0.33" z="1" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 3         复制 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="2.39" z="6" img="FunnyToy_petShow-888zizi" twE="0" dr="15"/>
+          <f x="9.2" y="-30.25" kX="0" kY="0" cX="0.25" cY="0.31" z="6" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 21         复制 9" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.93" cY="1.86" z="3" img="FunnyToy_petShow-888zizi" twE="0" dr="15"/>
+          <f x="-11.3" y="-11.3" kX="0" kY="0" cX="0.25" cY="0.24" z="3" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 22         复制 9" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1.86" z="7" img="FunnyToy_petShow-888zizi" twE="0" dr="8"/>
+          <f x="-0.5" y="-3.35" kX="0.04" kY="-0.07" cX="0.93" cY="1.14" z="7" twE="0" dr="1"/>
+          <f x="-0.5" y="-3.7" kX="0.04" kY="-0.07" cX="0.85" cY="1.05" z="5" twE="0" dr="9"/>
+          <f x="-0.65" y="-7.6" kX="0" kY="0.01" cX="0.2" cY="0.24" z="5" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="-9.45" y="-3.4" kX="0" kY="0" cX="1.51" cY="1.86" z="2" twE="0" dr="8"/>
+          <f x="-9.9" y="-6.75" kX="0.04" kY="-0.07" cX="0.93" cY="1.14" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22         复制 90" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.85" cY="1.05" z="7" img="FunnyToy_petShow-888zizi" twE="0" dr="9"/>
+          <f x="-0.2" y="-3.9" kX="-0.04" kY="0.08" cX="0.2" cY="0.24" z="7" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="Layer 1           复制 4604413910" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.05" cY="1.68" z="4" img="FunnyToy_petShow-888" twE="0" dr="3"/>
+          <f x="-2.6" y="0.9" kX="-0.03" kY="0" cX="2.61" cY="2.15" z="7" twE="0" dr="4"/>
+          <f x="7.6" y="-15.2" kX="0.18" kY="0.01" cX="0.27" cY="0.22" z="8" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="图层 14  复制 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="5" img="FunnyToy_petShow-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="8" twE="0" dr="9"/>
+          <f x="0" y="-29.85" kX="0" kY="0" cX="1.2" cY="1.2" z="8" twE="0" dr="7"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="7" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 13  复制 2" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="9" img="FunnyToy_petShow-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="9" twE="0" dr="9"/>
+          <f x="0" y="-29.85" kX="0" kY="0" cX="1.2" cY="1.2" z="5" twE="0" dr="7"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="6" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 12  复制 2" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="11" img="FunnyToy_petShow-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="6" twE="0" dr="9"/>
+          <f x="0" y="-29.9" kX="0" kY="0" cX="1.2" cY="1.2" z="4" twE="0" dr="8"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="4" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 11  复制 2" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="11" img="FunnyToy_petShow-shuidizhu" twE="0" dr="5"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="11" twE="0" dr="8"/>
+          <f x="0" y="-29.85" kX="0" kY="0" cX="1.2" cY="1.2" z="7" twE="0" dr="8"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="7" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer 1            复制 460441392" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.16" cY="2.6" z="10" img="FunnyToy_petShow-888" twE="0" dr="2"/>
+          <f x="5.1" y="-13.1" kX="-0.2" kY="-0.02" cX="2" cY="1.65" z="12" twE="0" dr="2"/>
+          <f x="-1.45" y="-11.5" kX="0" kY="-0.01" cX="3.38" cY="2.78" z="11" twE="0" dr="2"/>
+          <f x="4.3" y="-23.1" kX="-0.2" kY="-0.02" cX="2.05" cY="1.68" z="12" twE="0" dr="2"/>
+          <f x="1.7" y="-22.2" kX="-0.23" kY="-0.02" cX="2.61" cY="2.15" z="13" twE="0" dr="4"/>
+          <f x="11.9" y="-38.3" kX="-0.02" kY="-0.01" cX="0.27" cY="0.22" z="12" dr="1"/>
+          <f dr="9" hide="1"/>
+          <f x="-10.2" y="3.6" kX="0" kY="0" cX="3.16" cY="2.6" z="11" twE="0" dr="3"/>
+          <f x="-5.1" y="-9.5" kX="-0.2" kY="-0.02" cX="2" cY="1.65" z="7" twE="0" dr="3"/>
+          <f x="-11.65" y="-7.9" kX="0" kY="-0.01" cX="3.38" cY="2.78" z="7" twE="0" dr="1"/>
+          <f x="-8.7" y="-13.7" kX="-0.23" kY="-0.14" cX="2.71" cY="2.23" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="图层 19          复制 10" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.03" cY="3.73" z="12" img="FunnyToy_petShow-888ex" twE="0" dr="17"/>
+          <f x="-23.25" y="-21" kX="0" kY="0.01" cX="0.26" cY="0.33" z="12" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 20          复制 10" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.03" cY="3.73" z="5" img="FunnyToy_petShow-888ex" twE="0" dr="15"/>
+          <f x="-26.9" y="-10.8" kX="0" kY="0" cX="0.26" cY="0.33" z="5" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 3          复制 10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="2.39" z="15" img="FunnyToy_petShow-888zizi" twE="0" dr="15"/>
+          <f x="9.2" y="-30.25" kX="0" kY="0" cX="0.25" cY="0.31" z="15" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 21          复制 10" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.93" cY="1.86" z="9" img="FunnyToy_petShow-888zizi" twE="0" dr="15"/>
+          <f x="-11.3" y="-11.3" kX="0" kY="0" cX="0.25" cY="0.24" z="9" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 22          复制 91" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1.86" z="15" img="FunnyToy_petShow-888zizi" twE="0" dr="8"/>
+          <f x="-0.5" y="-3.35" kX="0.04" kY="-0.07" cX="0.93" cY="1.14" z="15" twE="0" dr="1"/>
+          <f x="-0.5" y="-3.7" kX="0.04" kY="-0.07" cX="0.85" cY="1.05" z="11" twE="0" dr="9"/>
+          <f x="-0.65" y="-7.6" kX="0" kY="0.01" cX="0.2" cY="0.24" z="11" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="-9.45" y="-3.4" kX="0" kY="0" cX="1.51" cY="1.86" z="6" twE="0" dr="8"/>
+          <f x="-9.9" y="-6.75" kX="0.04" kY="-0.07" cX="0.93" cY="1.14" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22          复制 910" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.85" cY="1.05" z="15" img="FunnyToy_petShow-888zizi" twE="0" dr="9"/>
+          <f x="-0.2" y="-3.9" kX="-0.04" kY="0.08" cX="0.2" cY="0.24" z="15" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="Layer 1            复制 4604413920" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.05" cY="1.68" z="9" img="FunnyToy_petShow-888" twE="0" dr="3"/>
+          <f x="-2.6" y="0.9" kX="-0.03" kY="0" cX="2.61" cY="2.15" z="15" twE="0" dr="4"/>
+          <f x="7.6" y="-15.2" kX="0.18" kY="0.01" cX="0.27" cY="0.22" z="17" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="图层 14 复制" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="10" img="FunnyToy_petShow-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="9"/>
+          <f x="0" y="-29.85" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="7"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="14" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 13 复制" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="17" img="FunnyToy_petShow-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="17" twE="0" dr="9"/>
+          <f x="0" y="-29.85" kX="0" kY="0" cX="1.2" cY="1.2" z="10" twE="0" dr="7"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="12" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 12 复制" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="20" img="FunnyToy_petShow-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="11" twE="0" dr="9"/>
+          <f x="0" y="-29.9" kX="0" kY="0" cX="1.2" cY="1.2" z="8" twE="0" dr="8"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="8" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 11 复制" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="19" img="FunnyToy_petShow-shuidizhu" twE="0" dr="5"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="19" twE="0" dr="8"/>
+          <f x="0" y="-29.85" kX="0" kY="0" cX="1.2" cY="1.2" z="13" twE="0" dr="8"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="13" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer 1            复制 4604413921" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.16" cY="2.6" z="18" img="FunnyToy_petShow-888" twE="0" dr="2"/>
+          <f x="-5.1" y="-13.1" kX="0.2" kY="0.02" cX="2" cY="1.65" z="21" twE="0" dr="2"/>
+          <f x="1.45" y="-11.5" kX="0" kY="0.01" cX="3.38" cY="2.78" z="19" twE="0" dr="2"/>
+          <f x="-4.3" y="-23.1" kX="0.2" kY="0.02" cX="2.05" cY="1.68" z="20" twE="0" dr="2"/>
+          <f x="-1.7" y="-22.2" kX="0.23" kY="0.02" cX="2.61" cY="2.15" z="22" twE="0" dr="4"/>
+          <f x="-11.9" y="-38.3" kX="0.02" kY="0.01" cX="0.27" cY="0.22" z="20" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="图层 19          复制 100" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.03" cY="3.73" z="20" img="FunnyToy_petShow-888ex" twE="0" dr="17"/>
+          <f x="23.25" y="-21" kX="0" kY="-0.01" cX="0.26" cY="0.33" z="20" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 20          复制 100" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.03" cY="3.73" z="9" img="FunnyToy_petShow-888ex" twE="0" dr="15"/>
+          <f x="26.9" y="-10.8" kX="0" kY="0" cX="0.26" cY="0.33" z="9" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 3          复制 100" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="2.39" z="24" img="FunnyToy_petShow-888zizi" twE="0" dr="15"/>
+          <f x="-9.2" y="-30.25" kX="0" kY="0" cX="0.25" cY="0.31" z="24" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 21          复制 100" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.93" cY="1.86" z="15" img="FunnyToy_petShow-888zizi" twE="0" dr="15"/>
+          <f x="11.3" y="-11.3" kX="0" kY="0" cX="0.25" cY="0.24" z="15" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 22          复制 911" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1.86" z="23" img="FunnyToy_petShow-888zizi" twE="0" dr="8"/>
+          <f x="0.5" y="-3.35" kX="-0.04" kY="0.07" cX="0.93" cY="1.14" z="23" twE="0" dr="1"/>
+          <f x="0.5" y="-3.7" kX="-0.04" kY="0.07" cX="0.85" cY="1.05" z="17" twE="0" dr="9"/>
+          <f x="0.65" y="-7.6" kX="0" kY="-0.01" cX="0.2" cY="0.24" z="17" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 22          复制 912" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.85" cY="1.05" z="23" img="FunnyToy_petShow-888zizi" twE="0" dr="9"/>
+          <f x="0.2" y="-3.9" kX="0.04" kY="-0.08" cX="0.2" cY="0.24" z="23" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="图层 22          复制 913" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1.86" z="10" img="FunnyToy_petShow-888zizi" twE="0" dr="8"/>
+          <f x="0.45" y="-3.35" kX="-0.04" kY="0.07" cX="0.93" cY="1.14" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="Layer 1            复制 4604413922" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.05" cY="1.68" z="14" img="FunnyToy_petShow-888" twE="0" dr="3"/>
+          <f x="2.6" y="0.9" kX="0.03" kY="0" cX="2.61" cY="2.15" z="23" twE="0" dr="4"/>
+          <f x="-7.6" y="-15.2" kX="-0.18" kY="-0.01" cX="0.27" cY="0.22" z="26" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="Layer 1            复制 4604413923" sc="1" dl="0">
+          <f dr="26" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.16" cY="2.6" z="17" img="FunnyToy_petShow-888" twE="0" dr="3"/>
+          <f x="-5.1" y="-13.1" kX="0.2" kY="0.02" cX="2" cY="1.65" z="11" twE="0" dr="3"/>
+          <f x="1.45" y="-11.5" kX="0" kY="0.01" cX="3.38" cY="2.78" z="11" twE="0" dr="1"/>
+          <f x="-1.5" y="-17.3" kX="0.23" kY="0.14" cX="2.71" cY="2.23" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="图层 14  复制 20" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="15" img="FunnyToy_petShow-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="24" twE="0" dr="9"/>
+          <f x="0" y="-29.85" kX="0" kY="0" cX="1.2" cY="1.2" z="24" twE="0" dr="7"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="21" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 13  复制 20" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="25" img="FunnyToy_petShow-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="25" twE="0" dr="9"/>
+          <f x="0" y="-29.85" kX="0" kY="0" cX="1.2" cY="1.2" z="15" twE="0" dr="7"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="18" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 12  复制 20" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="29" img="FunnyToy_petShow-shuidizhu" twE="0" dr="4"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="16" twE="0" dr="9"/>
+          <f x="0" y="-29.9" kX="0" kY="0" cX="1.2" cY="1.2" z="12" twE="0" dr="8"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="12" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 11  复制 20" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.6" z="27" img="FunnyToy_petShow-shuidizhu" twE="0" dr="5"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1.2" cY="1.2" z="27" twE="0" dr="8"/>
+          <f x="0" y="-29.85" kX="0" kY="0" cX="1.2" cY="1.2" z="19" twE="0" dr="8"/>
+          <f x="0" y="-42.3" kX="0" kY="0" cX="0.3" cY="0.3" z="19" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="Layer 1             复制 460441393" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.16" cY="2.6" z="26" img="FunnyToy_petShow-888" twE="0" dr="2"/>
+          <f x="-5.1" y="-13.1" kX="0.2" kY="0.02" cX="2" cY="1.65" z="30" twE="0" dr="2"/>
+          <f x="1.45" y="-11.5" kX="0" kY="0.01" cX="3.38" cY="2.78" z="27" twE="0" dr="2"/>
+          <f x="-4.3" y="-23.1" kX="0.2" kY="0.02" cX="2.05" cY="1.68" z="28" twE="0" dr="2"/>
+          <f x="-1.7" y="-22.2" kX="0.23" kY="0.02" cX="2.61" cY="2.15" z="31" twE="0" dr="4"/>
+          <f x="-11.9" y="-38.3" kX="0.02" kY="0.01" cX="0.27" cY="0.22" z="28" dr="1"/>
+          <f dr="9" hide="1"/>
+          <f x="-58.8" y="5.6" kX="0" kY="0" cX="3.16" cY="2.6" z="23" twE="0" dr="3"/>
+          <f x="-63.9" y="-7.5" kX="0.2" kY="0.02" cX="2" cY="1.65" z="15" twE="0" dr="3"/>
+          <f x="-57.35" y="-5.9" kX="0" kY="0.01" cX="3.38" cY="2.78" z="15" twE="0" dr="1"/>
+          <f x="-60.3" y="-11.7" kX="0.23" kY="0.14" cX="2.71" cY="2.23" z="7" twE="0" dr="1"/>
+        </b>
+        <b name="图层 19           复制 11" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.03" cY="3.73" z="28" img="FunnyToy_petShow-888ex" twE="0" dr="17"/>
+          <f x="23.25" y="-21" kX="0" kY="-0.01" cX="0.26" cY="0.33" z="28" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 20           复制 11" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.03" cY="3.73" z="13" img="FunnyToy_petShow-888ex" twE="0" dr="15"/>
+          <f x="26.9" y="-10.8" kX="0" kY="0" cX="0.26" cY="0.33" z="13" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 3           复制 11" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="2.39" z="33" img="FunnyToy_petShow-888zizi" twE="0" dr="15"/>
+          <f x="-9.2" y="-30.25" kX="0" kY="0" cX="0.25" cY="0.31" z="33" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 21           复制 11" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.93" cY="1.86" z="21" img="FunnyToy_petShow-888zizi" twE="0" dr="15"/>
+          <f x="11.3" y="-11.3" kX="0" kY="0" cX="0.25" cY="0.24" z="21" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 22           复制 92" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.51" cY="1.86" z="31" img="FunnyToy_petShow-888zizi" twE="0" dr="8"/>
+          <f x="0.5" y="-3.35" kX="-0.04" kY="0.07" cX="0.93" cY="1.14" z="31" twE="0" dr="1"/>
+          <f x="0.5" y="-3.7" kX="-0.04" kY="0.07" cX="0.85" cY="1.05" z="23" twE="0" dr="9"/>
+          <f x="0.65" y="-7.6" kX="0" kY="-0.01" cX="0.2" cY="0.24" z="23" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="79.45" y="-3.4" kX="0" kY="0" cX="1.51" cY="1.86" z="14" twE="0" dr="8"/>
+          <f x="79.9" y="-6.75" kX="-0.04" kY="0.07" cX="0.93" cY="1.14" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22           复制 920" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.85" cY="1.05" z="31" img="FunnyToy_petShow-888zizi" twE="0" dr="9"/>
+          <f x="0.2" y="-3.9" kX="0.04" kY="-0.08" cX="0.2" cY="0.24" z="31" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="Layer 1             复制 4604413930" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.05" cY="1.68" z="19" img="FunnyToy_petShow-888" twE="0" dr="3"/>
+          <f x="2.6" y="0.9" kX="0.03" kY="0" cX="2.61" cY="2.15" z="31" twE="0" dr="4"/>
+          <f x="-7.6" y="-15.2" kX="-0.18" kY="-0.01" cX="0.27" cY="0.22" z="35" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="niudanchoujiang">
+      <mov name="niudanchoujiang" to="1" dr="66" drTW="66" lp="0">
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB1" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB2" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB3" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB4" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB5" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB6" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB7" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB8" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB9" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB10" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB11" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB12" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB13" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB14" dr="2"/>
+          <f x="0" y="-0.1" kX="0" kY="0" cX="3.73" cY="3.88" z="0" img="FunnyToy_petShow-NDB15" dr="1"/>
+          <f dr="37" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.73" cY="3.88" z="1" img="FunnyToy_petShow-NDB15" dr="1"/>
+          <f dr="37" hide="1"/>
+        </b>
+        <b name="Layer 1            复制 460441392" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.1" cY="5.85" z="2" img="FunnyToy_petShow-888" twE="0" dr="3"/>
+          <f x="17.55" y="34.15" kX="0.2" kY="0.02" cX="3" cY="2.47" z="2" twE="0" dr="3"/>
+          <f x="7.75" y="31.75" kX="0" kY="0.01" cX="5.07" cY="4.17" z="2" twE="0" dr="1"/>
+          <f x="12.15" y="40.45" kX="0.23" kY="0.14" cX="4.07" cY="3.35" z="2" twE="0" dr="1"/>
+          <f x="16.35" y="49.15" kX="0.2" kY="0.02" cX="3.07" cY="2.53" z="0" twE="0" dr="3"/>
+          <f x="12.45" y="47.8" kX="0.23" kY="0.02" cX="3.91" cY="3.22" z="0" twE="0" dr="4"/>
+          <f x="27.75" y="71.95" kX="0.01" kY="0.01" cX="0.41" cY="0.33" z="0" dr="1"/>
+          <f x="-172.05" y="204.05" kX="0" kY="0" cX="7.1" cY="5.85" z="2" twE="0" dr="3"/>
+          <f x="-154.5" y="238.2" kX="0.2" kY="0.02" cX="3" cY="2.47" z="1" twE="0" dr="3"/>
+          <f x="-164.3" y="235.8" kX="0" kY="0.01" cX="5.07" cY="4.17" z="1" twE="0" dr="1"/>
+          <f x="-159.9" y="244.5" kX="0.23" kY="0.14" cX="4.07" cY="3.35" z="1" twE="0" dr="1"/>
+          <f x="-155.7" y="253.2" kX="0.2" kY="0.02" cX="3.07" cY="2.53" z="0" twE="0" dr="3"/>
+          <f x="-159.6" y="251.85" kX="0.23" kY="0.02" cX="3.91" cY="3.22" z="0" twE="0" dr="4"/>
+          <f x="-144.3" y="276" kX="0.01" kY="0.01" cX="0.41" cY="0.33" z="0" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="Layer 1            复制 4604413920" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.1" cY="5.85" z="3" img="FunnyToy_petShow-888" twE="0" dr="3"/>
+          <f x="17.55" y="34.15" kX="0.2" kY="0.02" cX="3" cY="2.47" z="3" twE="0" dr="3"/>
+          <f x="7.75" y="31.75" kX="0" kY="0.01" cX="5.07" cY="4.17" z="3" twE="0" dr="1"/>
+          <f x="12.15" y="40.45" kX="0.23" kY="0.14" cX="4.07" cY="3.35" z="3" twE="0" dr="1"/>
+          <f x="16.35" y="49.15" kX="0.2" kY="0.02" cX="3.07" cY="2.53" z="1" twE="0" dr="3"/>
+          <f x="12.45" y="47.8" kX="0.23" kY="0.02" cX="3.91" cY="3.22" z="1" twE="0" dr="4"/>
+          <f x="27.75" y="71.95" kX="0.01" kY="0.01" cX="0.41" cY="0.33" z="1" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="Layer 1            复制 4604413921" sc="1" dl="0">
+          <f dr="26" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.1" cY="5.85" z="4" img="FunnyToy_petShow-888" twE="0" dr="3"/>
+          <f x="17.55" y="34.15" kX="0.2" kY="0.02" cX="3" cY="2.47" z="2" twE="0" dr="3"/>
+          <f x="7.75" y="31.75" kX="0" kY="0.01" cX="5.07" cY="4.17" z="2" twE="0" dr="1"/>
+          <f x="12.15" y="40.45" kX="0.23" kY="0.14" cX="4.07" cY="3.35" z="2" twE="0" dr="1"/>
+          <f x="16.35" y="49.15" kX="0.2" kY="0.02" cX="3.07" cY="2.53" z="1" twE="0" dr="3"/>
+          <f x="12.45" y="47.8" kX="0.23" kY="0.02" cX="3.91" cY="3.22" z="0" twE="0" dr="4"/>
+          <f x="27.75" y="71.95" kX="0.01" kY="0.01" cX="0.41" cY="0.33" z="0" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="Layer 1            复制 4604413922" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.1" cY="5.85" z="3" img="FunnyToy_petShow-888" twE="0" dr="3"/>
+          <f x="17.55" y="34.15" kX="0.2" kY="0.02" cX="3" cY="2.47" z="3" twE="0" dr="3"/>
+          <f x="7.75" y="31.75" kX="0" kY="0.01" cX="5.07" cY="4.17" z="3" twE="0" dr="1"/>
+          <f x="12.15" y="40.45" kX="0.23" kY="0.14" cX="4.07" cY="3.35" z="2" twE="0" dr="1"/>
+          <f x="16.35" y="49.15" kX="0.2" kY="0.02" cX="3.07" cY="2.53" z="1" twE="0" dr="3"/>
+          <f x="12.45" y="47.8" kX="0.23" kY="0.02" cX="3.91" cY="3.22" z="0" twE="0" dr="4"/>
+          <f x="27.75" y="71.95" kX="0.01" kY="0.01" cX="0.41" cY="0.33" z="0" dr="1"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="Layer 1            复制 4604413923" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.1" cY="5.85" z="2" img="FunnyToy_petShow-888" twE="0" dr="3"/>
+          <f x="17.55" y="34.15" kX="0.2" kY="0.02" cX="3" cY="2.47" z="1" twE="0" dr="3"/>
+          <f x="7.75" y="31.75" kX="0" kY="0.01" cX="5.07" cY="4.17" z="1" twE="0" dr="1"/>
+          <f x="12.15" y="40.45" kX="0.23" kY="0.14" cX="4.07" cY="3.35" z="1" twE="0" dr="1"/>
+          <f x="16.35" y="49.15" kX="0.2" kY="0.02" cX="3.07" cY="2.53" z="1" twE="0" dr="3"/>
+          <f x="12.45" y="47.8" kX="0.23" kY="0.02" cX="3.91" cY="3.22" z="0" twE="0" dr="4"/>
+          <f x="27.75" y="71.95" kX="0.01" kY="0.01" cX="0.41" cY="0.33" z="0" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="Layer 1            复制 4604413924" sc="1" dl="0">
+          <f dr="49" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.1" cY="5.85" z="2" img="FunnyToy_petShow-888" twE="0" dr="3"/>
+          <f x="17.55" y="34.15" kX="0.2" kY="0.02" cX="3" cY="2.47" z="1" twE="0" dr="3"/>
+          <f x="7.75" y="31.75" kX="0" kY="0.01" cX="5.07" cY="4.17" z="1" twE="0" dr="1"/>
+          <f x="12.15" y="40.45" kX="0.23" kY="0.14" cX="4.07" cY="3.35" z="1" twE="0" dr="1"/>
+          <f x="16.35" y="49.15" kX="0.2" kY="0.02" cX="3.07" cY="2.53" z="0" twE="0" dr="3"/>
+          <f x="12.45" y="47.8" kX="0.23" kY="0.02" cX="3.91" cY="3.22" z="0" twE="0" dr="4"/>
+          <f x="27.75" y="71.95" kX="0.01" kY="0.01" cX="0.41" cY="0.33" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="Layer 1            复制 4604413925" sc="1" dl="0">
+          <f dr="33" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="7.1" cY="5.85" z="4" img="FunnyToy_petShow-888" twE="0" dr="3"/>
+          <f x="17.55" y="34.15" kX="0.2" kY="0.02" cX="3" cY="2.47" z="3" twE="0" dr="3"/>
+          <f x="7.75" y="31.75" kX="0" kY="0.01" cX="5.07" cY="4.17" z="3" twE="0" dr="1"/>
+          <f x="12.15" y="40.45" kX="0.23" kY="0.14" cX="4.07" cY="3.35" z="3" twE="0" dr="1"/>
+          <f x="16.35" y="49.15" kX="0.2" kY="0.02" cX="3.07" cY="2.53" z="3" twE="0" dr="3"/>
+          <f x="12.45" y="47.8" kX="0.23" kY="0.02" cX="3.91" cY="3.22" z="2" twE="0" dr="4"/>
+          <f x="27.75" y="71.95" kX="0.01" kY="0.01" cX="0.41" cY="0.33" z="2" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="扭蛋界面特效资源55" width="512" height="512">
+    <SubTexture name="FunnyToy_petShow-shuidizhu" x="494" y="39" width="11" height="11" pX="4.75" pY="4.7"/>
+    <SubTexture name="FunnyToy_petShow-888ex" x="494" y="0" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="FunnyToy_petShow-888zizi" x="494" y="13" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="FunnyToy_petShow-NDB1" x="404" y="0" width="89" height="49" pX="44" pY="-27.05"/>
+    <SubTexture name="FunnyToy_petShow-NDB2" x="164" y="385" width="161" height="76" pX="80" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-NDB3" x="0" y="385" width="163" height="76" pX="81" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-NDB4" x="344" y="308" width="163" height="76" pX="81" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-NDB5" x="184" y="154" width="181" height="76" pX="90" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-NDB6" x="174" y="308" width="169" height="76" pX="84" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-NDB7" x="0" y="231" width="179" height="76" pX="89" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-NDB8" x="0" y="154" width="183" height="76" pX="91" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-NDB9" x="202" y="77" width="193" height="76" pX="96" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-NDB10" x="0" y="0" width="201" height="76" pX="100" pY="-0.05"/>
+    <SubTexture name="FunnyToy_petShow-NDB11" x="180" y="231" width="177" height="76" pX="88" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-NDB12" x="0" y="308" width="173" height="76" pX="86" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-NDB13" x="202" y="0" width="201" height="76" pX="100" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-NDB14" x="0" y="77" width="201" height="76" pX="100" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-NDB15" x="358" y="231" width="153" height="76" pX="76" pY="-0.1"/>
+    <SubTexture name="FunnyToy_petShow-888" x="494" y="26" width="13" height="12" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

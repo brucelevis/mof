@@ -1,0 +1,190 @@
+<skeleton name="噬魂形体11源文件">
+  <armatures>
+    <armature name="stand">
+      <b name="图层 3" bT="0" bi="shihun_zi_chu-TDH-1" x="131.3" y="34.9" kX="0" kY="0" z="0"/>
+      <b name="tk2" bT="0" bi="shihun_zi_chu-tk20" x="190.1" y="117.15" kX="20.39" kY="20.39" z="1"/>
+      <b name="tb1" bT="0" bi="shihun_zi_chu-tb10" x="162.6" y="122.95" kX="0" kY="0" z="2"/>
+      <b name="eye1" bT="0" bi="shihun_zi_chu-eye1" x="178.05" y="126.95" kX="11.27" kY="-168.73" z="3"/>
+      <b name="eye2" bT="0" bi="shihun_zi_chu-eye1" x="198.7" y="128.85" kX="1.64" kY="-8.26" z="4"/>
+      <b name="tk3" bT="0" bi="shihun_zi_chu-tk3" x="146.6" y="120.45" kX="0" kY="0" z="5"/>
+      <b name="tk1" bT="0" bi="shihun_zi_chu-tk10" x="145.85" y="86.2" kX="0" kY="0" z="6"/>
+    </armature>
+    <armature name="physical_1">
+      <b name="图层 3" bT="0" bi="shihun_zi_chu-TDH-8" x="131.3" y="32.9" kX="0" kY="0" z="0"/>
+      <b name="tk2" bT="0" bi="shihun_zi_chu-tk20" x="190.1" y="117.15" kX="20.39" kY="20.39" z="1"/>
+      <b name="tb1" bT="0" bi="shihun_zi_chu-tb10" x="162.6" y="122.95" kX="0" kY="0" z="2"/>
+      <b name="图层 5" bT="0" bi="shihun_zi_chu-ey2" x="203.9" y="129.4" kX="9.49" kY="9.49" z="3"/>
+      <b name="图层 7" bT="0" bi="shihun_zi_chu-ey2" x="179" y="123.45" kX="8.74" kY="8.74" z="4"/>
+      <b name="tk3" bT="0" bi="shihun_zi_chu-tk3" x="146.6" y="120.45" kX="0" kY="0" z="3"/>
+      <b name="tk1" bT="0" bi="shihun_zi_chu-tk10" x="145.85" y="86.2" kX="0" kY="0" z="4"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="39" drTW="39" lp="1">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-1" twE="0" dr="2"/>
+          <f x="0" y="-2" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-4" twE="0" dr="2"/>
+          <f x="0" y="-4" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-5" twE="0" dr="1"/>
+          <f x="0" y="-5" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="0" y="-6.05" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-6" twE="0" dr="2"/>
+          <f x="0" y="-7.1" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-7" twE="0" dr="2"/>
+          <f x="0" y="-8.15" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-8" twE="0" dr="2"/>
+          <f x="0" y="-9.25" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-9" twE="0" dr="2"/>
+          <f x="0" y="-10.3" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-10" twE="0" dr="2"/>
+          <f x="0" y="-11.4" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-11" twE="0" dr="2"/>
+          <f x="0" y="-12.45" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-12" twE="0" dr="1"/>
+          <f x="0" y="-13" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-13" twE="0" dr="2"/>
+          <f x="0" y="-11.85" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-14" twE="0" dr="2"/>
+          <f x="0" y="-10.7" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-15" twE="0" dr="2"/>
+          <f x="0" y="-9.55" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-16" twE="0" dr="2"/>
+          <f x="0" y="-8.4" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-17" twE="0" dr="2"/>
+          <f x="0" y="-7.25" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-18" twE="0" dr="2"/>
+          <f x="0" y="-6.1" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-19" twE="0" dr="2"/>
+          <f x="0" y="-4.95" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-1" twE="0" dr="2"/>
+          <f x="0" y="-3.75" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-4" twE="0" dr="2"/>
+          <f x="0" y="-2.6" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-5" twE="0" dr="1"/>
+        </b>
+        <b name="tk2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="shihun_zi_chu-tk20" twE="0" dr="5"/>
+          <f x="0.3" y="-2.85" kX="1.32" kY="1.32" cX="1" cY="1" z="1" twE="0" dr="15"/>
+          <f x="0" y="-10" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="5"/>
+          <f x="-0.2" y="-7.7" kX="-2.03" kY="-2.03" cX="1" cY="1" z="1" twE="0" dr="10"/>
+          <f x="0.05" y="-1.35" kX="-0.09" kY="-0.09" cX="1" cY="1" z="1" twE="0" dr="4"/>
+        </b>
+        <b name="tb1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="shihun_zi_chu-tb10" twE="0" dr="5"/>
+          <f x="-0.5" y="-4.75" kX="0" kY="0" cX="1.02" cY="0.99" z="2" twE="0" dr="15"/>
+          <f x="0" y="-10" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="5"/>
+          <f x="1" y="-5.85" kX="0" kY="0" cX="0.95" cY="1" z="2" twE="0" dr="10"/>
+          <f x="0" y="-1.65" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="4"/>
+        </b>
+        <b name="eye1" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.02" cY="1" z="3" img="shihun_zi_chu-eye1" twE="0" dr="2"/>
+          <f x="-0.7" y="0.05" kX="0" kY="0" cX="1.09" cY="1.98" z="3" twE="0" dr="2"/>
+          <f x="-0.15" y="-1.5" kX="0" kY="0" cX="1.02" cY="1" z="3" dr="1"/>
+          <f x="-0.75" y="-2.95" kX="0" kY="0" cX="1.02" cY="1" z="3" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="eye2" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.8" z="4" img="shihun_zi_chu-eye1" twE="0" dr="2"/>
+          <f x="0.65" y="-1.1" kX="16.16" kY="-5.25" cX="0.62" cY="1.51" z="4" twE="0" dr="2"/>
+          <f x="0.3" y="-2" kX="0.91" kY="0.9" cX="0.62" cY="0.8" z="4" dr="1"/>
+          <f x="-0.15" y="-3.15" kX="4.74" kY="4.73" cX="0.62" cY="0.8" z="4" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="tk3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="shihun_zi_chu-tk3" twE="0" dr="5"/>
+          <f x="0.25" y="-2.55" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="15"/>
+          <f x="0" y="-10" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="5"/>
+          <f x="0.2" y="-8.6" kX="1.45" kY="1.45" cX="1" cY="1" z="3" twE="0" dr="10"/>
+          <f x="0" y="-1.4" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="4"/>
+        </b>
+        <b name="tk1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="shihun_zi_chu-tk10" twE="0" dr="5"/>
+          <f x="0" y="-2.5" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="15"/>
+          <f x="0" y="-10" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="0" y="-8.35" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="10"/>
+          <f x="0" y="-1.4" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="4"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_1">
+      <mov name="physical_1" to="1" dr="30" drTW="30">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-8" twE="0" dr="2"/>
+          <f x="6" y="7.35" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="9" y="11" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-9" twE="0" dr="2"/>
+          <f x="-19" y="-80.5" kX="0" kY="0" cX="1.73" cY="1.73" z="0" img="shihun_zi_chu-TDH-10" twE="0" dr="2"/>
+          <f x="-18.8" y="-80.5" kX="0" kY="0" cX="1.73" cY="1.73" z="0" img="shihun_zi_chu-TDH-11" twE="0" dr="2"/>
+          <f x="-18.5" y="-80.5" kX="0" kY="0" cX="1.73" cY="1.73" z="0" img="shihun_zi_chu-TDH-12" twE="0" dr="2"/>
+          <f x="-18.3" y="-80.5" kX="0" kY="0" cX="1.73" cY="1.73" z="0" img="shihun_zi_chu-TDH-13" twE="0" dr="2"/>
+          <f x="-18.1" y="-80.5" kX="0" kY="0" cX="1.73" cY="1.73" z="0" img="shihun_zi_chu-TDH-15" twE="0" dr="2"/>
+          <f x="-18.05" y="-80.5" kX="0" kY="0" cX="1.73" cY="1.73" z="0" img="shihun_zi_chu-TDH-16" twE="0" dr="2"/>
+          <f x="-18.05" y="-80.5" kX="0" kY="0" cX="1.73" cY="1.73" z="0" img="shihun_zi_chu-TDH-17" twE="0" dr="2"/>
+          <f x="-18" y="-80.5" kX="0" kY="0" cX="1.73" cY="1.73" z="0" img="shihun_zi_chu-TDH-18" twE="0" dr="2"/>
+          <f x="-11.05" y="-50" kX="0" kY="0" cX="1.49" cY="1.49" z="0" img="shihun_zi_chu-TDH-19" twE="0" dr="2"/>
+          <f x="-3.95" y="-19.5" kX="0" kY="0" cX="1.24" cY="1.24" z="0" img="shihun_zi_chu-TDH-1" twE="0" dr="2"/>
+          <f x="6.85" y="8.7" kX="3.24" kY="3.24" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-6" twE="0" dr="2"/>
+          <f x="2.5" y="5.95" kX="0" kY="0" cX="1" cY="1" z="0" img="shihun_zi_chu-TDH-7" twE="0" dr="2"/>
+          <f x="2" y="0.95" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="tk2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="shihun_zi_chu-tk20" twE="0" dr="3"/>
+          <f x="1.15" y="16.85" kX="11.22" kY="11.22" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="8.6" y="-19.6" kX="4.06" kY="4.06" cX="1.5" cY="1.5" z="1" twE="0" dr="14"/>
+          <f x="9.45" y="-19.4" kX="4.06" kY="4.06" cX="1.57" cY="1.57" z="1" twE="0" dr="6"/>
+          <f x="-0.6" y="9.3" kX="-0.44" kY="-0.44" cX="0.94" cY="0.94" z="1" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="tb1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="shihun_zi_chu-tb10" twE="0" dr="3"/>
+          <f x="-1.1" y="11.9" kX="4.77" kY="4.77" cX="1" cY="1" z="2" twE="0" dr="2"/>
+          <f x="-8" y="-18.55" kX="-2.4" kY="-2.4" cX="1.5" cY="1.5" z="2" twE="0" dr="14"/>
+          <f x="-9.35" y="-18" kX="-2.4" kY="-2.4" cX="1.58" cY="1.58" z="2" twE="0" dr="6"/>
+          <f x="0.95" y="9.25" kX="-0.45" kY="-0.45" cX="0.94" cY="0.94" z="2" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.65" cY="1.01" z="3" img="shihun_zi_chu-ey2" twE="0" dr="1"/>
+          <f x="6.35" y="-10.8" kX="0" kY="0" cX="0.68" cY="1.06" z="3" twE="0" dr="14"/>
+          <f x="7.75" y="-9.5" kX="0" kY="0" cX="0.72" cY="1.11" z="3" twE="0" dr="5"/>
+          <f x="-3.45" y="7.1" kX="0" kY="0" cX="0.48" cY="0.57" z="3" twE="0" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.42" cY="1.42" z="4" img="shihun_zi_chu-ey2" twE="0" dr="1"/>
+          <f x="-1.1" y="-10.95" kX="0" kY="0" cX="1.5" cY="1.5" z="4" twE="0" dr="14"/>
+          <f x="-1.3" y="-10" kX="0" kY="0" cX="1.57" cY="1.57" z="4" twE="0" dr="5"/>
+          <f x="-1.2" y="10.75" kX="0" kY="0" cX="0.88" cY="0.88" z="4" twE="0" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="tk3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="shihun_zi_chu-tk3" twE="0" dr="3"/>
+          <f x="1.3" y="8.4" kX="11.22" kY="11.22" cX="1" cY="1" z="5" twE="0" dr="2"/>
+          <f x="-13.3" y="-22.5" kX="4.05" kY="4.05" cX="1.5" cY="1.5" z="5" twE="0" dr="14"/>
+          <f x="-15.75" y="-22.25" kX="4.05" kY="4.05" cX="1.58" cY="1.58" z="5" twE="0" dr="6"/>
+          <f x="1.85" y="9.5" kX="-0.45" kY="-0.45" cX="0.94" cY="0.94" z="3" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="tk1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="shihun_zi_chu-tk10" twE="0" dr="3"/>
+          <f x="8" y="8.8" kX="11.22" kY="11.22" cX="1" cY="1" z="6" twE="0" dr="2"/>
+          <f x="-10.2" y="-39.7" kX="4.05" kY="4.05" cX="1.5" cY="1.5" z="6" twE="0" dr="14"/>
+          <f x="-12.55" y="-42.05" kX="4.05" kY="4.05" cX="1.58" cY="1.58" z="6" twE="0" dr="6"/>
+          <f x="1.7" y="11.5" kX="-0.45" kY="-0.45" cX="0.94" cY="0.94" z="4" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="噬魂形体11源文件" width="512" height="128">
+    <SubTexture name="shihun_zi_chu-TDH-4" x="142" y="0" width="37" height="63" pX="-9.95" pY="-6.6"/>
+    <SubTexture name="shihun_zi_chu-TDH-5" x="216" y="0" width="35" height="65" pX="-10.45" pY="-4.6"/>
+    <SubTexture name="shihun_zi_chu-TDH-14" x="290" y="40" width="37" height="51" pX="-6.7" pY="-17.95"/>
+    <SubTexture name="shihun_zi_chu-eye1" x="201" y="66" width="19" height="8" pX="8.65" pY="3.45"/>
+    <SubTexture name="shihun_zi_chu-TDH-8" x="106" y="0" width="35" height="66" pX="-9.95" pY="-3.25"/>
+    <SubTexture name="shihun_zi_chu-TDH-9" x="344" y="0" width="37" height="53" pX="-8.7" pY="-16.1"/>
+    <SubTexture name="shihun_zi_chu-TDH-10" x="0" y="59" width="37" height="45" pX="-7.95" pY="-24.15"/>
+    <SubTexture name="shihun_zi_chu-TDH-11" x="252" y="62" width="36" height="44" pX="-9.2" pY="-25.25"/>
+    <SubTexture name="shihun_zi_chu-TDH-12" x="328" y="54" width="37" height="47" pX="-7.95" pY="-22.55"/>
+    <SubTexture name="shihun_zi_chu-TDH-13" x="382" y="53" width="34" height="51" pX="-9.2" pY="-18.85"/>
+    <SubTexture name="shihun_zi_chu-TDH-15" x="420" y="0" width="36" height="52" pX="-5.7" pY="-17.3"/>
+    <SubTexture name="shihun_zi_chu-TDH-16" x="457" y="51" width="40" height="46" pX="-4.7" pY="-23.65"/>
+    <SubTexture name="shihun_zi_chu-TDH-17" x="417" y="53" width="38" height="47" pX="-6.2" pY="-22"/>
+    <SubTexture name="shihun_zi_chu-TDH-18" x="457" y="0" width="38" height="50" pX="-5.95" pY="-19.6"/>
+    <SubTexture name="shihun_zi_chu-TDH-19" x="382" y="0" width="37" height="52" pX="-5.95" pY="-17.45"/>
+    <SubTexture name="shihun_zi_chu-TDH-1" x="252" y="0" width="37" height="61" pX="-8.45" pY="-7.8"/>
+    <SubTexture name="shihun_zi_chu-TDH-6" x="180" y="0" width="35" height="65" pX="-10.2" pY="-4.65"/>
+    <SubTexture name="shihun_zi_chu-TDH-7" x="70" y="0" width="35" height="66" pX="-9.95" pY="-3.2"/>
+    <SubTexture name="shihun_zi_chu-tk20" x="142" y="64" width="28" height="41" pX="0.05" pY="-2.4"/>
+    <SubTexture name="shihun_zi_chu-tb10" x="290" y="0" width="53" height="39" pX="7.1" pY="2.45"/>
+    <SubTexture name="shihun_zi_chu-ey2" x="171" y="66" width="29" height="24" pX="15.15" pY="5.95"/>
+    <SubTexture name="shihun_zi_chu-tk3" x="38" y="59" width="31" height="46" pX="0" pY="-3.3"/>
+    <SubTexture name="shihun_zi_chu-tk10" x="0" y="0" width="69" height="58" pX="-1" pY="-2.9"/>
+  </TextureAtlas>
+</skeleton>

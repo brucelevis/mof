@@ -1,0 +1,5 @@
+LIBRARY	"GameScene"
+
+EXPORTS
+ Initialise @1
+ OnHeartBeat @2

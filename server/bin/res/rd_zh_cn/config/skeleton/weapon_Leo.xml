@@ -1,0 +1,15 @@
+<skeleton name="狮子座武器">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_Leo" bT="0" bi="weapon_Leo-weapon-fs_Leo" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Leo-weapon-fs_Leo"/>
+      <b name="weapon-ck_Leo" bT="0" bi="weapon_Leo-weapon-ck_Leo" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Leo-weapon-ck_Leo"/>
+      <b name="weapon-zs_Leo" bT="0" bi="weapon_Leo-weapon-zs_Leo" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Leo-weapon-zs_Leo"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="狮子座武器" width="512" height="256">
+    <SubTexture name="weapon_Leo-weapon-fs_Leo" x="0" y="0" width="82" height="207" pX="38.75" pY="104.05"/>
+    <SubTexture name="weapon_Leo-weapon-ck_Leo" x="273" y="0" width="65" height="127" pX="39.85" pY="76.65"/>
+    <SubTexture name="weapon_Leo-weapon-zs_Leo" x="83" y="0" width="189" height="68" pX="31.5" pY="30.8"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,61 @@
+<skeleton name="骰子压缩(Y)">
+  <armatures>
+    <armature name="shaizizhuandong">
+      <b name="图层 2" bT="0" bi="DiceGame_dice-huxulie3" x="0.1" y="-5.05" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="shaizizhuandong">
+      <mov name="shaizizhuandong" to="1" dr="88" drTW="88" lp="1">
+        <b name="baidibu" sc="1" dl="0"/>
+        <b name="hongdian" sc="1" dl="0"/>
+        <b name="图层 12" sc="1" dl="0"/>
+        <b name="andian" sc="1" dl="0"/>
+        <b name="andian0" sc="1" dl="0"/>
+        <b name="图层 11" sc="1" dl="0"/>
+        <b name="hongdian0" sc="1" dl="0"/>
+        <b name="hongdian1" sc="1" dl="0"/>
+        <b name="hongdian2" sc="1" dl="0"/>
+        <b name="hongdian3" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie3" dr="3"/>
+          <f x="0" y="-0.15" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie3" dr="3"/>
+          <f x="0" y="-0.15" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie3" dr="3"/>
+          <f x="0" y="-0.15" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie3" dr="3"/>
+          <f x="0" y="-0.15" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie3" dr="3"/>
+          <f x="0" y="-0.15" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie3" dr="3"/>
+          <f x="0" y="-0.15" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.65" cY="1.65" z="0" img="DiceGame_dice-huxulie1" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="骰子压缩(Y)" width="512" height="128">
+    <SubTexture name="DiceGame_dice-huxulie3" x="98" y="0" width="88" height="88" pX="43.5" pY="43.5"/>
+    <SubTexture name="DiceGame_dice-huxulie4" x="0" y="0" width="97" height="97" pX="47.6" pY="47.6"/>
+    <SubTexture name="DiceGame_dice-huxulie1" x="187" y="0" width="79" height="79" pX="38.9" pY="38.9"/>
+    <SubTexture name="DiceGame_dice-huxulie2" x="267" y="0" width="79" height="79" pX="38.9" pY="38.9"/>
+  </TextureAtlas>
+</skeleton>

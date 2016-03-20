@@ -1,0 +1,21 @@
+<skeleton name="创建人物圆盘">
+  <armatures>
+    <armature name="circle">
+      <b name="2" bT="0" bi="CreationAnimation_circle-678" x="-0.35" y="-4.6" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="circle">
+      <mov name="circle" to="1" dr="34" drTW="34" lp="1">
+        <b name="2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.9" z="0" img="CreationAnimation_circle-678" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.22" cY="1.34" z="0" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.16" cY="0.9" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="创建人物圆盘" width="512" height="64">
+    <SubTexture name="CreationAnimation_circle-678" x="0" y="0" width="57" height="57" pX="27.8" pY="27.8"/>
+  </TextureAtlas>
+</skeleton>

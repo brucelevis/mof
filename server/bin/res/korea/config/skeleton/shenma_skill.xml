@@ -1,0 +1,342 @@
+<skeleton name="闪电3(1)">
+  <armatures>
+    <armature name="zhaohuanyun_2">
+      <b name="图层 5" bT="0" bi="shenma_skill-yun2" x="-61.7" y="40.15" kX="0" kY="0" z="0"/>
+      <b name="图层 4" bT="0" bi="shenma_skill-yun2" x="-20.7" y="18.15" kX="0" kY="0" z="1"/>
+      <b name="图层 1" bT="0" bi="shenma_skill-yun2" x="-119.7" y="9.3" kX="0" kY="0" z="2"/>
+      <b name="yun2" bT="0" bi="shenma_skill-yun2" x="-61.8" y="22.65" kX="0" kY="0" z="3"/>
+    </armature>
+    <armature name="zhaohuanyun_1">
+      <b name="图层 1" bT="0" bi="shenma_skill-yun2" x="-103.95" y="13.95" kX="0" kY="0" z="0"/>
+      <b name="yun2" bT="0" bi="shenma_skill-yun2" x="-80.45" y="19.35" kX="0" kY="0" z="1"/>
+    </armature>
+    <armature name="shandian">
+      <b name="图层 23" bT="0" bi="shenma_skill-sprite 90" x="-186.85" y="-78.1" kX="0" kY="0" z="0"/>
+      <b name="图层 3" bT="0" bi="shenma_skill-dian10" x="-140.7" y="-268.3" kX="0" kY="0" z="0"/>
+      <b name="图层 21" bT="0" bi="shenma_skill-sprite 93" x="-520.7" y="-5.95" kX="0" kY="0" z="2"/>
+      <b name="图层 22" bT="0" bi="shenma_skill-sprite 29" x="-118.85" y="25.35" kX="0" kY="0" z="3"/>
+      <b name="图层 28" bT="0" bi="shenma_skill-sprite 93" x="-401.55" y="-621.8" kX="38.44" kY="38.44" z="4"/>
+      <b name="图层 24" bT="0" bi="shenma_skill-sprite 90" x="-88.95" y="-78.1" kX="0" kY="180" z="0"/>
+      <b name="图层 25" bT="0" bi="shenma_skill-dian10" x="-135.1" y="-268.3" kX="0" kY="180" z="0"/>
+      <b name="图层 26" bT="0" bi="shenma_skill-sprite 93" x="244.9" y="-5.95" kX="0" kY="180" z="2"/>
+      <b name="图层 27" bT="0" bi="shenma_skill-sprite 29" x="-156.95" y="25.35" kX="0" kY="180" z="3"/>
+      <b name="图层 29" bT="0" bi="shenma_skill-sprite 93" x="165.75" y="-621.8" kX="-38.44" kY="141.56" z="4"/>
+      <b name="图层 30" bT="0" bi="shenma_skill-sprite 90" x="-186.85" y="-78.1" kX="0" kY="0" z="0"/>
+      <b name="图层 31" bT="0" bi="shenma_skill-dian10" x="-140.7" y="-268.3" kX="0" kY="0" z="0"/>
+      <b name="图层 32" bT="0" bi="shenma_skill-sprite 93" x="-520.7" y="-5.95" kX="0" kY="0" z="2"/>
+      <b name="图层 33" bT="0" bi="shenma_skill-sprite 29" x="-118.85" y="25.35" kX="0" kY="0" z="3"/>
+      <b name="图层 34" bT="0" bi="shenma_skill-sprite 93" x="-401.55" y="-621.8" kX="38.44" kY="38.44" z="4"/>
+      <b name="图层 4" bT="0" bi="shenma_skill-yun0" x="7.15" y="-334.5" kX="0" kY="0" z="0"/>
+      <b name="图层 20" bT="0" bi="shenma_skill-dian20" x="-154.6" y="-370.05" kX="-69.67" kY="100.61" z="1"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="zhaohuanyun_2">
+      <mov name="zhaohuanyun_2" to="1" dr="54" drTW="54" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="shenma_skill-yun2" twE="0" dr="27"/>
+          <f x="7.7" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" twE="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.36" cY="0.36" z="0" img="shenma_skill-yun2" twE="0" dr="22"/>
+          <f x="-77.45" y="-10.8" kX="0" kY="0" cX="0.72" cY="0.72" z="0" twE="0" dr="20"/>
+          <f x="-95" y="-31" kX="0" kY="0" cX="0.45" cY="0.45" z="0" twE="0" dr="1"/>
+          <f x="-95" y="-31" kX="0" kY="0" cX="0.45" cY="0.45" z="0" img="shenma_skill-0" twE="0" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.36" cY="0.36" z="1" img="shenma_skill-yun2" twE="0" dr="22"/>
+          <f x="-83.45" y="-10.8" kX="0" kY="0" cX="0.72" cY="0.72" z="1" twE="0" dr="20"/>
+          <f x="-136" y="-9" kX="0" kY="0" cX="0.45" cY="0.45" z="1" twE="0" dr="1"/>
+          <f x="-136" y="-9" kX="0" kY="0" cX="0.45" cY="0.45" z="1" img="shenma_skill-0" twE="0" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="yun2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" img="shenma_skill-yun2" twE="0" dr="24"/>
+          <f x="-8.45" y="-0.05" kX="0" kY="0" cX="1.93" cY="1.93" z="1" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="zhaohuanyun_1">
+      <mov name="zhaohuanyun_1" to="1" dr="45" drTW="45">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="0.81" z="0" img="shenma_skill-yun2" twE="0" dr="44"/>
+          <f x="-15.75" y="-4.65" kX="0" kY="0" cX="2" cY="2" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="yun2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="0.81" z="1" img="shenma_skill-yun2" twE="0" dr="44"/>
+          <f x="18.65" y="3.3" kX="0" kY="0" cX="2" cY="2" z="1" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="shandian">
+      <mov name="shandian" to="1" dr="115" drTW="115" lp="0">
+        <b name="ae3_1a" sc="1" dl="0"/>
+        <b name="ae3_1b" sc="1" dl="0"/>
+        <b name="ae3_2a" sc="1" dl="0"/>
+        <b name="ae3_5a" sc="1" dl="0"/>
+        <b name="ae3_5b" sc="1" dl="0"/>
+        <b name="ae3_6a" sc="1" dl="0"/>
+        <b name="ae3_6b" sc="1" dl="0"/>
+        <b name="ae3_6c" sc="1" dl="0"/>
+        <b name="ae3_6c0" sc="1" dl="0"/>
+        <b name="ae3_6c1" sc="1" dl="0"/>
+        <b name="ae3_6d" sc="1" dl="0"/>
+        <b name="ae3_6c2" sc="1" dl="0"/>
+        <b name="ae3_6e" sc="1" dl="0"/>
+        <b name="ae3_6c3" sc="1" dl="0"/>
+        <b name="ae3_6c4" sc="1" dl="0"/>
+        <b name="ae3_6c5" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="38" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="shenma_skill-dian10" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian20" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian30" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian40" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian50" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian60" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="shenma_skill-dian70" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="shenma_skill-0" dr="1"/>
+          <f dr="67" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="图层 1" sc="1" dl="0"/>
+        <b name="ae3_1a0" sc="1" dl="0"/>
+        <b name="ae3_1b0" sc="1" dl="0"/>
+        <b name="ae3_6a0" sc="1" dl="0"/>
+        <b name="ae3_6b0" sc="1" dl="0"/>
+        <b name="ae3_6c00" sc="1" dl="0"/>
+        <b name="ae3_6c10" sc="1" dl="0"/>
+        <b name="图层 71" sc="1" dl="0"/>
+        <b name="ae3_6c000" sc="1" dl="0"/>
+        <b name="ae3_6d0" sc="1" dl="0"/>
+        <b name="ae3_6c20" sc="1" dl="0"/>
+        <b name="ae3_6e0" sc="1" dl="0"/>
+        <b name="ae3_6c30" sc="1" dl="0"/>
+        <b name="ae3_6c40" sc="1" dl="0"/>
+        <b name="ae3_6c50" sc="1" dl="0"/>
+        <b name="图层 8" sc="1" dl="0"/>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="0" img="shenma_skill-yun0" twE="0" dr="30"/>
+          <f x="-87.15" y="0.05" kX="0" kY="0" cX="1.6" cY="1.4" z="0" twE="0" dr="8"/>
+          <f x="-87.15" y="0.05" kX="0" kY="0" cX="1.6" cY="1.4" z="0" twE="0" dr="44"/>
+          <f x="-87.15" y="0.05" kX="0" kY="0" cX="1.6" cY="1.4" z="0" twE="0" dr="18"/>
+          <f x="-87.15" y="0" kX="0" kY="0" cX="1.6" cY="1.4" z="0" twE="0" dr="14"/>
+          <f x="-193.15" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0"/>
+        <b name="图层 15" sc="1" dl="0"/>
+        <b name="图层 16" sc="1" dl="0"/>
+        <b name="图层 17" sc="1" dl="0"/>
+        <b name="图层 18" sc="1" dl="0"/>
+        <b name="图层 19" sc="1" dl="0"/>
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 11" sc="1" dl="0"/>
+        <b name="图层 12" sc="1" dl="0"/>
+        <b name="图层 13" sc="1" dl="0"/>
+        <b name="图层 14" sc="1" dl="0"/>
+        <b name="图层 20" sc="1" dl="0">
+          <f dr="26" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.12" cY="1.21" z="1" img="shenma_skill-dian20" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-0.1" y="-0.2" kX="0" kY="0" cX="1.12" cY="1.21" z="1" img="shenma_skill-dian30" dr="2"/>
+          <f x="-0.1" y="-0.25" kX="0" kY="0" cX="1.12" cY="1.21" z="1" img="shenma_skill-dian40" dr="2"/>
+          <f x="-0.05" y="-0.4" kX="0" kY="0" cX="1.12" cY="1.21" z="1" img="shenma_skill-dian50" dr="2"/>
+          <f x="-0.25" y="-0.4" kX="0" kY="0" cX="1.12" cY="1.21" z="1" img="shenma_skill-dian60" dr="2"/>
+          <f x="-0.1" y="-0.25" kX="0" kY="0" cX="1.12" cY="1.21" z="1" img="shenma_skill-dian70" dr="2"/>
+          <f dr="17" hide="1"/>
+          <f x="74.1" y="-12.25" kX="134.47" kY="-45.74" cX="1.09" cY="1.04" z="1" img="shenma_skill-dian20" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="74.15" y="-12.35" kX="134.47" kY="-45.74" cX="1.09" cY="1.04" z="1" img="shenma_skill-dian30" dr="2"/>
+          <f x="74.1" y="-12.4" kX="134.47" kY="-45.74" cX="1.09" cY="1.04" z="6" img="shenma_skill-dian40" dr="2"/>
+          <f x="74" y="-12.55" kX="134.47" kY="-45.74" cX="1.09" cY="1.04" z="6" img="shenma_skill-dian50" dr="2"/>
+          <f x="74.2" y="-12.55" kX="134.47" kY="-45.74" cX="1.09" cY="1.04" z="6" img="shenma_skill-dian60" dr="2"/>
+          <f x="34.1" y="-12.4" kX="134.47" kY="-45.74" cX="1.09" cY="1.04" z="6" img="shenma_skill-dian70" dr="2"/>
+          <f dr="21" hide="1"/>
+          <f x="92.4" y="33.1" kX="170.13" kY="-26.05" cX="1.95" cY="1.39" z="6" img="shenma_skill-dian20" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="72.5" y="32.95" kX="170.13" kY="-26.05" cX="1.95" cY="1.39" z="5" img="shenma_skill-dian30" dr="2"/>
+          <f x="92.45" y="32.9" kX="170.13" kY="-26.05" cX="1.95" cY="1.39" z="1" img="shenma_skill-dian40" dr="2"/>
+          <f x="92.35" y="32.55" kX="170.13" kY="-26.05" cX="1.95" cY="1.39" z="1" img="shenma_skill-dian50" dr="2"/>
+          <f x="92.65" y="32.7" kX="170.13" kY="-26.05" cX="1.95" cY="1.39" z="1" img="shenma_skill-dian60" dr="2"/>
+          <f x="72.45" y="32.9" kX="170.13" kY="-26.05" cX="1.95" cY="1.39" z="1" img="shenma_skill-dian70" dr="2"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="shenma_skill-sprite 90" twE="0" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-4.4" y="-4.35" kX="0" kY="0" cX="2.13" cY="2.13" z="0" twE="0" dr="3"/>
+          <f x="-10.9" y="-10.9" kX="0" kY="0" cX="2.31" cY="2.31" z="0" dr="1"/>
+          <f x="-10.9" y="-10.9" kX="0" kY="0" cX="2.31" cY="2.31" z="0" img="shenma_skill-0" dr="1"/>
+          <f dr="69" hide="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="shenma_skill-sprite 93" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="22.4" y="2.2" kX="0" kY="0" cX="1.89" cY="1.89" z="2" dr="1"/>
+          <f x="196.05" y="19.4" kX="0" kY="0" cX="1.02" cY="1.02" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" twE="0" dr="3"/>
+          <f x="222.5" y="22" kX="0" kY="0" cX="0.88" cY="0.88" z="1" dr="1"/>
+          <f x="222.5" y="22" kX="0" kY="0" cX="0.88" cY="0.88" z="1" img="shenma_skill-0" dr="1"/>
+          <f dr="67" hide="1"/>
+        </b>
+        <b name="图层 22" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" img="shenma_skill-sprite 29" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0.3" y="3.85" kX="0" kY="0" cX="1.68" cY="1.68" z="3" dr="1"/>
+          <f x="1.05" y="5.5" kX="0" kY="0" cX="0.69" cY="0.69" z="3" dr="1"/>
+          <f x="0" y="2.5" kX="0" kY="0" cX="2" cY="2" z="3" twE="0" dr="3"/>
+          <f x="1.1" y="6.85" kX="0" kY="0" cX="0.63" cY="0.63" z="2" dr="1"/>
+          <f x="1.1" y="6.85" kX="0" kY="0" cX="0.63" cY="0.63" z="2" img="shenma_skill-0" dr="1"/>
+          <f dr="67" hide="1"/>
+        </b>
+        <b name="图层 28" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" img="shenma_skill-sprite 93" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-56" y="264.5" kX="-41.47" kY="-41.47" cX="1.69" cY="1.69" z="4" dr="1"/>
+          <f x="-3.2" y="263.9" kX="-41.47" kY="-41.47" cX="1.43" cY="1.43" z="4" dr="1"/>
+          <f x="-20" y="0" kX="0" kY="0" cX="2" cY="2" z="4" twE="0" dr="3"/>
+          <f x="89.9" y="104.55" kX="0" kY="0" cX="1.21" cY="1.21" z="3" dr="1"/>
+          <f x="69.9" y="104.55" kX="0" kY="0" cX="1.21" cY="1.21" z="3" img="shenma_skill-0" dr="1"/>
+          <f dr="67" hide="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f dr="60" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="shenma_skill-sprite 90" twE="0" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="4.4" y="-4.35" kX="0" kY="0" cX="2.13" cY="2.13" z="0" twE="0" dr="3"/>
+          <f x="10.9" y="-10.9" kX="0" kY="0" cX="2.31" cY="2.31" z="0" dr="1"/>
+          <f x="10.9" y="-10.9" kX="0" kY="0" cX="2.31" cY="2.31" z="0" img="shenma_skill-0" dr="1"/>
+          <f dr="48" hide="1"/>
+        </b>
+        <b name="图层 25" sc="1" dl="0">
+          <f dr="59" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="shenma_skill-dian10" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian20" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian30" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian40" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian50" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian60" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="shenma_skill-dian70" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="shenma_skill-0" dr="1"/>
+          <f dr="46" hide="1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f dr="60" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="shenma_skill-sprite 93" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-22.4" y="2.2" kX="0" kY="0" cX="1.89" cY="1.89" z="2" dr="1"/>
+          <f x="-196.05" y="19.4" kX="0" kY="0" cX="1.02" cY="1.02" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" twE="0" dr="3"/>
+          <f x="-222.5" y="22" kX="0" kY="0" cX="0.88" cY="0.88" z="1" dr="1"/>
+          <f x="-222.5" y="22" kX="0" kY="0" cX="0.88" cY="0.88" z="1" img="shenma_skill-0" dr="1"/>
+          <f dr="46" hide="1"/>
+        </b>
+        <b name="图层 27" sc="1" dl="0">
+          <f dr="60" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" img="shenma_skill-sprite 29" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-0.3" y="3.85" kX="0" kY="0" cX="1.68" cY="1.68" z="3" dr="1"/>
+          <f x="-1.05" y="5.5" kX="0" kY="0" cX="0.69" cY="0.69" z="3" dr="1"/>
+          <f x="0" y="2.5" kX="0" kY="0" cX="2" cY="2" z="3" twE="0" dr="3"/>
+          <f x="-1.1" y="6.85" kX="0" kY="0" cX="0.63" cY="0.63" z="2" dr="1"/>
+          <f x="-1.1" y="6.85" kX="0" kY="0" cX="0.63" cY="0.63" z="2" img="shenma_skill-0" dr="1"/>
+          <f dr="46" hide="1"/>
+        </b>
+        <b name="图层 29" sc="1" dl="0">
+          <f dr="60" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" img="shenma_skill-sprite 93" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="36" y="264.5" kX="41.47" kY="-318.53" cX="1.69" cY="1.69" z="4" dr="1"/>
+          <f x="-16.8" y="263.9" kX="41.47" kY="-318.53" cX="1.43" cY="1.43" z="4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" twE="0" dr="3"/>
+          <f x="-109.9" y="104.55" kX="0" kY="0" cX="1.21" cY="1.21" z="3" dr="1"/>
+          <f x="-109.9" y="104.55" kX="0" kY="0" cX="1.21" cY="1.21" z="3" img="shenma_skill-0" dr="1"/>
+          <f dr="46" hide="1"/>
+        </b>
+        <b name="图层 30" sc="1" dl="0">
+          <f dr="83" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="shenma_skill-sprite 90" twE="0" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-4.4" y="-4.35" kX="0" kY="0" cX="2.13" cY="2.13" z="0" twE="0" dr="3"/>
+          <f x="-10.9" y="-10.9" kX="0" kY="0" cX="2.31" cY="2.31" z="0" dr="1"/>
+          <f x="-10.9" y="-10.9" kX="0" kY="0" cX="2.31" cY="2.31" z="0" img="shenma_skill-0" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+        <b name="图层 31" sc="1" dl="0">
+          <f dr="82" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="shenma_skill-dian10" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian20" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian30" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian40" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian50" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="shenma_skill-dian60" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="shenma_skill-dian70" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="shenma_skill-0" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 32" sc="1" dl="0">
+          <f dr="83" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="shenma_skill-sprite 93" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="22.4" y="2.2" kX="0" kY="0" cX="1.89" cY="1.89" z="2" dr="1"/>
+          <f x="196.05" y="19.4" kX="0" kY="0" cX="1.02" cY="1.02" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" twE="0" dr="3"/>
+          <f x="222.5" y="22" kX="0" kY="0" cX="0.88" cY="0.88" z="1" dr="1"/>
+          <f x="222.5" y="22" kX="0" kY="0" cX="0.88" cY="0.88" z="1" img="shenma_skill-0" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 33" sc="1" dl="0">
+          <f dr="83" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" img="shenma_skill-sprite 29" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0.3" y="3.85" kX="0" kY="0" cX="1.68" cY="1.68" z="3" dr="1"/>
+          <f x="1.05" y="5.5" kX="0" kY="0" cX="0.69" cY="0.69" z="3" dr="1"/>
+          <f x="0" y="2.5" kX="0" kY="0" cX="2" cY="2" z="3" twE="0" dr="3"/>
+          <f x="1.1" y="6.85" kX="0" kY="0" cX="0.63" cY="0.63" z="2" dr="1"/>
+          <f x="1.1" y="6.85" kX="0" kY="0" cX="0.63" cY="0.63" z="2" img="shenma_skill-0" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 34" sc="1" dl="0">
+          <f dr="83" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" img="shenma_skill-sprite 93" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-56" y="264.5" kX="-41.47" kY="-41.47" cX="1.69" cY="1.69" z="4" dr="1"/>
+          <f x="16.8" y="263.9" kX="-41.47" kY="-41.47" cX="1.43" cY="1.43" z="4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" twE="0" dr="3"/>
+          <f x="69.9" y="104.55" kX="0" kY="0" cX="1.21" cY="1.21" z="3" dr="1"/>
+          <f x="69.9" y="104.55" kX="0" kY="0" cX="1.21" cY="1.21" z="3" img="shenma_skill-0" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="闪电3(1)" width="512" height="512">
+    <SubTexture name="shenma_skill-yun2" x="172" y="230" width="106" height="47" pX="53.4" pY="22.15"/>
+    <SubTexture name="shenma_skill-dian10" x="280" y="217" width="81" height="111" pX="41.1" pY="55.55"/>
+    <SubTexture name="shenma_skill-dian20" x="219" y="0" width="60" height="229" pX="26.9" pY="59.8"/>
+    <SubTexture name="shenma_skill-dian30" x="420" y="0" width="59" height="211" pX="10.65" pY="47.05"/>
+    <SubTexture name="shenma_skill-dian40" x="420" y="212" width="57" height="140" pX="15.3" pY="-11.05"/>
+    <SubTexture name="shenma_skill-dian50" x="280" y="0" width="68" height="216" pX="15.95" pY="46.05"/>
+    <SubTexture name="shenma_skill-dian60" x="349" y="0" width="70" height="212" pX="17.15" pY="38.05"/>
+    <SubTexture name="shenma_skill-dian70" x="0" y="178" width="65" height="194" pX="15.2" pY="28.5"/>
+    <SubTexture name="shenma_skill-0" x="480" y="0" width="5" height="4" pX="1.35" pY="1.8"/>
+    <SubTexture name="shenma_skill-yun0" x="0" y="0" width="218" height="108" pX="109.2" pY="53.3"/>
+    <SubTexture name="shenma_skill-sprite 90" x="66" y="178" width="105" height="105" pX="17.35" pY="17.35"/>
+    <SubTexture name="shenma_skill-sprite 93" x="0" y="109" width="201" height="68" pX="-99.55" pY="13.2"/>
+    <SubTexture name="shenma_skill-sprite 29" x="66" y="284" width="144" height="43" pX="72.05" pY="18.65"/>
+  </TextureAtlas>
+</skeleton>

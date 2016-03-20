@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="124" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="6" tilewidth="64" tileheight="64">
+  <image source="shixueshangu_6.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="17" name="5" tilewidth="64" tileheight="64">
+  <image source="shixueshangu_5.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="33" name="1" tilewidth="64" tileheight="64">
+  <image source="shixueshangu_1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="97" name="4" tilewidth="64" tileheight="64">
+  <image source="shixueshangu_4.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="113" name="7" tilewidth="64" tileheight="64">
+  <image source="shixueshangu_2.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="129" name="8" tilewidth="64" tileheight="64">
+  <image source="shixueshangu_3.png" width="128" height="128"/>
+ </tileset>
+ <layer name="块层 1" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8kNgDAQwMAlkIOb/qvFTeSz8kh+OEKSJEmSJM22UKGVNj/9V2rUafjpf6eDTrr89H/TQy99fvr/AT0jEHk=
+  </data>
+ </layer>
+ <layer name="块层 2" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkbcNwEAMxLyCcw6janRzAVcPvwNIgMU1dwJUFGmUWGGNTWLXFfQG/cFOsBc3zSTz9J05ftFihz0ON23QG/QHO9G++N9P35njFyIiIpKfESeccTH/Pq+44Y6H+fdZREREvscJcsYmLQ==
+  </data>
+ </layer>
+ <layer name="块层 3" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkUduQzEMBf9V0rvT43Q71elOd7p9FB49swtgSJb0SQhZaIBZSXh4JKvqjzEcxwmcxKmqPtM4g7OKjDpYzUBvob8wh+TukWt3cziPC7iozGrgMq5oSyViNQO9hf7SqHlvTY9cu1vFNVzHDYO8Jm4b5KRgNQO9pVnz1hY9cuxuB3dxD/cN8lrYNshJwWqGNrduKe6t7ZFjd0d4jCd4apDXwQuDnBSsZqC3dBT31vbIsbtLvMJrvPH8WUrI6+K9MsOHLyNmhhjoLV3PvWP6a3v4dhciZbcP+IhP+IwvQ++buIVneB6R18M3fFVkuBiVEZohBvoKvaXnuHdsf20P1+5CpO72HT/wE7/we+j9AA/xFu8i8vo4wB9FhotRGaEZYqCvDLDvuHdsf20P1+5CWOy2UCgUCoXC/+MXlI8+0w==
+  </data>
+ </layer>
+ <layer name="块层 8" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0MsKgCAUhGFftSvd6/1XTQtBxDDRhcH/wSwMPGfSGAAAAAA16TLv9oV6NEqrzMpSaOYj9H/uDrs35X5ISu9V2V52uO8ZmxnrXrNBGZVdOQrPnryzu8PuzZXS+1Qu75vf8cvMWPfQTAAA8C83jWERCA==
+  </data>
+ </layer>
+ <layer name="Foreground1" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0DEOg0AQBEG+DNhgjIF5ujshI0F7EkmX1Ont6LpOkiRJkiRJUgs9DTTSq8F7C31ppV/hRmXX1YYncDtsCFvCprT668ofv2mimT6FDaeNdjoohRuVXVcbnsDtsCFsCZvS6q/v/vEfk3slxQ==
+  </data>
+ </layer>
+ <layer name="Foreground2" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztz8EJACAMBEFLD2rhXgmCgj5m4L5h0xoAAAAAALeMbGb9dciGNFZaK811cufHn280LdTpB6U=
+  </data>
+ </layer>
+ <objectgroup name="monster" width="78" height="14">
+  <object name="50028" x="425" y="467"/>
+  <object name="50029" x="479" y="589"/>
+  <object name="50030" x="479" y="737"/>
+  <object name="50028" x="841" y="503"/>
+  <object name="50028" x="1353" y="513"/>
+  <object name="50029" x="903" y="647"/>
+  <object name="50029" x="1397" y="716"/>
+  <object name="50030" x="1311" y="629"/>
+  <object name="50030" x="2205" y="499"/>
+  <object name="50030" x="2872" y="566"/>
+  <object name="50030" x="3159" y="479"/>
+  <object name="50029" x="2199" y="659"/>
+  <object name="50029" x="2647" y="597"/>
+  <object name="50029" x="3185" y="661"/>
+  <object name="50028" x="2497" y="741"/>
+  <object name="50028" x="2994" y="706"/>
+  <object name="50029" x="3877" y="641"/>
+  <object name="50030" x="3876" y="503"/>
+  <object name="50028" x="4707" y="741"/>
+  <object name="50029" x="4325" y="579"/>
+  <object name="50028" x="4180" y="727"/>
+  <object name="50029" x="4863" y="643"/>
+  <object name="50030" x="4830" y="483"/>
+  <object name="50030" x="4483" y="658"/>
+ </objectgroup>
+ <objectgroup name="area" width="78" height="14">
+  <object x="6" y="442" width="1536" height="320"/>
+  <object x="1728" y="442" width="1536" height="320"/>
+  <object x="3450" y="442" width="1536" height="320"/>
+ </objectgroup>
+ <objectgroup name="AreaBornPoint" width="78" height="14">
+  <object x="1773" y="608"/>
+  <object x="3511" y="610"/>
+ </objectgroup>
+ <objectgroup name="bg" width="124" height="12">
+  <object name="shixueshangu_bg1" x="0" y="0" width="512" height="512"/>
+  <object name="shixueshangu_bg2" x="512" y="0" width="512" height="512"/>
+  <object name="shixueshangu_bg1" x="1024" y="0" width="512" height="512"/>
+  <object name="shixueshangu_bg2" x="1536" y="0" width="512" height="512"/>
+  <object name="shixueshangu_bg1" x="2048" y="0" width="512" height="512"/>
+  <object name="shixueshangu_bg2" x="2560" y="0" width="512" height="512"/>
+  <object name="shixueshangu_bg1" x="3072" y="0" width="512" height="512"/>
+  <object name="shixueshangu_bg2" x="3584" y="0" width="512" height="512"/>
+ </objectgroup>
+ <objectgroup name="mg" width="124" height="12">
+  <object name="shixueshangu_mg1" x="371" y="315" width="256" height="256"/>
+  <object name="shixueshangu_mg2" x="991" y="298" width="256" height="256"/>
+  <object name="shixueshangu_mg1" x="1589" y="316" width="256" height="256"/>
+  <object name="shixueshangu_mg2" x="2165" y="302" width="256" height="256"/>
+  <object name="shixueshangu_mg2" x="2849" y="297" width="256" height="256"/>
+  <object name="shixueshangu_mg1" x="3581" y="316" width="256" height="256"/>
+  <object name="shixueshangu_mg2" x="4346" y="298" width="256" height="256"/>
+  <object name="shixueshangu_mg1" x="5007" y="317" width="256" height="256"/>
+ </objectgroup>
+</map>

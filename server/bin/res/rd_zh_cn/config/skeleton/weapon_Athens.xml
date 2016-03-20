@@ -1,0 +1,15 @@
+<skeleton name="希腊武器源文件">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_Athens" bT="0" bi="weapon_Athens-weapon-fs_Athens" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Athens-weapon-fs_Athens"/>
+      <b name="weapon-ck_Athens" bT="0" bi="weapon_Athens-weapon-ck_Athens" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Athens-weapon-ck_Athens"/>
+      <b name="weapon-zs_Athens" bT="0" bi="weapon_Athens-weapon-zs_Athens" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Athens-weapon-zs_Athens"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="希腊武器源文件" width="512" height="256">
+    <SubTexture name="weapon_Athens-weapon-fs_Athens" x="0" y="0" width="59" height="185" pX="27.4" pY="89.8"/>
+    <SubTexture name="weapon_Athens-weapon-ck_Athens" x="234" y="0" width="32" height="98" pX="25.55" pY="55.3"/>
+    <SubTexture name="weapon_Athens-weapon-zs_Athens" x="60" y="0" width="173" height="43" pX="28.4" pY="20.85"/>
+  </TextureAtlas>
+</skeleton>

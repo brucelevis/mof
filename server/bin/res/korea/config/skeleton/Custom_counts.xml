@@ -1,0 +1,168 @@
+<skeleton name="第N波韩文(1)">
+  <armatures>
+    <armature name="diyibo">
+      <b name="图层 1" bT="0" bi="defendstatue-di1bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="diwubo">
+      <b name="图层 1" bT="0" bi="defendstatue-di5bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="disibo">
+      <b name="图层 1" bT="0" bi="defendstatue-di4bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="dishibo">
+      <b name="图层 1" bT="0" bi="defendstatue-di10bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="disanbo">
+      <b name="图层 1" bT="0" bi="defendstatue-di3bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="diqibo">
+      <b name="图层 1" bT="0" bi="defendstatue-di7bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="diliubo">
+      <b name="图层 1" bT="0" bi="defendstatue-di6bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="dijiubo">
+      <b name="图层 1" bT="0" bi="defendstatue-di9bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="dierbo">
+      <b name="图层 1" bT="0" bi="defendstatue-di2bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="dibabo">
+      <b name="图层 1" bT="0" bi="defendstatue-di8bo" x="-1.05" y="-0.45" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="diyibo">
+      <mov name="diyibo" to="1" dr="40" drTW="40">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="defendstatue-di1bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="25"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="diwubo">
+      <mov name="diwubo" to="1" dr="40" drTW="40">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="defendstatue-di5bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="25"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="disibo">
+      <mov name="disibo" to="1" dr="40" drTW="40">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="defendstatue-di4bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="25"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dishibo">
+      <mov name="dishibo" to="1" dr="40" drTW="40">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="defendstatue-di10bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="25"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="disanbo">
+      <mov name="disanbo" to="1" dr="40" drTW="40">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="defendstatue-di3bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="25"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="diqibo">
+      <mov name="diqibo" to="1" dr="40" drTW="40">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="defendstatue-di7bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="25"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="diliubo">
+      <mov name="diliubo" to="1" dr="40" drTW="40">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="defendstatue-di6bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="25"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dijiubo">
+      <mov name="dijiubo" to="1" dr="40" drTW="40">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="defendstatue-di9bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="25"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dierbo">
+      <mov name="dierbo" to="1" dr="40" drTW="40">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="defendstatue-di2bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="25"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dibabo">
+      <mov name="dibabo" to="1" dr="40" drTW="40">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="defendstatue-di8bo" twE="0" dr="5"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1.89" cY="1.89" z="0" twE="0" dr="3"/>
+          <f x="0.15" y="1.2" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="0.95" kX="0" kY="0" cX="1.05" cY="1.05" z="0" twE="0" dr="3"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="25"/>
+          <f x="0.1" y="1" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="第N波韩文(1)" width="512" height="512">
+    <SubTexture name="defendstatue-di1bo" x="190" y="252" width="189" height="62" pX="95.65" pY="27.6"/>
+    <SubTexture name="defendstatue-di5bo" x="190" y="189" width="189" height="62" pX="95.65" pY="27.6"/>
+    <SubTexture name="defendstatue-di4bo" x="0" y="189" width="189" height="62" pX="95.65" pY="27.6"/>
+    <SubTexture name="defendstatue-di10bo" x="0" y="0" width="211" height="62" pX="105.65" pY="27.6"/>
+    <SubTexture name="defendstatue-di3bo" x="0" y="126" width="189" height="62" pX="95.65" pY="27.6"/>
+    <SubTexture name="defendstatue-di7bo" x="190" y="63" width="189" height="62" pX="95.65" pY="27.6"/>
+    <SubTexture name="defendstatue-di6bo" x="0" y="63" width="189" height="62" pX="95.65" pY="27.6"/>
+    <SubTexture name="defendstatue-di9bo" x="190" y="126" width="189" height="62" pX="95.65" pY="27.6"/>
+    <SubTexture name="defendstatue-di2bo" x="212" y="0" width="189" height="62" pX="95.65" pY="27.6"/>
+    <SubTexture name="defendstatue-di8bo" x="0" y="252" width="189" height="62" pX="95.65" pY="27.6"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,15 @@
+<skeleton name="吸血鬼变异武器(1)">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_bianyi_Vampire" bT="0" bi="weapon_bianyi_Vampire-weapon-fs_bianyi_Vampire" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_bianyi_Vampire-weapon-fs_bianyi_Vampire"/>
+      <b name="weapon-ck_bianyi_Vampire" bT="0" bi="weapon_bianyi_Vampire-weapon-ck_bianyi_Vampire" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_bianyi_Vampire-weapon-ck_bianyi_Vampire"/>
+      <b name="weapon-zs_bianyi_Vampire" bT="0" bi="weapon_bianyi_Vampire-weapon-zs_bianyi_Vampire" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_bianyi_Vampire-weapon-zs_bianyi_Vampire"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="吸血鬼变异武器(1)" width="512" height="256">
+    <SubTexture name="weapon_bianyi_Vampire-weapon-fs_bianyi_Vampire" x="0" y="0" width="82" height="198" pX="47.2" pY="98.2"/>
+    <SubTexture name="weapon_bianyi_Vampire-weapon-ck_bianyi_Vampire" x="270" y="0" width="66" height="115" pX="41.35" pY="66.05"/>
+    <SubTexture name="weapon_bianyi_Vampire-weapon-zs_bianyi_Vampire" x="83" y="0" width="186" height="76" pX="39.15" pY="36.8"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,26 @@
+<html>
+<head>
+<script type="text/javascript" src="./keynode.js"></script>
+<script type="text/javascript">
+function test(){
+	var keys = [];
+	keys.push("r:1");
+	keys.push("r:2");
+	keys.push("r1");
+	var msg = "";
+	var node = new Node; 
+	node.type=section;
+	node.str="allkeys";
+	parse(node, keys, 0); 
+	alert(node.str);
+	alert(node.children[0].str);
+	alert(node.children[1].str);
+}
+</script>
+</head>
+
+<body>
+	<h1>hello world</h1>
+	<input type="button" text="click" onclick="test()"/>
+	</body>
+</html>

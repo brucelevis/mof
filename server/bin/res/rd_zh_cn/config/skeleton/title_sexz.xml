@@ -1,0 +1,445 @@
+<skeleton name="十二星尊称号">
+  <armatures>
+    <armature name="SERXZ">
+      <b name="图层 1" bT="0" bi="title_sexz-wenzi" x="-116" y="-148" kX="0" kY="0" z="0"/>
+      <b name="guangquan" bT="0" bi="title_sexz-guangquan" x="-65" y="-113.7" kX="0" kY="0" z="1"/>
+      <b name="图层 19          复制 10" bT="0" bi="title_sexz-888ex" x="-57.45" y="-102.85" kX="22.78" kY="-157.32" z="2"/>
+      <b name="图层 20          复制 10" bT="0" bi="title_sexz-888ex" x="-72.05" y="-89.1" kX="7.78" kY="-172.31" z="2"/>
+      <b name="图层 3          复制 10" bT="0" bi="title_sexz-888zizi" x="-76.2" y="-89.85" kX="-144.95" kY="34.95" z="3"/>
+      <b name="图层 21          复制 10" bT="0" bi="title_sexz-888zizi" x="-39.6" y="-115.05" kX="98.92" kY="95.45" z="2"/>
+      <b name="图层 22          复制 10" bT="0" bi="title_sexz-888zizi" x="-69.6" y="-87.15" kX="-45.18" kY="134.72" z="4"/>
+      <b name="图层 19          复制 100" bT="0" bi="title_sexz-888ex" x="16.05" y="-124.35" kX="22.78" kY="-157.32" z="4"/>
+      <b name="图层 20          复制 100" bT="0" bi="title_sexz-888ex" x="1.45" y="-110.6" kX="7.78" kY="-172.31" z="6"/>
+      <b name="图层 3          复制 100" bT="0" bi="title_sexz-888zizi" x="-2.7" y="-111.35" kX="-144.95" kY="34.95" z="4"/>
+      <b name="图层 21          复制 100" bT="0" bi="title_sexz-888zizi" x="33.9" y="-136.55" kX="98.92" kY="95.45" z="6"/>
+      <b name="图层 22          复制 100" bT="0" bi="title_sexz-888zizi" x="3.9" y="-108.65" kX="-45.18" kY="134.72" z="7"/>
+      <b name="图层 19          复制 101" bT="0" bi="title_sexz-888ex" x="58.15" y="-111.7" kX="22.78" kY="-157.32" z="4"/>
+      <b name="图层 3          复制 101" bT="0" bi="title_sexz-888zizi" x="39.4" y="-98.7" kX="-144.95" kY="34.95" z="5"/>
+      <b name="图层 21          复制 101" bT="0" bi="title_sexz-888zizi" x="76" y="-123.9" kX="98.92" kY="95.45" z="6"/>
+      <b name="图层 22          复制 101" bT="0" bi="title_sexz-888zizi" x="46" y="-96" kX="-45.18" kY="134.72" z="7"/>
+      <b name="图层 19          复制 102" bT="0" bi="title_sexz-888ex" x="43.2" y="-125.2" kX="22.79" kY="-157.42" z="6"/>
+      <b name="图层 20          复制 101" bT="0" bi="title_sexz-888ex" x="43.55" y="-97.95" kX="7.78" kY="-172.31" z="7"/>
+      <b name="图层 21          复制 102" bT="0" bi="title_sexz-888zizi" x="74.7" y="-125.15" kX="98.8" kY="95.3" z="6"/>
+      <b name="图层 22          复制 102" bT="0" bi="title_sexz-888zizi" x="45.5" y="-99.85" kX="-45.14" kY="134.65" z="8"/>
+      <b name="图层 19          复制 103" bT="0" bi="title_sexz-888ex" x="-66.85" y="-106.2" kX="22.78" kY="-157.32" z="8"/>
+      <b name="图层 3          复制 102" bT="0" bi="title_sexz-888zizi" x="-85.6" y="-93.2" kX="-144.95" kY="34.95" z="9"/>
+      <b name="图层 21          复制 103" bT="0" bi="title_sexz-888zizi" x="-49" y="-118.4" kX="98.92" kY="95.45" z="10"/>
+      <b name="图层 22          复制 103" bT="0" bi="title_sexz-888zizi" x="-79" y="-90.5" kX="-45.18" kY="134.72" z="11"/>
+      <b name="图层 19          复制 104" bT="0" bi="title_sexz-888ex" x="-81.8" y="-119.7" kX="22.79" kY="-157.42" z="10"/>
+      <b name="图层 20          复制 102" bT="0" bi="title_sexz-888ex" x="-81.45" y="-92.45" kX="7.78" kY="-172.31" z="8"/>
+      <b name="图层 21          复制 104" bT="0" bi="title_sexz-888zizi" x="-50.3" y="-119.65" kX="98.8" kY="95.3" z="8"/>
+      <b name="图层 22          复制 104" bT="0" bi="title_sexz-888zizi" x="-79.5" y="-94.35" kX="-45.14" kY="134.65" z="11"/>
+      <b name="图层 19          复制 105" bT="0" bi="title_sexz-888ex" x="-57.45" y="-102.85" kX="22.78" kY="-157.32" z="10"/>
+      <b name="图层 20          复制 103" bT="0" bi="title_sexz-888ex" x="-72.05" y="-89.1" kX="7.78" kY="-172.31" z="12"/>
+      <b name="图层 3          复制 103" bT="0" bi="title_sexz-888zizi" x="-76.2" y="-89.85" kX="-144.95" kY="34.95" z="8"/>
+      <b name="图层 21          复制 105" bT="0" bi="title_sexz-888zizi" x="-39.6" y="-115.05" kX="98.92" kY="95.45" z="11"/>
+      <b name="图层 22          复制 105" bT="0" bi="title_sexz-888zizi" x="-69.6" y="-87.15" kX="-45.18" kY="134.72" z="15"/>
+      <b name="图层 20          复制 104" bT="0" bi="title_sexz-888ex" x="-91.55" y="-96.95" kX="7.77" kY="-172.45" z="11"/>
+      <b name="图层 19          复制 106" bT="0" bi="title_sexz-888ex" x="2.2" y="-115.85" kX="22.78" kY="-157.32" z="14"/>
+      <b name="图层 20          复制 105" bT="0" bi="title_sexz-888ex" x="-13.85" y="-100.7" kX="7.78" kY="-172.31" z="14"/>
+      <b name="图层 3          复制 104" bT="0" bi="title_sexz-888zizi" x="-18.45" y="-101.55" kX="-144.95" kY="34.95" z="12"/>
+      <b name="图层 21          复制 106" bT="0" bi="title_sexz-888zizi" x="21.85" y="-129.25" kX="98.92" kY="95.45" z="13"/>
+      <b name="图层 22          复制 106" bT="0" bi="title_sexz-888zizi" x="-11.15" y="-98.55" kX="-45.18" kY="134.72" z="18"/>
+      <b name="图层 20          复制 106" bT="0" bi="title_sexz-888ex" x="-35.3" y="-109.35" kX="7.77" kY="-172.45" z="12"/>
+      <b name="图层 19          复制 107" bT="0" bi="title_sexz-888ex" x="94.7" y="-113.75" kX="22.78" kY="-157.32" z="9"/>
+      <b name="图层 20          复制 107" bT="0" bi="title_sexz-888ex" x="80.1" y="-100" kX="7.78" kY="-172.31" z="15"/>
+      <b name="图层 3          复制 105" bT="0" bi="title_sexz-888zizi" x="75.95" y="-100.75" kX="-144.95" kY="34.95" z="9"/>
+      <b name="图层 21          复制 107" bT="0" bi="title_sexz-888zizi" x="112.55" y="-125.95" kX="98.92" kY="95.45" z="14"/>
+      <b name="图层 22          复制 107" bT="0" bi="title_sexz-888zizi" x="82.55" y="-98.05" kX="-45.18" kY="134.72" z="13"/>
+      <b name="图层 58" bT="0" bi="title_sexz-888" x="92.95" y="-91.8" kX="0" kY="0" z="15"/>
+      <b name="图层 60" bT="0" bi="title_sexz-888" x="-112.35" y="-79.75" kX="0" kY="0" z="15"/>
+      <b name="图层 68" bT="0" bi="title_sexz-888" x="4.4" y="-93.45" kX="0" kY="0" z="18"/>
+      <b name="图层 69" bT="0" bi="title_sexz-888" x="-16" y="-95.9" kX="-23.32" kY="-23.32" z="13"/>
+      <b name="图层 62" bT="0" bi="title_sexz-888" x="-7.45" y="-60.3" kX="0" kY="0" z="13"/>
+      <b name="图层 67" bT="0" bi="title_sexz-888" x="-55.6" y="-60.3" kX="0" kY="0" z="17"/>
+      <b name="图层 65" bT="0" bi="title_sexz-888" x="100.4" y="-56.65" kX="0" kY="0" z="19"/>
+      <b name="图层 66" bT="0" bi="title_sexz-888" x="84.3" y="-56.4" kX="-28.85" kY="-28.85" z="18"/>
+      <b name="图层 64" bT="0" bi="title_sexz-888" x="50.35" y="-81.35" kX="0" kY="0" z="16"/>
+      <b name="图层 63" bT="0" bi="title_sexz-888" x="43.5" y="-49.35" kX="0" kY="0" z="16"/>
+      <b name="图层 61" bT="0" bi="title_sexz-888" x="-52.9" y="-90.9" kX="0" kY="0" z="14"/>
+      <b name="图层 59" bT="0" bi="title_sexz-888" x="-89" y="-29.05" kX="0" kY="0" z="15"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="SERXZ">
+      <mov name="SERXZ" to="1" dr="54" drTW="54" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="title_sexz-wenzi" dr="53"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="guangquan" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="title_sexz-guangquan" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="20.5" y="-20" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="20.5" y="-20" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="48.75" y="-28.05" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="5"/>
+          <f x="48.75" y="-28.05" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="77.5" y="-20.8" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="5"/>
+          <f x="77.5" y="-20.8" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="99.25" y="1.2" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="99.25" y="1.2" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="76.75" y="79" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="76.75" y="79" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="48.75" y="87.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="5"/>
+          <f x="48.75" y="87.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="19.75" y="80.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="5"/>
+          <f x="19.75" y="80.5" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 19          复制 10" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="2" img="title_sexz-888ex" twE="0" dr="17"/>
+          <f x="-19.4" y="-17.5" kX="0" kY="0.01" cX="0.22" cY="0.27" z="2" dr="1"/>
+          <f dr="12" hide="1"/>
+          <f x="167" y="4.5" kX="0" kY="0" cX="2.52" cY="3.11" z="1" twE="0" dr="17"/>
+          <f x="147.6" y="-13" kX="0" kY="0.01" cX="0.22" cY="0.27" z="1" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 20          复制 10" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="2" img="title_sexz-888ex" twE="0" dr="15"/>
+          <f x="-22.4" y="-9" kX="0" kY="-0.01" cX="0.22" cY="0.27" z="2" dr="1"/>
+          <f dr="14" hide="1"/>
+          <f x="167" y="4.5" kX="0" kY="0" cX="2.52" cY="3.11" z="1" twE="0" dr="6"/>
+          <f x="157.95" y="0.85" kX="-0.02" kY="-0.14" cX="1.6" cY="1.97" z="1" twE="0" dr="1"/>
+          <f x="156.55" y="0.2" kX="-0.02" kY="-0.14" cX="1.45" cY="1.78" z="5" twE="0" dr="8"/>
+          <f x="144.6" y="-4.5" kX="0" kY="-0.01" cX="0.22" cY="0.27" z="5" dr="1"/>
+          <f dr="45" hide="1"/>
+        </b>
+        <b name="图层 3          复制 10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.99" z="3" img="title_sexz-888zizi" twE="0" dr="15"/>
+          <f x="7.65" y="-25.2" kX="0" kY="0" cX="0.21" cY="0.26" z="3" dr="1"/>
+          <f dr="14" hide="1"/>
+          <f x="167" y="4.5" kX="0" kY="0" cX="1.62" cY="1.99" z="3" twE="0" dr="15"/>
+          <f x="174.65" y="-20.7" kX="0" kY="0" cX="0.21" cY="0.26" z="3" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 21          复制 10" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.61" cY="1.55" z="2" img="title_sexz-888zizi" twE="0" dr="15"/>
+          <f x="-9.4" y="-9.4" kX="0" kY="0.01" cX="0.21" cY="0.2" z="2" dr="1"/>
+          <f dr="14" hide="1"/>
+          <f x="167" y="4.5" kX="0" kY="0" cX="1.61" cY="1.55" z="2" twE="0" dr="10"/>
+          <f x="160.75" y="-1.7" kX="-0.12" kY="-0.15" cX="0.68" cY="0.65" z="2" twE="0" dr="1"/>
+          <f x="160.15" y="-2.25" kX="-0.13" kY="-0.15" cX="0.58" cY="0.56" z="5" twE="0" dr="4"/>
+          <f x="157.6" y="-4.9" kX="0" kY="0.01" cX="0.21" cY="0.2" z="6" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="图层 22          复制 10" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="1.55" z="4" img="title_sexz-888zizi" twE="0" dr="18"/>
+          <f x="-0.55" y="-6.35" kX="0" kY="0.01" cX="0.16" cY="0.2" z="4" dr="1"/>
+          <f dr="11" hide="1"/>
+          <f x="167" y="4.5" kX="0" kY="0" cX="1.26" cY="1.55" z="3" twE="0" dr="18"/>
+          <f x="166.45" y="-1.85" kX="0" kY="0.01" cX="0.16" cY="0.2" z="3" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 19          复制 100" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="4" img="title_sexz-888ex" twE="0" dr="17"/>
+          <f x="-19.4" y="-17.5" kX="0" kY="0.01" cX="0.22" cY="0.27" z="5" dr="1"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="图层 20          复制 100" sc="1" dl="0">
+          <f dr="30" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="6" img="title_sexz-888ex" twE="0" dr="15"/>
+          <f x="-22.4" y="-9" kX="0" kY="-0.01" cX="0.22" cY="0.27" z="6" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 3          复制 100" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.99" z="4" img="title_sexz-888zizi" twE="0" dr="15"/>
+          <f x="7.65" y="-25.2" kX="0" kY="0" cX="0.21" cY="0.26" z="4" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+        <b name="图层 21          复制 100" sc="1" dl="0">
+          <f dr="26" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.61" cY="1.55" z="6" img="title_sexz-888zizi" twE="0" dr="15"/>
+          <f x="-9.4" y="-9.4" kX="0" kY="0.01" cX="0.21" cY="0.2" z="6" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="图层 22          复制 100" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="1.55" z="7" img="title_sexz-888zizi" twE="0" dr="18"/>
+          <f x="-0.55" y="-6.35" kX="0" kY="0.01" cX="0.16" cY="0.2" z="7" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 19          复制 101" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="4" img="title_sexz-888ex" twE="0" dr="12"/>
+          <f x="-13.8" y="-12.45" kX="0.01" kY="-0.11" cX="0.9" cY="1.1" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3          复制 101" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.99" z="5" img="title_sexz-888zizi" twE="0" dr="14"/>
+          <f x="7.3" y="-23.25" kX="0.03" kY="-0.08" cX="0.3" cY="0.37" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="图层 21          复制 101" sc="1" dl="0">
+          <f dr="52" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.61" cY="1.55" z="6" img="title_sexz-888zizi" twE="0" dr="1"/>
+          <f x="-0.6" y="-0.65" kX="-0.12" kY="-0.15" cX="1.52" cY="1.46" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22          复制 101" sc="1" dl="0">
+          <f dr="43" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="1.55" z="7" img="title_sexz-888zizi" twE="0" dr="10"/>
+          <f x="-0.4" y="-3.5" kX="0.04" kY="-0.07" cX="0.65" cY="0.8" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="图层 19          复制 102" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.76" cY="0.94" z="6" img="title_sexz-888ex" twE="0" dr="4"/>
+          <f x="-4.45" y="-4" kX="-0.01" kY="0.11" cX="0.22" cY="0.27" z="7" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="图层 20          复制 101" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="7" img="title_sexz-888ex" twE="0" dr="15"/>
+          <f x="-22.4" y="-9" kX="0" kY="-0.01" cX="0.22" cY="0.27" z="9" dr="1"/>
+          <f dr="36" hide="1"/>
+        </b>
+        <b name="图层 21          复制 102" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.42" cY="1.37" z="6" img="title_sexz-888zizi" twE="0" dr="13"/>
+          <f x="-8.1" y="-8.15" kX="0.12" kY="0.16" cX="0.21" cY="0.2" z="8" dr="1"/>
+          <f dr="40" hide="1"/>
+        </b>
+        <b name="图层 22          复制 102" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.59" cY="0.73" z="8" img="title_sexz-888zizi" twE="0" dr="7"/>
+          <f x="-0.05" y="-2.5" kX="-0.04" kY="0.08" cX="0.16" cY="0.2" z="8" dr="1"/>
+          <f dr="46" hide="1"/>
+        </b>
+        <b name="图层 19          复制 103" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="8" img="title_sexz-888ex" twE="0" dr="12"/>
+          <f x="-13.8" y="-12.45" kX="0.01" kY="-0.11" cX="0.9" cY="1.1" z="7" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3          复制 102" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.99" z="9" img="title_sexz-888zizi" twE="0" dr="14"/>
+          <f x="7.3" y="-23.25" kX="0.03" kY="-0.08" cX="0.3" cY="0.37" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="图层 21          复制 103" sc="1" dl="0">
+          <f dr="52" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.61" cY="1.55" z="10" img="title_sexz-888zizi" twE="0" dr="1"/>
+          <f x="-0.6" y="-0.65" kX="-0.12" kY="-0.15" cX="1.52" cY="1.46" z="9" twE="0" dr="1"/>
+        </b>
+        <b name="图层 22          复制 103" sc="1" dl="0">
+          <f dr="43" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="1.55" z="11" img="title_sexz-888zizi" twE="0" dr="10"/>
+          <f x="-0.4" y="-3.5" kX="0.04" kY="-0.07" cX="0.65" cY="0.8" z="10" twE="0" dr="1"/>
+        </b>
+        <b name="图层 19          复制 104" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.76" cY="0.94" z="10" img="title_sexz-888ex" twE="0" dr="4"/>
+          <f x="-4.45" y="-4" kX="-0.01" kY="0.11" cX="0.22" cY="0.27" z="11" dr="1"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="图层 20          复制 102" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="8" img="title_sexz-888ex" twE="0" dr="15"/>
+          <f x="-22.4" y="-9" kX="0" kY="-0.01" cX="0.22" cY="0.27" z="10" dr="1"/>
+          <f dr="36" hide="1"/>
+        </b>
+        <b name="图层 21          复制 104" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.42" cY="1.37" z="8" img="title_sexz-888zizi" twE="0" dr="13"/>
+          <f x="-8.1" y="-8.15" kX="0.12" kY="0.16" cX="0.21" cY="0.2" z="10" dr="1"/>
+          <f dr="40" hide="1"/>
+        </b>
+        <b name="图层 22          复制 104" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.59" cY="0.73" z="11" img="title_sexz-888zizi" twE="0" dr="7"/>
+          <f x="-0.05" y="-2.5" kX="-0.04" kY="0.08" cX="0.16" cY="0.2" z="11" dr="1"/>
+          <f dr="46" hide="1"/>
+        </b>
+        <b name="图层 19          复制 105" sc="1" dl="0">
+          <f dr="26" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="10" img="title_sexz-888ex" twE="0" dr="17"/>
+          <f x="-19.4" y="-17.5" kX="0" kY="0.01" cX="0.22" cY="0.27" z="13" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 20          复制 103" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="12" img="title_sexz-888ex" twE="0" dr="12"/>
+          <f x="-18.05" y="-7.15" kX="-0.02" kY="-0.14" cX="0.68" cY="0.84" z="11" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3          复制 103" sc="1" dl="0">
+          <f dr="24" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.99" z="8" img="title_sexz-888zizi" twE="0" dr="15"/>
+          <f x="7.65" y="-25.2" kX="0" kY="0" cX="0.21" cY="0.26" z="10" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 21          复制 105" sc="1" dl="0">
+          <f dr="37" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.61" cY="1.55" z="11" img="title_sexz-888zizi" twE="0" dr="15"/>
+          <f x="-9.4" y="-9.4" kX="0" kY="0.01" cX="0.21" cY="0.2" z="13" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22          复制 105" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="1.55" z="15" img="title_sexz-888zizi" twE="0" dr="18"/>
+          <f x="-0.55" y="-6.35" kX="0" kY="0.01" cX="0.16" cY="0.2" z="13" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 20          复制 104" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.65" z="11" img="title_sexz-888ex" twE="0" dr="2"/>
+          <f x="-2.9" y="-1.15" kX="0.01" kY="0.13" cX="0.22" cY="0.27" z="14" dr="1"/>
+          <f dr="51" hide="1"/>
+        </b>
+        <b name="图层 19          复制 106" sc="1" dl="0">
+          <f dr="26" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.78" cY="3.42" z="14" img="title_sexz-888ex" twE="0" dr="17"/>
+          <f x="-21.35" y="-19.25" kX="0" kY="0.01" cX="0.24" cY="0.3" z="17" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 20          复制 105" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.78" cY="3.42" z="14" img="title_sexz-888ex" twE="0" dr="12"/>
+          <f x="-19.85" y="-7.85" kX="-0.02" kY="-0.14" cX="0.75" cY="0.92" z="12" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3          复制 104" sc="1" dl="0">
+          <f dr="24" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.78" cY="2.19" z="12" img="title_sexz-888zizi" twE="0" dr="15"/>
+          <f x="8.45" y="-27.7" kX="0" kY="0.01" cX="0.23" cY="0.29" z="14" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 21          复制 106" sc="1" dl="0">
+          <f dr="37" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.77" cY="1.7" z="13" img="title_sexz-888zizi" twE="0" dr="15"/>
+          <f x="-10.35" y="-10.35" kX="0" kY="0.01" cX="0.23" cY="0.22" z="15" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22          复制 106" sc="1" dl="0">
+          <f dr="28" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.39" cY="1.71" z="18" img="title_sexz-888zizi" twE="0" dr="18"/>
+          <f x="-0.6" y="-7" kX="0" kY="0.01" cX="0.18" cY="0.22" z="16" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 20          复制 106" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.58" cY="0.71" z="12" img="title_sexz-888ex" twE="0" dr="2"/>
+          <f x="-3.2" y="-1.25" kX="0.01" kY="0.14" cX="0.24" cY="0.3" z="15" dr="1"/>
+          <f dr="51" hide="1"/>
+        </b>
+        <b name="图层 19          复制 107" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="9" img="title_sexz-888ex" twE="0" dr="17"/>
+          <f x="-19.4" y="-17.5" kX="0" kY="0.01" cX="0.22" cY="0.27" z="9" dr="1"/>
+          <f dr="28" hide="1"/>
+        </b>
+        <b name="图层 20          复制 107" sc="1" dl="0">
+          <f dr="23" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.52" cY="3.11" z="15" img="title_sexz-888ex" twE="0" dr="15"/>
+          <f x="-22.4" y="-9" kX="0" kY="-0.01" cX="0.22" cY="0.27" z="15" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 3          复制 105" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.62" cY="1.99" z="9" img="title_sexz-888zizi" twE="0" dr="15"/>
+          <f x="7.65" y="-25.2" kX="0" kY="0" cX="0.21" cY="0.26" z="9" dr="1"/>
+          <f dr="32" hide="1"/>
+        </b>
+        <b name="图层 21          复制 107" sc="1" dl="0">
+          <f dr="19" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.61" cY="1.55" z="14" img="title_sexz-888zizi" twE="0" dr="15"/>
+          <f x="-9.4" y="-9.4" kX="0" kY="0.01" cX="0.21" cY="0.2" z="15" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="图层 22          复制 107" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="1.55" z="13" img="title_sexz-888zizi" twE="0" dr="18"/>
+          <f x="-0.55" y="-6.35" kX="0" kY="0.01" cX="0.16" cY="0.2" z="15" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+        <b name="图层 58" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="title_sexz-888" twE="0" dr="6"/>
+          <f x="-14.55" y="-11.85" kX="0" kY="0" cX="3.38" cY="3.38" z="19" twE="0" dr="15"/>
+          <f x="-20.55" y="7" kX="-43.48" kY="-43.48" cX="3.37" cY="3.38" z="14" twE="0" dr="6"/>
+          <f x="-5.8" y="11.1" kX="-66.2" kY="-66.2" cX="1.69" cY="1.69" z="16" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 60" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.15" cY="1.15" z="15" img="title_sexz-888" twE="0" dr="5"/>
+          <f x="-16.8" y="-13.65" kX="0" kY="0" cX="3.89" cY="3.89" z="14" twE="0" dr="13"/>
+          <f x="-23.7" y="8.05" kX="-43.48" kY="-43.48" cX="3.89" cY="3.89" z="11" twE="0" dr="5"/>
+          <f x="-6.7" y="12.75" kX="-66.2" kY="-66.2" cX="1.94" cY="1.94" z="11" dr="1"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 68" sc="1" dl="0">
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="1.04" z="18" img="title_sexz-888" twE="0" dr="5"/>
+          <f x="-15.1" y="-12.3" kX="0" kY="0" cX="3.5" cY="3.5" z="17" twE="0" dr="6"/>
+          <f x="-19.8" y="-4" kX="-20.04" kY="-20.04" cX="3.5" cY="3.5" z="13" twE="0" dr="1"/>
+        </b>
+        <b name="图层 69" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.49" cY="3.49" z="13" img="title_sexz-888" twE="0" dr="6"/>
+          <f x="-0.9" y="9.7" kX="-20.16" kY="-20.16" cX="3.5" cY="3.5" z="13" twE="0" dr="5"/>
+          <f x="14.4" y="13.9" kX="-42.88" kY="-42.88" cX="1.75" cY="1.75" z="13" dr="1"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="图层 62" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="13" img="title_sexz-888" twE="0" dr="4"/>
+          <f x="-11.65" y="-9.45" kX="0" kY="0" cX="2.7" cY="2.7" z="16" twE="0" dr="9"/>
+          <f x="-16.45" y="5.6" kX="-43.48" kY="-43.48" cX="2.7" cY="2.7" z="17" twE="0" dr="4"/>
+          <f x="-4.65" y="8.9" kX="-66.2" kY="-66.2" cX="1.35" cY="1.35" z="16" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 67" sc="1" dl="0">
+          <f dr="35" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="17" img="title_sexz-888" twE="0" dr="4"/>
+          <f x="-11.65" y="-9.45" kX="0" kY="0" cX="2.7" cY="2.7" z="18" twE="0" dr="9"/>
+          <f x="-16.45" y="5.6" kX="-43.48" kY="-43.48" cX="2.7" cY="2.7" z="16" twE="0" dr="4"/>
+          <f x="-4.65" y="8.9" kX="-66.2" kY="-66.2" cX="1.35" cY="1.35" z="18" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 65" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="19" img="title_sexz-888" twE="0" dr="4"/>
+          <f x="-11.65" y="-9.45" kX="0" kY="0" cX="2.7" cY="2.7" z="19" twE="0" dr="5"/>
+          <f x="-15.8" y="-1.45" kX="-24.07" kY="-24.07" cX="2.7" cY="2.7" z="14" twE="0" dr="1"/>
+        </b>
+        <b name="图层 66" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.7" cY="2.7" z="18" img="title_sexz-888" twE="0" dr="3"/>
+          <f x="-0.35" y="5.35" kX="-14.63" kY="-14.63" cX="2.7" cY="2.7" z="15" twE="0" dr="4"/>
+          <f x="11.45" y="8.65" kX="-37.35" kY="-37.35" cX="1.35" cY="1.35" z="15" dr="1"/>
+          <f dr="46" hide="1"/>
+        </b>
+        <b name="图层 64" sc="1" dl="0">
+          <f dr="24" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="16" img="title_sexz-888" twE="0" dr="4"/>
+          <f x="-11.65" y="-9.45" kX="0" kY="0" cX="2.7" cY="2.7" z="16" twE="0" dr="9"/>
+          <f x="-16.45" y="5.6" kX="-43.48" kY="-43.48" cX="2.7" cY="2.7" z="17" twE="0" dr="4"/>
+          <f x="-4.65" y="8.9" kX="-66.2" kY="-66.2" cX="1.35" cY="1.35" z="21" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="图层 63" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="16" img="title_sexz-888" twE="0" dr="4"/>
+          <f x="-11.65" y="-9.45" kX="0" kY="0" cX="2.7" cY="2.7" z="19" twE="0" dr="13"/>
+          <f x="-16.45" y="5.6" kX="-43.48" kY="-43.48" cX="2.7" cY="2.7" z="21" twE="0" dr="4"/>
+          <f x="-4.65" y="8.9" kX="-66.2" kY="-66.2" cX="1.35" cY="1.35" z="24" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 61" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="14" img="title_sexz-888" twE="0" dr="4"/>
+          <f x="-11.65" y="-9.45" kX="0" kY="0" cX="2.7" cY="2.7" z="14" twE="0" dr="9"/>
+          <f x="-16.45" y="5.6" kX="-43.48" kY="-43.48" cX="2.7" cY="2.7" z="16" twE="0" dr="4"/>
+          <f x="-4.65" y="8.9" kX="-66.2" kY="-66.2" cX="1.35" cY="1.35" z="17" dr="1"/>
+          <f dr="28" hide="1"/>
+        </b>
+        <b name="图层 59" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="15" img="title_sexz-888" twE="0" dr="4"/>
+          <f x="-11.65" y="-9.45" kX="0" kY="0" cX="2.7" cY="2.7" z="18" twE="0" dr="13"/>
+          <f x="-16.45" y="5.6" kX="-43.48" kY="-43.48" cX="2.7" cY="2.7" z="19" twE="0" dr="4"/>
+          <f x="-4.65" y="8.9" kX="-66.2" kY="-66.2" cX="1.35" cY="1.35" z="23" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="十二星尊称号" width="512" height="256">
+    <SubTexture name="title_sexz-wenzi" x="0" y="0" width="233" height="149" pX="0" pY="0"/>
+    <SubTexture name="title_sexz-guangquan" x="234" y="0" width="33" height="33" pX="6.1" pY="6.25"/>
+    <SubTexture name="title_sexz-888ex" x="282" y="0" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="title_sexz-888zizi" x="268" y="0" width="13" height="12" pX="0" pY="0"/>
+    <SubTexture name="title_sexz-888" x="296" y="0" width="13" height="12" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

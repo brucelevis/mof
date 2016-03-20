@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="124" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="2 +" tilewidth="64" tileheight="64">
+  <image source="502232_2.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="17" name="1" tilewidth="64" tileheight="64">
+  <image source="rongyangaodi_1.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="33" name="2" tilewidth="64" tileheight="64">
+  <image source="rongyangaodi_2.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="49" name="7" tilewidth="64" tileheight="64">
+  <image source="rongyangaodi_7.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="65" name="3" tilewidth="64" tileheight="64">
+  <image source="rongyangaodi_3.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="81" name="5" tilewidth="64" tileheight="64">
+  <image source="rongyangaodi_5.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="97" name="6" tilewidth="64" tileheight="64">
+  <image source="rongyangaodi_6.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="113" name="4" tilewidth="64" tileheight="64">
+  <image source="rongyangaodi_4.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="129" name="8" tilewidth="64" tileheight="64">
+  <image source="rongyangaodi_8.png" width="128" height="128"/>
+ </tileset>
+ <layer name="块层 1" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8kNgDAQwMAlkIOb/qvFTeSz8kh+OEKSJEmSJM22UKGVNj/9V2rUafjpf6eDTrr89H/TQy99fvr/AT0jEHk=
+  </data>
+ </layer>
+ <layer name="块层 8" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkLEOgzAMBfnVFloo0ML/T02GSJEw9iXy6JOyRPbZz8Nw5SH8SYzpTbBWco6wV2Ny8mTKjiQTvZFFfcMeJ8lueV9w1pzeAmsl5wx7NRYnT6bsSDLRG1nUN+xxkuyW9wNnbentsFZybrBXY3fyZMqOJBO9kUV9wx4nyW55v3DWkd4JayXnAXs1TidPpuxIMtEbWdQ37HGS7Jb3CWetsO7O2dLvtYcGzd1aq1Hv3uMk2S3vG876wbo7Z0u/1x4aNHdrrUa9e4+TZPfaNQiCIAiCIAgCX/7OYCFl
+  </data>
+ </layer>
+ <layer name="块层 5" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0EkNACAQA8BaAsVIRQMPdhOYMdAjAQB+M5L1Wn71pu4PT8zmrjfyqzd1fwgAAPTYSi8GjQ==
+  </data>
+ </layer>
+ <layer name="块层 2" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8kNgDAQBEEnwWlsyD9KJgxYVUn96NYAAPiyJa1pS7sv/0c6U0+XL/8jzXSnx5d/AOB/XkvtJoM=
+  </data>
+ </layer>
+ <layer name="块层 3" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztz0cOgDAQBEG+Qs7h/69jLtxYMDIYhLukPoE03iQBAMQkU3mk+3+8PVWF8a1UlapVc/PuV/YtV7eP7gixb9neNapJzWox/m1Vp3o1eGzueXv/jOu2yx1P7od+FwAAAAB/KwzlCiE=
+  </data>
+ </layer>
+ <layer name="块层 4" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztz0sKwCAQBFEvZX7G6P1PlV4LQiAIzVAPaj09KQEAAMxltaldHQHuOGxx+nV0qksVdQe447DF6ddRVY9qqge488XqLU6/AgAA4L8XqKkK+Q==
+  </data>
+ </layer>
+ <layer name="块层 6" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0EkKgDAQRNG+morzeKQc3QIJiqhIHBD5D2ojSaVbs1mtNBZmMHO90imtUupbFdil+6Ye66fey7Mt+blSJVNypdg5u3zzyj7e1l4hjv7Feq875gYAAP8UKbGSvHTvDHU6dTu94R6ov8WT+wMAAAD4lhGwchEj
+  </data>
+ </layer>
+ <layer name="块层 7" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkeEKgzAMhH1F59ym1T1LHn1XZqBkSZywHw7ug2Bpc71r7DpCCCGEEPKP9KiLs39PNBNq/mGGZcdPgafAW6Lz6C2VKHOm0UzL9kWf9Im/ZS+v9fk219H7B9R1W4+om9NTmvXDnK2op6PBnTI4/lbvUd59H9oWeMqa9ERvqdjMOoNIU7MUs4c+GQ/87yivnZP6tHPSXNFMs/sJIYQQQsj5eQFtoCIo
+  </data>
+ </layer>
+ <layer name="Foreground1" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0EkKgDAQRNG+svMQp6NboIgLkyg4Lf6D2gTS1YkZAAAAAAAAgKdUZlOpfLlDuezxe2/91R09iZIqmZKvZ51mOqVVmt38XhmU8WBOodQXe0L31WvqN7fss+kje5wR2+WIr9P3V1ffG+PrCfXtO2YwIiXu
+  </data>
+ </layer>
+ <layer name="Foreground2" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzskJACAMAMG07lG4diABIQozsP+NAAAAAAA4a7tePZH04/Mrxm5WTyTdfl6wUgQV
+  </data>
+ </layer>
+ <objectgroup name="bg" width="124" height="12">
+  <object name="rongyangaodi_bg" x="0" y="0" width="512" height="512"/>
+  <object name="rongyangaodi_bg" x="512" y="0" width="512" height="512"/>
+  <object name="rongyangaodi_bg" x="1024" y="0" width="512" height="512"/>
+  <object name="rongyangaodi_bg" x="1536" y="0" width="512" height="512"/>
+  <object name="rongyangaodi_bg" x="2048" y="0" width="512" height="512"/>
+  <object name="rongyangaodi_bg" x="2560" y="0" width="512" height="512"/>
+  <object name="rongyangaodi_bg" x="3072" y="0" width="512" height="512"/>
+  <object name="rongyangaodi_bg" x="3584" y="0" width="512" height="512"/>
+  <object name="rongyangaodi_bg" x="4096" y="0" width="512" height="512"/>
+ </objectgroup>
+ <objectgroup name="mg" width="124" height="12">
+  <object name="rongyangaodi_mg1" x="264" y="259" width="128" height="128"/>
+  <object name="rongyangaodi_mg2" x="693" y="274" width="128" height="128"/>
+  <object name="rongyangaodi_mg1" x="1140" y="249" width="128" height="128"/>
+  <object name="rongyangaodi_mg2" x="1512" y="268" width="128" height="128"/>
+  <object name="rongyangaodi_mg1" x="2004" y="246" width="128" height="128"/>
+  <object name="rongyangaodi_mg2" x="2406" y="249" width="128" height="128"/>
+  <object name="rongyangaodi_mg1" x="2867" y="256" width="128" height="128"/>
+  <object name="rongyangaodi_mg2" x="3343" y="290" width="128" height="128"/>
+  <object name="rongyangaodi_mg1" x="3809" y="253" width="128" height="128"/>
+  <object name="rongyangaodi_mg2" x="4196" y="246" width="128" height="128"/>
+  <object name="rongyangaodi_mg2" x="4589" y="261" width="128" height="128"/>
+  <object name="rongyangaodi_mg2" x="4919" y="259" width="128" height="128"/>
+  <object name="rongyangaodi_mg1" x="5487" y="247" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup name="area" width="78" height="13">
+  <object x="6" y="416" width="1536" height="352"/>
+ </objectgroup>
+ <objectgroup name="AreaBornPoint" width="78" height="13"/>
+ <objectgroup name="monster" width="78" height="13">
+  <object name="111137" x="1100" y="577"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="BanChat.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="658" topLine="21" />
+	</File>
+	<File name="BanChat.h" open="1" top="0" tabpos="4">
+		<Cursor position="320" topLine="2" />
+	</File>
+	<File name="BanRole.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="650" topLine="1" />
+	</File>
+	<File name="BanRole.h" open="1" top="0" tabpos="3">
+		<Cursor position="460" topLine="9" />
+	</File>
+	<File name="GmTaskManager.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="4665" topLine="161" />
+	</File>
+	<File name="ModGM.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="603" topLine="3" />
+	</File>
+	<File name="ModGM.h" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Notify.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="240" topLine="55" />
+	</File>
+	<File name="async_func.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="6487" topLine="212" />
+	</File>
+	<File name="async_func.h" open="0" top="0" tabpos="1">
+		<Cursor position="952" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="stdafx.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="78" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="用到的素材1" tilewidth="64" tileheight="64">
+  <image source="504217_1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="65" name="用到的素材2" tilewidth="64" tileheight="64">
+  <image source="504217_2.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="129" name="用到的素材3" tilewidth="64" tileheight="64">
+  <image source="504217_3.png" width="512" height="512"/>
+ </tileset>
+ <layer name="树3" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkLcOgjEMhPPqtIE20AbaQFuACZiAh+OGSFgh/uMT8hZL33IXx2eH8K0WaIMO6IKe8KRuee9RuQwW30OXO/fBAAzBCIzje1bX7pnqzO7arJLvpUt/AqZgBuZgEXtYnc1kuY02q+R76dJfghVYgw3Yxh5WZzNZbqPNKvleuvR3YA8O4AhOsYfV2UyW22izSr6XnstxCb91jvo146Xv2UylPkuGJt9DT3e+gXsmE6uHzN9SZ3eXsx5Kr+Z76OnOT/ACb0VPS3tfujO7e9Osku+hN+X4p9hMVr9WrVq1rPUBspfv+Q==
+  </data>
+ </layer>
+ <layer name="后面的花3" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzjEOACAIQ1FPr07qkXWzcSkkjv8lDGgKlAIAwNVOdemrvNXn3/UuH5kR3Z+9zd2Vzc5TS/JD3sbz73qXj8yI7s/e9jsLAIDa5QJBuQ==
+  </data>
+ </layer>
+ <layer name="树1" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztlkcLwkAQRic2sIIVrGCFWA62g+3//y2/QIKLrrNBZoKHffAu32MWcgsRUQ7mYQEW6YX2HhFYeolp3J2r2XZX+7aXYQVWYQ3W43e0d2J6I8XtL03ypglbsA07sAt7GewJXJdukjd9OIBDOIJjOMlgT+C6dJO8mcIZnMMFXMJVBnsC16Wb5E0I13ADt3AXv6O9U4ou3aRvIo7wRJ9o73t4MPpZsdl2V+NuIm7wbvku7f0Cr0Z/KDbb7mrcjcdjEhiavP97ezz/zhOWyjlt
+  </data>
+ </layer>
+ <layer name="前面的花花3" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzTsOwCAMg2Huf59CFx5Hq7uVDCCrjP8neYgITkoAAMwuJStFuQ/Mu/6/952/Tm+8sdp/VaUpXRkH5sh9d/p3u05vvLHaBwDg6wGBFl65
+  </data>
+ </layer>
+ <layer name="石头1" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkDEOgDAMA/saygRMhf+/DC8skZrY3ZB8kpf07KGtGWOMMXM6shO31a0ZW+GzW13sKX50Pw7kRK7ixqD2Mp/dil7VU/zsbSA38hQ3BrWX+exW9Kqe4q/+gzHG/I0XiQMOuQ==
+  </data>
+ </layer>
+ <layer name="地面2" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0kkKgDAUBNFc1xE0UXA8u3WDvzSBKnibXndKZmZmZv/UoceAERNm93BfsCKjYMPuHu4HTly48eB1D/fa/t/KXtv/W9k/L4Gthg==
+  </data>
+ </layer>
+ <layer name="花花草草2" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztyLENwCAQwMBfkwCRIIH9R8AbUNAhn+TGEZIk6VSihzIVqvT6t79Rp49+GjT92y9Jt1q1Bzoz
+  </data>
+ </layer>
+ <objectgroup name="monster" width="78" height="12">
+  <object name="50040" x="716" y="544"/>
+  <object name="50040" x="716" y="672"/>
+  <object name="50042" x="1089" y="676"/>
+  <object name="50042" x="1089" y="548"/>
+  <object name="50040" x="844" y="544"/>
+  <object name="50040" x="844" y="672"/>
+  <object name="50041" x="974" y="548"/>
+  <object name="50042" x="2420" y="528"/>
+  <object name="50040" x="2842" y="695"/>
+  <object name="50042" x="2418" y="690"/>
+  <object name="50042" x="2550" y="530"/>
+  <object name="50040" x="2696" y="687"/>
+  <object name="50042" x="2550" y="690"/>
+  <object name="50041" x="2696" y="524"/>
+  <object name="50040" x="2842" y="525"/>
+  <object name="50041" x="4138" y="684"/>
+  <object name="50040" x="4276" y="521"/>
+  <object name="50040" x="4275" y="691"/>
+  <object name="50042" x="4403" y="525"/>
+  <object name="50042" x="4403" y="691"/>
+  <object name="50042" x="4531" y="525"/>
+  <object name="50042" x="4531" y="691"/>
+  <object name="50042" x="968" y="671"/>
+  <object name="50042" x="4145" y="514"/>
+ </objectgroup>
+ <objectgroup name="area" width="78" height="12">
+  <object x="3" y="448" width="1536" height="320"/>
+  <object x="1731" y="446" width="1536" height="320"/>
+  <object x="3453" y="446" width="1536" height="320"/>
+ </objectgroup>
+ <objectgroup name="bg" width="78" height="12">
+  <object name="504217_bg" x="0" y="128" width="1200" height="512"/>
+ </objectgroup>
+ <objectgroup name="AreaBornPoint" width="78" height="12">
+  <object x="1836" y="606"/>
+  <object x="3560" y="608"/>
+ </objectgroup>
+</map>

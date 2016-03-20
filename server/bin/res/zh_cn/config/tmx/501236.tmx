@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="124" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="0" tilewidth="64" tileheight="64">
+  <image source="yinglingmudi_0.png" width="256" height="257"/>
+ </tileset>
+ <tileset firstgid="17" name="502220_8" tilewidth="64" tileheight="64">
+  <image source="502220_8.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="33" name="1" tilewidth="64" tileheight="64">
+  <image source="yinglingmudi_1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="97" name="2" tilewidth="64" tileheight="64">
+  <image source="yinglingmudi_2.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="113" name="3" tilewidth="64" tileheight="64">
+  <image source="yinglingmudi_3.png" width="256" height="255"/>
+ </tileset>
+ <tileset firstgid="125" name="502220_1" tilewidth="64" tileheight="64">
+  <image source="502220_1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="189" name="501211_8" tilewidth="64" tileheight="64">
+  <image source="501211_8.png" width="256" height="256"/>
+ </tileset>
+ <layer name="块层 1" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8kNgDAQwMBtgUAObvqvEjeRz8oj+eEISZIkSZI020KFVtr89F+pUafhp/+dDjrp8tP/TQ+99Pnp/weiKy95
+  </data>
+ </layer>
+ <layer name="块层 2" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx9ENgCAQwFBQFBEV95+WrsGlL+lHU5IkSavJtNFOxQ//B51U6fLDf6ObOj1++H/po0G/H/4lSdJ6JuaUEHk=
+  </data>
+ </layer>
+ <layer name="块层 11" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztjrkNwEAMw27xPE2eJs/I0QBufCc3AQmwFO3WAADg70xylotcDbveXmY7csPZqGxGLUd/k7s85GnY9fYy25EbzkZlM2o5+pe85SNfw663l9mO3HA2KptRq+JnAAAAAACo5QPGozi/
+  </data>
+ </layer>
+ <layer name="块层 10" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzkEKgDAMBMB+XT2pn27PPRRSEkSYgVw2YUlrAMDfnGOuKTuC+Wqf2ZVlp7vin0hn1u0z5p2yO5iv9pldWXa6K/6JdFbdAgAA3+msQiSn
+  </data>
+ </layer>
+ <layer name="块层 7" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkLEJwDAMBLNN0jmdM55Gj2qDrcdfBMIdqLFfOqHjAACAP3NmXUYm3yP/Y9WvZHb9imfWv9rLvUuF61ZnjbSs28jke7TCpWR2/Ypn1r/ay71LhetWZ430rMfI5Hv0wqVkdv2KZ9a/2su9S4XrVmcBAAAAAMD3vGQBIHo=
+  </data>
+ </layer>
+ <layer name="块层 3" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkEsOAjEMQ3vV8h0YYDhCjo6larZtMnZZ5Uld2nluLcWKmIp3wjsfyCJjyFodeDE3lB0jvHsYIjuuEzzQWW549wNZZAxZG3kxN5QdI7x7GCI7HhM80FmeRB5ZG3mxN1QdHjx7GCI73hM80Fk+RB5ZG3mxN1QdHjx7GCI7XvBYhS5r66TpeSluqDy9qP95J7rjC4dN6LG1Tpqel+KGytOL+p93ojsucFiEHkvrpOl5KW6oPL2o/3nn3zuSJEmSJEmSufwA5ytATw==
+  </data>
+ </layer>
+ <layer name="块层 4" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkTkOwkAQBPcrHIkhMkSGyBBxJAYe1E+npJWAdK1pommp0trSbCnfLWAJK1iXuOESTuEWbyhQ/Zmr3eF1OOfcuIMNbIMafodTuNWZ/tvV7vC6Wltv3MMO9sEdpTqFW73pv13tDq+rtfXGAxzgGNxRqlO4NZj+29Xu8LpaW288wgnOwR2lOoVbo+m/Xe0Or6u19cYXuMIN7oEduIRTuHUx/ber3eF1OOfceIIHPOEV1FGqSziFW5Ppv13tDq/D+Y8b53K5XC6Xy+X8ewNNPjkl
+  </data>
+ </layer>
+ <layer name="块层 5" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkDEOwkAQA/0YoApUCVWgCvwh5DN+OpZoTzrp1itR7Egux7IMFMWPk3JWLoO+PMqnepi1IbrR3ZPdCXh+bTEpV+U26MujfE6BXb0N0Y3unuxOwPNri1lZlPugL4/yOQd29TZEN7p7sjsBz68tVuWhPAd9eZTPNbCrtyG60d2T3Ql4fm2xKS/lPejLo3xugV29DdGN7p7sTsDza4td+SjHoC+P8rkHdvU2RDe6e7I7Ac+vRVEURVEUxX/yBaX0LyA=
+  </data>
+ </layer>
+ <layer name="块层 6" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0DEOwCAIhWFvVje72SNx9L7RrUIgJs3/JU48AW0NAAD81aXTA7WMfOUc1U05q9zj656n3262B961Gjp3oJaRr5yjug3nv2Tv7+m3m428azV1nkAtI185R3Wbzn/J3t/TbzcbeRcAAADOewGExxhw
+  </data>
+ </layer>
+ <layer name="块层 8" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzjEKwCAQRNE9uncwnTlsBLvgiLNgIfwHNq6zYwQAAABu8ESU2s//vo6ZRWVUR7Zzd5+z08ms+k/0Zf6hvP19m2TamFlURnVkO3f3OTudzKr/RF/mHwAAALjLB2LGJmk=
+  </data>
+ </layer>
+ <layer name="块层 9" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0cEKgCAQhOEefd6lbnarWz1cc/Si7CZCxP/BgLjumrQsAAAA+IPV2ZzDORO1mfeOnM32zXhja6bX8p5ck88oMqvXU98TVZzduZw7URuVmf32OyJ9M97Ymum1vCfXVIL/u9dT3wMAAIBvewA0kz1p
+  </data>
+ </layer>
+ <layer name="Foreground1" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkksOgzAMBTn6uxot9MuhmE2lCpnITpvdG+ntPE4cZ5qMMcYYY4wxxhhjzD+ZyYVcyVLwqBWOcEUPjXJG9PiFUXP37qF67kpu5E4ehftRKxzhak3O3eNUevS8WdUZNXe0hw+ZfUQ10blP8iJvshXuR61whCt6KHOno3PyPE1aPVpvdkbV6Zkh4xz38P0PM/uIaqJzd8hboHU=
+  </data>
+ </layer>
+ <layer name="Foreground2" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0EEKgDAMRNG5soqKdePRHegmFIVYBTf/QXbNOFECAAAAAAAA8NYkHaNn8PTse09jzfm9y1s9t3zV+YucTP/V+Ytn9uye4tnqd1O3e09LzVHcz/SP79su+Sufi91ih3jLHb9Tqd1117n9d+3OlZiTeX8l9m8zThCuONE=
+  </data>
+ </layer>
+ <layer name="Foreground3" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0UEKwCAMRNG5pHVle5UcvRF3gkW0mM1/4CaQhIwSAAAAAAAAgFWXZMnf6b2p7VY+PNtrFnXzyGwWu5nV/tvvLgG3l7Zbzw+z+j/8mu01i7p5ZDaL3cxq/wvSUxQn
+  </data>
+ </layer>
+ <objectgroup name="bg" width="124" height="12">
+  <object name="yinglingmudi_bg" x="0" y="0" width="512" height="512"/>
+  <object name="yinglingmudi_bg" x="512" y="0" width="512" height="512"/>
+  <object name="yinglingmudi_bg" x="1024" y="0" width="512" height="512"/>
+  <object name="yinglingmudi_bg" x="1536" y="0" width="512" height="512"/>
+  <object name="yinglingmudi_bg" x="2048" y="0" width="512" height="512"/>
+  <object name="yinglingmudi_bg" x="2560" y="0" width="512" height="512"/>
+  <object name="yinglingmudi_bg" x="3072" y="0" width="512" height="512"/>
+  <object name="yinglingmudi_bg" x="3584" y="0" width="512" height="512"/>
+ </objectgroup>
+ <objectgroup name="mg" width="124" height="12">
+  <object name="yinglingmudi_mg1" x="575" y="123" width="256" height="256"/>
+  <object name="yinglingmudi_mg1" x="1710" y="144" width="256" height="256"/>
+  <object name="yinglingmudi_mg1" x="2182" y="150" width="256" height="256"/>
+  <object name="yinglingmudi_mg1" x="3338" y="150" width="256" height="256"/>
+  <object name="yinglingmudi_mg1" x="4408" y="158" width="256" height="256"/>
+  <object name="yinglingmudi_mg2" x="1148" y="142" width="256" height="256"/>
+  <object name="yinglingmudi_mg2" x="2894" y="146" width="256" height="256"/>
+  <object name="yinglingmudi_mg2" x="3948" y="166" width="256" height="256"/>
+  <object name="yinglingmudi_mg2" x="5140" y="186" width="256" height="256"/>
+ </objectgroup>
+ <objectgroup name="area" width="78" height="12">
+  <object x="3" y="448" width="4032" height="320"/>
+ </objectgroup>
+ <objectgroup name="AreaBornPoint" width="78" height="12"/>
+</map>

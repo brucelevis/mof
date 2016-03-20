@@ -1,0 +1,19 @@
+<skeleton name="箭">
+  <armatures>
+    <armature name="hanbingjian">
+      <b name="图层 1" bT="0" bi="nvshuiguai_hanbingjian-jian-1" x="0" y="0" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="hanbingjian">
+      <mov name="hanbingjian" to="1" dr="8" drTW="8">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="nvshuiguai_hanbingjian-jian-1" dr="8"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="箭" width="512" height="64">
+    <SubTexture name="nvshuiguai_hanbingjian-jian-1" x="0" y="0" width="221" height="58" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

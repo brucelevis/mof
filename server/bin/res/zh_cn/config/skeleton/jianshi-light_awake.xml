@@ -1,0 +1,1952 @@
+<skeleton name="光效-剑士1 (2)">
+  <armatures>
+    <armature name="xuanfeng">
+      <b name="图层 5" bT="0" bi="jianshi_light_awake-yz1" x="155.2" y="252.75" kX="0" kY="0" z="0"/>
+      <b name="图层 2" bT="0" bi="jianshi_light_awake-sprite 4733" x="188.15" y="257.6" kX="0" kY="0" z="1"/>
+      <b name="图层 3" bT="0" bi="jianshi_light_awake-sprite 4733" x="188.15" y="257.6" kX="0" kY="180" z="2"/>
+      <b name="图层 18" bT="0" bi="jianshi_light_awake-sprite 5" x="188.15" y="257.6" kX="0" kY="0" z="1"/>
+      <b name="图层 4" bT="0" bi="jianshi_light_awake-sprite 5" x="188.15" y="257.6" kX="0" kY="180" z="2"/>
+      <b name="图层 46" bT="0" bi="jianshi_light_awake-STOM-1" x="-46.55" y="-131.55" kX="0" kY="0" z="3"/>
+      <b name="图层 45" bT="0" bi="jianshi_light_awake-DG2" x="188.55" y="90" kX="-159.76" kY="-159.76" z="4"/>
+      <b name="图层 44" bT="0" bi="jianshi_light_awake-leiting 1" x="336.35" y="181.15" kX="0" kY="0" z="4"/>
+      <b name="图层 43" bT="0" bi="jianshi_light_awake-leiting 3" x="397.15" y="88.1" kX="-152.11" kY="-152.11" z="5"/>
+      <b name="图层 42" bT="0" bi="jianshi_light_awake-DG4" x="43.95" y="33.35" kX="-152.55" kY="-152.55" z="4"/>
+      <b name="图层 41" bT="0" bi="jianshi_light_awake-DG2" x="163.6" y="90.95" kX="-161" kY="19" z="5"/>
+      <b name="图层 40" bT="0" bi="jianshi_light_awake-leiting 1" x="-8.5" y="68.05" kX="39.24" kY="-140.76" z="6"/>
+      <b name="图层 39" bT="0" bi="jianshi_light_awake-leiting 3" x="3.25" y="-42.45" kX="-168.65" kY="11.35" z="7"/>
+      <b name="图层 38" bT="0" bi="jianshi_light_awake-DG4" x="311.45" y="138.6" kX="-168.2" kY="11.8" z="4"/>
+      <b name="图层 37" bT="0" bi="jianshi_light_awake-DG2" x="163.6" y="90.95" kX="-161" kY="19" z="6"/>
+      <b name="图层 36" bT="0" bi="jianshi_light_awake-leiting 1" x="-8.5" y="68.05" kX="39.24" kY="-140.76" z="9"/>
+      <b name="图层 35" bT="0" bi="jianshi_light_awake-leiting 3" x="3.25" y="-42.45" kX="-168.65" kY="11.35" z="10"/>
+      <b name="图层 34" bT="0" bi="jianshi_light_awake-DG4" x="311.45" y="138.6" kX="-168.2" kY="11.8" z="5"/>
+      <b name="图层 33" bT="0" bi="jianshi_light_awake-DG2" x="144.95" y="123" kX="154" kY="-26" z="8"/>
+      <b name="图层 32" bT="0" bi="jianshi_light_awake-leiting 1" x="7.1" y="228.55" kX="-5.75" kY="174.25" z="10"/>
+      <b name="图层 31" bT="0" bi="jianshi_light_awake-leiting 3" x="-62.75" y="142.1" kX="146.35" kY="-33.65" z="11"/>
+      <b name="图层 30" bT="0" bi="jianshi_light_awake-DG4" x="283.2" y="52.2" kX="146.8" kY="-33.2" z="4"/>
+      <b name="图层 29" bT="0" bi="jianshi_light_awake-DG2" x="213.7" y="77.55" kX="155.79" kY="155.79" z="9"/>
+      <b name="图层 28" bT="0" bi="jianshi_light_awake-leiting 1" x="382.95" y="39.1" kX="-44.46" kY="-44.46" z="13"/>
+      <b name="图层 27" bT="0" bi="jianshi_light_awake-leiting 3" x="361.25" y="-69.9" kX="163.44" kY="163.44" z="14"/>
+      <b name="图层 26" bT="0" bi="jianshi_light_awake-DG4" x="70.75" y="138.4" kX="162.99" kY="162.99" z="5"/>
+      <b name="图层 24" bT="0" bi="jianshi_light_awake-DG2" x="208.9" y="121.85" kX="159.86" kY="159.85" z="4"/>
+      <b name="图层 23" bT="0" bi="jianshi_light_awake-leiting 1" x="346.2" y="100.8" kX="-40.39" kY="-40.39" z="4"/>
+      <b name="图层 22" bT="0" bi="jianshi_light_awake-leiting 3" x="335" y="12.6" kX="167.5" kY="167.5" z="5"/>
+      <b name="图层 20" bT="0" bi="jianshi_light_awake-DG2" x="144.45" y="136.3" kX="158.06" kY="-21.94" z="6"/>
+      <b name="图层 17" bT="0" bi="jianshi_light_awake-leiting 1" x="28.55" y="212.6" kX="-1.69" kY="178.31" z="7"/>
+      <b name="图层 16" bT="0" bi="jianshi_light_awake-leiting 3" x="-22.25" y="139.7" kX="150.41" kY="-29.59" z="8"/>
+      <b name="图层 15" bT="0" bi="jianshi_light_awake-DG4" x="125.55" y="226.6" kX="122.05" kY="122.05" z="7"/>
+      <b name="图层 14" bT="0" bi="jianshi_light_awake-DG2" x="208.9" y="121.85" kX="159.86" kY="159.85" z="6"/>
+      <b name="图层 13" bT="0" bi="jianshi_light_awake-leiting 3" x="346.2" y="100.8" kX="-40.39" kY="-40.39" z="7"/>
+      <b name="图层 12" bT="0" bi="jianshi_light_awake-leiting 6" x="335" y="12.6" kX="167.5" kY="167.5" z="8"/>
+      <b name="图层 11" bT="0" bi="jianshi_light_awake-DG4" x="91.4" y="162.4" kX="167.05" kY="167.05" z="8"/>
+      <b name="图层 10" bT="0" bi="jianshi_light_awake-DG2" x="144.45" y="136.3" kX="158.06" kY="-21.94" z="10"/>
+      <b name="图层 9" bT="0" bi="jianshi_light_awake-leiting 3" x="28.55" y="212.6" kX="-1.69" kY="178.31" z="11"/>
+      <b name="图层 8" bT="0" bi="jianshi_light_awake-leiting 5" x="-22.25" y="139.7" kX="150.41" kY="-29.59" z="10"/>
+      <b name="图层 7" bT="0" bi="jianshi_light_awake-DG4" x="258.85" y="87.6" kX="150.86" kY="-29.14" z="12"/>
+      <b name="图层 48" bT="0" bi="jianshi_light_awake-DG2" x="257.95" y="118.3" kX="179" kY="179" z="8"/>
+      <b name="图层 47" bT="0" bi="jianshi_light_awake-leiting 1" x="428.7" y="149.7" kX="-21.24" kY="-21.24" z="12"/>
+      <b name="图层 25" bT="0" bi="jianshi_light_awake-leiting 3" x="451.7" y="40.95" kX="-173.35" kY="-173.35" z="13"/>
+      <b name="图层 6" bT="0" bi="jianshi_light_awake-DG4" x="102.65" y="117.9" kX="-173.8" kY="-173.8" z="4"/>
+      <b name="图层 52" bT="0" bi="jianshi_light_awake-DG2" x="140.35" y="134.9" kX="-179" kY="1" z="12"/>
+      <b name="图层 51" bT="0" bi="jianshi_light_awake-leiting 1" x="-30.4" y="166.3" kX="21.24" kY="-158.76" z="11"/>
+      <b name="图层 50" bT="0" bi="jianshi_light_awake-leiting 3" x="-53.4" y="57.55" kX="173.35" kY="-6.65" z="12"/>
+      <b name="图层 49" bT="0" bi="jianshi_light_awake-DG4" x="295.65" y="134.5" kX="173.8" kY="-6.2" z="12"/>
+      <b name="图层 56" bT="0" bi="jianshi_light_awake-DG2" x="144.3" y="126.55" kX="-179" kY="1" z="7"/>
+      <b name="图层 55" bT="0" bi="jianshi_light_awake-leiting 1" x="-26.45" y="157.95" kX="21.24" kY="-158.76" z="11"/>
+      <b name="图层 54" bT="0" bi="jianshi_light_awake-leiting 3" x="-49.45" y="49.2" kX="173.35" kY="-6.65" z="12"/>
+      <b name="图层 53" bT="0" bi="jianshi_light_awake-DG4" x="299.6" y="126.15" kX="173.8" kY="-6.2" z="8"/>
+      <b name="图层 60" bT="0" bi="jianshi_light_awake-DG2" x="202.05" y="127.35" kX="-144.96" kY="-147.01" z="16"/>
+      <b name="图层 59" bT="0" bi="jianshi_light_awake-leiting 1" x="266.85" y="238.8" kX="26.47" kY="-8.3" z="15"/>
+      <b name="图层 58" bT="0" bi="jianshi_light_awake-leiting 3" x="386.55" y="97.9" kX="-141.84" kY="-128.53" z="16"/>
+      <b name="图层 57" bT="0" bi="jianshi_light_awake-DG4" x="115.35" y="64.9" kX="-142.03" kY="-129.57" z="12"/>
+      <b name="图层 64" bT="0" bi="jianshi_light_awake-DG2" x="159.9" y="52.25" kX="-167.08" kY="14.97" z="17"/>
+      <b name="图层 63" bT="0" bi="jianshi_light_awake-leiting 1" x="33.75" y="78.75" kX="21.49" kY="-123.74" z="15"/>
+      <b name="图层 62" bT="0" bi="jianshi_light_awake-leiting 3" x="58.25" y="-104.5" kX="-170.2" kY="-3.5" z="16"/>
+      <b name="图层 61" bT="0" bi="jianshi_light_awake-DG4" x="264.35" y="74.85" kX="-170.01" kY="-2.47" z="15"/>
+    </armature>
+    <armature name="three_section_cut">
+      <b name="图层 33" bT="0" bi="jianshi_light_awake-DG2" x="342.55" y="104.95" kX="-159.76" kY="-159.76" z="0"/>
+      <b name="图层 35" bT="0" bi="jianshi_light_awake-leiting 1" x="490.35" y="196.1" kX="0" kY="0" z="0"/>
+      <b name="图层 36" bT="0" bi="jianshi_light_awake-leiting 1" x="551.15" y="103.05" kX="-152.11" kY="-152.11" z="0"/>
+      <b name="图层 32" bT="0" bi="jianshi_light_awake-DG4" x="197.95" y="48.3" kX="-152.55" kY="-152.55" z="0"/>
+      <b name="图层 31" bT="0" bi="jianshi_light_awake-DG2" x="238.4" y="149.95" kX="-70.8" kY="-80.3" z="0"/>
+      <b name="图层 30" bT="0" bi="jianshi_light_awake-DG4" x="211.35" y="128.8" kX="-70.8" kY="-80.3" z="0"/>
+      <b name="图层 29" bT="0" bi="jianshi_light_awake-dvsgg-1" x="166.4" y="75.95" kX="115.73" kY="115.73" z="0"/>
+      <b name="图层 37" bT="0" bi="jianshi_light_awake-leiting 1" x="314.45" y="166.25" kX="9.7" kY="9.7" z="2"/>
+      <b name="图层 38" bT="0" bi="jianshi_light_awake-leiting 1" x="374.4" y="253.4" kX="-4.97" kY="-4.97" z="3"/>
+      <b name="图层 39" bT="0" bi="jianshi_light_awake-leiting 1" x="130.95" y="145.65" kX="-148.92" kY="31.08" z="3"/>
+      <b name="图层 40" bT="0" bi="jianshi_light_awake-leiting 1" x="204.4" y="213.95" kX="-148.92" kY="31.08" z="0"/>
+      <b name="图层 41" bT="0" bi="jianshi_light_awake-leiting 1" x="305.5" y="0" kX="-118.93" kY="61.07" z="2"/>
+      <b name="图层 42" bT="0" bi="jianshi_light_awake-leiting 1" x="390.9" y="175.05" kX="20.11" kY="20.11" z="3"/>
+      <b name="图层 43" bT="0" bi="jianshi_light_awake-leiting 1" x="344.25" y="162" kX="-154.28" kY="25.72" z="2"/>
+      <b name="图层 19" bT="0" bi="jianshi_light_awake-jianshe 1" x="543.85" y="231.2" kX="0" kY="0" z="4"/>
+      <b name="图层 18" bT="0" bi="jianshi_light_awake-jianshe 1" x="622.55" y="185.1" kX="20.47" kY="20.47" z="6"/>
+    </armature>
+    <armature name="physical_60">
+      <b name="图层 3" bT="0" bi="jianshi_light_awake-gq01" x="179.6" y="260.1" kX="0" kY="0" z="0"/>
+      <b name="图层 30" bT="0" bi="jianshi_light_awake-gq01" x="179.6" y="260.1" kX="0" kY="180" z="1"/>
+      <b name="图层 20" bT="0" bi="jianshi_light_awake-sprite 1146" x="167.8" y="100.1" kX="-101.08" kY="-101.08" z="0"/>
+      <b name="图层 19" bT="0" bi="jianshi_light_awake-sprite 1146" x="171.3" y="60.6" kX="-101.08" kY="-101.08" z="1"/>
+      <b name="图层 18" bT="0" bi="jianshi_light_awake-sprite 1146" x="160.65" y="78.8" kX="-101.08" kY="-101.08" z="2"/>
+      <b name="图层 17" bT="0" bi="jianshi_light_awake-sprite 1146" x="182" y="86.3" kX="-101.08" kY="-101.08" z="2"/>
+      <b name="图层 16" bT="0" bi="jianshi_light_awake-sprite 1146" x="193.9" y="100" kX="-101.08" kY="-101.08" z="3"/>
+      <b name="图层 15" bT="0" bi="jianshi_light_awake-sprite 1146" x="201.25" y="70.2" kX="-101.08" kY="-101.08" z="5"/>
+      <b name="图层 14" bT="0" bi="jianshi_light_awake-sprite 1146" x="188.2" y="31.4" kX="-135" kY="-135" z="6"/>
+      <b name="图层 13" bT="0" bi="jianshi_light_awake-sprite 1146" x="199.2" y="30.4" kX="-135" kY="-135" z="7"/>
+      <b name="图层 12" bT="0" bi="jianshi_light_awake-sprite 1146" x="193.3" y="41.3" kX="-135" kY="-135" z="5"/>
+      <b name="图层 11" bT="0" bi="jianshi_light_awake-sprite 1146" x="193.3" y="17.3" kX="-135" kY="-135" z="9"/>
+      <b name="图层 9" bT="0" bi="jianshi_light_awake-sprite 1146" x="160.3" y="36.3" kX="-135" kY="-135" z="10"/>
+      <b name="图层 10" bT="0" bi="jianshi_light_awake-q00" x="175" y="178.2" kX="0" kY="0" z="2"/>
+      <b name="图层 5" bT="0" bi="jianshi_light_awake-q00" x="175" y="178.2" kX="0" kY="180" z="3"/>
+      <b name="图层 2" bT="0" bi="jianshi_light_awake-zs0-404" x="188" y="182.4" kX="0" kY="0" z="0"/>
+      <b name="图层 6" bT="0" bi="jianshi_light_awake-zs0-404" x="188" y="182.4" kX="0" kY="180" z="1"/>
+    </armature>
+    <armature name="physical_50">
+      <b name="图层 3" bT="0" bi="jianshi_light_awake-gq01" x="305.6" y="260.1" kX="0" kY="0" z="0"/>
+      <b name="图层 30" bT="0" bi="jianshi_light_awake-gq01" x="305.6" y="260.1" kX="0" kY="180" z="1"/>
+      <b name="图层 300" bT="0" bi="jianshi_light_awake-gq01" x="425.6" y="260.1" kX="0" kY="0" z="2"/>
+      <b name="图层 301" bT="0" bi="jianshi_light_awake-gq01" x="425.6" y="260.1" kX="0" kY="180" z="3"/>
+      <b name="图层 31" bT="0" bi="jianshi_light_awake-gq01" x="565.6" y="260.1" kX="0" kY="0" z="2"/>
+      <b name="图层 302" bT="0" bi="jianshi_light_awake-gq01" x="565.6" y="260.1" kX="0" kY="180" z="3"/>
+      <b name="图层 8" bT="0" bi="jianshi_light_awake-f3h" x="246.05" y="-77.7" kX="2" kY="2" z="2"/>
+      <b name="图层 9" bT="0" bi="jianshi_light_awake-f3h" x="401.25" y="23.9" kX="65.16" kY="65.16" z="3"/>
+      <b name="图层 7" bT="0" bi="jianshi_light_awake-f3h" x="246.05" y="-77.7" kX="2" kY="2" z="2"/>
+      <b name="图层 5" bT="0" bi="jianshi_light_awake-f3h" x="401.25" y="23.9" kX="65.16" kY="65.16" z="5"/>
+      <b name="图层 2" bT="0" bi="jianshi_light_awake-f3h" x="117.15" y="199.3" kX="-162.18" kY="-162.18" z="0"/>
+      <b name="wq000" bT="0" bi="jianshi_light_awake-zs0-404" x="315.05" y="177.85" kX="0" kY="0" z="7"/>
+      <b name="wq0000" bT="0" bi="jianshi_light_awake-zs0-404" x="405.05" y="177.85" kX="0" kY="0" z="6"/>
+      <b name="wq0001" bT="0" bi="jianshi_light_awake-zs0-404" x="545.05" y="177.85" kX="0" kY="0" z="6"/>
+      <b name="图层 16" bT="0" bi="jianshi_light_awake-jianshe 1" x="308" y="204.8" kX="0" kY="0" z="8"/>
+      <b name="图层 17" bT="0" bi="jianshi_light_awake-jianshe 1" x="458" y="204.8" kX="0" kY="0" z="7"/>
+      <b name="图层 18" bT="0" bi="jianshi_light_awake-jianshe 1" x="578" y="204.8" kX="0" kY="0" z="9"/>
+    </armature>
+    <armature name="physical_20">
+      <b name="图层 11" bT="0" bi="jianshi_light_awake-em0503-2-1-2" x="210.4" y="263.9" kX="0" kY="0" z="0"/>
+      <b name="图层 31" bT="0" bi="jianshi_light_awake-em0503-2-2-2" x="76.4" y="263.9" kX="0" kY="0" z="1"/>
+      <b name="图层 5" bT="0" bi="jianshi_light_awake-jineng-2-light-2" x="221.45" y="184.95" kX="0" kY="0" z="2"/>
+      <b name="图层 3" bT="0" bi="jianshi_light_awake-jianshe 1" x="269.05" y="158.35" kX="-42.87" kY="180" z="3"/>
+      <b name="图层 8" bT="0" bi="jianshi_light_awake-jianshe 1" x="289.05" y="203.65" kX="-137.13" kY="180" z="4"/>
+      <b name="图层 4" bT="0" bi="jianshi_light_awake-em0503-1-1" x="266.4" y="160.25" kX="0" kY="0" z="3"/>
+      <b name="图层 32" bT="0" bi="jianshi_light_awake-light-1-2" x="165.05" y="246" kX="0" kY="0" z="3"/>
+    </armature>
+    <armature name="physical_4">
+      <b name="图层 2" bT="0" bi="jianshi_light_awake-zs0-12" x="334.3" y="217.05" kX="0" kY="0" z="0"/>
+      <b name="图层 3" bT="0" bi="jianshi_light_awake-jianshe 1" x="348" y="204.8" kX="0" kY="0" z="1"/>
+    </armature>
+    <armature name="physical_3">
+      <b name="图层 4" bT="0" bi="jianshi_light_awake-zs0-14" x="202.4" y="217.15" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="physical_2">
+      <b name="图层 4" bT="0" bi="jianshi_light_awake-zs0-12" x="323.35" y="254.9" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="physical_1">
+      <b name="图层 3" bT="0" bi="jianshi_light_awake-zs0-12" x="319.35" y="75.9" kX="180" kY="0" z="0"/>
+    </armature>
+    <armature name="half_moon_cut_wave">
+      <b name="图层 3" bT="0" bi="jianshi_light_awake-jinenng-2-light-1" x="173.75" y="288" kX="0" kY="0" z="0"/>
+      <b name="图层 2" bT="0" bi="jianshi_light_awake-niubo-huo-6" x="137.05" y="342.75" kX="0" kY="180" z="1"/>
+    </armature>
+    <armature name="half_moon_cut">
+      <b name="gxs31" bT="0" bi="jianshi_light_awake-zs0-14-02" x="312.65" y="98.45" kX="-167.79" kY="12.21" z="0"/>
+      <b name="图层 3" bT="0" bi="jianshi_light_awake-zsn0-31a-10" x="222.95" y="145.95" kX="119.69" kY="-60.31" z="0"/>
+      <b name="qe34" bT="0" bi="jianshi_light_awake-qe3" x="33.7" y="194.4" kX="140.54" kY="140.54" z="0"/>
+      <b name="qe35" bT="0" bi="jianshi_light_awake-qe3" x="-105.05" y="192.65" kX="140.54" kY="140.54" z="1"/>
+      <b name="qe39" bT="0" bi="jianshi_light_awake-qe3" x="42.8" y="30.85" kX="140.54" kY="140.54" z="2"/>
+      <b name="qe310" bT="0" bi="jianshi_light_awake-qe3" x="89.75" y="27.85" kX="140.54" kY="140.54" z="3"/>
+      <b name="qe313" bT="0" bi="jianshi_light_awake-qe3" x="105.4" y="-140.5" kX="140.54" kY="140.54" z="4"/>
+      <b name="qe314" bT="0" bi="jianshi_light_awake-qe3" x="194.35" y="46.65" kX="140.54" kY="140.54" z="5"/>
+      <b name="qe316" bT="0" bi="jianshi_light_awake-qe3" x="243.35" y="15" kX="140.54" kY="140.54" z="6"/>
+      <b name="qe317" bT="0" bi="jianshi_light_awake-qe3" x="313.4" y="-55.85" kX="140.54" kY="140.54" z="7"/>
+      <b name="qe324" bT="0" bi="jianshi_light_awake-qe3" x="336.5" y="188.8" kX="140.54" kY="140.54" z="8"/>
+      <b name="qe325" bT="0" bi="jianshi_light_awake-qe3" x="419.7" y="275.75" kX="140.54" kY="140.54" z="9"/>
+      <b name="qe328" bT="0" bi="jianshi_light_awake-qe3" x="260.95" y="254.9" kX="140.54" kY="140.54" z="10"/>
+      <b name="qe329" bT="0" bi="jianshi_light_awake-qe3" x="268.85" y="370.4" kX="140.54" kY="140.54" z="11"/>
+      <b name="图层 1" bT="0" bi="jianshi_light_awake-qe3" x="188.4" y="230.25" kX="140.54" kY="140.54" z="12"/>
+      <b name="图层 8 复制" bT="0" bi="jianshi_light_awake-huoxing" x="343.2" y="193.2" kX="0" kY="0" z="1"/>
+      <b name="图层 9 复制" bT="0" bi="jianshi_light_awake-huoxing" x="357.45" y="178.15" kX="0" kY="180" z="2"/>
+      <b name="图层 10 复制" bT="0" bi="jianshi_light_awake-huoxing" x="337.55" y="193.5" kX="0" kY="180" z="2"/>
+      <b name="图层 15 复制" bT="0" bi="jianshi_light_awake-huoxing" x="349" y="186.1" kX="9.55" kY="-170.45" z="4"/>
+      <b name="图层 16 复制" bT="0" bi="jianshi_light_awake-huoxing" x="354" y="133.25" kX="-29.94" kY="150.06" z="4"/>
+      <b name="图层 17 复制" bT="0" bi="jianshi_light_awake-huoxing" x="378.05" y="113.25" kX="148.5" kY="148.5" z="5"/>
+      <b name="图层 11 复制" bT="0" bi="jianshi_light_awake-huoxing" x="325.9" y="92.25" kX="-43.94" kY="136.06" z="6"/>
+      <b name="图层 12 复制" bT="0" bi="jianshi_light_awake-huoxing" x="335.1" y="88.15" kX="57.17" kY="57.17" z="7"/>
+      <b name="图层 13 复制" bT="0" bi="jianshi_light_awake-huoxing" x="337.4" y="89.65" kX="116.11" kY="116.11" z="8"/>
+      <b name="图层 14 复制" bT="0" bi="jianshi_light_awake-huoxing" x="334.3" y="76.4" kX="2.08" kY="2.08" z="9"/>
+      <b name="图层 5 复制" bT="0" bi="jianshi_light_awake-huoxing" x="388.8" y="128.25" kX="0" kY="180" z="8"/>
+      <b name="图层 6 复制" bT="0" bi="jianshi_light_awake-huoxing" x="373.95" y="131.95" kX="0" kY="0" z="10"/>
+      <b name="图层 7 复制" bT="0" bi="jianshi_light_awake-huoxing" x="370.1" y="144.55" kX="0" kY="0" z="10"/>
+      <b name="图层 18 复制" bT="0" bi="jianshi_light_awake-huoxing" x="381.5" y="115.75" kX="-179" kY="-179" z="13"/>
+      <b name="图层 19 复制" bT="0" bi="jianshi_light_awake-huoxing" x="362.5" y="136.4" kX="88.41" kY="88.41" z="13"/>
+      <b name="图层 8  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="291.1" y="281.9" kX="45" kY="-135" z="6"/>
+      <b name="图层 9  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="291.7" y="261.2" kX="45" kY="45" z="7"/>
+      <b name="图层 10  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="294.9" y="286.1" kX="45" kY="45" z="9"/>
+      <b name="图层 15  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="292.05" y="272.75" kX="35.45" kY="35.45" z="9"/>
+      <b name="图层 16  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="325.9" y="231.85" kX="74.94" kY="74.94" z="11"/>
+      <b name="图层 17  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="323" y="200.7" kX="-103.51" kY="76.49" z="17"/>
+      <b name="图层 11  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="374.75" y="222.75" kX="88.93" kY="88.93" z="18"/>
+      <b name="图层 12  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="371.15" y="213.35" kX="-12.17" kY="167.83" z="21"/>
+      <b name="图层 13  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="368.45" y="212.75" kX="-71.11" kY="108.89" z="20"/>
+      <b name="图层 14  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="380" y="205.6" kX="42.92" kY="-137.08" z="23"/>
+      <b name="图层 5  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="304.8" y="203.7" kX="45" kY="45" z="19"/>
+      <b name="图层 6  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="312.65" y="216.85" kX="45" kY="-135" z="22"/>
+      <b name="图层 7  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="306.5" y="228.5" kX="45" kY="-135" z="21"/>
+      <b name="图层 18  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="318.8" y="200.1" kX="-136" kY="44" z="28"/>
+      <b name="图层 19  复制 2" bT="0" bi="jianshi_light_awake-huoxing" x="317.6" y="228.1" kX="-43.41" kY="136.59" z="27"/>
+      <b name="图层 8   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="138.6" y="253.05" kX="85.2" kY="-94.8" z="11"/>
+      <b name="图层 9   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="152.4" y="237.6" kX="85.2" kY="85.2" z="12"/>
+      <b name="图层 10   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="138.8" y="258.7" kX="85.2" kY="85.2" z="16"/>
+      <b name="图层 15   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="145.2" y="246.65" kX="75.66" kY="75.66" z="14"/>
+      <b name="图层 16   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="197.5" y="237.3" kX="115.14" kY="115.14" z="18"/>
+      <b name="图层 17   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="215.35" y="211.65" kX="-63.3" kY="116.7" z="29"/>
+      <b name="图层 11   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="240.7" y="261.9" kX="129.14" kY="129.14" z="30"/>
+      <b name="图层 12   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="244" y="252.35" kX="28.03" kY="-151.97" z="35"/>
+      <b name="图层 13   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="242.35" y="250.15" kX="-30.91" kY="149.09" z="32"/>
+      <b name="图层 14   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="255.75" y="252.15" kX="83.12" kY="-96.88" z="37"/>
+      <b name="图层 5   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="199.5" y="202.2" kX="85.2" kY="85.2" z="30"/>
+      <b name="图层 6   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="197.05" y="217.25" kX="85.2" kY="-94.8" z="34"/>
+      <b name="图层 7   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="184.8" y="222.2" kX="85.2" kY="-94.8" z="32"/>
+      <b name="图层 18   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="212.55" y="208.45" kX="-95.81" kY="84.19" z="43"/>
+      <b name="图层 19   复制 3" bT="0" bi="jianshi_light_awake-huoxing" x="193.55" y="229.05" kX="-3.21" kY="176.79" z="41"/>
+      <b name="图层 8    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="161.25" y="20" kX="85.2" kY="-94.8" z="1"/>
+      <b name="图层 9    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="175.05" y="4.55" kX="85.2" kY="85.2" z="2"/>
+      <b name="图层 10    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="161.45" y="25.65" kX="85.2" kY="85.2" z="3"/>
+      <b name="图层 15    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="167.85" y="13.6" kX="75.66" kY="75.66" z="4"/>
+      <b name="图层 16    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="220.15" y="4.25" kX="115.14" kY="115.14" z="5"/>
+      <b name="图层 17    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="238" y="-21.4" kX="-63.3" kY="116.7" z="20"/>
+      <b name="图层 11    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="263.35" y="28.85" kX="129.14" kY="129.14" z="21"/>
+      <b name="图层 12    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="266.65" y="19.3" kX="28.03" kY="-151.97" z="28"/>
+      <b name="图层 13    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="265" y="17.1" kX="-30.91" kY="149.09" z="23"/>
+      <b name="图层 14    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="278.4" y="19.1" kX="83.12" kY="-96.88" z="42"/>
+      <b name="图层 5    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="222.15" y="-30.85" kX="85.2" kY="85.2" z="18"/>
+      <b name="图层 6    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="219.7" y="-15.8" kX="85.2" kY="-94.8" z="26"/>
+      <b name="图层 7    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="207.45" y="-10.85" kX="85.2" kY="-94.8" z="20"/>
+      <b name="图层 18    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="235.2" y="-24.6" kX="-95.81" kY="84.19" z="55"/>
+      <b name="图层 19    复制 4" bT="0" bi="jianshi_light_awake-huoxing" x="216.2" y="-4" kX="-3.21" kY="176.79" z="46"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="xuanfeng">
+      <mov name="xuanfeng" to="1" dr="24" drTW="24" lp="1">
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="jianshi_light_awake-yz1" dr="24"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-sprite 4733" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-sprite2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-sprite3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-sprite4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-sprite 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-sprite6" dr="2"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite 4733" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite6" dr="2"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-sprite 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-sprite6" dr="2"/>
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-sprite 4733" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-sprite2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-sprite3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-sprite4" dr="2"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite6" dr="2"/>
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite 4733" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite4" dr="2"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="0.91" z="10" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="0.91" z="12" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="7" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="9" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="8" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="8" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="0.91" z="8" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.46" z="8" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="-49.35" y="19.2" kX="-346.8" kY="-346.8" cX="0.28" cY="0.46" z="11" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.17" cY="0.46" z="10" img="jianshi_light_awake-DG2" dr="2"/>
+          <f x="56" y="-25.45" kX="0" kY="0" cX="2.17" cY="0.46" z="10" img="jianshi_light_awake-DG3" dr="2"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="11" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="10" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="11" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="8" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.46" z="12" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="49.6" y="-18.75" kX="-13.2" kY="-13.19" cX="0.28" cY="0.46" z="10" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.46" z="7" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="-21.2" y="48.6" kX="13.2" kY="13.2" cX="0.28" cY="0.46" z="6" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.17" cY="0.46" z="6" img="jianshi_light_awake-DG2" dr="1"/>
+          <f x="-58.5" y="18.6" kX="0" kY="0" cX="2.17" cY="0.46" z="7" img="jianshi_light_awake-DG3" dr="2"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="7" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="7" img="jianshi_light_awake-leiting 2" dr="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="0.91" z="8" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="0.91" z="8" img="jianshi_light_awake-leiting 4" dr="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0"/>
+        <b name="图层 20" sc="1" dl="0">
+          <f dr="23" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.17" cY="0.46" z="6" img="jianshi_light_awake-DG2" dr="1"/>
+        </b>
+        <b name="图层 46" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="3" img="jianshi_light_awake-STOM-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="3" img="jianshi_light_awake-STOM-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="3" img="jianshi_light_awake-STOM-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="3" img="jianshi_light_awake-STOM-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="3" img="jianshi_light_awake-STOM-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="3" img="jianshi_light_awake-STOM-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="3" img="jianshi_light_awake-STOM-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="3" img="jianshi_light_awake-STOM-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="3" img="jianshi_light_awake-STOM-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="3" img="jianshi_light_awake-STOM-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="3" img="jianshi_light_awake-STOM-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="3" img="jianshi_light_awake-STOM-4" dr="2"/>
+        </b>
+        <b name="图层 45" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.71" cY="0.58" z="4" img="jianshi_light_awake-DG2" twE="0" dr="3"/>
+          <f x="14.3" y="3.25" kX="0" kY="0" cX="2.71" cY="0.58" z="4" img="jianshi_light_awake-DG3" dr="2"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 44" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="图层 43" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="5" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="6" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="5" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="6" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 42" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.19" cY="0.58" z="4" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="-62.65" y="-21.6" kX="13.19" kY="13.19" cX="0.35" cY="0.58" z="4" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 41" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.71" cY="0.58" z="5" img="jianshi_light_awake-DG2" twE="0" dr="4"/>
+          <f x="-46.4" y="-18.25" kX="0" kY="0" cX="2.71" cY="0.58" z="4" img="jianshi_light_awake-DG3" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 40" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="6" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="7" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="6" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="6" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="4" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="图层 39" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="7" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="8" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="6" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="7" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 38" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.19" cY="0.58" z="4" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="62.2" y="22.9" kX="346.8" kY="-13.2" cX="0.35" cY="0.58" z="4" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 37" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.71" cY="0.58" z="6" img="jianshi_light_awake-DG2" twE="0" dr="4"/>
+          <f x="-9.4" y="-27.6" kX="0" kY="0" cX="2.71" cY="0.58" z="6" img="jianshi_light_awake-DG3" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="图层 36" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="9" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="8" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="8" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="7" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="7" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 35" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="10" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="9" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="9" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="9" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 34" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.19" cY="0.58" z="5" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="62.2" y="22.9" kX="346.8" kY="-13.2" cX="0.35" cY="0.58" z="4" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 33" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.71" cY="0.58" z="8" img="jianshi_light_awake-DG2" twE="0" dr="3"/>
+          <f x="-92.6" y="27.4" kX="0" kY="0" cX="2.71" cY="0.58" z="6" img="jianshi_light_awake-DG3" dr="2"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 32" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="10" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="11" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="9" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="8" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="7" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="6" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 31" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="11" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="12" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="9" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="10" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="图层 30" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.19" cY="0.58" z="4" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="60.15" y="-27.8" kX="-13.2" kY="-13.2" cX="0.35" cY="0.58" z="4" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 29" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.71" cY="0.58" z="9" img="jianshi_light_awake-DG2" twE="0" dr="3"/>
+          <f x="86.65" y="-81.75" kX="0" kY="0" cX="2.71" cY="0.58" z="8" img="jianshi_light_awake-DG3" dr="2"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 28" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="13" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="11" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="10" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="9" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="9" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="6" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 27" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="14" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="12" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="12" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="11" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.19" cY="0.58" z="5" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="-59.85" y="28.45" kX="13.2" kY="13.2" cX="0.35" cY="0.58" z="4" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.17" cY="0.46" z="4" img="jianshi_light_awake-DG2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.17" cY="0.46" z="4" dr="1"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="4" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="5" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 22" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="0.91" z="5" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="0.91" z="6" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.91" cY="0.91" z="5" img="jianshi_light_awake-leiting 5" dr="1"/>
+        </b>
+        <b name="图层 48" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.71" cY="0.58" z="8" img="jianshi_light_awake-DG2" twE="0" dr="3"/>
+          <f x="-10.85" y="6.4" kX="0" kY="0" cX="2.71" cY="0.58" z="6" img="jianshi_light_awake-DG3" dr="2"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 47" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="12" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="11" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="9" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="7" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="7" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="5" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 25" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="13" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="12" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="11" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="10" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.19" cY="0.58" z="4" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="-66.3" y="2.6" kX="13.2" kY="13.2" cX="0.35" cY="0.58" z="6" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 52" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.71" cY="0.58" z="12" img="jianshi_light_awake-DG2" twE="0" dr="3"/>
+          <f x="10.85" y="6.4" kX="0" kY="0" cX="2.71" cY="0.58" z="10" img="jianshi_light_awake-DG3" dr="2"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 51" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="11" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="14" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="13" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="11" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="11" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="13" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="图层 50" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="12" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="15" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="12" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="14" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 49" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.19" cY="0.58" z="12" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="66.3" y="2.6" kX="-13.2" kY="-13.2" cX="0.35" cY="0.58" z="15" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 56" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.71" cY="0.58" z="7" img="jianshi_light_awake-DG2" twE="0" dr="3"/>
+          <f x="10.85" y="6.4" kX="0" kY="0" cX="2.71" cY="0.58" z="5" img="jianshi_light_awake-DG3" dr="2"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 55" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="11" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="9" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="8" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="6" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="6" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="7" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 54" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="12" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="10" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="9" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="9" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 53" sc="1" dl="0">
+          <f dr="19" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.19" cY="0.58" z="8" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="66.3" y="2.6" kX="-13.2" kY="-13.2" cX="0.35" cY="0.58" z="9" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 60" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.86" cY="0.98" z="16" img="jianshi_light_awake-DG2" twE="0" dr="3"/>
+          <f x="-12.4" y="4.5" kX="0" kY="0" cX="1.86" cY="0.98" z="13" img="jianshi_light_awake-DG3" dr="2"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="图层 59" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.92" z="15" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.92" z="13" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.92" z="17" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.92" z="14" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.92" z="14" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.92" z="14" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 58" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1.91" z="16" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1.91" z="14" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1.91" z="14" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1.91" z="18" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 57" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.97" z="12" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="-39.7" y="-22.85" kX="5.62" kY="25.95" cX="0.3" cY="0.93" z="13" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 64" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.86" cY="0.98" z="17" img="jianshi_light_awake-DG2" twE="0" dr="3"/>
+          <f x="4.95" y="12.25" kX="0" kY="0" cX="1.86" cY="0.98" z="15" img="jianshi_light_awake-DG3" dr="2"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 63" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.92" z="15" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.92" z="13" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.92" z="18" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.92" z="16" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.92" z="16" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.06" cY="1.92" z="19" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 62" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1.91" z="16" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1.91" z="14" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1.91" z="13" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1.91" z="19" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="图层 61" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.84" cY="0.97" z="15" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="43.55" y="14.15" kX="-5.61" kY="-25.94" cX="0.3" cY="0.93" z="16" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="three_section_cut">
+      <mov name="three_section_cut" to="1" dr="62" drTW="62">
+        <b name="图层 33" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.71" cY="0.58" z="0" img="jianshi_light_awake-DG2" dr="3"/>
+          <f x="-70.7" y="-29.75" kX="0" kY="0" cX="2.71" cY="0.58" z="0" img="jianshi_light_awake-DG3" dr="2"/>
+          <f dr="40" hide="1"/>
+        </b>
+        <b name="图层 32" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.19" cY="0.58" z="0" img="jianshi_light_awake-DG4" twE="0" dr="3"/>
+          <f x="-62.65" y="-21.6" kX="13.19" kY="13.19" cX="0.35" cY="0.58" z="1" dr="1"/>
+          <f dr="36" hide="1"/>
+        </b>
+        <b name="图层 31" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="2.08" z="0" img="jianshi_light_awake-DG2" dr="3"/>
+          <f x="15.05" y="-13.6" kX="0" kY="0" cX="0.64" cY="2.08" z="0" img="jianshi_light_awake-DG3" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 30" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="1.66" z="0" img="jianshi_light_awake-DG4" twE="0" dr="4"/>
+          <f x="-138.2" y="-62" kX="0" kY="0" cX="0.25" cY="0.83" z="0" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+        <b name="图层 29" sc="1" dl="0">
+          <f dr="42" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-dvsgg-1" twE="0" dr="4"/>
+          <f x="221.05" y="101.05" kX="0" kY="0" cX="3.47" cY="5.28" z="0" twE="0" dr="3"/>
+          <f x="221.05" y="101.05" kX="0" kY="0" cX="0.93" cY="6.4" z="0" twE="0" dr="3"/>
+          <f x="389.1" y="177.05" kX="0" kY="0" cX="0.43" cY="0.66" z="0" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 35" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="1" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="jianshi_light_awake-leiting 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="jianshi_light_awake-leiting 8" dr="2"/>
+          <f dr="33" hide="1"/>
+        </b>
+        <b name="图层 36" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="0" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="0" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="1" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="2" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="1" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="2" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="图层 37" sc="1" dl="0">
+          <f dr="22" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="33" hide="1"/>
+        </b>
+        <b name="图层 38" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="3" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="3" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-leiting 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="jianshi_light_awake-leiting 8" dr="2"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="图层 39" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="3" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="4" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-leiting 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="jianshi_light_awake-leiting 8" dr="2"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 40" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="0" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="1" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="1" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="1" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="1" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="1" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="1" img="jianshi_light_awake-leiting 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="0" img="jianshi_light_awake-leiting 8" dr="2"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 41" sc="1" dl="0">
+          <f dr="44" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="2" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="2" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="2" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="1" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="1" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="2" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="0" img="jianshi_light_awake-leiting 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="0" img="jianshi_light_awake-leiting 8" dr="2"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 42" sc="1" dl="0">
+          <f dr="47" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="3" img="jianshi_light_awake-leiting 1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="2" img="jianshi_light_awake-leiting 2" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="3" img="jianshi_light_awake-leiting 3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="2" img="jianshi_light_awake-leiting 4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="2" img="jianshi_light_awake-leiting 5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="2" img="jianshi_light_awake-leiting 6" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="0" img="jianshi_light_awake-leiting 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.94" cY="1.94" z="0" img="jianshi_light_awake-leiting 8" dr="2"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 43" sc="1" dl="0">
+          <f dr="48" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="2" img="jianshi_light_awake-leiting 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="3" img="jianshi_light_awake-leiting 2" dr="2"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="1" img="jianshi_light_awake-leiting 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="2" img="jianshi_light_awake-leiting 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="1" img="jianshi_light_awake-leiting 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="0" img="jianshi_light_awake-leiting 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="0" img="jianshi_light_awake-leiting 7" dr="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="46" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="4" img="jianshi_light_awake-jianshe 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="3" img="jianshi_light_awake-jianshe 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="4" img="jianshi_light_awake-jianshe 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-jianshe 4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-jianshe 5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-jianshe 6" dr="2"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="49" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="6" img="jianshi_light_awake-jianshe 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="4" img="jianshi_light_awake-jianshe 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="3" img="jianshi_light_awake-jianshe 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="3" img="jianshi_light_awake-jianshe 4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="1" img="jianshi_light_awake-jianshe 5" dr="3"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_60">
+      <mov name="physical_60" to="1" dr="33" drTW="33" lp="0" twE="1.4500000000000002">
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="jianshi_light_awake-gq01" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="0" twE="0" dr="2"/>
+          <f x="-0.15" y="1.95" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-gq02" twE="0" dr="2"/>
+          <f x="-0.5" y="5.55" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-gq03" twE="0" dr="1"/>
+          <f x="2.4" y="5.2" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-gq04" twE="0" dr="1"/>
+          <f x="1.3" y="6.45" kX="0" kY="0" cX="3" cY="3" z="0" img="jianshi_light_awake-gq05" dr="1"/>
+          <f x="1.3" y="6.4" kX="0" kY="0" cX="4" cY="4" z="0" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 30" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-gq01" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" twE="0" dr="2"/>
+          <f x="-0.15" y="1.95" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-gq02" twE="0" dr="2"/>
+          <f x="-0.5" y="5.55" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-gq03" twE="0" dr="1"/>
+          <f x="2.4" y="5.2" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-gq04" twE="0" dr="1"/>
+          <f x="1.3" y="6.45" kX="0" kY="0" cX="3" cY="3" z="1" img="jianshi_light_awake-gq05" dr="1"/>
+          <f x="1.3" y="6.4" kX="0" kY="0" cX="4" cY="4" z="1" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-q00" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2" z="2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2" z="2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2" z="2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2" z="2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2" z="2" twE="0" dr="2"/>
+          <f x="2" y="-17.8" kX="0" kY="0" cX="0.55" cY="2.29" z="2" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="10" img="jianshi_light_awake-sprite 1146" twE="0" dr="4"/>
+          <f x="-9.1" y="21.4" kX="0" kY="0" cX="2.42" cY="2.42" z="7" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0"/>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-zs0-404" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-zs0-405" dr="2"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" img="jianshi_light_awake-q00" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2" z="3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2" z="3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2" z="3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2" z="3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.95" cY="2" z="3" twE="0" dr="2"/>
+          <f x="2" y="-17.8" kX="0" kY="0" cX="0.55" cY="2.29" z="3" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-404" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-405" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" img="jianshi_light_awake-zs0-406" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" img="jianshi_light_awake-zs0-407" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" img="jianshi_light_awake-zs0-408" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" img="jianshi_light_awake-zs0-409" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" img="jianshi_light_awake-zs0-410" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" img="jianshi_light_awake-zs0-411" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" img="jianshi_light_awake-zs0-412" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" img="jianshi_light_awake-zs0-413" dr="2"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.97" cY="2.97" z="0" img="jianshi_light_awake-sprite 1146" twE="0" dr="5"/>
+          <f x="-19.8" y="45.7" kX="-27.97" kY="-27.97" cX="4.67" cY="4.67" z="0" dr="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.97" cY="2.97" z="1" img="jianshi_light_awake-sprite 1146" twE="0" dr="5"/>
+          <f x="-18.85" y="16.4" kX="-27.97" kY="-27.97" cX="4.03" cY="4.03" z="1" dr="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite 1146" twE="0" dr="3"/>
+          <f x="-24.85" y="56.3" kX="-27.97" kY="-27.97" cX="3.62" cY="3.62" z="2" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-sprite 1146" twE="0" dr="5"/>
+          <f x="35" y="85.15" kX="-27.97" kY="-27.97" cX="2.77" cY="2.77" z="2" dr="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" img="jianshi_light_awake-sprite 1146" twE="0" dr="5"/>
+          <f x="25.7" y="21.3" kX="-27.97" kY="-27.97" cX="3.27" cY="3.27" z="3" dr="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="5" img="jianshi_light_awake-sprite 1146" twE="0" dr="4"/>
+          <f x="11.45" y="15.5" kX="-27.98" kY="-27.98" cX="2.42" cY="2.42" z="4" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.97" cY="2.97" z="6" img="jianshi_light_awake-sprite 1146" twE="0" dr="3"/>
+          <f x="12.3" y="75.8" kX="0" kY="0" cX="4.67" cY="4.67" z="6" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.97" cY="2.97" z="7" img="jianshi_light_awake-sprite 1146" twE="0" dr="3"/>
+          <f x="2.8" y="45.7" kX="0" kY="0" cX="4.03" cY="4.03" z="7" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="5" img="jianshi_light_awake-sprite 1146" twE="0" dr="5"/>
+          <f x="-37.4" y="59.75" kX="0" kY="0" cX="3.62" cY="3.62" z="4" dr="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="9" img="jianshi_light_awake-sprite 1146" twE="0" dr="4"/>
+          <f x="-10.5" y="10.3" kX="0" kY="0" cX="3.27" cY="3.27" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_50">
+      <mov name="physical_50" to="1" dr="35" drTW="35" lp="0">
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-f3h" twE="0" dr="1"/>
+          <f x="117.75" y="39.15" kX="42.92" kY="42.92" cX="1.8" cY="1.8" z="2" twE="0" dr="1"/>
+          <f x="187" y="148.5" kX="74.8" kY="74.8" cX="2" cY="2" z="4" twE="0" dr="1"/>
+          <f x="182.55" y="282.65" kX="99.28" kY="99.28" cX="2" cY="2" z="4" twE="0" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="3" img="jianshi_light_awake-f3h" twE="0" dr="2"/>
+          <f x="29.35" y="181.05" kX="36.12" kY="36.12" cX="2" cY="2" z="5" twE="0" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-f3h" twE="0" dr="1"/>
+          <f x="117.75" y="39.15" kX="42.92" kY="42.92" cX="1.8" cY="1.8" z="4" twE="0" dr="1"/>
+          <f x="187" y="148.5" kX="74.8" kY="74.8" cX="2" cY="2" z="4" twE="0" dr="1"/>
+          <f x="182.55" y="282.65" kX="99.28" kY="99.28" cX="2" cY="2" z="6" twE="0" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="jianshi_light_awake-f3h" twE="0" dr="2"/>
+          <f x="29.35" y="181.05" kX="36.12" kY="36.12" cX="2" cY="2" z="5" twE="0" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="0" img="jianshi_light_awake-gq01" twE="0" dr="2"/>
+          <f x="-0.15" y="1.95" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-gq02" twE="0" dr="2"/>
+          <f x="-0.5" y="5.55" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-gq03" twE="0" dr="1"/>
+          <f x="2.4" y="5.2" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-gq04" twE="0" dr="1"/>
+          <f x="1.3" y="6.45" kX="0" kY="0" cX="3" cY="3" z="0" img="jianshi_light_awake-gq05" dr="1"/>
+          <f x="1.3" y="6.4" kX="0" kY="0" cX="4" cY="4" z="0" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="wq000" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="7" img="jianshi_light_awake-zs0-404" dr="2"/>
+          <f x="0" y="-1.1" kX="0" kY="0" cX="2" cY="2" z="7" img="jianshi_light_awake-zs0-405" dr="2"/>
+          <f x="0" y="-1.1" kX="0" kY="0" cX="2" cY="2" z="4" img="jianshi_light_awake-zs0-46" dr="3"/>
+          <f x="-0.7" y="62.35" kX="0" kY="0" cX="0.5" cY="0.5" z="4" dr="2"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 30" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="jianshi_light_awake-gq01" twE="0" dr="2"/>
+          <f x="-0.15" y="1.95" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-gq02" twE="0" dr="2"/>
+          <f x="-0.5" y="5.55" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-gq03" twE="0" dr="1"/>
+          <f x="2.4" y="5.2" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-gq04" twE="0" dr="1"/>
+          <f x="1.3" y="6.45" kX="0" kY="0" cX="3" cY="3" z="1" img="jianshi_light_awake-gq05" dr="1"/>
+          <f x="1.3" y="6.4" kX="0" kY="0" cX="4" cY="4" z="1" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.22" cY="1.22" z="0" img="jianshi_light_awake-f3h" twE="0" dr="8"/>
+          <f x="0" y="0.05" kX="0.14" kY="0.14" cX="1.22" cY="1.22" z="0" twE="0" dr="1"/>
+          <f x="29.75" y="-229.75" kX="126.11" kY="126.1" cX="1.2" cY="1.2" z="0" twE="0" dr="1"/>
+          <f x="305.05" y="-13.1" kX="264.39" kY="264.39" cX="2" cY="2" z="4" twE="0" dr="1"/>
+          <f x="313.45" y="5.65" kX="263.46" kY="263.46" cX="2" cY="2" z="6" twE="0" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 300" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" img="jianshi_light_awake-gq01" twE="0" dr="2"/>
+          <f x="-0.15" y="1.95" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-gq02" twE="0" dr="2"/>
+          <f x="-0.5" y="5.55" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-gq03" twE="0" dr="1"/>
+          <f x="2.4" y="5.2" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-gq04" twE="0" dr="1"/>
+          <f x="1.3" y="6.45" kX="0" kY="0" cX="3" cY="3" z="0" img="jianshi_light_awake-gq05" dr="1"/>
+          <f x="1.3" y="6.4" kX="0" kY="0" cX="4" cY="4" z="0" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 301" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="3" img="jianshi_light_awake-gq01" twE="0" dr="2"/>
+          <f x="-0.15" y="1.95" kX="0" kY="0" cX="2" cY="2" z="3" img="jianshi_light_awake-gq02" twE="0" dr="2"/>
+          <f x="-0.5" y="5.55" kX="0" kY="0" cX="2" cY="2" z="3" img="jianshi_light_awake-gq03" twE="0" dr="1"/>
+          <f x="2.4" y="5.2" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-gq04" twE="0" dr="1"/>
+          <f x="1.3" y="6.45" kX="0" kY="0" cX="3" cY="3" z="1" img="jianshi_light_awake-gq05" dr="1"/>
+          <f x="1.3" y="6.4" kX="0" kY="0" cX="4" cY="4" z="1" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 31" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" img="jianshi_light_awake-gq01" twE="0" dr="2"/>
+          <f x="-0.15" y="1.95" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-gq02" twE="0" dr="2"/>
+          <f x="-0.5" y="5.55" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-gq03" twE="0" dr="1"/>
+          <f x="2.4" y="5.2" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-gq04" twE="0" dr="2"/>
+          <f x="1.3" y="6.45" kX="0" kY="0" cX="3" cY="3" z="0" img="jianshi_light_awake-gq05" dr="2"/>
+          <f x="1.3" y="6.4" kX="0" kY="0" cX="4" cY="4" z="0" dr="2"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 302" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="3" img="jianshi_light_awake-gq01" twE="0" dr="2"/>
+          <f x="-0.15" y="1.95" kX="0" kY="0" cX="2" cY="2" z="3" img="jianshi_light_awake-gq02" twE="0" dr="2"/>
+          <f x="-0.5" y="5.55" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-gq03" twE="0" dr="1"/>
+          <f x="2.4" y="5.2" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-gq04" twE="0" dr="2"/>
+          <f x="1.3" y="6.45" kX="0" kY="0" cX="3" cY="3" z="1" img="jianshi_light_awake-gq05" dr="2"/>
+          <f x="1.3" y="6.4" kX="0" kY="0" cX="4" cY="4" z="1" dr="2"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="wq0000" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="6" img="jianshi_light_awake-zs0-404" dr="2"/>
+          <f x="0" y="-1.1" kX="0" kY="0" cX="2" cY="2" z="5" img="jianshi_light_awake-zs0-405" dr="2"/>
+          <f x="0" y="-1.1" kX="0" kY="0" cX="2" cY="2" z="4" img="jianshi_light_awake-zs0-46" dr="3"/>
+          <f x="-0.7" y="62.35" kX="0" kY="0" cX="0.5" cY="0.5" z="2" dr="2"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="wq0001" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="6" img="jianshi_light_awake-zs0-404" dr="2"/>
+          <f x="0" y="-1.1" kX="0" kY="0" cX="2" cY="2" z="5" img="jianshi_light_awake-zs0-405" dr="2"/>
+          <f x="0" y="-1.1" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-zs0-46" dr="3"/>
+          <f x="-0.7" y="62.35" kX="0" kY="0" cX="0.5" cY="0.5" z="2" dr="2"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="8" img="jianshi_light_awake-jianshe 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="9" img="jianshi_light_awake-jianshe 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="6" img="jianshi_light_awake-jianshe 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="7" img="jianshi_light_awake-jianshe 4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="4" img="jianshi_light_awake-jianshe 5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="3" img="jianshi_light_awake-jianshe 6" dr="2"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="7" img="jianshi_light_awake-jianshe 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="10" img="jianshi_light_awake-jianshe 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="7" img="jianshi_light_awake-jianshe 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="4" img="jianshi_light_awake-jianshe 4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="3" img="jianshi_light_awake-jianshe 5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="jianshi_light_awake-jianshe 6" dr="2"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="9" img="jianshi_light_awake-jianshe 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="8" img="jianshi_light_awake-jianshe 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="5" img="jianshi_light_awake-jianshe 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="4" img="jianshi_light_awake-jianshe 4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="jianshi_light_awake-jianshe 5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="jianshi_light_awake-jianshe 6" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_20">
+      <mov name="physical_20" to="1" dr="33" drTW="33" lp="0">
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-em0503-2-1-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-em0503-2-2-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-em0503-2-3-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-em0503-2-4-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-em0503-2-2-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-em0503-2-3-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-em0503-2-4-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-em0503-2-2-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-em0503-2-3-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-em0503-2-4-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-em0503-2-3-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-em0503-2-2-2" dr="2"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 31" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-em0503-2-2-2" dr="2"/>
+          <f x="10" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-em0503-2-3-2" dr="2"/>
+          <f x="10" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-em0503-2-4-2" dr="2"/>
+          <f x="10" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-em0503-2-2-2" dr="2"/>
+          <f x="10" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-em0503-2-3-2" dr="2"/>
+          <f x="10" y="0" kX="0" kY="0" cX="2" cY="2" z="1" dr="2"/>
+          <f x="10" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-em0503-2-4-2" dr="2"/>
+          <f x="10" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-em0503-2-2-2" dr="2"/>
+          <f x="10" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-em0503-2-3-2" dr="2"/>
+          <f x="10" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-em0503-2-4-2" dr="2"/>
+          <f x="10" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-em0503-2-3-2" dr="2"/>
+          <f x="10" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-em0503-2-2-2" dr="2"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.4" cY="2.4" z="2" img="jianshi_light_awake-jineng-2-light-2" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="1.24" z="2" img="jianshi_light_awake-jinenng-2-light-1" twE="0" dr="6"/>
+          <f x="-70" y="0" kX="0" kY="0" cX="1.99" cY="1.56" z="2" dr="12"/>
+          <f x="-70" y="0" kX="0" kY="0" cX="1.99" cY="1.56" z="2" twE="0" dr="5"/>
+          <f x="20.8" y="0" kX="0" kY="0" cX="2.5" cY="0.07" z="0" dr="3"/>
+          <f x="140.8" y="0" kX="0" kY="0" cX="0.82" cY="0.07" z="0" dr="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" img="jianshi_light_awake-em0503-1-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" img="jianshi_light_awake-em0503-1-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" img="jianshi_light_awake-em0503-1-3" dr="2"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" img="jianshi_light_awake-em0503-1-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" img="jianshi_light_awake-em0503-1-2" dr="2"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="5" img="jianshi_light_awake-em0503-1-4" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="图层 32" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="3" img="jianshi_light_awake-light-1-2" twE="0" dr="8"/>
+          <f x="-157.85" y="7.9" kX="0" kY="0" cX="0.78" cY="0.78" z="4" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="19" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.21" z="3" img="jianshi_light_awake-jianshe 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.21" z="3" img="jianshi_light_awake-jianshe 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.21" z="3" img="jianshi_light_awake-jianshe 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.21" z="3" img="jianshi_light_awake-jianshe 4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.21" z="1" img="jianshi_light_awake-jianshe 5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.21" z="1" img="jianshi_light_awake-jianshe 6" dr="2"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="19" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.21" z="4" img="jianshi_light_awake-jianshe 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.21" z="4" img="jianshi_light_awake-jianshe 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.21" z="4" img="jianshi_light_awake-jianshe 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.21" z="4" img="jianshi_light_awake-jianshe 4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.21" z="2" img="jianshi_light_awake-jianshe 5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.21" z="2" img="jianshi_light_awake-jianshe 6" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_4">
+      <mov name="physical_4" to="1" dr="44" drTW="20" lp="0">
+        <b name="女剑士1默认1-1-1-1" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-12" twE="0" dr="3"/>
+          <f x="30" y="-0.05" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-13" twE="0" dr="2"/>
+          <f x="50" y="0" kX="0" kY="0" cX="2" cY="2" z="0" dr="1"/>
+          <f dr="7" hide="1"/>
+          <f x="0" y="0.1" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-31" dr="2"/>
+          <f x="0" y="0.1" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-41" dr="2"/>
+          <f x="0" y="0.1" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-42" dr="2"/>
+          <f x="0" y="0.1" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-43" dr="2"/>
+          <f x="0" y="-39.9" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-404" dr="2"/>
+          <f x="0" y="-41" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-405" dr="2"/>
+          <f x="0" y="-41" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-46" dr="2"/>
+          <f x="0.1" y="-3.2" kX="0" kY="0" cX="1.1" cY="1.1" z="0" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-jianshe 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-jianshe 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-jianshe 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="jianshi_light_awake-jianshe 4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="jianshi_light_awake-jianshe 5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="0" img="jianshi_light_awake-jianshe 6" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_3">
+      <mov name="physical_3" to="1" dr="11" drTW="13">
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="jianshi_light_awake-zs0-14" twE="0" dr="3"/>
+          <f x="52.5" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="jianshi_light_awake-zs0-15" twE="0" dr="1"/>
+          <f x="70" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_2">
+      <mov name="physical_2" to="1" dr="10" drTW="12" lp="0">
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-12" twE="0" dr="3"/>
+          <f x="74.95" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-13" twE="0" dr="1"/>
+          <f x="100" y="0" kX="0" kY="0" cX="2" cY="2" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="physical_1">
+      <mov name="physical_1" to="1" dr="10" drTW="12" lp="0">
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-12" twE="0" dr="3"/>
+          <f x="54" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="jianshi_light_awake-zs0-13" twE="0" dr="2"/>
+          <f x="114" y="0" kX="0" kY="0" cX="2" cY="2" z="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="half_moon_cut_wave">
+      <mov name="half_moon_cut_wave" to="1" dr="30" drTW="30" lp="1">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="1.55" z="0" img="jianshi_light_awake-jinenng-2-light-1" twE="0" dr="16"/>
+          <f x="-10" y="0" kX="0" kY="0" cX="0.6" cY="1.55" z="0" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="1.55" z="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-6" twE="0" dr="2"/>
+          <f x="0.05" y="-0.05" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-5" twE="0" dr="2"/>
+          <f x="1" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-6" twE="0" dr="2"/>
+          <f x="0.05" y="-0.05" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-5" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-6" twE="0" dr="2"/>
+          <f x="1.05" y="-0.05" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-5" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-6" twE="0" dr="2"/>
+          <f x="-0.95" y="-0.05" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-5" twE="0" dr="2"/>
+          <f x="1" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-6" twE="0" dr="2"/>
+          <f x="1.05" y="-0.05" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-5" twE="0" dr="2"/>
+          <f x="1" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-6" twE="0" dr="2"/>
+          <f x="0.05" y="-0.05" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-5" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-6" twE="0" dr="2"/>
+          <f x="-0.95" y="-0.05" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-5" twE="0" dr="3"/>
+          <f x="1" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="jianshi_light_awake-niubo-huo-6" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="half_moon_cut">
+      <mov name="half_moon_cut" to="1" dr="32" drTW="32">
+        <b name="gxs31" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.72" z="0" img="jianshi_light_awake-zs0-14-02" dr="1"/>
+          <f x="-167.5" y="163.9" kX="113.39" kY="157.26" cX="1.38" cY="1.32" z="0" twE="0" dr="3"/>
+          <f x="-207.65" y="166.35" kX="158.03" kY="155.47" cX="0.82" cY="0.75" z="0" twE="0" dr="2"/>
+          <f x="-241.7" y="169.6" kX="180.32" kY="154.34" cX="0.55" cY="0.46" z="0" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.71" cY="1.71" z="0" img="jianshi_light_awake-zsn0-31a-10" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.56" cY="1.56" z="0" dr="1"/>
+          <f x="16" y="33" kX="-235.24" kY="124.77" cX="1.24" cY="1.24" z="1" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="qe3" sc="1" dl="0"/>
+        <b name="qe30" sc="1" dl="0"/>
+        <b name="qe31" sc="1" dl="0"/>
+        <b name="qe32" sc="1" dl="0"/>
+        <b name="qe33" sc="1" dl="0"/>
+        <b name="qe34" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="qe35" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="qe36" sc="1" dl="0"/>
+        <b name="qe37" sc="1" dl="0"/>
+        <b name="qe38" sc="1" dl="0"/>
+        <b name="qe39" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="2" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="qe310" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="3" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="qe311" sc="1" dl="0"/>
+        <b name="qe312" sc="1" dl="0"/>
+        <b name="qe313" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="4" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="qe314" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="qe315" sc="1" dl="0"/>
+        <b name="qe316" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="qe317" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="qe318" sc="1" dl="0"/>
+        <b name="qe319" sc="1" dl="0"/>
+        <b name="qe320" sc="1" dl="0"/>
+        <b name="qe321" sc="1" dl="0"/>
+        <b name="qe322" sc="1" dl="0"/>
+        <b name="qe323" sc="1" dl="0"/>
+        <b name="qe324" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="8" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="qe325" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="9" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="qe326" sc="1" dl="0"/>
+        <b name="qe327" sc="1" dl="0"/>
+        <b name="qe328" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="10" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="qe329" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="12" img="jianshi_light_awake-qe3" twE="0" dr="2"/>
+          <f dr="30" hide="1"/>
+        </b>
+        <b name="图层 8 复制" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="1" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-17" y="-20.6" kX="0" kY="0" cX="0.2" cY="0.2" z="0" twE="0" dr="6"/>
+          <f x="-29.5" y="-34.6" kX="0" kY="0" cX="0.2" cY="0.2" z="0" twE="0" dr="5"/>
+          <f x="-43.5" y="-53.45" kX="0" kY="0" cX="0.05" cY="0.05" z="0" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 9 复制" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="2" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="13.6" y="-16.5" kX="0" kY="0" cX="0.16" cY="0.16" z="1" twE="0" dr="6"/>
+          <f x="23.6" y="-27.65" kX="0" kY="0" cX="0.16" cY="0.16" z="1" twE="0" dr="5"/>
+          <f x="34.8" y="-42.75" kX="0" kY="0" cX="0.04" cY="0.04" z="1" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 10 复制" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="2" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="4.45" y="-23.25" kX="0" kY="0" cX="0.16" cY="0.16" z="2" twE="0" dr="6"/>
+          <f x="6.25" y="-41.1" kX="0" kY="0" cX="0.16" cY="0.16" z="0" twE="0" dr="5"/>
+          <f x="9.05" y="-57.3" kX="0" kY="0" cX="0.04" cY="0.04" z="0" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 15 复制" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="4" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="8.2" y="-22.15" kX="0" kY="0" cX="0.16" cY="0.16" z="3" twE="0" dr="6"/>
+          <f x="12.95" y="-39.5" kX="0" kY="0" cX="0.16" cY="0.16" z="3" twE="0" dr="5"/>
+          <f x="18.4" y="-55.05" kX="-0.02" kY="-0.02" cX="0.04" cY="0.04" z="3" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 16 复制" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="4" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-7.75" y="-22.35" kX="0" kY="0" cX="0.16" cY="0.16" z="4" twE="0" dr="6"/>
+          <f x="-15.1" y="-38.7" kX="0" kY="0" cX="0.16" cY="0.16" z="1" twE="0" dr="5"/>
+          <f x="-20.8" y="-54.2" kX="-0.02" kY="-0.02" cX="0.04" cY="0.04" z="1" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 17 复制" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="5" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="12.75" y="14" kX="0" kY="0" cX="0.13" cY="0.13" z="5" twE="0" dr="6"/>
+          <f x="21.45" y="25.4" kX="0" kY="0" cX="0.13" cY="0.13" z="0" twE="0" dr="5"/>
+          <f x="30.15" y="35.35" kX="0.02" kY="0.02" cX="0.03" cY="0.03" z="0" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 11 复制" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="6" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-12.9" y="-19.85" kX="0" kY="0" cX="0.16" cY="0.16" z="6" twE="0" dr="6"/>
+          <f x="-24.05" y="-33.95" kX="0" kY="0" cX="0.16" cY="0.16" z="1" twE="0" dr="5"/>
+          <f x="-33.3" y="-47.55" kX="-0.01" kY="-0.01" cX="0.04" cY="0.04" z="1" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 12 复制" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="7" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="17.1" y="-16.35" kX="0" kY="0" cX="0.16" cY="0.16" z="4" twE="0" dr="6"/>
+          <f x="31.15" y="-27.55" kX="0" kY="0" cX="0.16" cY="0.16" z="2" twE="0" dr="5"/>
+          <f x="43.25" y="-38.65" kX="-0.01" kY="-0.01" cX="0.04" cY="0.04" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 13 复制" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="8" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="18.2" y="4.95" kX="0" kY="0" cX="0.13" cY="0.13" z="8" twE="0" dr="6"/>
+          <f x="31.7" y="9.95" kX="0" kY="0" cX="0.13" cY="0.13" z="3" twE="0" dr="5"/>
+          <f x="44.25" y="13.7" kX="0" kY="0" cX="0.03" cY="0.03" z="3" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 14 复制" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="9" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-2.9" y="-18.6" kX="0" kY="0" cX="0.13" cY="0.13" z="4" twE="0" dr="6"/>
+          <f x="-3.85" y="-33" kX="0" kY="0" cX="0.13" cY="0.13" z="0" twE="0" dr="5"/>
+        </b>
+        <b name="图层 5 复制" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="8" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="26.25" y="-12.8" kX="0" kY="0" cX="0.2" cY="0.2" z="10" twE="0" dr="6"/>
+          <f x="40.55" y="-19.8" kX="0" kY="0" cX="0.2" cY="0.2" z="5" twE="0" dr="5"/>
+          <f x="52.5" y="-25.6" kX="0" kY="0" cX="0.05" cY="0.05" z="5" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 6 复制" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="10" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-26.25" y="-12.8" kX="0" kY="0" cX="0.2" cY="0.2" z="11" twE="0" dr="6"/>
+          <f x="-40.55" y="-19.8" kX="0" kY="0" cX="0.2" cY="0.2" z="6" twE="0" dr="5"/>
+          <f x="-52.5" y="-25.6" kX="0" kY="0" cX="0.05" cY="0.05" z="5" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 7 复制" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="10" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-29.8" y="20.65" kX="0" kY="0" cX="0.2" cY="0.2" z="12" twE="0" dr="6"/>
+          <f x="-42.3" y="31.05" kX="0" kY="0" cX="0.2" cY="0.2" z="7" twE="0" dr="5"/>
+          <f x="-54.4" y="37.75" kX="0" kY="0" cX="0.05" cY="0.05" z="7" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 18 复制" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="13" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="30.15" y="-20.15" kX="0" kY="0" cX="0.2" cY="0.2" z="8" twE="0" dr="4"/>
+          <f x="42.85" y="-30.25" kX="0" kY="0" cX="0.2" cY="0.2" z="1" twE="0" dr="4"/>
+        </b>
+        <b name="图层 19 复制" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="13" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-21.5" y="-29.2" kX="0" kY="0" cX="0.2" cY="0.2" z="11" twE="0" dr="4"/>
+          <f x="-32.25" y="-41.4" kX="0" kY="0" cX="0.2" cY="0.2" z="7" twE="0" dr="4"/>
+          <f x="-39.25" y="-53.3" kX="0.02" kY="0.02" cX="0.05" cY="0.05" z="6" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 8  复制 2" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="6" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="26.65" y="-2.5" kX="0" kY="0" cX="0.2" cY="0.2" z="12" twE="0" dr="6"/>
+          <f x="45.35" y="-3.6" kX="0" kY="0" cX="0.2" cY="0.2" z="15" twE="0" dr="5"/>
+          <f x="68.55" y="-7.05" kX="0" kY="0" cX="0.05" cY="0.05" z="15" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 9  复制 2" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="7" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="2" y="-21.3" kX="0" kY="0" cX="0.16" cY="0.16" z="13" twE="0" dr="6"/>
+          <f x="2.85" y="-36.25" kX="0" kY="0" cX="0.16" cY="0.16" z="16" twE="0" dr="5"/>
+          <f x="5.65" y="-54.9" kX="0" kY="0" cX="0.04" cY="0.04" z="16" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 10  复制 2" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="9" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="13.3" y="-19.6" kX="0" kY="0" cX="0.16" cY="0.16" z="16" twE="0" dr="6"/>
+          <f x="24.65" y="-33.45" kX="0" kY="0" cX="0.16" cY="0.16" z="12" twE="0" dr="5"/>
+          <f x="34.1" y="-46.9" kX="0" kY="0" cX="0.04" cY="0.04" z="12" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 15  复制 2" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="9" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="9.85" y="-21.45" kX="0" kY="0" cX="0.16" cY="0.16" z="15" twE="0" dr="6"/>
+          <f x="18.75" y="-37.05" kX="0" kY="0" cX="0.16" cY="0.16" z="18" twE="0" dr="5"/>
+          <f x="25.9" y="-51.9" kX="0.02" kY="0.02" cX="0.04" cY="0.04" z="18" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 16  复制 2" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="11" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="21.25" y="-10.3" kX="0" kY="0" cX="0.16" cY="0.16" z="18" twE="0" dr="6"/>
+          <f x="38" y="-16.65" kX="0" kY="0" cX="0.16" cY="0.16" z="13" twE="0" dr="5"/>
+          <f x="53.05" y="-23.55" kX="0.03" kY="0.03" cX="0.04" cY="0.04" z="13" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 17  复制 2" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="17" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-18.9" y="0.9" kX="0" kY="0" cX="0.13" cY="0.13" z="20" twE="0" dr="6"/>
+          <f x="-33.1" y="2.8" kX="0" kY="0" cX="0.13" cY="0.13" z="8" twE="0" dr="5"/>
+          <f x="-46.3" y="3.7" kX="-0.01" kY="-0.01" cX="0.03" cY="0.03" z="7" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 11  复制 2" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="18" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="23.15" y="-4.95" kX="0" kY="0" cX="0.16" cY="0.16" z="21" twE="0" dr="6"/>
+          <f x="41" y="-7" kX="0" kY="0" cX="0.16" cY="0.16" z="9" twE="0" dr="5"/>
+          <f x="57.15" y="-10.05" kX="0.02" kY="0.02" cX="0.04" cY="0.04" z="8" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 12  复制 2" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="21" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-0.55" y="-23.65" kX="0" kY="0" cX="0.16" cY="0.16" z="16" twE="0" dr="6"/>
+          <f x="-2.6" y="-41.5" kX="0" kY="0" cX="0.16" cY="0.16" z="9" twE="0" dr="5"/>
+          <f x="-3.3" y="-57.9" kX="0" kY="0" cX="0.04" cY="0.04" z="3" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 13  复制 2" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="20" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-16.35" y="-9.35" kX="0" kY="0" cX="0.13" cY="0.13" z="23" twE="0" dr="6"/>
+          <f x="-29.45" y="-15.35" kX="0" kY="0" cX="0.13" cY="0.13" z="11" twE="0" dr="5"/>
+          <f x="-41" y="-21.6" kX="-0.02" kY="-0.02" cX="0.03" cY="0.03" z="10" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 14  复制 2" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="23" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="15.2" y="-11.1" kX="0" kY="0" cX="0.13" cY="0.13" z="14" twE="0" dr="6"/>
+          <f x="26.1" y="-20.65" kX="0" kY="0" cX="0.13" cY="0.13" z="2" twE="0" dr="5"/>
+        </b>
+        <b name="图层 5  复制 2" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="19" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-9.5" y="-27.6" kX="0" kY="0" cX="0.2" cY="0.2" z="25" twE="0" dr="6"/>
+          <f x="-14.65" y="-42.65" kX="0" kY="0" cX="0.2" cY="0.2" z="15" twE="0" dr="5"/>
+          <f x="-19" y="-55.2" kX="0" kY="0" cX="0.05" cY="0.05" z="15" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 6  复制 2" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="22" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="27.65" y="9.55" kX="0" kY="0" cX="0.2" cY="0.2" z="26" twE="0" dr="6"/>
+          <f x="42.7" y="14.7" kX="0" kY="0" cX="0.2" cY="0.2" z="16" twE="0" dr="5"/>
+          <f x="55.25" y="19.05" kX="0" kY="0" cX="0.05" cY="0.05" z="13" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 7  复制 2" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="21" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="6.45" y="35.65" kX="0" kY="0" cX="0.2" cY="0.2" z="27" twE="0" dr="6"/>
+          <f x="7.95" y="51.85" kX="0" kY="0" cX="0.2" cY="0.2" z="17" twE="0" dr="5"/>
+          <f x="11.75" y="65.15" kX="0" kY="0" cX="0.05" cY="0.05" z="17" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 18  复制 2" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="28" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-7.1" y="-35.6" kX="0" kY="0" cX="0.2" cY="0.2" z="18" twE="0" dr="4"/>
+          <f x="-8.9" y="-51.7" kX="0" kY="0" cX="0.2" cY="0.2" z="3" twE="0" dr="4"/>
+        </b>
+        <b name="图层 19  复制 2" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="27" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="35.85" y="-5.45" kX="0" kY="0" cX="0.2" cY="0.2" z="23" twE="0" dr="4"/>
+          <f x="52.1" y="-6.5" kX="0" kY="0" cX="0.2" cY="0.2" z="15" twE="0" dr="4"/>
+          <f x="65.45" y="-9.95" kX="-0.01" kY="-0.01" cX="0.05" cY="0.05" z="13" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 8   复制 3" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="11" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="21.95" y="15.3" kX="0" kY="0" cX="0.2" cY="0.2" z="24" twE="0" dr="6"/>
+          <f x="36.95" y="26.5" kX="0" kY="0" cX="0.2" cY="0.2" z="30" twE="0" dr="5"/>
+          <f x="56.9" y="38.85" kX="0" kY="0" cX="0.05" cY="0.05" z="30" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 9   复制 3" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="12" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="15.3" y="-15" kX="0" kY="0" cX="0.16" cY="0.16" z="25" twE="0" dr="6"/>
+          <f x="25.6" y="-25.85" kX="0" kY="0" cX="0.16" cY="0.16" z="31" twE="0" dr="5"/>
+          <f x="39.75" y="-38.3" kX="0.01" kY="0.01" cX="0.04" cY="0.04" z="31" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 10   复制 3" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="16" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="22.8" y="-6.4" kX="0" kY="0" cX="0.16" cY="0.16" z="30" twE="0" dr="6"/>
+          <f x="40.45" y="-9.65" kX="0" kY="0" cX="0.16" cY="0.16" z="24" twE="0" dr="5"/>
+          <f x="56.3" y="-13.8" kX="0.01" kY="0.01" cX="0.04" cY="0.04" z="24" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 15   复制 3" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="14" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="21.4" y="-10" kX="0" kY="0" cX="0.16" cY="0.16" z="27" twE="0" dr="6"/>
+          <f x="38.25" y="-16.2" kX="0" kY="0" cX="0.16" cY="0.16" z="33" twE="0" dr="5"/>
+          <f x="53.3" y="-22.95" kX="0.01" kY="0.01" cX="0.04" cY="0.04" z="33" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 16   复制 3" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="18" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="22.85" y="5.8" kX="0" kY="0" cX="0.16" cY="0.16" z="32" twE="0" dr="6"/>
+          <f x="39.75" y="11.8" kX="0" kY="0" cX="0.16" cY="0.16" z="25" twE="0" dr="5"/>
+          <f x="55.7" y="16.25" kX="0.03" kY="0.03" cX="0.04" cY="0.04" z="25" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 17   复制 3" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="29" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-14.95" y="-11.55" kX="0" kY="0" cX="0.13" cY="0.13" z="35" twE="0" dr="6"/>
+          <f x="-27.05" y="-19.3" kX="0" kY="0" cX="0.13" cY="0.13" z="16" twE="0" dr="5"/>
+          <f x="-37.75" y="-27.1" kX="-0.03" kY="-0.03" cX="0.03" cY="0.03" z="14" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 11   复制 3" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="30" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="20.8" y="11.1" kX="0" kY="0" cX="0.16" cY="0.16" z="36" twE="0" dr="6"/>
+          <f x="35.8" y="21.1" kX="0" kY="0" cX="0.16" cY="0.16" z="17" twE="0" dr="5"/>
+          <f x="50.1" y="29.15" kX="0" kY="0" cX="0.04" cY="0.04" z="15" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 12   复制 3" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="35" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="14.8" y="-18.4" kX="0" kY="0" cX="0.16" cY="0.16" z="28" twE="0" dr="6"/>
+          <f x="24.8" y="-33.35" kX="0" kY="0" cX="0.16" cY="0.16" z="16" twE="0" dr="5"/>
+          <f x="34.8" y="-46.35" kX="0.01" kY="0.01" cX="0.04" cY="0.04" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 13   复制 3" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="32" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-6.5" y="-17.7" kX="0" kY="0" cX="0.13" cY="0.13" z="38" twE="0" dr="6"/>
+          <f x="-12.6" y="-30.75" kX="0" kY="0" cX="0.13" cY="0.13" z="19" twE="0" dr="5"/>
+          <f x="-17.45" y="-42.95" kX="0" kY="0" cX="0.03" cY="0.03" z="17" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 14   复制 3" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="37" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="18.75" y="1.35" kX="0" kY="0" cX="0.13" cY="0.13" z="24" twE="0" dr="6"/>
+          <f x="33.25" y="1.05" kX="0" kY="0" cX="0.13" cY="0.13" z="4" twE="0" dr="5"/>
+        </b>
+        <b name="图层 5   复制 3" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="30" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="10.6" y="-27.25" kX="0" kY="0" cX="0.2" cY="0.2" z="40" twE="0" dr="6"/>
+          <f x="16.35" y="-42.1" kX="0" kY="0" cX="0.2" cY="0.2" z="25" twE="0" dr="5"/>
+          <f x="21.15" y="-54.5" kX="0" kY="0" cX="0.05" cY="0.05" z="25" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 6   复制 3" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="34" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="14.95" y="25.15" kX="0" kY="0" cX="0.2" cY="0.2" z="41" twE="0" dr="6"/>
+          <f x="23.1" y="38.8" kX="0" kY="0" cX="0.2" cY="0.2" z="26" twE="0" dr="5"/>
+          <f x="29.9" y="50.2" kX="0" kY="0" cX="0.05" cY="0.05" z="21" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 7   复制 3" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="32" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-18.05" y="31.4" kX="0" kY="0" cX="0.2" cY="0.2" z="42" twE="0" dr="6"/>
+          <f x="-27.35" y="44.7" kX="0" kY="0" cX="0.2" cY="0.2" z="27" twE="0" dr="5"/>
+          <f x="-33.05" y="57.35" kX="0" kY="0" cX="0.05" cY="0.05" z="27" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 18   复制 3" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="43" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="17.55" y="-31.75" kX="0" kY="0" cX="0.2" cY="0.2" z="28" twE="0" dr="4"/>
+          <f x="26.55" y="-45.25" kX="0" kY="0" cX="0.2" cY="0.2" z="5" twE="0" dr="4"/>
+        </b>
+        <b name="图层 19   复制 3" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="41" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="30.9" y="19" kX="0" kY="0" cX="0.2" cY="0.2" z="35" twE="0" dr="4"/>
+          <f x="44" y="28.65" kX="0" kY="0" cX="0.2" cY="0.2" z="23" twE="0" dr="4"/>
+          <f x="56.45" y="34.65" kX="-0.01" kY="-0.01" cX="0.05" cY="0.05" z="20" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 8    复制 4" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="1" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="21.95" y="15.3" kX="0" kY="0" cX="0.2" cY="0.2" z="15" twE="0" dr="6"/>
+          <f x="36.95" y="26.5" kX="0" kY="0" cX="0.2" cY="0.2" z="36" twE="0" dr="5"/>
+          <f x="56.9" y="38.85" kX="0" kY="0" cX="0.05" cY="0.05" z="42" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 9    复制 4" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="2" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="15.3" y="-15" kX="0" kY="0" cX="0.16" cY="0.16" z="16" twE="0" dr="6"/>
+          <f x="25.6" y="-25.85" kX="0" kY="0" cX="0.16" cY="0.16" z="37" twE="0" dr="5"/>
+          <f x="39.75" y="-38.3" kX="0.01" kY="0.01" cX="0.04" cY="0.04" z="43" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 10    复制 4" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="3" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="22.8" y="-6.4" kX="0" kY="0" cX="0.16" cY="0.16" z="26" twE="0" dr="6"/>
+          <f x="40.45" y="-9.65" kX="0" kY="0" cX="0.16" cY="0.16" z="42" twE="0" dr="5"/>
+          <f x="56.3" y="-13.8" kX="0.01" kY="0.01" cX="0.04" cY="0.04" z="42" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 15    复制 4" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="4" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="21.4" y="-10" kX="0" kY="0" cX="0.16" cY="0.16" z="18" twE="0" dr="6"/>
+          <f x="38.25" y="-16.2" kX="0" kY="0" cX="0.16" cY="0.16" z="39" twE="0" dr="5"/>
+          <f x="53.3" y="-22.95" kX="0.01" kY="0.01" cX="0.04" cY="0.04" z="45" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="图层 16    复制 4" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="5" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="22.85" y="5.8" kX="0" kY="0" cX="0.16" cY="0.16" z="28" twE="0" dr="6"/>
+          <f x="39.75" y="11.8" kX="0" kY="0" cX="0.16" cY="0.16" z="43" twE="0" dr="5"/>
+          <f x="55.7" y="16.25" kX="0.03" kY="0.03" cX="0.04" cY="0.04" z="43" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 17    复制 4" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="20" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-14.95" y="-11.55" kX="0" kY="0" cX="0.13" cY="0.13" z="47" twE="0" dr="6"/>
+          <f x="-27.05" y="-19.3" kX="0" kY="0" cX="0.13" cY="0.13" z="45" twE="0" dr="5"/>
+          <f x="-37.75" y="-27.1" kX="-0.03" kY="-0.03" cX="0.03" cY="0.03" z="36" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 11    复制 4" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="21" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="20.8" y="11.1" kX="0" kY="0" cX="0.16" cY="0.16" z="48" twE="0" dr="6"/>
+          <f x="35.8" y="21.1" kX="0" kY="0" cX="0.16" cY="0.16" z="46" twE="0" dr="5"/>
+          <f x="50.1" y="29.15" kX="0" kY="0" cX="0.04" cY="0.04" z="37" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 12    复制 4" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.16" cY="0.16" z="28" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="14.8" y="-18.4" kX="0" kY="0" cX="0.16" cY="0.16" z="46" twE="0" dr="6"/>
+          <f x="24.8" y="-33.35" kX="0" kY="0" cX="0.16" cY="0.16" z="38" twE="0" dr="5"/>
+          <f x="34.8" y="-46.35" kX="0.01" kY="0.01" cX="0.04" cY="0.04" z="36" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 13    复制 4" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="23" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-6.5" y="-17.7" kX="0" kY="0" cX="0.13" cY="0.13" z="50" twE="0" dr="6"/>
+          <f x="-12.6" y="-30.75" kX="0" kY="0" cX="0.13" cY="0.13" z="48" twE="0" dr="5"/>
+          <f x="-17.45" y="-42.95" kX="0" kY="0" cX="0.03" cY="0.03" z="39" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 14    复制 4" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="42" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="18.75" y="1.35" kX="0" kY="0" cX="0.13" cY="0.13" z="49" twE="0" dr="6"/>
+          <f x="33.25" y="1.05" kX="0" kY="0" cX="0.13" cY="0.13" z="30" twE="0" dr="5"/>
+          <f x="46.25" y="1.65" kX="0.01" kY="0.01" cX="0.03" cY="0.03" z="30" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 5    复制 4" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="18" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="10.6" y="-27.25" kX="0" kY="0" cX="0.2" cY="0.2" z="46" twE="0" dr="6"/>
+          <f x="16.35" y="-42.1" kX="0" kY="0" cX="0.2" cY="0.2" z="50" twE="0" dr="5"/>
+          <f x="21.15" y="-54.5" kX="0" kY="0" cX="0.05" cY="0.05" z="50" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 6    复制 4" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="26" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="14.95" y="25.15" kX="0" kY="0" cX="0.2" cY="0.2" z="47" twE="0" dr="6"/>
+          <f x="23.1" y="38.8" kX="0" kY="0" cX="0.2" cY="0.2" z="51" twE="0" dr="5"/>
+          <f x="29.9" y="50.2" kX="0" kY="0" cX="0.05" cY="0.05" z="50" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="图层 7    复制 4" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="20" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="-18.05" y="31.4" kX="0" kY="0" cX="0.2" cY="0.2" z="48" twE="0" dr="6"/>
+          <f x="-27.35" y="44.7" kX="0" kY="0" cX="0.2" cY="0.2" z="52" twE="0" dr="5"/>
+          <f x="-33.05" y="57.35" kX="0" kY="0" cX="0.05" cY="0.05" z="52" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 18    复制 4" sc="1" dl="0">
+          <f dr="16" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="55" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="17.55" y="-31.75" kX="0" kY="0" cX="0.2" cY="0.2" z="53" twE="0" dr="4"/>
+          <f x="26.55" y="-45.25" kX="0" kY="0" cX="0.2" cY="0.2" z="31" twE="0" dr="4"/>
+          <f x="32" y="-58" kX="0.03" kY="0.03" cX="0.05" cY="0.05" z="31" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 19    复制 4" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.2" cY="0.2" z="46" img="jianshi_light_awake-huoxing" twE="0" dr="3"/>
+          <f x="30.9" y="19" kX="0" kY="0" cX="0.2" cY="0.2" z="53" twE="0" dr="4"/>
+          <f x="44" y="28.65" kX="0" kY="0" cX="0.2" cY="0.2" z="52" twE="0" dr="4"/>
+          <f x="56.45" y="34.65" kX="-0.01" kY="-0.01" cX="0.05" cY="0.05" z="42" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="光效-剑士1 (2)" width="512" height="2048">
+    <SubTexture name="jianshi_light_awake-yz1" x="269" y="1112" width="56" height="12" pX="0" pY="0"/>
+    <SubTexture name="jianshi_light_awake-sprite 4733" x="343" y="177" width="22" height="13" pX="20.55" pY="6.55"/>
+    <SubTexture name="jianshi_light_awake-sprite2" x="268" y="695" width="39" height="25" pX="37.45" pY="12.9"/>
+    <SubTexture name="jianshi_light_awake-sprite3" x="268" y="746" width="36" height="23" pX="34.25" pY="12.75"/>
+    <SubTexture name="jianshi_light_awake-sprite4" x="268" y="668" width="42" height="26" pX="40.5" pY="14.75"/>
+    <SubTexture name="jianshi_light_awake-sprite 5" x="279" y="1049" width="46" height="30" pX="44.95" pY="16.5"/>
+    <SubTexture name="jianshi_light_awake-sprite6" x="269" y="1080" width="48" height="31" pX="46.55" pY="17.05"/>
+    <SubTexture name="jianshi_light_awake-STOM-1" x="220" y="1512" width="178" height="144" pX="-8.05" pY="-38.35"/>
+    <SubTexture name="jianshi_light_awake-STOM-2" x="326" y="1028" width="181" height="150" pX="-12.05" pY="-27.4"/>
+    <SubTexture name="jianshi_light_awake-STOM-3" x="0" y="426" width="176" height="160" pX="-19" pY="-20.3"/>
+    <SubTexture name="jianshi_light_awake-STOM-4" x="260" y="1369" width="182" height="142" pX="-11" pY="-37.4"/>
+    <SubTexture name="jianshi_light_awake-DG2" x="0" y="147" width="200" height="278" pX="140.4" pY="124.95"/>
+    <SubTexture name="jianshi_light_awake-DG3" x="269" y="1179" width="201" height="189" pX="158.4" pY="142.25"/>
+    <SubTexture name="jianshi_light_awake-DG4" x="0" y="1601" width="174" height="64" pX="106.8" pY="153.5"/>
+    <SubTexture name="jianshi_light_awake-dvsgg-1" x="0" y="773" width="89" height="154" pX="45" pY="43.8"/>
+    <SubTexture name="jianshi_light_awake-leiting 1" x="268" y="721" width="36" height="24" pX="-30.8" pY="-12"/>
+    <SubTexture name="jianshi_light_awake-leiting 2" x="308" y="848" width="54" height="50" pX="-28.95" pY="15.35"/>
+    <SubTexture name="jianshi_light_awake-leiting 3" x="90" y="916" width="67" height="53" pX="-24.3" pY="18.65"/>
+    <SubTexture name="jianshi_light_awake-leiting 4" x="399" y="1512" width="88" height="52" pX="-6" pY="20.2"/>
+    <SubTexture name="jianshi_light_awake-leiting 5" x="0" y="1419" width="106" height="53" pX="10.75" pY="20.05"/>
+    <SubTexture name="jianshi_light_awake-leiting 6" x="308" y="899" width="48" height="52" pX="11.5" pY="19.55"/>
+    <SubTexture name="jianshi_light_awake-leiting 7" x="279" y="996" width="46" height="52" pX="13" pY="21.3"/>
+    <SubTexture name="jianshi_light_awake-leiting 8" x="268" y="627" width="32" height="40" pX="13.55" pY="21.05"/>
+    <SubTexture name="jianshi_light_awake-q00" x="374" y="0" width="43" height="306" pX="41.45" pY="256.35"/>
+    <SubTexture name="jianshi_light_awake-sprite 1146" x="496" y="184" width="13" height="14" pX="5.95" pY="6.3"/>
+    <SubTexture name="jianshi_light_awake-zs0-406" x="314" y="487" width="76" height="185" pX="39" pY="139.8"/>
+    <SubTexture name="jianshi_light_awake-zs0-407" x="0" y="587" width="96" height="185" pX="47.45" pY="139.7"/>
+    <SubTexture name="jianshi_light_awake-zs0-408" x="402" y="371" width="99" height="185" pX="52.7" pY="141.55"/>
+    <SubTexture name="jianshi_light_awake-zs0-409" x="173" y="594" width="94" height="184" pX="50.6" pY="140.6"/>
+    <SubTexture name="jianshi_light_awake-zs0-410" x="391" y="557" width="97" height="186" pX="50.4" pY="141"/>
+    <SubTexture name="jianshi_light_awake-zs0-411" x="97" y="587" width="75" height="185" pX="41.15" pY="140.95"/>
+    <SubTexture name="jianshi_light_awake-zs0-412" x="418" y="184" width="77" height="186" pX="41.55" pY="140.7"/>
+    <SubTexture name="jianshi_light_awake-zs0-413" x="418" y="0" width="92" height="183" pX="43.7" pY="140"/>
+    <SubTexture name="jianshi_light_awake-f3h" x="311" y="673" width="60" height="174" pX="29.2" pY="83.85"/>
+    <SubTexture name="jianshi_light_awake-gq01" x="268" y="594" width="45" height="32" pX="43.4" pY="15.2"/>
+    <SubTexture name="jianshi_light_awake-gq02" x="90" y="970" width="61" height="39" pX="59.75" pY="18.75"/>
+    <SubTexture name="jianshi_light_awake-gq03" x="279" y="952" width="79" height="43" pX="77.85" pY="20.75"/>
+    <SubTexture name="jianshi_light_awake-gq04" x="90" y="1534" width="87" height="43" pX="85.75" pY="20.7"/>
+    <SubTexture name="jianshi_light_awake-gq05" x="0" y="1517" width="89" height="44" pX="87.7" pY="21.4"/>
+    <SubTexture name="jianshi_light_awake-em0503-2-1-2" x="90" y="1010" width="73" height="20" pX="72" pY="18.3"/>
+    <SubTexture name="jianshi_light_awake-em0503-2-2-2" x="90" y="1111" width="72" height="10" pX="70.65" pY="7.05"/>
+    <SubTexture name="jianshi_light_awake-em0503-2-3-2" x="90" y="1096" width="73" height="14" pX="71.6" pY="11.55"/>
+    <SubTexture name="jianshi_light_awake-em0503-2-4-2" x="90" y="1056" width="73" height="14" pX="71.5" pY="11.9"/>
+    <SubTexture name="jianshi_light_awake-jineng-2-light-2" x="366" y="177" width="2" height="2" pX="0.15" pY="0.15"/>
+    <SubTexture name="jianshi_light_awake-em0503-1-1" x="107" y="1456" width="128" height="37" pX="73.75" pY="7.35"/>
+    <SubTexture name="jianshi_light_awake-em0503-1-2" x="104" y="1494" width="115" height="39" pX="65" pY="7.3"/>
+    <SubTexture name="jianshi_light_awake-em0503-1-3" x="0" y="1473" width="103" height="43" pX="41.25" pY="7.35"/>
+    <SubTexture name="jianshi_light_awake-em0503-1-4" x="90" y="1031" width="68" height="24" pX="51" pY="1"/>
+    <SubTexture name="jianshi_light_awake-light-1-2" x="90" y="1071" width="63" height="24" pX="30.7" pY="11.3"/>
+    <SubTexture name="jianshi_light_awake-zs0-31" x="109" y="1396" width="114" height="59" pX="158.45" pY="135.45"/>
+    <SubTexture name="jianshi_light_awake-zs0-41" x="177" y="443" width="136" height="150" pX="98.6" pY="117.6"/>
+    <SubTexture name="jianshi_light_awake-zs0-42" x="0" y="928" width="89" height="146" pX="46.15" pY="112.5"/>
+    <SubTexture name="jianshi_light_awake-zs0-43" x="0" y="1075" width="89" height="104" pX="42.75" pY="70.2"/>
+    <SubTexture name="jianshi_light_awake-zs0-404" x="127" y="1218" width="134" height="94" pX="55.7" pY="43.25"/>
+    <SubTexture name="jianshi_light_awake-zs0-405" x="0" y="1310" width="108" height="108" pX="42.4" pY="57.4"/>
+    <SubTexture name="jianshi_light_awake-zs0-46" x="169" y="912" width="109" height="150" pX="20.85" pY="98.6"/>
+    <SubTexture name="jianshi_light_awake-jianshe 1" x="0" y="1180" width="126" height="129" pX="53.35" pY="77.9"/>
+    <SubTexture name="jianshi_light_awake-jianshe 2" x="372" y="744" width="133" height="144" pX="40.7" pY="104.6"/>
+    <SubTexture name="jianshi_light_awake-jianshe 3" x="201" y="147" width="141" height="148" pX="36.7" pY="121.6"/>
+    <SubTexture name="jianshi_light_awake-jianshe 4" x="201" y="296" width="143" height="146" pX="31.65" pY="127.9"/>
+    <SubTexture name="jianshi_light_awake-jianshe 5" x="363" y="889" width="142" height="138" pX="26.7" pY="132.1"/>
+    <SubTexture name="jianshi_light_awake-jianshe 6" x="169" y="779" width="138" height="132" pX="21.35" pY="134.05"/>
+    <SubTexture name="jianshi_light_awake-zs0-14" x="0" y="1791" width="340" height="126" pX="162.4" pY="79.45"/>
+    <SubTexture name="jianshi_light_awake-zs0-15" x="0" y="0" width="373" height="146" pX="181.2" pY="87.8"/>
+    <SubTexture name="jianshi_light_awake-zs0-12" x="90" y="773" width="78" height="142" pX="61.7" pY="113.05"/>
+    <SubTexture name="jianshi_light_awake-zs0-13" x="164" y="1063" width="104" height="154" pX="85.2" pY="118.8"/>
+    <SubTexture name="jianshi_light_awake-jinenng-2-light-1" x="175" y="1657" width="336" height="133" pX="189.05" pY="75.6"/>
+    <SubTexture name="jianshi_light_awake-niubo-huo-6" x="0" y="1562" width="84" height="38" pX="41.65" pY="18.85"/>
+    <SubTexture name="jianshi_light_awake-niubo-huo-5" x="399" y="1565" width="84" height="32" pX="41.65" pY="12.3"/>
+    <SubTexture name="jianshi_light_awake-zs0-14-02" x="109" y="1313" width="150" height="82" pX="104.5" pY="44"/>
+    <SubTexture name="jianshi_light_awake-zsn0-31a-10" x="345" y="307" width="56" height="179" pX="17.8" pY="36.6"/>
+    <SubTexture name="jianshi_light_awake-qe3" x="343" y="191" width="8" height="8" pX="3.25" pY="3.25"/>
+    <SubTexture name="jianshi_light_awake-huoxing" x="343" y="147" width="29" height="29" pX="14" pY="14"/>
+  </TextureAtlas>
+</skeleton>

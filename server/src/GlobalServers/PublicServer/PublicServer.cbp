@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PublicServer" />
+		<Option execution_dir="../PublicServer" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../Debug/PublicServer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Debug" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-W" />
+					<Add option="-O0" />
+					<Add option="-D_DEBUG" />
+					<Add option="-D_CONSOLE" />
+					<Add directory="../Utils" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="../Utils" />
+				</ResourceCompiler>
+				<Linker>
+					<Add option="-lmysqlcppconn" />
+					<Add library="../Debug/libutils.a" />
+					<Add library="pthread" />
+					<Add library="dl" />
+					<Add directory="../Debug/" />
+					<Add directory="/usr/lib/" />
+					<Add directory="/usr/lib/x86_64-linux-gnu/" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="../Release/PublicServer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Release" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-g" />
+					<Add option="-W" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_CONSOLE" />
+					<Add directory="../Utils" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="../Utils" />
+				</ResourceCompiler>
+				<Linker>
+					<Add option="../Debug/libutils.a" />
+					<Add library="mysqlcppconn" />
+					<Add library="pthread" />
+					<Add library="dl" />
+					<Add directory="../Release/" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-fshort-wchar" />
+			<Add option="-DLINUX_" />
+		</Compiler>
+		<Unit filename="../Interface/ShellHandle.h" />
+		<Unit filename="DataBaseFun.cpp" />
+		<Unit filename="DataBaseFun.h" />
+		<Unit filename="ErrorCode.h" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.h" />
+		<Unit filename="GameConfig.cpp" />
+		<Unit filename="GameConfig.h" />
+		<Unit filename="InterfaceManager.h" />
+		<Unit filename="IoEntry.cpp" />
+		<Unit filename="MessageEnum.h" />
+		<Unit filename="PlayerManager.cpp" />
+		<Unit filename="PlayerManager.h" />
+		<Unit filename="ReadMe.txt" />
+		<Unit filename="RegisterIOProc.cpp" />
+		<Unit filename="RegisterIOProc.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="stdafx.cpp" />
+		<Unit filename="stdafx.h" />
+		<Unit filename="system.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

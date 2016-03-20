@@ -1,0 +1,144 @@
+<skeleton name="logo OK2">
+  <armatures>
+    <armature name="logoOK">
+      <b name="元件 3" bT="0" bi="LoginAnimation_logo-2d" x="-7.5" y="9.6" kX="0" kY="0" z="0"/>
+      <b name="图层 3" bT="0" bi="LoginAnimation_logo-r20" x="-235.1" y="-36.5" kX="0" kY="0" z="1"/>
+      <b name="图层 5" bT="0" bi="LoginAnimation_logo-r30" x="-163.05" y="-49.15" kX="0" kY="0" z="2"/>
+      <b name="图层 6" bT="0" bi="LoginAnimation_logo-r40" x="-144.1" y="-73.75" kX="0" kY="0" z="1"/>
+      <b name="图层 7" bT="0" bi="LoginAnimation_logo-r501" x="-63.6" y="-24.4" kX="0" kY="0" z="1"/>
+      <b name="图层 8" bT="0" bi="LoginAnimation_logo-r60" x="-7.2" y="-37.8" kX="0" kY="0" z="2"/>
+      <b name="图层 9" bT="0" bi="LoginAnimation_logo-r70" x="35.6" y="-94.15" kX="0" kY="0" z="1"/>
+      <b name="图层 16" bT="0" bi="LoginAnimation_logo-r20" x="-239.5" y="-42.2" kX="0" kY="0" z="2"/>
+      <b name="图层 15" bT="0" bi="LoginAnimation_logo-r30" x="-165.05" y="-55.45" kX="0" kY="0" z="3"/>
+      <b name="图层 14" bT="0" bi="LoginAnimation_logo-r40" x="-151" y="-80.9" kX="0" kY="0" z="4"/>
+      <b name="图层 13" bT="0" bi="LoginAnimation_logo-r501" x="-67.8" y="-28.35" kX="0" kY="0" z="6"/>
+      <b name="图层 12" bT="0" bi="LoginAnimation_logo-r60" x="-11" y="-43.75" kX="0" kY="0" z="7"/>
+      <b name="图层 11" bT="0" bi="LoginAnimation_logo-r70" x="25.6" y="-104.5" kX="0" kY="0" z="7"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="logoOK">
+      <mov name="Logo" to="1" dr="115" drTW="115" lp="1">
+        <b name="元件 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="LoginAnimation_logo-2d" dr="115"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="LoginAnimation_logo-r20" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="58"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="52" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="LoginAnimation_logo-r30" twE="0" dr="58"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="52" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="LoginAnimation_logo-r40" twE="0" dr="61"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="37" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="30" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="LoginAnimation_logo-r501" twE="0" dr="61"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="30" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="LoginAnimation_logo-r60" twE="0" dr="61"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="45" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="LoginAnimation_logo-r70" twE="0" dr="61"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="2" img="LoginAnimation_logo-r20" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="2" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="3" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="56" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="7" img="LoginAnimation_logo-r20" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="7" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="5" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="51" hide="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="3" img="LoginAnimation_logo-r30" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="3" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="4" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="56" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="8" img="LoginAnimation_logo-r30" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="8" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="6" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="51" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="4" img="LoginAnimation_logo-r40" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="4" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="4" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="56" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="5" img="LoginAnimation_logo-r40" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="5" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="4" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="36" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="30" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="6" img="LoginAnimation_logo-r501" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="6" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="6" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="56" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="4" img="LoginAnimation_logo-r501" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="4" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="2" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="30" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="7" img="LoginAnimation_logo-r60" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="7" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="7" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="56" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="5" img="LoginAnimation_logo-r60" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="5" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="3" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="45" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="7" img="LoginAnimation_logo-r70" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="7" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="7" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="56" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="2" img="LoginAnimation_logo-r70" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="2" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="1" img="LoginAnimation_logo-rk" twE="0" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="logo OK2" width="512" height="512">
+    <SubTexture name="LoginAnimation_logo-2d" x="0" y="0" width="511" height="262" pX="250" pY="130"/>
+    <SubTexture name="LoginAnimation_logo-r20" x="343" y="263" width="91" height="116" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_logo-rk" x="477" y="263" width="3" height="3" pX="0.6" pY="0.8"/>
+    <SubTexture name="LoginAnimation_logo-r30" x="435" y="263" width="41" height="127" pX="0.05" pY="0.1"/>
+    <SubTexture name="LoginAnimation_logo-r40" x="202" y="263" width="140" height="144" pX="0.05" pY="-0.2"/>
+    <SubTexture name="LoginAnimation_logo-r501" x="421" y="391" width="86" height="87" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_logo-r60" x="343" y="380" width="77" height="121" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_logo-r70" x="0" y="263" width="201" height="208" pX="-0.1" pY="-0.1"/>
+  </TextureAtlas>
+</skeleton>

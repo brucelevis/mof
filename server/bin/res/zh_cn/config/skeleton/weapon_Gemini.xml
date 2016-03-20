@@ -1,0 +1,15 @@
+<skeleton name="双子座武器">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_Gemini" bT="0" bi="weapon_Gemini-weapon-fs_Gemini" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Gemini-weapon-fs_Gemini"/>
+      <b name="weapon-ck_Gemini" bT="0" bi="weapon_Gemini-weapon-ck_Gemini" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Gemini-weapon-ck_Gemini"/>
+      <b name="weapon-zs_Gemini" bT="0" bi="weapon_Gemini-weapon-zs_Gemini" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Gemini-weapon-zs_Gemini"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="双子座武器" width="512" height="256">
+    <SubTexture name="weapon_Gemini-weapon-fs_Gemini" x="0" y="0" width="66" height="201" pX="30.5" pY="105.35"/>
+    <SubTexture name="weapon_Gemini-weapon-ck_Gemini" x="233" y="0" width="45" height="111" pX="30.2" pY="65.4"/>
+    <SubTexture name="weapon_Gemini-weapon-zs_Gemini" x="67" y="0" width="165" height="74" pX="31.1" pY="36.05"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,15 @@
+<skeleton name="处女座武器5">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_xiongmao" bT="0" bi="weapon_virgo2-fs_virgo2" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_virgo2-fs_virgo2"/>
+      <b name="weapon-ck_xiongmao" bT="0" bi="weapon_virgo2-ck_virgo2" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_virgo2-ck_virgo2"/>
+      <b name="weapon-zs_xiongmao" bT="0" bi="weapon_virgo2-zs_virgo2" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_virgo2-zs_virgo2"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="处女座武器5" width="512" height="256">
+    <SubTexture name="weapon_virgo2-fs_virgo2" x="0" y="0" width="83" height="223" pX="39.2" pY="116.15"/>
+    <SubTexture name="weapon_virgo2-ck_virgo2" x="256" y="0" width="59" height="124" pX="36.15" pY="70.7"/>
+    <SubTexture name="weapon_virgo2-zs_virgo2" x="84" y="0" width="171" height="77" pX="28.95" pY="34.85"/>
+  </TextureAtlas>
+</skeleton>

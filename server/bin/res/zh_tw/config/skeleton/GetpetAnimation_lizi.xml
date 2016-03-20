@@ -1,0 +1,150 @@
+<skeleton name="散开粒子(1)">
+  <armatures>
+    <armature name="lizisankai">
+      <b name="图层 36" bT="0" bi="Getpet-liziziziziziq" x="-0.15" y="-1.7" kX="15" kY="15" z="0"/>
+      <b name="图层 34" bT="0" bi="Getpet-liziziziziziq" x="-0.15" y="-1.7" kX="54.94" kY="54.94" z="1"/>
+      <b name="图层 32" bT="0" bi="Getpet-liziziziziziq" x="-0.1" y="-1.7" kX="114.94" kY="114.94" z="2"/>
+      <b name="图层 30" bT="0" bi="Getpet-liziziziziziq" x="-0.1" y="-1.65" kX="156.92" kY="156.92" z="3"/>
+      <b name="图层 28" bT="0" bi="Getpet-liziziziziziq" x="-0.15" y="-1.65" kX="-158.08" kY="-158.08" z="4"/>
+      <b name="图层 26" bT="0" bi="Getpet-liziziziziziq" x="-0.15" y="-1.65" kX="-117.13" kY="-117.13" z="5"/>
+      <b name="图层 24" bT="0" bi="Getpet-liziziziziziq" x="-0.2" y="-1.65" kX="-72.13" kY="-72.13" z="6"/>
+      <b name="图层 22" bT="0" bi="Getpet-liziziziziziq" x="-0.2" y="-1.65" kX="-27.13" kY="-27.13" z="7"/>
+      <b name="图层 20" bT="0" bi="Getpet-liziziziziziq" x="-0.1" y="-1.7" kX="85.13" kY="85.13" z="8"/>
+      <b name="图层 18" bT="0" bi="Getpet-liziziziziziq" x="-0.3" y="0.1" kX="34.99" kY="34.99" z="9"/>
+      <b name="图层 16" bT="0" bi="Getpet-liziziziziziq" x="-0.3" y="0.1" kX="74.94" kY="74.94" z="10"/>
+      <b name="图层 14" bT="0" bi="Getpet-liziziziziziq" x="-0.2" y="0.1" kX="134.93" kY="134.93" z="11"/>
+      <b name="图层 12" bT="0" bi="Getpet-liziziziziziq" x="-0.25" y="0.15" kX="176.91" kY="176.91" z="12"/>
+      <b name="图层 10" bT="0" bi="Getpet-liziziziziziq" x="-0.4" y="0.15" kX="-138.09" kY="-138.09" z="13"/>
+      <b name="图层 8" bT="0" bi="Getpet-liziziziziziq" x="-0.4" y="0.15" kX="-97.13" kY="-97.13" z="14"/>
+      <b name="图层 6" bT="0" bi="Getpet-liziziziziziq" x="-0.4" y="0.15" kX="-52.13" kY="-52.13" z="15"/>
+      <b name="图层 4" bT="0" bi="Getpet-liziziziziziq" x="-0.45" y="0.15" kX="-7.14" kY="-7.13" z="16"/>
+      <b name="图层 2" bT="0" bi="Getpet-liziziziziziq" x="-0.2" y="0.1" kX="105.12" kY="105.12" z="17"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="lizisankai">
+      <mov name="lizisankai" to="1" dr="21" drTW="22" lp="0">
+        <b name="图层 36" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="1.04" z="0" img="Getpet-liziziziziziq" twE="0" dr="7"/>
+          <f x="-15.4" y="-0.6" kX="0" kY="0" cX="1.33" cY="1.33" z="0" twE="0" dr="7"/>
+          <f x="-24.6" y="-11" kX="0" kY="0" cX="0.12" cY="0.12" z="0" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 34" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="1.04" z="1" img="Getpet-liziziziziziq" twE="0" dr="7"/>
+          <f x="-11.45" y="-10.4" kX="0" kY="0" cX="1.33" cY="1.33" z="1" twE="0" dr="7"/>
+          <f x="-11.8" y="-24.25" kX="-0.01" kY="0" cX="0.12" cY="0.12" z="1" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 32" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="1.04" z="2" img="Getpet-liziziziziziq" twE="0" dr="7"/>
+          <f x="3.3" y="-15.1" kX="0" kY="0" cX="1.33" cY="1.33" z="2" twE="0" dr="7"/>
+          <f x="15.1" y="-22.4" kX="0" kY="0" cX="0.12" cY="0.12" z="2" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 30" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="1.04" z="3" img="Getpet-liziziziziziq" twE="0" dr="7"/>
+          <f x="12.6" y="-9.05" kX="0" kY="0" cX="1.33" cY="1.33" z="3" twE="0" dr="7"/>
+          <f x="26.2" y="-6.6" kX="0" kY="0" cX="0.12" cY="0.12" z="3" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 28" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="1.04" z="4" img="Getpet-liziziziziziq" twE="0" dr="7"/>
+          <f x="15.4" y="2.55" kX="-0.01" kY="-0.01" cX="1.33" cY="1.33" z="4" twE="0" dr="7"/>
+          <f x="23.15" y="13.9" kX="0.01" kY="0" cX="0.12" cY="0.12" z="4" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="1.04" z="5" img="Getpet-liziziziziziq" twE="0" dr="7"/>
+          <f x="10" y="12" kX="0" kY="0" cX="1.33" cY="1.33" z="5" twE="0" dr="7"/>
+          <f x="8.5" y="25.65" kX="0.01" kY="0.01" cX="0.12" cY="0.12" z="5" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="1.04" z="6" img="Getpet-liziziziziziq" twE="0" dr="7"/>
+          <f x="-1.45" y="15.5" kX="0" kY="0" cX="1.33" cY="1.33" z="6" twE="0" dr="7"/>
+          <f x="-12.15" y="24.15" kX="-0.01" kY="0" cX="0.12" cY="0.12" z="6" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 22" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="1.04" z="7" img="Getpet-liziziziziziq" twE="0" dr="7"/>
+          <f x="-11.9" y="9.95" kX="0" kY="0" cX="1.33" cY="1.33" z="7" twE="0" dr="7"/>
+          <f x="-25.65" y="8.45" kX="0.01" kY="0.01" cX="0.12" cY="0.12" z="7" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="1.04" z="8" img="Getpet-liziziziziziq" twE="0" dr="7"/>
+          <f x="-4.65" y="-14.7" kX="-0.01" kY="-0.01" cX="1.33" cY="1.33" z="8" twE="0" dr="7"/>
+          <f x="1.95" y="-26.85" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="8" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.15" cY="1.15" z="9" img="Getpet-liziziziziziq" twE="0" dr="8"/>
+          <f x="-15.95" y="-6.6" kX="0" kY="0" cX="1.48" cY="1.48" z="0" twE="0" dr="8"/>
+          <f x="-27" y="-21.85" kX="-0.01" kY="-0.01" cX="0.14" cY="0.14" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.15" cY="1.15" z="10" img="Getpet-liziziziziziq" twE="0" dr="8"/>
+          <f x="-8.05" y="-15.3" kX="-0.01" kY="-0.01" cX="1.48" cY="1.48" z="1" twE="0" dr="8"/>
+          <f x="-8.6" y="-30.8" kX="0" kY="0" cX="0.14" cY="0.14" z="1" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.15" cY="1.15" z="11" img="Getpet-liziziziziziq" twE="0" dr="8"/>
+          <f x="9.1" y="-14.6" kX="0" kY="0" cX="1.48" cY="1.48" z="2" twE="0" dr="8"/>
+          <f x="18.8" y="-18.65" kX="0" kY="0" cX="0.14" cY="0.14" z="2" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.15" cY="1.15" z="12" img="Getpet-liziziziziziq" twE="0" dr="8"/>
+          <f x="16.55" y="-4.65" kX="0" kY="0" cX="1.48" cY="1.48" z="3" twE="0" dr="8"/>
+          <f x="24.35" y="2.15" kX="0.01" kY="0.01" cX="0.14" cY="0.14" z="3" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.15" cY="1.15" z="13" img="Getpet-liziziziziziq" twE="0" dr="8"/>
+          <f x="15.1" y="8.5" kX="0" kY="0" cX="1.48" cY="1.48" z="4" twE="0" dr="8"/>
+          <f x="13.5" y="22.35" kX="0.01" kY="0.01" cX="0.14" cY="0.14" z="4" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.15" cY="1.15" z="14" img="Getpet-liziziziziziq" twE="0" dr="8"/>
+          <f x="5.9" y="16.35" kX="0" kY="0" cX="1.48" cY="1.48" z="5" twE="0" dr="8"/>
+          <f x="-6.35" y="29.15" kX="0" kY="0" cX="0.14" cY="0.14" z="5" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.15" cY="1.15" z="15" img="Getpet-liziziziziziq" twE="0" dr="8"/>
+          <f x="-7.4" y="15.65" kX="0" kY="0" cX="1.48" cY="1.48" z="6" twE="0" dr="8"/>
+          <f x="-27.35" y="19.55" kX="0" kY="0" cX="0.14" cY="0.14" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.15" cY="1.15" z="16" img="Getpet-liziziziziziq" twE="0" dr="8"/>
+          <f x="-16.1" y="5.75" kX="0" kY="0" cX="1.48" cY="1.48" z="7" twE="0" dr="8"/>
+          <f x="-35.35" y="-1.85" kX="0.01" kY="0" cX="0.14" cY="0.14" z="7" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.15" cY="1.15" z="17" img="Getpet-liziziziziziq" twE="0" dr="8"/>
+          <f x="0.6" y="-17.1" kX="0" kY="0" cX="1.48" cY="1.48" z="8" twE="0" dr="8"/>
+          <f x="6.65" y="-28.25" kX="0.01" kY="0" cX="0.14" cY="0.14" z="8" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="散开粒子(1)" width="512" height="4">
+    <SubTexture name="Getpet-liziziziziziq" x="0" y="0" width="3" height="3" pX="0.8" pY="0.8"/>
+  </TextureAtlas>
+</skeleton>

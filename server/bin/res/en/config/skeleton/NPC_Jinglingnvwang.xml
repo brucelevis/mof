@@ -1,0 +1,421 @@
+<skeleton name="精灵女王">
+  <armatures>
+    <armature name="stand">
+      <b name="dijing-yz" bT="0" bi="NPC_Jinglingnvwang-dijing-yz" x="146.2" y="247.75" kX="0" kY="0" z="0"/>
+      <b name="nh-tb1-2" bT="0" bi="NPC_Jinglingnvwang-nh-tb1-2" x="181.3" y="162.15" kX="0" kY="0" z="1"/>
+      <b name="nh-st2-2" bT="0" bi="NPC_Jinglingnvwang-nh-st2-2" x="180" y="218.9" kX="0" kY="0" z="2"/>
+      <b name="nh-sb2-2" bT="0" bi="NPC_Jinglingnvwang-nh-sb2-2" x="173.55" y="191.45" kX="8.19" kY="8.19" z="3"/>
+      <b name="nh-sb2-1" bT="0" bi="NPC_Jinglingnvwang-nh-sb3-1" x="172.35" y="200.05" kX="-78.07" kY="-78.07" z="4"/>
+      <b name="nh-st1-1" bT="0" bi="NPC_Jinglingnvwang-nh-st1-1" x="183.45" y="224.6" kX="0" kY="0" z="5"/>
+      <b name="nh-sb1-2" bT="0" bi="NPC_Jinglingnvwang-nh-sb2-2" x="192.45" y="188.9" kX="-10.3" kY="-10.3" z="6"/>
+      <b name="nh-sb1-1" bT="0" bi="NPC_Jinglingnvwang-nh-sb1-1" x="186.55" y="203.1" kX="-48.05" kY="-48.05" z="7"/>
+      <b name="nh-st3-2" bT="0" bi="NPC_Jinglingnvwang-nh-st3-2" x="174.2" y="186.8" kX="0" kY="0" z="8"/>
+      <b name="nh-st3-1" bT="0" bi="NPC_Jinglingnvwang-nh-st3-1" x="183.15" y="187.65" kX="0" kY="0" z="9"/>
+      <b name="nh-st2-1" bT="0" bi="NPC_Jinglingnvwang-nh-st2-1" x="203.85" y="217.3" kX="-16.93" kY="-16.93" z="10"/>
+      <b name="nh-tb1-1" bT="0" bi="NPC_Jinglingnvwang-nh-tb1-1" x="181.5" y="160.9" kX="0" kY="0" z="11"/>
+      <b name="Layer2" bT="0" bi="NPC_Jinglingnvwang-shape1" x="94.65" y="118.65" kX="76.49" kY="76.49" z="12"/>
+      <b name="Layer6" bT="0" bi="NPC_Jinglingnvwang-shape1" x="93.05" y="118.95" kX="50" kY="40" z="13"/>
+      <b name="Layer7" bT="0" bi="NPC_Jinglingnvwang-shape2" x="93.1" y="118.85" kX="56.96" kY="-123.04" z="14"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="36" drTW="36" lp="1">
+        <b name="dijing-yz" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.86" cY="0.86" z="0" img="NPC_Jinglingnvwang-dijing-yz" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.86" cY="0.86" z="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.86" cY="0.86" z="0" dr="1"/>
+        </b>
+        <b name="nh-tb1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Jinglingnvwang-nh-tb1-2" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="nh-st2-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Jinglingnvwang-nh-st2-2" twE="0" dr="18"/>
+          <f x="0.1" y="-0.4" kX="-0.13" kY="0" cX="1" cY="1.01" z="2" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="nh-sb2-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Jinglingnvwang-nh-sb2-2" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="nh-sb2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Jinglingnvwang-nh-sb3-1" twE="0" dr="18"/>
+          <f x="-0.2" y="-1.05" kX="2.97" kY="2.97" cX="1" cY="1" z="4" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="nh-st1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Jinglingnvwang-nh-st1-1" twE="0" dr="18"/>
+          <f x="0" y="-0.55" kX="0" kY="0" cX="1" cY="1.01" z="5" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="nh-sb1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Jinglingnvwang-nh-sb2-2" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="nh-sb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Jinglingnvwang-nh-sb1-1" twE="0" dr="18"/>
+          <f x="-0.5" y="-1.3" kX="3.2" kY="3.2" cX="1" cY="1" z="7" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="nh-st3-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Jinglingnvwang-nh-st3-2" twE="0" dr="9"/>
+          <f x="0" y="0.1" kX="0" kY="0" cX="0.97" cY="1.02" z="8" twE="0" dr="9"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="9"/>
+          <f x="0" y="-1.25" kX="0" kY="0" cX="1.02" cY="0.96" z="8" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="nh-st3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="NPC_Jinglingnvwang-nh-st3-1" twE="0" dr="9"/>
+          <f x="0" y="0.1" kX="0" kY="0" cX="0.97" cY="1.02" z="9" twE="0" dr="9"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="9"/>
+          <f x="0" y="-1.25" kX="0" kY="0" cX="1.02" cY="0.96" z="9" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="nh-st2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="NPC_Jinglingnvwang-nh-st2-1" twE="0" dr="18"/>
+          <f x="0" y="-0.5" kX="0.19" kY="-0.2" cX="1" cY="1.01" z="10" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="nh-tb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="NPC_Jinglingnvwang-nh-tb1-1" twE="0" dr="18"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0"/>
+      </mov>
+      <mov name="physical1" to="1" dr="251" drTW="251" lp="0">
+        <b name="dijing-yz" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.86" cY="0.86" z="0" img="NPC_Jinglingnvwang-dijing-yz" twE="0" dr="21"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.86" cY="0.86" z="0" twE="0" dr="169"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.86" cY="0.86" z="0" twE="0" dr="60"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.86" cY="0.86" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="nh-tb1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Jinglingnvwang-nh-tb1-2" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="0.3" y="-0.25" kX="1.48" kY="1.48" cX="1" cY="1" z="1" dr="1"/>
+          <f x="0.3" y="-0.25" kX="1.48" kY="1.48" cX="1" cY="1" z="1" twE="0" dr="7"/>
+          <f x="1.35" y="-1.5" kX="2.18" kY="3.67" cX="1.01" cY="1" z="1" dr="6"/>
+          <f x="1.35" y="-1.5" kX="2.18" kY="3.67" cX="1.01" cY="1" z="1" dr="22"/>
+          <f x="1.35" y="-1.5" kX="2.18" kY="3.67" cX="1.01" cY="1" z="1" dr="174"/>
+          <f x="1.35" y="-1.5" kX="2.18" kY="3.67" cX="1.01" cY="1" z="1" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="nh-st2-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Jinglingnvwang-nh-st2-2" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="4"/>
+          <f x="0" y="-0.15" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+          <f x="0" y="-0.15" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="7"/>
+          <f x="0" y="-0.45" kX="0" kY="0" cX="1" cY="1.01" z="2" dr="6"/>
+          <f x="0" y="-0.45" kX="0" kY="0" cX="1" cY="1.01" z="2" dr="22"/>
+          <f x="0" y="-0.45" kX="0" kY="0" cX="1" cY="1.01" z="2" dr="174"/>
+          <f x="0" y="-0.45" kX="0" kY="0" cX="1" cY="1.01" z="2" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="nh-sb2-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Jinglingnvwang-nh-sb2-2" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="12"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="3" dr="6"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="3" dr="22"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="-1.25" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+          <f x="0" y="-1.25" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="16"/>
+          <f x="-4.6" y="-2.25" kX="25.67" kY="25.67" cX="1" cY="1" z="3" dr="3"/>
+          <f x="-4.6" y="-2.25" kX="25.67" kY="25.67" cX="1" cY="1" z="3" dr="151"/>
+          <f x="-4.6" y="-2.25" kX="25.67" kY="25.67" cX="1" cY="1" z="3" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="nh-sb2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Jinglingnvwang-nh-sb3-1" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="12"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="4" dr="6"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="4" dr="22"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="-0.1" y="-1.25" kX="2.94" kY="2.94" cX="1" cY="1" z="4" dr="1"/>
+          <f x="-0.1" y="-1.25" kX="2.94" kY="2.94" cX="1" cY="1" z="4" twE="0" dr="6"/>
+          <f x="-6.4" y="-4.45" kX="59.75" kY="59.75" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="-8.4" y="-6.7" kX="84.84" kY="84.84" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="-10.1" y="-9.5" kX="116.32" kY="116.32" cX="1" cY="1" z="4" dr="3"/>
+          <f x="-10.1" y="-9.5" kX="116.32" kY="116.32" cX="1" cY="1" z="4" dr="151"/>
+          <f x="-10.1" y="-9.5" kX="116.32" kY="116.32" cX="1" cY="1" z="4" twE="0" dr="8"/>
+          <f x="-7" y="-4.6" kX="64.8" kY="64.8" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="-4" y="-1.25" kX="27.51" kY="27.51" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="-0.1" y="0" kX="2.94" kY="2.94" cX="1" cY="1" z="4" dr="5"/>
+          <f x="-0.1" y="0" kX="2.94" kY="2.94" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="nh-st1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="NPC_Jinglingnvwang-nh-st1-1" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="0" y="-0.15" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+          <f x="0" y="-0.15" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="7"/>
+          <f x="0" y="-0.55" kX="0" kY="0" cX="1" cY="1.01" z="5" dr="6"/>
+          <f x="0" y="-0.55" kX="0" kY="0" cX="1" cY="1.01" z="5" dr="22"/>
+          <f x="0" y="-0.55" kX="0" kY="0" cX="1" cY="1.01" z="5" dr="174"/>
+          <f x="0" y="-0.55" kX="0" kY="0" cX="1" cY="1.01" z="5" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="nh-sb1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="NPC_Jinglingnvwang-nh-sb2-2" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="0" y="-0.25" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+          <f x="0" y="-0.25" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="7"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="6" dr="6"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="6" dr="22"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="6" dr="174"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="nh-sb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Jinglingnvwang-nh-sb1-1" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="0" y="-0.25" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+          <f x="0" y="-0.25" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="7"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="7" dr="6"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="7" dr="22"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="7" dr="174"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="nh-st3-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Jinglingnvwang-nh-st3-2" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="0" y="-0.25" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+          <f x="0" y="-0.25" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="7"/>
+          <f x="0" y="-1.1" kX="0" kY="0" cX="1.02" cY="0.98" z="8" dr="2"/>
+          <f x="0" y="-1.1" kX="0" kY="0" cX="1.02" cY="0.98" z="8" twE="0" dr="2"/>
+          <f x="0" y="-0.85" kX="0" kY="0" cX="0.97" cY="1.03" z="8" twE="0" dr="2"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="8" dr="22"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="8" dr="174"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="18"/>
+          <f x="0" y="0.15" kX="0" kY="0" cX="0.97" cY="1.03" z="8" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="nh-st3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="NPC_Jinglingnvwang-nh-st3-1" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="0" y="-0.25" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+          <f x="0" y="-0.25" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="7"/>
+          <f x="0" y="-1.15" kX="0" kY="0" cX="1.02" cY="0.98" z="9" dr="2"/>
+          <f x="0" y="-1.15" kX="0" kY="0" cX="1.02" cY="0.98" z="9" twE="0" dr="2"/>
+          <f x="0" y="-0.9" kX="0" kY="0" cX="0.97" cY="1.03" z="9" twE="0" dr="2"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="9" dr="22"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="9" dr="174"/>
+          <f x="0" y="-1" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="18"/>
+          <f x="0" y="0.2" kX="0" kY="0" cX="0.97" cY="1.03" z="9" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="nh-st2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="NPC_Jinglingnvwang-nh-st2-1" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="0" y="-0.15" kX="0.04" kY="-0.05" cX="1" cY="1" z="10" dr="1"/>
+          <f x="0" y="-0.15" kX="0.04" kY="-0.05" cX="1" cY="1" z="10" twE="0" dr="7"/>
+          <f x="0" y="-0.5" kX="0.14" kY="-0.14" cX="1" cY="1.01" z="10" dr="6"/>
+          <f x="0" y="-0.5" kX="0.14" kY="-0.14" cX="1" cY="1.01" z="10" dr="22"/>
+          <f x="0" y="-0.5" kX="0.14" kY="-0.14" cX="1" cY="1.01" z="10" dr="174"/>
+          <f x="0" y="-0.5" kX="0.14" kY="-0.14" cX="1" cY="1.01" z="10" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="nh-tb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="NPC_Jinglingnvwang-nh-tb1-1" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="0.35" y="-0.25" kX="1.48" kY="1.48" cX="1" cY="1" z="11" dr="1"/>
+          <f x="0.35" y="-0.25" kX="1.48" kY="1.48" cX="1" cY="1" z="11" twE="0" dr="7"/>
+          <f x="0.3" y="-0.9" kX="4.17" kY="4.17" cX="1" cY="1" z="11" img="NPC_Jinglingnvwang-nh-tb1-03" dr="6"/>
+          <f x="0.3" y="-0.9" kX="4.17" kY="4.17" cX="1" cY="1" z="11" dr="22"/>
+          <f x="0.3" y="-0.9" kX="4.17" kY="4.17" cX="1" cY="1" z="11" dr="14"/>
+          <f x="0.3" y="-0.9" kX="4.17" kY="4.17" cX="1" cY="1" z="11" img="NPC_Jinglingnvwang-nh-tb1-02" dr="160"/>
+          <f x="0.3" y="-0.9" kX="4.17" kY="4.17" cX="1" cY="1" z="11" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="NPC_Jinglingnvwang-nh-tb1-1" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0"/>
+        <b name="Layer2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.51" cY="0.9" z="12" img="NPC_Jinglingnvwang-shape1" twE="0" dr="3"/>
+          <f x="2.8" y="2.7" kX="0.24" kY="0.24" cX="0.8" cY="0.95" z="12" twE="0" dr="3"/>
+          <f x="5.65" y="6.1" kX="0.23" kY="0.23" cX="0.51" cY="1.02" z="12" twE="0" dr="3"/>
+          <f x="7.35" y="8.6" kX="0.24" kY="0.25" cX="0.8" cY="0.95" z="12" twE="0" dr="3"/>
+          <f x="9.8" y="12.3" kX="0.46" kY="0.46" cX="0.51" cY="1.02" z="12" twE="0" dr="4"/>
+          <f x="12.2" y="18.5" kX="0.74" kY="0.75" cX="1.2" cY="0.92" z="12" twE="0" dr="5"/>
+          <f x="15.35" y="24.75" kX="0.97" kY="0.96" cX="0.51" cY="1.02" z="12" twE="0" dr="6"/>
+          <f x="17.75" y="33.15" kX="1.25" kY="1.25" cX="1.17" cY="0.93" z="12" twE="0" dr="6"/>
+          <f x="20.85" y="39.4" kX="1.25" kY="1.25" cX="0.51" cY="1.02" z="12" twE="0" dr="4"/>
+          <f x="22" y="45.8" kX="1.5" kY="1.5" cX="1.15" cY="0.92" z="12" twE="0" dr="4"/>
+          <f x="26.05" y="48.6" kX="1.74" kY="1.74" cX="0.51" cY="0.99" z="12" twE="0" dr="4"/>
+          <f x="28.2" y="53.25" kX="2" kY="2" cX="1.13" cY="0.84" z="12" twE="0" dr="4"/>
+          <f x="32.7" y="54.5" kX="2.22" kY="2.22" cX="0.51" cY="0.96" z="12" twE="0" dr="4"/>
+          <f x="35.85" y="57.5" kX="2.25" kY="2.25" cX="1.08" cY="0.95" z="12" twE="0" dr="5"/>
+          <f x="42.2" y="56.75" kX="-0.3" kY="-0.31" cX="0.51" cY="0.95" z="12" twE="0" dr="5"/>
+          <f x="44.05" y="58.2" kX="-3.01" kY="-3.01" cX="1.06" cY="0.95" z="12" twE="0" dr="4"/>
+          <f x="48.65" y="57.6" kX="-6.78" kY="-6.78" cX="0.51" cY="0.95" z="12" twE="0" dr="4"/>
+          <f x="50.35" y="58.6" kX="-6.77" kY="-6.77" cX="1.03" cY="0.95" z="12" twE="0" dr="6"/>
+          <f x="52.95" y="60.05" kX="-6.78" kY="-6.78" cX="0.51" cY="1.02" z="12" twE="0" dr="7"/>
+          <f x="52.95" y="60.05" kX="-6.78" kY="-6.78" cX="0.87" cY="0.95" z="12" twE="0" dr="7"/>
+          <f x="52.95" y="60.05" kX="-6.78" kY="-6.78" cX="0.51" cY="1.02" z="12" twE="0" dr="7"/>
+          <f x="52.95" y="60.05" kX="-6.78" kY="-6.78" cX="0.98" cY="0.95" z="12" twE="0" dr="7"/>
+          <f x="52.95" y="60.05" kX="-6.78" kY="-6.78" cX="0.51" cY="1.02" z="12" twE="0" dr="7"/>
+          <f x="52.95" y="60.05" kX="-6.82" kY="-6.82" cX="0.8" cY="0.95" z="12" twE="0" dr="7"/>
+          <f x="52.95" y="60.05" kX="-6.78" kY="-6.78" cX="0.51" cY="1.02" z="12" twE="0" dr="7"/>
+          <f x="52.95" y="60.05" kX="-6.82" kY="-6.82" cX="0.8" cY="0.95" z="12" twE="0" dr="7"/>
+          <f x="52.95" y="60.05" kX="-6.78" kY="-6.78" cX="0.51" cY="1.02" z="12" twE="0" dr="7"/>
+          <f x="52.95" y="60.05" kX="-6.82" kY="-6.82" cX="0.8" cY="0.95" z="12" twE="0" dr="7"/>
+          <f x="52.95" y="60.05" kX="-6.78" kY="-6.78" cX="0.51" cY="1.02" z="12" twE="0" dr="6"/>
+          <f x="52.95" y="60.05" kX="-6.82" kY="-6.82" cX="0.8" cY="0.95" z="12" twE="0" dr="8"/>
+          <f x="52.95" y="60.05" kX="-6.78" kY="-6.78" cX="0.51" cY="1.02" z="12" twE="0" dr="7"/>
+          <f x="52.95" y="60.05" kX="-6.82" kY="-6.82" cX="0.8" cY="0.95" z="12" twE="0" dr="7"/>
+          <f x="52.95" y="60.05" kX="-6.78" kY="-6.78" cX="0.51" cY="1.02" z="12" twE="0" dr="6"/>
+          <f x="52.95" y="60.05" kX="-6.82" kY="-6.82" cX="0.59" cY="1.02" z="12" twE="0" dr="4"/>
+          <f x="52.95" y="60.05" kX="-6.78" kY="-6.78" cX="0.51" cY="1.02" z="12" twE="0" dr="4"/>
+          <f x="55.5" y="60.15" kX="-4.02" kY="-4.01" cX="1.06" cY="0.95" z="12" twE="0" dr="4"/>
+          <f x="59.6" y="58.45" kX="-1.81" kY="-1.81" cX="0.51" cY="0.95" z="12" twE="0" dr="5"/>
+          <f x="64.3" y="59.1" kX="0.75" kY="-4.26" cX="1.1" cY="0.92" z="12" twE="0" dr="5"/>
+          <f x="72.65" y="57.2" kX="-5.2" kY="-5.2" cX="0.51" cY="0.95" z="12" twE="0" dr="5"/>
+          <f x="78.3" y="59.35" kX="2.5" kY="-1.56" cX="1.22" cY="0.87" z="12" twE="0" dr="5"/>
+          <f x="85.85" y="58.85" kX="4.95" kY="4.95" cX="0.51" cY="0.95" z="12" twE="0" dr="5"/>
+          <f x="91.25" y="61.25" kX="10.7" kY="10.7" cX="1.16" cY="0.84" z="12" twE="0" dr="5"/>
+          <f x="100.65" y="59.6" kX="1.24" kY="1.24" cX="0.51" cY="0.95" z="12" twE="0" dr="5"/>
+          <f x="105.85" y="60.9" kX="14.45" kY="14.45" cX="1.14" cY="0.92" z="12" twE="0" dr="5"/>
+          <f x="113.85" y="58.05" kX="3.44" kY="3.44" cX="0.51" cY="0.95" z="12" twE="0" dr="5"/>
+          <f x="118.95" y="56.1" kX="-0.26" kY="-0.25" cX="1.23" cY="0.87" z="12" twE="0" dr="4"/>
+          <f x="125.25" y="52.05" kX="-0.5" kY="-0.51" cX="0.68" cY="0.89" z="12" twE="0" dr="4"/>
+          <f x="129.25" y="49" kX="-0.76" kY="-0.76" cX="1.05" cY="0.92" z="12" twE="0" dr="4"/>
+          <f x="134.5" y="44.95" kX="-1.01" kY="-1.01" cX="0.51" cY="0.95" z="12" twE="0" dr="1"/>
+        </b>
+        <b name="Layer6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.17" cY="0.95" z="13" img="NPC_Jinglingnvwang-shape1" twE="0" dr="3"/>
+          <f x="2.75" y="2.75" kX="-0.1" kY="12.35" cX="0.98" cY="1" z="13" twE="0" dr="3"/>
+          <f x="5.65" y="6.15" kX="-0.08" kY="-0.11" cX="1.17" cY="0.95" z="13" twE="0" dr="3"/>
+          <f x="7.3" y="8.7" kX="-0.1" kY="12.96" cX="0.98" cY="0.95" z="13" twE="0" dr="3"/>
+          <f x="9.75" y="12.4" kX="-0.08" kY="-12.32" cX="1.24" cY="0.95" z="13" twE="0" dr="4"/>
+          <f x="12.15" y="18.6" kX="-0.11" kY="11.37" cX="1.13" cY="1.01" z="13" twE="0" dr="5"/>
+          <f x="15.35" y="24.9" kX="-0.1" kY="-16.67" cX="1.28" cY="0.95" z="13" twE="0" dr="6"/>
+          <f x="17.75" y="33.1" kX="-0.1" kY="10.62" cX="1.18" cY="1" z="13" twE="0" dr="6"/>
+          <f x="20.85" y="39.4" kX="0" kY="-9.73" cX="1.22" cY="0.95" z="13" twE="0" dr="4"/>
+          <f x="22.05" y="45.85" kX="9.14" kY="19.14" cX="1.34" cY="0.97" z="13" twE="0" dr="4"/>
+          <f x="26.05" y="48.6" kX="-0.09" kY="-15.28" cX="1.26" cY="0.95" z="13" twE="0" dr="4"/>
+          <f x="28.15" y="53.35" kX="9.17" kY="19.17" cX="1.25" cY="0.97" z="13" twE="0" dr="4"/>
+          <f x="32.55" y="54.5" kX="-0.09" kY="-14.52" cX="1.25" cY="0.95" z="13" twE="0" dr="4"/>
+          <f x="35.8" y="57.5" kX="8.95" kY="18.95" cX="1.28" cY="1" z="13" twE="0" dr="5"/>
+          <f x="42.15" y="56.75" kX="-0.08" kY="-20.75" cX="1.32" cY="0.95" z="13" twE="0" dr="5"/>
+          <f x="44" y="58.25" kX="8.95" kY="18.95" cX="1.15" cY="0.98" z="13" twE="0" dr="4"/>
+          <f x="48.7" y="57.8" kX="0" kY="-16.82" cX="1.28" cY="0.95" z="13" twE="0" dr="4"/>
+          <f x="50.35" y="58.8" kX="-0.1" kY="9.9" cX="1.06" cY="1" z="13" twE="0" dr="6"/>
+          <f x="53" y="60.25" kX="-0.1" kY="-10.97" cX="1.23" cY="0.95" z="13" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-0.1" kY="9.9" cX="1" cY="1" z="13" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-0.1" kY="-8.34" cX="1.21" cY="0.95" z="13" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-0.1" kY="9.9" cX="1.03" cY="1" z="13" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-0.1" kY="-5.62" cX="1.19" cY="0.95" z="13" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-0.1" kY="9.9" cX="1" cY="1" z="13" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-0.1" kY="-0.95" cX="1.17" cY="0.95" z="13" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-0.1" kY="9.9" cX="1" cY="1" z="13" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-0.1" kY="-0.95" cX="1.17" cY="0.95" z="13" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-0.1" kY="9.9" cX="1" cY="1" z="13" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-0.1" kY="-0.95" cX="1.17" cY="0.95" z="13" twE="0" dr="6"/>
+          <f x="53" y="60.25" kX="-0.1" kY="9.9" cX="1" cY="1" z="13" twE="0" dr="8"/>
+          <f x="53" y="60.25" kX="-0.1" kY="-0.95" cX="1.17" cY="0.95" z="13" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-0.1" kY="9.9" cX="1" cY="1" z="13" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-0.1" kY="-0.95" cX="1.17" cY="0.95" z="13" twE="0" dr="6"/>
+          <f x="53" y="60.25" kX="-0.08" kY="9.92" cX="0.83" cY="1.03" z="13" twE="0" dr="4"/>
+          <f x="53" y="60.25" kX="-0.1" kY="-0.95" cX="1.17" cY="0.95" z="13" twE="0" dr="4"/>
+          <f x="55.45" y="60.3" kX="2.66" kY="12.66" cX="1.14" cY="1.01" z="13" twE="0" dr="4"/>
+          <f x="60.7" y="58" kX="4.91" kY="-21.87" cX="1.37" cY="0.94" z="13" twE="0" dr="5"/>
+          <f x="64.35" y="59" kX="7.68" kY="17.68" cX="1.19" cY="0.96" z="13" twE="0" dr="5"/>
+          <f x="72.65" y="57.35" kX="1.74" kY="-20.64" cX="1.37" cY="0.95" z="13" twE="0" dr="5"/>
+          <f x="78.25" y="59.3" kX="9.18" kY="19.18" cX="1.2" cY="0.94" z="13" twE="0" dr="5"/>
+          <f x="85.9" y="58.8" kX="11.84" kY="-12.64" cX="1.4" cY="0.95" z="13" twE="0" dr="5"/>
+          <f x="91.3" y="61.1" kX="17.38" kY="27.38" cX="1.24" cY="0.94" z="13" twE="0" dr="5"/>
+          <f x="100.6" y="59.8" kX="7.94" kY="-20.49" cX="1.29" cY="0.94" z="13" twE="0" dr="5"/>
+          <f x="105.8" y="60.6" kX="21.13" kY="31.13" cX="1.29" cY="0.96" z="13" twE="0" dr="5"/>
+          <f x="113.9" y="58.05" kX="10.15" kY="-12.63" cX="1.37" cY="0.94" z="13" twE="0" dr="5"/>
+          <f x="118.9" y="56.15" kX="6.42" kY="16.42" cX="1.32" cY="1" z="13" twE="0" dr="4"/>
+          <f x="125.25" y="52.05" kX="6.41" kY="-22.46" cX="1.58" cY="1.06" z="13" twE="0" dr="4"/>
+          <f x="129.2" y="49" kX="6.17" kY="10.89" cX="1.23" cY="0.96" z="13" twE="0" dr="4"/>
+          <f x="134.45" y="45" kX="5.93" kY="-12.55" cX="1.32" cY="0.95" z="13" twE="0" dr="1"/>
+        </b>
+        <b name="Layer7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="NPC_Jinglingnvwang-shape2" twE="0" dr="3"/>
+          <f x="2.7" y="2.8" kX="0.2" kY="0.2" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="5.65" y="6.2" kX="0.23" kY="0.23" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="7.2" y="8.4" kX="0.23" kY="0.23" cX="0.99" cY="0.99" z="14" twE="0" dr="3"/>
+          <f x="9.85" y="12.45" kX="0.44" kY="0.44" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="12.25" y="18.6" kX="0.47" kY="0.47" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="15.35" y="24.95" kX="0.72" kY="0.72" cX="1" cY="1" z="14" twE="0" dr="6"/>
+          <f x="17.85" y="33.2" kX="0.98" kY="0.98" cX="1" cY="1" z="14" twE="0" dr="6"/>
+          <f x="20.85" y="39.4" kX="1.27" kY="1.27" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="21.7" y="45.35" kX="1.46" kY="1.46" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="25.4" y="47.6" kX="1.69" kY="1.69" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="27.2" y="51.8" kX="1.93" kY="1.93" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="32.1" y="53.65" kX="1.97" kY="1.97" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="35.85" y="57.5" kX="2" kY="2" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="42.05" y="57" kX="-1.08" kY="-1.08" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="44.3" y="58.25" kX="-4.31" kY="-4.31" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="48.7" y="57.8" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="50.4" y="58.8" kX="-7.04" kY="-7.04" cX="1" cY="1" z="14" twE="0" dr="6"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="6"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="8"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="6"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="53" y="60.25" kX="-6.96" kY="-6.96" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="55.4" y="60.3" kX="-4.09" kY="-4.09" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="60.6" y="58.1" kX="-2.03" kY="-2.03" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="64.3" y="59.15" kX="0.69" kY="0.69" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="72.7" y="57.35" kX="-5.21" kY="-5.21" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="78.35" y="59.25" kX="2.43" kY="2.43" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="85.95" y="58.75" kX="4.93" kY="4.93" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="91.35" y="61" kX="10.43" kY="10.43" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="100.6" y="59.65" kX="0.98" kY="0.98" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="105.8" y="60.6" kX="14.16" kY="14.16" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="113.85" y="58" kX="3.19" kY="3.19" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="118.95" y="56.2" kX="-0.54" kY="-0.54" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="125.25" y="52.15" kX="-0.57" kY="-0.57" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="129.15" y="49.1" kX="-0.79" kY="-0.79" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="134.5" y="45.05" kX="-1.01" kY="-1.01" cX="1" cY="1" z="14" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="精灵女王" width="512" height="128">
+    <SubTexture name="NPC_Jinglingnvwang-dijing-yz" x="59" y="0" width="102" height="30" pX="7.05" pY="3.1"/>
+    <SubTexture name="NPC_Jinglingnvwang-nh-tb1-2" x="377" y="0" width="36" height="48" pX="17" pY="26.45"/>
+    <SubTexture name="NPC_Jinglingnvwang-nh-st2-2" x="0" y="0" width="58" height="87" pX="28.15" pY="47.05"/>
+    <SubTexture name="NPC_Jinglingnvwang-nh-sb2-2" x="495" y="0" width="6" height="16" pX="2.2" pY="7.4"/>
+    <SubTexture name="NPC_Jinglingnvwang-nh-sb3-1" x="414" y="0" width="27" height="9" pX="20.2" pY="2.7"/>
+    <SubTexture name="NPC_Jinglingnvwang-nh-st1-1" x="162" y="0" width="40" height="76" pX="19.4" pY="37"/>
+    <SubTexture name="NPC_Jinglingnvwang-nh-sb1-1" x="442" y="0" width="24" height="9" pX="11.15" pY="3.65"/>
+    <SubTexture name="NPC_Jinglingnvwang-nh-st3-2" x="482" y="0" width="12" height="13" pX="5.1" pY="5.75"/>
+    <SubTexture name="NPC_Jinglingnvwang-nh-st3-1" x="467" y="0" width="14" height="13" pX="6.3" pY="5.7"/>
+    <SubTexture name="NPC_Jinglingnvwang-nh-st2-1" x="203" y="0" width="21" height="88" pX="9.95" pY="43.2"/>
+    <SubTexture name="NPC_Jinglingnvwang-nh-tb1-1" x="327" y="0" width="49" height="46" pX="23.85" pY="22"/>
+    <SubTexture name="NPC_Jinglingnvwang-nh-tb1-03" x="225" y="0" width="50" height="46" pX="23.7" pY="22.05"/>
+    <SubTexture name="NPC_Jinglingnvwang-nh-tb1-02" x="276" y="0" width="50" height="46" pX="23.7" pY="22.05"/>
+    <SubTexture name="NPC_Jinglingnvwang-shape1" x="502" y="0" width="7" height="10" pX="4.8" pY="3.55"/>
+    <SubTexture name="NPC_Jinglingnvwang-shape2" x="414" y="10" width="4" height="5" pX="1.45" pY="1.4"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,144 @@
+<skeleton name="草">
+  <armatures>
+    <armature name="grass">
+      <b name="图层 9" bT="0" bi="LoginAnimation_grass-part118" x="133.95" y="303.6" kX="-15" kY="-15" z="0"/>
+      <b name="图层 3" bT="0" bi="LoginAnimation_grass-part116" x="429.5" y="139.45" kX="0" kY="0" z="1"/>
+      <b name="图层 4" bT="0" bi="LoginAnimation_grass-part131" x="262.9" y="111.45" kX="0" kY="0" z="2"/>
+      <b name="图层 5" bT="0" bi="LoginAnimation_grass-part120" x="233.55" y="257" kX="0" kY="0" z="3"/>
+      <b name="图层 6" bT="0" bi="LoginAnimation_grass-part119" x="169.9" y="268.6" kX="0" kY="0" z="4"/>
+      <b name="图层 7" bT="0" bi="LoginAnimation_grass-part117" x="36.55" y="295.6" kX="-15.74" kY="-15.74" z="5"/>
+      <b name="图层 8" bT="0" bi="LoginAnimation_grass-part117" x="375.65" y="219" kX="0" kY="0" z="6"/>
+      <b name="图层 10" bT="0" bi="LoginAnimation_grass-part118" x="335.25" y="256.95" kX="-12.25" kY="167.75" z="7"/>
+      <b name="图层 11" bT="0" bi="LoginAnimation_grass-part119" x="-48.5" y="333.25" kX="-14.77" kY="-14.77" z="8"/>
+      <b name="图层 12" bT="0" bi="LoginAnimation_grass-part131" x="184.6" y="185.1" kX="-25.56" kY="154.44" z="9"/>
+      <b name="图层 13" bT="0" bi="LoginAnimation_grass-part117" x="507.85" y="229.9" kX="23.5" kY="23.5" z="10"/>
+      <b name="图层 14" bT="0" bi="LoginAnimation_grass-part117" x="387.95" y="285.9" kX="2.03" kY="-177.97" z="11"/>
+      <b name="图层 15" bT="0" bi="LoginAnimation_grass-part117" x="-514.4" y="304.1" kX="-15" kY="165" z="12"/>
+      <b name="图层 16" bT="0" bi="LoginAnimation_grass-part116" x="-549.25" y="180.75" kX="15" kY="15" z="13"/>
+      <b name="图层 21" bT="0" bi="LoginAnimation_grass-part116" x="-456.75" y="219" kX="0" kY="0" z="14"/>
+      <b name="图层 17" bT="0" bi="LoginAnimation_grass-part119" x="-603.25" y="315.4" kX="0" kY="0" z="15"/>
+      <b name="图层 18" bT="0" bi="LoginAnimation_grass-part120" x="-509.85" y="311.25" kX="15" kY="15" z="16"/>
+      <b name="图层 19" bT="0" bi="LoginAnimation_grass-part120" x="-402.65" y="358.8" kX="37.21" kY="-142.79" z="17"/>
+      <b name="图层 20" bT="0" bi="LoginAnimation_grass-part118" x="-500" y="259" kX="15" kY="15" z="18"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="grass">
+      <mov name="grass" to="1" dr="80" drTW="80" lp="1">
+        <b name="图层 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="0" img="LoginAnimation_grass-part118" twE="0" dr="17"/>
+          <f x="-12.4" y="12.8" kX="-6.74" kY="-6.74" cX="0.8" cY="0.8" z="0" twE="0" dr="10"/>
+          <f x="1.4" y="-1" kX="0.63" kY="0.63" cX="0.8" cY="0.8" z="0" twE="0" dr="14"/>
+          <f x="-17.6" y="19.6" kX="-9.99" kY="-9.99" cX="0.8" cY="0.8" z="0" twE="0" dr="38"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="LoginAnimation_grass-part116" twE="0" dr="22"/>
+          <f x="-21.55" y="12.6" kX="-5.46" kY="-6.91" cX="1" cY="1" z="1" twE="0" dr="43"/>
+          <f x="15.8" y="-9.75" kX="3.67" kY="5.53" cX="1" cY="1" z="1" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="LoginAnimation_grass-part131" twE="0" dr="21"/>
+          <f x="32.65" y="-13.45" kX="6.78" kY="14.32" cX="1.01" cY="1" z="2" twE="0" dr="58"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="LoginAnimation_grass-part120" twE="0" dr="50"/>
+          <f x="-27.3" y="9.3" kX="-13.48" kY="-13.48" cX="1" cY="1" z="3" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="LoginAnimation_grass-part119" twE="0" dr="47"/>
+          <f x="20" y="-5.6" kX="9.41" kY="3.75" cX="1" cY="1" z="4" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="5" img="LoginAnimation_grass-part117" twE="0" dr="22"/>
+          <f x="-1.35" y="31.65" kX="-4.96" kY="-18.14" cX="0.98" cY="0.96" z="5" twE="0" dr="57"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.96" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="LoginAnimation_grass-part117" twE="0" dr="14"/>
+          <f x="16.2" y="-8.45" kX="6" kY="6.01" cX="1" cY="0.99" z="6" twE="0" dr="27"/>
+          <f x="-0.65" y="0.45" kX="-0.26" kY="-0.26" cX="1" cY="1" z="6" twE="0" dr="15"/>
+          <f x="9.2" y="-0.95" kX="3.58" kY="3.58" cX="1" cY="0.97" z="6" twE="0" dr="23"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.98" cY="1" z="7" img="LoginAnimation_grass-part118" twE="0" dr="37"/>
+          <f x="-15.95" y="10.2" kX="-6.49" kY="-6.49" cX="0.98" cY="0.91" z="7" twE="0" dr="42"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.98" cY="1" z="7" twE="0" dr="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="8" img="LoginAnimation_grass-part119" twE="0" dr="46"/>
+          <f x="21.55" y="-23.45" kX="14.46" kY="14.46" cX="0.78" cY="0.78" z="8" twE="0" dr="33"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.78" cY="0.78" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.93" cY="1" z="9" img="LoginAnimation_grass-part131" twE="0" dr="19"/>
+          <f x="-16.3" y="1.85" kX="-3.41" kY="-5.67" cX="0.93" cY="1" z="9" twE="0" dr="10"/>
+          <f x="-12.25" y="1.35" kX="-2.56" kY="-4.56" cX="0.93" cY="1" z="9" twE="0" dr="8"/>
+          <f x="-19.3" y="4" kX="-4.23" kY="-6" cX="0.93" cY="1" z="9" twE="0" dr="42"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.93" cY="1" z="9" twE="0" dr="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="LoginAnimation_grass-part117" twE="0" dr="53"/>
+          <f x="-21.4" y="3.55" kX="-9.56" kY="-7.67" cX="0.99" cY="1.01" z="10" twE="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="1" z="11" img="LoginAnimation_grass-part117" twE="0" dr="36"/>
+          <f x="17.65" y="10.85" kX="8.97" kY="8.97" cX="0.69" cY="1" z="11" twE="0" dr="43"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="1" z="11" twE="0" dr="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.83" z="12" img="LoginAnimation_grass-part117" twE="0" dr="54"/>
+          <f x="-20.15" y="5.4" kX="-13.44" kY="0" cX="0.6" cY="0.85" z="12" twE="0" dr="25"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.83" z="12" twE="0" dr="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.89" cY="0.89" z="13" img="LoginAnimation_grass-part116" twE="0" dr="51"/>
+          <f x="14.3" y="-3" kX="3.79" kY="4.67" cX="0.89" cY="0.9" z="13" twE="0" dr="8"/>
+          <f x="5.5" y="-1.75" kX="1.35" kY="2.11" cX="0.89" cY="0.89" z="13" twE="0" dr="20"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.89" cY="0.89" z="13" twE="0" dr="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="LoginAnimation_grass-part116" twE="0" dr="40"/>
+          <f x="-42.95" y="19" kX="-12.23" kY="-12.76" cX="0.98" cY="1.02" z="14" twE="0" dr="39"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="15" img="LoginAnimation_grass-part119" twE="0" dr="25"/>
+          <f x="39.1" y="-20.55" kX="20.77" kY="20.77" cX="0.77" cY="0.77" z="15" twE="0" dr="54"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="15" twE="0" dr="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="LoginAnimation_grass-part120" twE="0" dr="20"/>
+          <f x="-12.5" y="-11.3" kX="-9.27" kY="8.3" cX="1" cY="1.05" z="16" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="12"/>
+          <f x="-12.5" y="-11.3" kX="-9.27" kY="8.3" cX="1" cY="1.05" z="16" twE="0" dr="28"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1" z="17" img="LoginAnimation_grass-part120" twE="0" dr="36"/>
+          <f x="-9.25" y="-7" kX="-9.22" kY="0" cX="0.81" cY="1.01" z="17" twE="0" dr="43"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.81" cY="1" z="17" twE="0" dr="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="LoginAnimation_grass-part118" twE="0" dr="50"/>
+          <f x="-38" y="17.3" kX="-15" kY="-15" cX="1" cY="1" z="18" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="草" width="512" height="512">
+    <SubTexture name="LoginAnimation_grass-part118" x="324" y="0" width="108" height="194" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_grass-part116" x="85" y="0" width="113" height="257" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_grass-part131" x="0" y="0" width="84" height="292" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_grass-part120" x="433" y="0" width="52" height="144" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_grass-part119" x="199" y="183" width="122" height="148" pX="0" pY="0"/>
+    <SubTexture name="LoginAnimation_grass-part117" x="199" y="0" width="124" height="182" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

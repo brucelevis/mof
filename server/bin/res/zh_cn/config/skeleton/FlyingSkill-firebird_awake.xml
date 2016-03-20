@@ -1,0 +1,145 @@
+<skeleton name="飞行光效-冰鸟改">
+  <armatures>
+    <armature name="258">
+      <b name="图层 24" bT="0" bi="FlyingSkill_firebird_awake-ea006" x="-42.5" y="6.3" kX="0" kY="0" z="0"/>
+      <b name="图层 23" bT="0" bi="FlyingSkill_firebird_awake-k679" x="-45.2" y="-11.8" kX="0" kY="0" z="1"/>
+      <b name="图层 22" bT="0" bi="FlyingSkill_firebird_awake-k679" x="-28.7" y="33.1" kX="0" kY="0" z="2"/>
+      <b name="图层 21" bT="0" bi="FlyingSkill_firebird_awake-k679" x="-83.6" y="-46.15" kX="0" kY="0" z="3"/>
+      <b name="图层 20" bT="0" bi="FlyingSkill_firebird_awake-k679" x="-53.6" y="-23.15" kX="0" kY="0" z="3"/>
+      <b name="图层 19" bT="0" bi="FlyingSkill_firebird_awake-k679" x="-107.25" y="29.35" kX="0" kY="0" z="4"/>
+      <b name="图层 2" bT="0" bi="FlyingSkill_firebird_awake-888" x="-48.2" y="-2.3" kX="-0.19" kY="179.72" z="6"/>
+      <b name="图层 3" bT="0" bi="FlyingSkill_firebird_awake-888" x="45.2" y="42.7" kX="-0.19" kY="179.72" z="5"/>
+      <b name="图层 4" bT="0" bi="FlyingSkill_firebird_awake-888" x="-78.1" y="-12.65" kX="-0.19" kY="179.72" z="8"/>
+      <b name="图层 5" bT="0" bi="FlyingSkill_firebird_awake-888" x="-37.6" y="-63.45" kX="-0.19" kY="179.72" z="7"/>
+      <b name="图层 6" bT="0" bi="FlyingSkill_firebird_awake-888" x="49.8" y="-44.75" kX="-0.19" kY="179.72" z="10"/>
+      <b name="图层 7" bT="0" bi="FlyingSkill_firebird_awake-888" x="-47.25" y="71.9" kX="-0.19" kY="179.72" z="10"/>
+      <b name="图层 8" bT="0" bi="FlyingSkill_firebird_awake-888" x="45.5" y="21.4" kX="-0.19" kY="179.72" z="10"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="258">
+      <mov name="258" to="1" dr="24" drTW="24" lp="1">
+        <b name="图层 24" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_firebird_awake-ea006" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_firebird_awake-ea007" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_firebird_awake-ea008" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_firebird_awake-ea009" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_firebird_awake-ea010" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_firebird_awake-ea011" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_firebird_awake-ea006" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_firebird_awake-ea007" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_firebird_awake-ea008" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_firebird_awake-ea009" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_firebird_awake-ea010" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_firebird_awake-ea011" dr="2"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="1" img="FlyingSkill_firebird_awake-k679" twE="0" dr="4"/>
+          <f x="-8.4" y="-7.35" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="1" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 22" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="2" img="FlyingSkill_firebird_awake-k679" twE="0" dr="1"/>
+          <f x="-5.25" y="0.3" kX="0" kY="0" cX="0.5" cY="0.5" z="2" twE="0" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="31.65" y="-1.85" kX="0" kY="0" cX="0.8" cY="0.8" z="2" twE="0" dr="7"/>
+          <f x="-5.25" y="0.3" kX="0" kY="0" cX="0.5" cY="0.5" z="1" twE="0" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="31.65" y="-1.85" kX="0" kY="0" cX="0.8" cY="0.8" z="1" twE="0" dr="5"/>
+          <f x="5.25" y="-0.3" kX="0" kY="0" cX="0.59" cY="0.59" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="FlyingSkill_firebird_awake-k679" twE="0" dr="8"/>
+          <f x="-41.6" y="7.35" kX="0" kY="0" cX="0.5" cY="0.5" z="3" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="60" y="-2" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="8"/>
+          <f x="20.6" y="0.35" kX="0" kY="0" cX="0.7" cY="0.7" z="2" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="FlyingSkill_firebird_awake-k679" twE="0" dr="8"/>
+          <f x="-59.6" y="7.35" kX="0" kY="0" cX="0.7" cY="0.7" z="3" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="8"/>
+          <f x="-55.6" y="7.35" kX="0" kY="0" cX="0.7" cY="0.7" z="2" dr="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="4" img="FlyingSkill_firebird_awake-k679" twE="0" dr="2"/>
+          <f x="-17.95" y="1.85" kX="0" kY="0" cX="0.5" cY="0.5" z="3" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="53.65" y="-5.5" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="8"/>
+          <f x="-17.95" y="1.85" kX="0" kY="0" cX="0.5" cY="0.5" z="2" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="53.65" y="-5.5" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="5"/>
+          <f x="8.95" y="-0.9" kX="0" kY="0" cX="0.69" cY="0.69" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="1.13" z="6" img="FlyingSkill_firebird_awake-888" twE="0" dr="8"/>
+          <f x="-21.5" y="-14.85" kX="0.01" kY="0" cX="3.28" cY="4.04" z="6" twE="0" dr="1"/>
+          <f x="-22.5" y="-13.7" kX="0.01" kY="0" cX="3.04" cY="3.75" z="3" twE="0" dr="7"/>
+          <f x="-118.65" y="-7.45" kX="0.01" kY="0.01" cX="0.4" cY="0.49" z="3" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="1.13" z="5" img="FlyingSkill_firebird_awake-888" twE="0" dr="8"/>
+          <f x="-21.5" y="-14.85" kX="0.01" kY="0" cX="3.28" cY="4.04" z="4" twE="0" dr="1"/>
+          <f x="-22.5" y="-13.7" kX="0.01" kY="0" cX="3.04" cY="3.75" z="4" twE="0" dr="7"/>
+          <f x="-118.65" y="-7.45" kX="0.01" kY="0.01" cX="0.4" cY="0.49" z="4" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="1.13" z="8" img="FlyingSkill_firebird_awake-888" twE="0" dr="8"/>
+          <f x="-21.5" y="-14.85" kX="0.01" kY="0" cX="3.28" cY="4.04" z="8" twE="0" dr="1"/>
+          <f x="-22.5" y="-13.7" kX="0.01" kY="0" cX="3.04" cY="3.75" z="5" twE="0" dr="7"/>
+          <f x="-118.65" y="-7.45" kX="0.01" kY="0.01" cX="0.4" cY="0.49" z="5" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="1.13" z="7" img="FlyingSkill_firebird_awake-888" twE="0" dr="8"/>
+          <f x="-21.5" y="-14.85" kX="0.01" kY="0" cX="3.28" cY="4.04" z="6" twE="0" dr="1"/>
+          <f x="-22.5" y="-13.7" kX="0.01" kY="0" cX="3.04" cY="3.75" z="5" twE="0" dr="7"/>
+          <f x="-118.65" y="-7.45" kX="0.01" kY="0.01" cX="0.4" cY="0.49" z="5" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="1.13" z="10" img="FlyingSkill_firebird_awake-888" twE="0" dr="8"/>
+          <f x="-21.5" y="-14.85" kX="0.01" kY="0" cX="3.28" cY="4.04" z="9" twE="0" dr="1"/>
+          <f x="-22.5" y="-13.7" kX="0.01" kY="0" cX="3.04" cY="3.75" z="7" twE="0" dr="7"/>
+          <f x="-118.65" y="-7.45" kX="0.01" kY="0.01" cX="0.4" cY="0.49" z="5" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="1.13" z="10" img="FlyingSkill_firebird_awake-888" twE="0" dr="8"/>
+          <f x="-21.5" y="-14.85" kX="0.01" kY="0" cX="3.28" cY="4.04" z="10" twE="0" dr="1"/>
+          <f x="-22.5" y="-13.7" kX="0.01" kY="0" cX="3.04" cY="3.75" z="7" twE="0" dr="7"/>
+          <f x="-118.65" y="-7.45" kX="0.01" kY="0.01" cX="0.4" cY="0.49" z="7" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.92" cY="1.13" z="10" img="FlyingSkill_firebird_awake-888" twE="0" dr="8"/>
+          <f x="-21.5" y="-14.85" kX="0.01" kY="0" cX="3.28" cY="4.04" z="9" twE="0" dr="1"/>
+          <f x="-22.5" y="-13.7" kX="0.01" kY="0" cX="3.04" cY="3.75" z="6" twE="0" dr="7"/>
+          <f x="-118.65" y="-7.45" kX="0.01" kY="0.01" cX="0.4" cY="0.49" z="6" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="飞行光效-冰鸟改" width="512" height="1024">
+    <SubTexture name="FlyingSkill_firebird_awake-ea006" x="0" y="178" width="245" height="180" pX="122.7" pY="98.9"/>
+    <SubTexture name="FlyingSkill_firebird_awake-ea007" x="258" y="0" width="250" height="180" pX="128" pY="100.5"/>
+    <SubTexture name="FlyingSkill_firebird_awake-ea008" x="0" y="0" width="257" height="177" pX="117.65" pY="103.85"/>
+    <SubTexture name="FlyingSkill_firebird_awake-ea009" x="0" y="359" width="229" height="188" pX="90.65" pY="103.2"/>
+    <SubTexture name="FlyingSkill_firebird_awake-ea010" x="246" y="181" width="241" height="183" pX="117.75" pY="105.6"/>
+    <SubTexture name="FlyingSkill_firebird_awake-ea011" x="230" y="365" width="228" height="181" pX="105.6" pY="100.95"/>
+    <SubTexture name="FlyingSkill_firebird_awake-k679" x="230" y="547" width="62" height="62" pX="13.95" pY="16.7"/>
+    <SubTexture name="FlyingSkill_firebird_awake-888" x="488" y="181" width="13" height="12" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

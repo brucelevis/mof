@@ -1,0 +1,93 @@
+<skeleton name="亡灵技能 (2)(1)">
+  <armatures>
+    <armature name="greatsword_gx">
+      <b name="liewen" bT="0" bi="Monster_ghostbosssword-dilie_1" x="271.25" y="268" kX="0" kY="0" z="0"/>
+      <b name="guanghuan0" bT="0" bi="Monster_ghostbosssword-guanghuan" x="274.85" y="265.8" kX="0" kY="0" z="0"/>
+      <b name="guanghuan" bT="0" bi="Monster_ghostbosssword-guanghuan" x="274.85" y="249.8" kX="0" kY="0" z="2"/>
+      <b name="ml_wq_3" bT="0" bi="Monster_ghostbosssword-ml_wq_3" x="278" y="161.25" kX="0" kY="0" z="2"/>
+      <b name="ml_wq_4" bT="0" bi="Monster_ghostbosssword-ml_wq_5" x="278.1" y="161.2" kX="0" kY="0" z="3"/>
+      <b name="ae5_1" bT="0" bi="Monster_ghostbosssword-ae5_1" x="273.15" y="222.7" kX="0" kY="0" z="4"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="greatsword_gx">
+      <mov name="greatsword_gx" to="1" dr="86" drTW="86" lp="0">
+        <b name="图层 11" sc="1" dl="0"/>
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 9" sc="1" dl="0"/>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="shouren-2a-14" sc="1" dl="0"/>
+        <b name="liewen" sc="1" dl="0">
+          <f dr="38" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_ghostbosssword-dilie_1" twE="0" dr="2"/>
+          <f x="0" y="-4.2" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="0" y="-4.2" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="33"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_ghostbosssword-dilie_2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_ghostbosssword-dilie_3" dr="3"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="guanghuan0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="0.43" z="0" img="Monster_ghostbosssword-guanghuan" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.96" cY="0.32" z="0" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.27" cY="0.43" z="0" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.68" cY="0.23" z="1" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.29" cY="0.77" z="1" twE="0" dr="17"/>
+          <f x="-0.1" y="-0.05" kX="0" kY="0" cX="2.82" cY="0.95" z="1" img="Monster_ghostbosssword-guanghuan_2" twE="0" dr="3"/>
+          <f x="-0.05" y="0" kX="0" kY="0" cX="2.91" cY="0.98" z="1" img="Monster_ghostbosssword-guanghuan_3" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="1.01" z="1" twE="0" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="guanghuan" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.68" cY="0.23" z="2" img="Monster_ghostbosssword-guanghuan" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.29" cY="0.77" z="2" twE="0" dr="17"/>
+          <f x="-0.1" y="-0.05" kX="0" kY="0" cX="2.82" cY="0.95" z="2" img="Monster_ghostbosssword-guanghuan_2" twE="0" dr="3"/>
+          <f x="-0.05" y="0" kX="0" kY="0" cX="2.91" cY="0.98" z="1" img="Monster_ghostbosssword-guanghuan_3" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="1.01" z="1" twE="0" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="ml_wq_3" sc="1" dl="0">
+          <f dr="38" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="2" img="Monster_ghostbosssword-ml_wq_3" dr="2"/>
+          <f x="0" y="-4" kX="0" kY="0" cX="1.5" cY="1.5" z="3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="3" dr="2"/>
+          <f x="0" y="-4" kX="0" kY="0" cX="1.5" cY="1.5" z="3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" dr="38"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="ml_wq_4" sc="1" dl="0">
+          <f dr="38" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="3" img="Monster_ghostbosssword-ml_wq_5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.3" z="4" dr="2"/>
+          <f x="0" y="40" kX="0" kY="0" cX="1.3" cY="1.3" z="4" dr="2"/>
+          <f dr="42" hide="1"/>
+        </b>
+        <b name="ae5_1" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.73" cY="2.73" z="4" img="Monster_ghostbosssword-ae5_1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.7" cY="3.7" z="5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.7" cY="3.7" z="4" img="Monster_ghostbosssword-ae5_3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.7" cY="3.7" z="4" img="Monster_ghostbosssword-ae5_4" dr="2"/>
+          <f dr="39" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="亡灵技能 (2)(1)" width="512" height="512">
+    <SubTexture name="Monster_ghostbosssword-dilie_1" x="0" y="0" width="314" height="114" pX="176.9" pY="47.6"/>
+    <SubTexture name="Monster_ghostbosssword-dilie_2" x="0" y="115" width="277" height="132" pX="143.3" pY="63"/>
+    <SubTexture name="Monster_ghostbosssword-dilie_3" x="0" y="394" width="149" height="73" pX="60.25" pY="30.4"/>
+    <SubTexture name="Monster_ghostbosssword-guanghuan" x="296" y="355" width="147" height="145" pX="72.75" pY="71.75"/>
+    <SubTexture name="Monster_ghostbosssword-guanghuan_2" x="148" y="248" width="147" height="145" pX="72.75" pY="71.75"/>
+    <SubTexture name="Monster_ghostbosssword-guanghuan_3" x="0" y="248" width="147" height="145" pX="72.75" pY="71.75"/>
+    <SubTexture name="Monster_ghostbosssword-ml_wq_3" x="413" y="0" width="84" height="175" pX="41.85" pY="105.55"/>
+    <SubTexture name="Monster_ghostbosssword-ml_wq_5" x="315" y="0" width="97" height="310" pX="49.7" pY="191.55"/>
+    <SubTexture name="Monster_ghostbosssword-ae5_1" x="413" y="250" width="68" height="83" pX="33.45" pY="51.7"/>
+    <SubTexture name="Monster_ghostbosssword-ae5_3" x="413" y="176" width="83" height="73" pX="41.7" pY="68"/>
+    <SubTexture name="Monster_ghostbosssword-ae5_4" x="296" y="311" width="92" height="43" pX="45.25" pY="38.05"/>
+  </TextureAtlas>
+</skeleton>

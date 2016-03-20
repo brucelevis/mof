@@ -1,0 +1,789 @@
+<skeleton name="化妆舞会女-主城时装1">
+  <armatures>
+    <armature name="stand">
+      <b name="图层 14" bT="0" bi="CityFashion_nv_1-fsnv-yz1-2" x="155.7" y="253" kX="0" kY="0" z="0"/>
+      <b name="fsnv0-hb1-1" bT="0" bi="CityFashion_nv_1-fsnv-hb3-1" x="179.15" y="199.05" kX="-24.25" kY="-24.25" z="1"/>
+      <b name="fsnv0-hb2-1" bT="0" bi="CityFashion_nv_1-fsnv-hb3-2" x="173.05" y="197.65" kX="-10.95" kY="-10.95" z="2"/>
+      <b name="fsnv0-6a-2" bT="0" bi="CityFashion_nv_1-fsnv-6a1-1" x="185.3" y="227" kX="-14.3" kY="-14.3" z="3"/>
+      <b name="fsnv0-7a-1" bT="0" bi="CityFashion_nv_1-fsnv-7a1-1" x="190.25" y="242" kX="2.8" kY="3.75" z="4"/>
+      <b name="图层 2" bT="0" bi="CityFashion_nv_1-fsnv-7a3-1" x="200.25" y="249.5" kX="2.8" kY="3.75" z="5"/>
+      <b name="fsnv0-5a-1" bT="0" bi="CityFashion_nv_1-fsnv-5a1-2" x="173.6" y="194.75" kX="-19.93" kY="-19.93" z="6"/>
+      <b name="fsnv0-6a-1" bT="0" bi="CityFashion_nv_1-fsnv-6a2-1" x="167.35" y="227.45" kX="-5.62" kY="-5.62" z="7"/>
+      <b name="fsnv0-7a-2" bT="0" bi="CityFashion_nv_1-fsnv-7a2-1 " x="168.25" y="245.35" kX="0" kY="0" z="8"/>
+      <b name="fsnv0-5a2-1" bT="0" bi="CityFashion_nv_1-fsnv-5a1-1" x="167.25" y="193.9" kX="0.45" kY="0.45" z="9"/>
+      <b name="fsnv0-qz-1" bT="0" bi="CityFashion_nv_1-fsnv-qz-1" x="174.65" y="194.5" kX="4.96" kY="4.96" z="10"/>
+      <b name="fsnv0-hb5-1" bT="0" bi="CityFashion_nv_1-fsnv-hb4-1" x="184.55" y="194.9" kX="-30.87" kY="-30.87" z="11"/>
+      <b name="fsnv0-hb4-1" bT="0" bi="CityFashion_nv_1-fsnv-hb2-2" x="167.15" y="189.9" kX="25.83" kY="25.83" z="12"/>
+      <b name="fsnv0-hb3-1" bT="0" bi="CityFashion_nv_1-fsnv-hb1-2" x="168.95" y="188.9" kX="19.49" kY="19.49" z="13"/>
+      <b name="fsnv0-yz-1" bT="0" bi="CityFashion_nv_1-fsnv-yz-2" x="170.95" y="197" kX="23.98" kY="23.98" z="14"/>
+      <b name="fsnv0-yz-2" bT="0" bi="CityFashion_nv_1-fsnv-yz-1" x="166.95" y="193.85" kX="39.17" kY="39.17" z="15"/>
+      <b name="fsnv0-2a2-1" bT="0" bi="CityFashion_nv_1-fsnv-2a2-1" x="184.4" y="165.6" kX="-15.91" kY="-15.91" z="16"/>
+      <b name="fsnv0-10a-1" bT="0" bi="CityFashion_nv_1-fsnv-8a3-1" x="176.65" y="182.2" kX="25.78" kY="25.78" z="17"/>
+      <b name="fsnv0-9a-1" bT="0" bi="CityFashion_nv_1-fsnv-8a2-1" x="177.75" y="175.6" kX="4.94" kY="4.94" z="18"/>
+      <b name="fsnv0-8a-1" bT="0" bi="CityFashion_nv_1-fsnv-8a1-1" x="175.6" y="161.65" kX="0" kY="0" z="19"/>
+      <b name="fsnv0-qz2-1" bT="0" bi="CityFashion_nv_1-fsnv-hua-1" x="168.55" y="193" kX="0" kY="0" z="20"/>
+      <b name="fsnv-x-3" bT="0" bi="CityFashion_nv_1-fsnv-xiong-2" x="192.1" y="176.55" kX="5.51" kY="6.01" z="21"/>
+      <b name="fsnv--x-4" bT="0" bi="CityFashion_nv_1-fsnv-xiong-1" x="184.85" y="177.55" kX="-0.79" kY="-0.78" z="22"/>
+      <b name="fsnv0-2a-1" bT="0" bi="CityFashion_nv_1-fsnv-2a-1" x="171.1" y="159.9" kX="40.41" kY="40.41" z="23"/>
+      <b name="fsnv0-4a-1" bT="0" bi="CityFashion_nv_1-fsnv-4a-2" x="162.45" y="192.1" kX="-19.41" kY="-19.41" z="24"/>
+      <b name="fsnv0-3a-1" bT="0" bi="CityFashion_nv_1-fsnv-3a-2" x="156.75" y="185.9" kX="-43.67" kY="-43.67" z="25"/>
+      <b name="fsnv0-mao3-1" bT="0" bi="CityFashion_nv_1-fsnv-ym1-2" x="201.65" y="118.4" kX="9.52" kY="9.52" z="26"/>
+      <b name="fsnv0-tf3-1" bT="0" bi="CityFashion_nv_1-fsnv-tf2-1" x="156.6" y="119.7" kX="-29.53" kY="-29.53" z="27"/>
+      <b name="fsnv0-1a-1" bT="0" bi="CityFashion_nv_1-fsnv-1a-1" x="166.5" y="116.85" kX="8.63" kY="8.63" z="28"/>
+      <b name="fsnv0-mao2-1" bT="0" bi="CityFashion_nv_1-fsnv-ym1-1" x="147.35" y="117.25" kX="-17.94" kY="-17.94" z="29"/>
+      <b name="fsnv0-rd-1" bT="0" bi="CityFashion_nv_1-fsnv-rd-1" x="157.95" y="139.35" kX="0" kY="0" z="30"/>
+      <b name="fsnv0-tf1-1" bT="0" bi="CityFashion_nv_1-fsnv-tf-1" x="167.9" y="130.95" kX="0" kY="0" z="31"/>
+      <b name="c_zui1 副本" bT="0" bi="CityFashion_nv_1-fsnv-zb-1" x="190.3" y="161.3" kX="7.78" kY="7.78" z="32"/>
+      <b name="fsan0-ym-1" bT="0" bi="CityFashion_nv_1-fsnv-ym2-1" x="152.25" y="98.5" kX="-43.69" kY="-43.69" z="33"/>
+      <b name="fsan0-ym-10" bT="0" bi="CityFashion_nv_1-fsnv-ym2-1" x="185.25" y="86.85" kX="-12.3" kY="-12.3" z="34"/>
+      <b name="fsnv0-mao-1" bT="0" bi="CityFashion_nv_1-fsnv-ym4-1" x="181.65" y="124.7" kX="-14.84" kY="-14.84" z="35"/>
+      <b name="图层 50" bT="0" bi="CityFashion_nv_1-fsnv-mj-1" x="174.85" y="140.35" kX="8.37" kY="8.37" z="36"/>
+      <b name="图层 5" bT="0" bi="CityFashion_nv_1-fsnv-sz-1" x="173.95" y="162.85" kX="-17.09" kY="-17.09" z="37"/>
+      <b name="fsnv0-3a2-1" bT="0" bi="CityFashion_nv_1-fsnv-3a-1" x="200.4" y="183" kX="67.21" kY="67.21" z="38"/>
+      <b name="fsnv0-4a2-1" bT="0" bi="CityFashion_nv_1-fsnv-4a2-1" x="196.4" y="188.7" kX="-94.96" kY="-94.96" z="39"/>
+    </armature>
+    <armature name="run">
+      <b name="图层 14" bT="0" bi="CityFashion_nv_1-fsnv-yz1-2" x="155.7" y="253" kX="0" kY="0" z="0"/>
+      <b name="cnfreeadcom_1_99_51431" bT="0" bi="CityFashion_nv_1-fsnv-111" x="196.7" y="212.8" kX="-20.11" kY="159.89" z="1"/>
+      <b name="fsnv0-2a2-1" bT="0" bi="CityFashion_nv_1-fsnv-2a2-1" x="183.35" y="164.75" kX="-7.83" kY="-7.83" z="2"/>
+      <b name="fsnv-4a-1" bT="0" bi="CityFashion_nv_1-fsnv-4a-1" x="186.1" y="201.85" kX="-21.42" kY="-21.42" z="3"/>
+      <b name="cnfreeadcom_1_79_82576" bT="0" bi="CityFashion_nv_1-fsnv-sz-1" x="219.05" y="225.7" kX="164.03" kY="164.03" z="4"/>
+      <b name="fsnv-4a0-1" bT="0" bi="CityFashion_nv_1-fsnv-4a0-1" x="191.95" y="204.5" kX="-5.19" kY="-5.19" z="5"/>
+      <b name="cnfreeadcom_1_1_48637" bT="0" bi="CityFashion_nv_1-fsnv-3a2-1" x="186.75" y="187.7" kX="-11.24" kY="-11.24" z="6"/>
+      <b name="fsnv0-hb1-1" bT="0" bi="CityFashion_nv_1-fsnv-hb3-1" x="183" y="200.45" kX="-24.25" kY="-24.25" z="7"/>
+      <b name="fsnv0-hb2-1" bT="0" bi="CityFashion_nv_1-fsnv-hb3-2" x="177.05" y="198.45" kX="-4.75" kY="-4.75" z="8"/>
+      <b name="fsnv0-6a-2" bT="0" bi="CityFashion_nv_1-fsnv-6a1-1" x="191.15" y="229.75" kX="-12.72" kY="-12.72" z="9"/>
+      <b name="fsnv0-7a-1" bT="0" bi="CityFashion_nv_1-fsnv-7a1-1" x="195.4" y="244" kX="1.49" kY="1.49" z="10"/>
+      <b name="图层 12" bT="0" bi="CityFashion_nv_1-fsnv-7a3-1" x="205.55" y="251.05" kX="1.49" kY="1.49" z="11"/>
+      <b name="fsnv0-5a-1" bT="0" bi="CityFashion_nv_1-fsnv-5a1-2" x="179.3" y="196.05" kX="-20.16" kY="-20.16" z="12"/>
+      <b name="fsnv0-6a-1" bT="0" bi="CityFashion_nv_1-fsnv-6a1-1" x="167.3" y="225.95" kX="27.29" kY="27.29" z="13"/>
+      <b name="fsnv0-7a-2" bT="0" bi="CityFashion_nv_1-fsnv-7a1-1" x="159.45" y="239.7" kX="26.4" kY="26.4" z="14"/>
+      <b name="图层 13" bT="0" bi="CityFashion_nv_1-fsnv-7a3-1" x="164.5" y="251.1" kX="3.17" kY="3.17" z="15"/>
+      <b name="fsnv0-5a2-1" bT="0" bi="CityFashion_nv_1-fsnv-5a1-1" x="173.8" y="194.95" kX="12.89" kY="12.89" z="16"/>
+      <b name="fsnv0-qz-1" bT="0" bi="CityFashion_nv_1-fsnv-qz-1" x="177.7" y="196.85" kX="-2.71" kY="-2.71" z="17"/>
+      <b name="fsnv0-hb5-1" bT="0" bi="CityFashion_nv_1-fsnv-hb4-1" x="188.35" y="195.95" kX="-30.59" kY="-30.59" z="18"/>
+      <b name="fsnv0-hb4-1" bT="0" bi="CityFashion_nv_1-fsnv-hb2-1" x="170.6" y="193.05" kX="25.03" kY="25.03" z="19"/>
+      <b name="fsnv0-hb3-1" bT="0" bi="CityFashion_nv_1-fsnv-hb1-1" x="171.6" y="192.6" kX="10.05" kY="10.05" z="20"/>
+      <b name="fsnv0-yz-1" bT="0" bi="CityFashion_nv_1-fsnv-yz-2" x="176" y="199.05" kX="19.54" kY="19.54" z="21"/>
+      <b name="fsnv0-yz-2" bT="0" bi="CityFashion_nv_1-fsnv-yz-1" x="171.75" y="196.2" kX="34.74" kY="34.74" z="22"/>
+      <b name="fsnv0-10a-1" bT="0" bi="CityFashion_nv_1-fsnv-8a3-2" x="174.9" y="185.95" kX="2.13" kY="2.13" z="23"/>
+      <b name="fsnv0-9a-1" bT="0" bi="CityFashion_nv_1-fsnv-8a2-1" x="175.9" y="176.6" kX="-2.46" kY="-2.46" z="24"/>
+      <b name="fsnv0-8a-1" bT="0" bi="CityFashion_nv_1-fsnv-8a1-1" x="173.2" y="162.9" kX="-4.36" kY="-4.36" z="25"/>
+      <b name="fsnv0-qz2-1" bT="0" bi="CityFashion_nv_1-fsnv-hua-1" x="172.9" y="196.1" kX="-8.49" kY="-9.36" z="26"/>
+      <b name="fsnv-x-3" bT="0" bi="CityFashion_nv_1-fsnv-xiong-2" x="190.55" y="176.7" kX="4.34" kY="4.84" z="27"/>
+      <b name="fsnv--x-4" bT="0" bi="CityFashion_nv_1-fsnv-xiong-1" x="183.25" y="177.8" kX="-1.95" kY="-1.95" z="28"/>
+      <b name="fsnv0-2a-1" bT="0" bi="CityFashion_nv_1-fsnv-2a-1" x="167.6" y="163.8" kX="22.65" kY="22.65" z="29"/>
+      <b name="fsnv0-4a-1" bT="0" bi="CityFashion_nv_1-fsnv-4a-2" x="167.75" y="196.5" kX="-32.24" kY="-32.24" z="30"/>
+      <b name="fsnv0-3a-1" bT="0" bi="CityFashion_nv_1-fsnv-3a-2" x="160.8" y="191.65" kX="-56.5" kY="-56.5" z="31"/>
+      <b name="fsnv0-mao3-1" bT="0" bi="CityFashion_nv_1-fsnv-ym1-2" x="195.85" y="117.1" kX="5.16" kY="5.16" z="32"/>
+      <b name="fsnv0-tf3-1" bT="0" bi="CityFashion_nv_1-fsnv-tf2-1" x="151.05" y="121.85" kX="-33.9" kY="-33.9" z="33"/>
+      <b name="fsnv0-1a-1" bT="0" bi="CityFashion_nv_1-fsnv-1a-1" x="160.75" y="118.25" kX="4.27" kY="4.27" z="34"/>
+      <b name="fsnv0-mao2-1" bT="0" bi="CityFashion_nv_1-fsnv-ym1-1" x="141.75" y="120.1" kX="-22.3" kY="-22.3" z="35"/>
+      <b name="fsnv0-rd-1" bT="0" bi="CityFashion_nv_1-fsnv-rd-1" x="154" y="141.4" kX="-4.36" kY="-4.36" z="36"/>
+      <b name="fsnv0-tf1-1" bT="0" bi="CityFashion_nv_1-fsnv-tf-1" x="163.3" y="132.3" kX="-4.36" kY="-4.36" z="37"/>
+      <b name="c_zui1 副本" bT="0" bi="CityFashion_nv_1-fsnv-zb-1" x="187.75" y="160.85" kX="3.41" kY="3.41" z="38"/>
+      <b name="fsan0-ym-1" bT="0" bi="CityFashion_nv_1-fsnv-ym2-1" x="145.15" y="101" kX="-48.06" kY="-48.06" z="39"/>
+      <b name="fsan0-ym-10" bT="0" bi="CityFashion_nv_1-fsnv-ym2-1" x="177.1" y="86.9" kX="-16.66" kY="-16.66" z="40"/>
+      <b name="fsnv0-mao-1" bT="0" bi="CityFashion_nv_1-fsnv-ym4-1" x="176.35" y="124.85" kX="-19.2" kY="-19.2" z="41"/>
+      <b name="图层 50" bT="0" bi="CityFashion_nv_1-fsnv-mj-1" x="170.95" y="141.1" kX="4.01" kY="4.01" z="42"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="34" drTW="40" lp="1">
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="CityFashion_nv_1-fsnv-yz1-2" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="17"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 13" sc="1" dl="0"/>
+        <b name="图层 12" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="37" img="CityFashion_nv_1-fsnv-sz-1" twE="0" dr="17"/>
+          <f x="0.75" y="1.45" kX="1.71" kY="1.71" cX="1" cY="1" z="37" twE="0" dr="17"/>
+        </b>
+        <b name="46 5" sc="1" dl="0"/>
+        <b name="46 6" sc="1" dl="0"/>
+        <b name="46 4" sc="1" dl="0"/>
+        <b name="46 2" sc="1" dl="0"/>
+        <b name="46 3" sc="1" dl="0"/>
+        <b name="46 1" sc="1" dl="0"/>
+        <b name="46 7" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="女剑士1默认1-1-1-2" sc="1" dl="0"/>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 9" sc="1" dl="0"/>
+        <b name="图层 8" sc="1" dl="0"/>
+        <b name="女剑士1默认1-1-1-10" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="CityFashion_nv_1-fsnv-7a3-1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="17"/>
+        </b>
+        <b name="女剑士1头－头发 侧" sc="1" dl="0"/>
+        <b name="女剑士1默认1-1-1-4" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="fsnv0-hb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="CityFashion_nv_1-fsnv-hb3-1" twE="0" dr="17"/>
+          <f x="0.1" y="1.05" kX="-2.92" kY="-2.92" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="0.2" y="1.25" kX="-3.77" kY="-3.77" cX="1" cY="1" z="1" twE="0" dr="14"/>
+        </b>
+        <b name="fsnv0-hb2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="CityFashion_nv_1-fsnv-hb3-2" twE="0" dr="17"/>
+          <f x="0.05" y="1.4" kX="-2.92" kY="-2.92" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="0.15" y="1.75" kX="-3.59" kY="-3.59" cX="1" cY="1" z="2" twE="0" dr="14"/>
+        </b>
+        <b name="fsnv0-6a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="CityFashion_nv_1-fsnv-6a1-1" twE="0" dr="17"/>
+          <f x="0.05" y="0" kX="0.24" kY="0.24" cX="1" cY="1" z="3" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-7a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="CityFashion_nv_1-fsnv-7a1-1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-5a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="CityFashion_nv_1-fsnv-5a1-2" twE="0" dr="17"/>
+          <f x="0.1" y="1" kX="-0.79" kY="-0.79" cX="1" cY="1" z="6" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-6a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="CityFashion_nv_1-fsnv-6a2-1" twE="0" dr="17"/>
+          <f x="0.9" y="0.15" kX="1.57" kY="1.57" cX="1" cY="1" z="7" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-7a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="CityFashion_nv_1-fsnv-7a2-1 " twE="0" dr="17"/>
+          <f x="1" y="0" kX="4.61" kY="0" cX="1" cY="1" z="8" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-5a2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="CityFashion_nv_1-fsnv-5a1-1" twE="0" dr="17"/>
+          <f x="-0.05" y="1.1" kX="-1.76" kY="-1.76" cX="1" cY="1" z="9" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-qz-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="CityFashion_nv_1-fsnv-qz-1" twE="0" dr="17"/>
+          <f x="0" y="0.85" kX="-7.11" kY="0" cX="1" cY="1.01" z="10" twE="0" dr="3"/>
+          <f x="-0.05" y="1.2" kX="-7.8" kY="-1.36" cX="1" cY="1.01" z="10" twE="0" dr="14"/>
+        </b>
+        <b name="fsnv0-hb5-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="CityFashion_nv_1-fsnv-hb4-1" twE="0" dr="17"/>
+          <f x="0" y="0.95" kX="-2.72" kY="-2.72" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="0" y="1.15" kX="-3.92" kY="-3.92" cX="1" cY="1" z="11" twE="0" dr="14"/>
+        </b>
+        <b name="fsnv0-hb4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="CityFashion_nv_1-fsnv-hb2-2" twE="0" dr="17"/>
+          <f x="0.25" y="0.45" kX="2.72" kY="2.72" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="0.55" y="0.4" kX="3.72" kY="3.72" cX="1" cY="1" z="12" twE="0" dr="14"/>
+        </b>
+        <b name="fsnv0-hb3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="CityFashion_nv_1-fsnv-hb1-2" twE="0" dr="17"/>
+          <f x="0.3" y="0.55" kX="2.73" kY="2.73" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="0.5" y="0.5" kX="3.59" kY="3.59" cX="1" cY="1" z="13" twE="0" dr="14"/>
+        </b>
+        <b name="fsnv0-yz-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="CityFashion_nv_1-fsnv-yz-2" twE="0" dr="17"/>
+          <f x="0" y="0.85" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-yz-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="CityFashion_nv_1-fsnv-yz-1" twE="0" dr="17"/>
+          <f x="0" y="0.85" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-2a2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="CityFashion_nv_1-fsnv-2a2-1" twE="0" dr="17"/>
+          <f x="-0.65" y="2.1" kX="-2.48" kY="-2.48" cX="1" cY="1" z="16" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-10a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="CityFashion_nv_1-fsnv-8a3-1" twE="0" dr="17"/>
+          <f x="0" y="0.85" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-9a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="CityFashion_nv_1-fsnv-8a2-1" twE="0" dr="17"/>
+          <f x="-0.35" y="1.9" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-8a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="CityFashion_nv_1-fsnv-8a1-1" twE="0" dr="17"/>
+          <f x="-0.35" y="1.9" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-qz2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="CityFashion_nv_1-fsnv-hua-1" twE="0" dr="17"/>
+          <f x="0" y="0.85" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv-x-3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="CityFashion_nv_1-fsnv-xiong-2" twE="0" dr="17"/>
+          <f x="-0.35" y="1.9" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv--x-4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="CityFashion_nv_1-fsnv-xiong-1" twE="0" dr="17"/>
+          <f x="-0.35" y="1.9" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-2a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="CityFashion_nv_1-fsnv-2a-1" twE="0" dr="17"/>
+          <f x="-0.35" y="1.9" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-4a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="CityFashion_nv_1-fsnv-4a-2" twE="0" dr="17"/>
+          <f x="-0.35" y="1.9" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-3a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="CityFashion_nv_1-fsnv-3a-2" twE="0" dr="17"/>
+          <f x="-0.35" y="1.9" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-mao3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="CityFashion_nv_1-fsnv-ym1-2" twE="0" dr="17"/>
+          <f x="0.85" y="1.9" kX="3.7" kY="3.7" cX="1" cY="1" z="26" twE="0" dr="3"/>
+          <f x="1.5" y="1.95" kX="5.23" kY="5.23" cX="1" cY="1" z="26" twE="0" dr="14"/>
+        </b>
+        <b name="fsnv0-tf3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" img="CityFashion_nv_1-fsnv-tf2-1" twE="0" dr="17"/>
+          <f x="-0.35" y="1.9" kX="0" kY="0" cX="1" cY="1" z="27" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-1a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="28" img="CityFashion_nv_1-fsnv-1a-1" twE="0" dr="17"/>
+          <f x="-0.35" y="1.9" kX="0" kY="0" cX="1" cY="1" z="28" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-mao2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="29" img="CityFashion_nv_1-fsnv-ym1-1" twE="0" dr="17"/>
+          <f x="-1.3" y="2.55" kX="-2.24" kY="-2.24" cX="1" cY="1" z="29" twE="0" dr="3"/>
+          <f x="-2.25" y="3.2" kX="-4.53" kY="-4.53" cX="1" cY="1" z="29" twE="0" dr="14"/>
+        </b>
+        <b name="fsnv0-rd-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="30" img="CityFashion_nv_1-fsnv-rd-1" twE="0" dr="17"/>
+          <f x="-0.35" y="1.9" kX="0" kY="0" cX="1" cY="1" z="30" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-tf1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="31" img="CityFashion_nv_1-fsnv-tf-1" twE="0" dr="17"/>
+          <f x="-0.15" y="1.9" kX="4.72" kY="0" cX="1" cY="1" z="31" twE="0" dr="3"/>
+          <f x="-0.1" y="1.95" kX="5.78" kY="0" cX="1" cY="1.01" z="31" twE="0" dr="14"/>
+        </b>
+        <b name="c_zui1 副本" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="32" img="CityFashion_nv_1-fsnv-zb-1" twE="0" dr="17"/>
+          <f x="-0.35" y="1.9" kX="0" kY="0" cX="1" cY="1" z="32" twE="0" dr="17"/>
+        </b>
+        <b name="fsan0-ym-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="1.05" z="33" img="CityFashion_nv_1-fsnv-ym2-1" twE="0" dr="17"/>
+          <f x="2.6" y="-1.15" kX="3.74" kY="3.74" cX="1.05" cY="1.05" z="33" twE="0" dr="3"/>
+          <f x="3.4" y="-1.75" kX="4.51" kY="4.51" cX="1.05" cY="1.05" z="33" twE="0" dr="14"/>
+        </b>
+        <b name="fsan0-ym-10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.92" z="34" img="CityFashion_nv_1-fsnv-ym2-1" twE="0" dr="17"/>
+          <f x="3.3" y="1.1" kX="3.74" kY="3.75" cX="0.6" cY="0.92" z="34" twE="0" dr="3"/>
+          <f x="4.2" y="0.9" kX="4.48" kY="4.49" cX="0.6" cY="0.92" z="34" twE="0" dr="14"/>
+        </b>
+        <b name="fsnv0-mao-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="35" img="CityFashion_nv_1-fsnv-ym4-1" twE="0" dr="17"/>
+          <f x="-1.5" y="2.65" kX="-2.74" kY="-2.74" cX="1" cY="1" z="35" twE="0" dr="3"/>
+          <f x="-2.2" y="3.05" kX="-4.47" kY="-4.47" cX="1" cY="1" z="35" twE="0" dr="14"/>
+        </b>
+        <b name="图层 50" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="36" img="CityFashion_nv_1-fsnv-mj-1" twE="0" dr="17"/>
+          <f x="-0.35" y="1.9" kX="0" kY="0" cX="1" cY="1" z="36" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-3a2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="38" img="CityFashion_nv_1-fsnv-3a-1" twE="0" dr="17"/>
+          <f x="0.15" y="2.2" kX="1.7" kY="1.7" cX="1" cY="1" z="38" twE="0" dr="17"/>
+        </b>
+        <b name="fsnv0-4a2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="39" img="CityFashion_nv_1-fsnv-4a2-1" twE="0" dr="17"/>
+          <f x="0" y="2.1" kX="1.7" kY="1.7" cX="1" cY="1" z="39" twE="0" dr="17"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="run">
+      <mov name="run" to="1" dr="40" drTW="40" lp="1">
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="CityFashion_nv_1-fsnv-yz1-2" twE="0" dr="5"/>
+          <f x="-0.5" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="5"/>
+          <f x="-1" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="-0.5" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="5"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="5"/>
+          <f x="1" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="0.5" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="7"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 13" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="1.05" z="15" img="CityFashion_nv_1-fsnv-7a3-1" twE="0" dr="5"/>
+          <f x="-8.95" y="-6.45" kX="74.52" kY="78.72" cX="1.05" cY="1.05" z="15" twE="0" dr="5"/>
+          <f x="5.6" y="-7.9" kX="88.7" kY="92.9" cX="1.05" cY="1.05" z="15" twE="0" dr="3"/>
+          <f x="27.55" y="-8.35" kX="50.01" kY="54.21" cX="1.05" cY="1.05" z="15" twE="0" dr="7"/>
+          <f x="33.65" y="0" kX="-4.48" kY="-0.29" cX="1.05" cY="1.05" z="15" twE="0" dr="5"/>
+          <f x="26.15" y="0.25" kX="-8.98" kY="-4.79" cX="1.05" cY="1.05" z="15" twE="0" dr="5"/>
+          <f x="18.5" y="-0.25" kX="-8.98" kY="-4.79" cX="1.05" cY="1.05" z="15" twE="0" dr="3"/>
+          <f x="6.9" y="0.25" kX="-8.98" kY="-4.79" cX="1.05" cY="1.05" z="15" twE="0" dr="7"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="CityFashion_nv_1-fsnv-7a3-1" twE="0" dr="5"/>
+          <f x="-12.5" y="0.25" kX="2" kY="2" cX="1" cY="1" z="11" twE="0" dr="5"/>
+          <f x="-19.2" y="-0.25" kX="2" kY="2" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="-30.5" y="0.1" kX="2.02" kY="2.02" cX="1" cY="1" z="11" twE="0" dr="7"/>
+          <f x="-41.85" y="-0.4" kX="2.02" kY="2.02" cX="1" cY="1" z="11" twE="0" dr="5"/>
+          <f x="-42.5" y="-7.5" kX="85.59" kY="85.59" cX="1" cY="1" z="11" twE="0" dr="5"/>
+          <f x="-36.95" y="-7.1" kX="100.49" kY="100.49" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="-12.95" y="-8.2" kX="72.54" kY="72.54" cX="1" cY="1" z="11" twE="0" dr="7"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0"/>
+        <b name="46 5" sc="1" dl="0"/>
+        <b name="46 6" sc="1" dl="0"/>
+        <b name="46 4" sc="1" dl="0"/>
+        <b name="46 2" sc="1" dl="0"/>
+        <b name="46 3" sc="1" dl="0"/>
+        <b name="46 1" sc="1" dl="0"/>
+        <b name="46 7" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="女剑士1默认1-1-1-2" sc="1" dl="0"/>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 9" sc="1" dl="0"/>
+        <b name="图层 8" sc="1" dl="0"/>
+        <b name="女剑士1默认1-1-1-10" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="女剑士1头－头发 侧" sc="1" dl="0"/>
+        <b name="女剑士1默认1-1-1-4" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="cnfreeadcom_1_99_51431" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.93" cY="0.93" z="1" img="CityFashion_nv_1-fsnv-111" twE="0" dr="5"/>
+          <f x="-0.15" y="-2.8" kX="0" kY="0" cX="0.93" cY="0.93" z="1" twE="0" dr="5"/>
+          <f x="-1" y="-2.8" kX="0" kY="0" cX="0.93" cY="0.93" z="1" twE="0" dr="3"/>
+          <f x="-0.85" y="-3.15" kX="0" kY="0" cX="0.93" cY="0.93" z="1" twE="0" dr="7"/>
+          <f x="0" y="2.45" kX="0" kY="0" cX="0.93" cY="0.93" z="1" twE="0" dr="5"/>
+          <f x="0.5" y="2.45" kX="0" kY="0" cX="0.93" cY="0.93" z="1" twE="0" dr="5"/>
+          <f x="1" y="2.45" kX="0" kY="0" cX="0.93" cY="0.93" z="1" twE="0" dr="3"/>
+          <f x="0.5" y="1.1" kX="0" kY="0" cX="0.93" cY="0.93" z="1" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-2a2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="CityFashion_nv_1-fsnv-2a2-1" twE="0" dr="5"/>
+          <f x="0.1" y="-3.4" kX="7.27" kY="7.27" cX="1" cY="1" z="2" twE="0" dr="5"/>
+          <f x="-1.45" y="-3.2" kX="-4.76" kY="-4.76" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-2.55" y="-3.9" kX="-15.71" kY="-15.71" cX="1" cY="1" z="2" twE="0" dr="7"/>
+          <f x="-1.55" y="3.05" kX="-24.34" kY="-24.34" cX="1" cY="1" z="2" twE="0" dr="5"/>
+          <f x="-0.6" y="-1.1" kX="-15.17" kY="-15.17" cX="1" cY="1" z="2" twE="0" dr="5"/>
+          <f x="0.3" y="-3.4" kX="-8.04" kY="-8.04" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-0.25" y="-5.35" kX="-6.75" kY="-6.75" cX="1" cY="1" z="2" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv-4a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="CityFashion_nv_1-fsnv-4a-1" twE="0" dr="5"/>
+          <f x="-3.15" y="-5.2" kX="21.24" kY="21.24" cX="1" cY="1" z="3" twE="0" dr="5"/>
+          <f x="5.4" y="-6.35" kX="5.45" kY="5.45" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="9.3" y="-8.7" kX="-6.18" kY="-6.18" cX="1" cY="1" z="3" twE="0" dr="7"/>
+          <f x="17.25" y="-4.65" kX="-23.05" kY="-23.05" cX="1" cY="1" z="3" twE="0" dr="5"/>
+          <f x="11.45" y="-2.65" kX="-30.47" kY="-30.47" cX="1" cY="1" z="3" twE="0" dr="5"/>
+          <f x="7.85" y="-3.4" kX="-22.69" kY="-22.69" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="4.8" y="-5.4" kX="-11.66" kY="-11.66" cX="1" cY="1" z="3" twE="0" dr="7"/>
+        </b>
+        <b name="cnfreeadcom_1_79_82576" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="CityFashion_nv_1-fsnv-sz-1" twE="0" dr="5"/>
+          <f x="-14.1" y="5.2" kX="-338.76" kY="-338.76" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="3.15" y="-3.35" kX="5.46" kY="5.46" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="11.65" y="-12.4" kX="-6.18" kY="-6.18" cX="1" cY="1" z="4" twE="0" dr="7"/>
+          <f x="23.8" y="-19.6" kX="-23.05" kY="-23.05" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="18.95" y="-23.25" kX="-31.18" kY="-31.18" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="14.55" y="-19.1" kX="-24.91" kY="-24.91" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="8.9" y="-12.55" kX="-11.66" kY="-11.66" cX="1" cY="1" z="4" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv-4a0-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="CityFashion_nv_1-fsnv-4a0-1" twE="0" dr="5"/>
+          <f x="-4.55" y="-3.3" kX="21.23" kY="21.23" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="5.2" y="-5.8" kX="5.45" kY="5.45" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="9.5" y="-9.25" kX="-6.19" kY="-6.19" cX="1" cY="1" z="5" twE="0" dr="7"/>
+          <f x="17.75" y="-7.3" kX="-23.05" kY="-23.05" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="11.85" y="-6.15" kX="-30.47" kY="-30.47" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="8.35" y="-6" kX="-22.7" kY="-22.7" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="5.05" y="-6.5" kX="-11.67" kY="-11.67" cX="1" cY="1" z="5" twE="0" dr="7"/>
+        </b>
+        <b name="cnfreeadcom_1_1_48637" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="CityFashion_nv_1-fsnv-3a2-1" twE="0" dr="5"/>
+          <f x="-2.8" y="-2.75" kX="2.31" kY="2.31" cX="1" cY="1" z="6" twE="0" dr="5"/>
+          <f x="0.95" y="-2.6" kX="-20.19" kY="-20.19" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="3.8" y="-5.15" kX="-25.6" kY="-25.6" cX="1" cY="1" z="6" twE="0" dr="7"/>
+          <f x="8.5" y="1.35" kX="-45.47" kY="-45.47" cX="1" cY="1" z="6" twE="0" dr="5"/>
+          <f x="5.4" y="-2.5" kX="-23.68" kY="-23.68" cX="1" cY="1" z="6" twE="0" dr="5"/>
+          <f x="3.55" y="-3.6" kX="-16.69" kY="-16.69" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="2.6" y="-5.8" kX="-7.7" kY="-7.7" cX="1" cY="1" z="6" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-hb1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="CityFashion_nv_1-fsnv-hb3-1" twE="0" dr="5"/>
+          <f x="-0.25" y="-3.4" kX="7.49" kY="7.49" cX="1" cY="1" z="7" twE="0" dr="5"/>
+          <f x="-1.15" y="-3.65" kX="3.95" kY="3.95" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="-0.85" y="-6.1" kX="0.9" kY="0.9" cX="1" cY="1" z="7" twE="0" dr="7"/>
+          <f x="-0.1" y="-0.25" kX="2.45" kY="2.45" cX="1" cY="1" z="7" twE="0" dr="5"/>
+          <f x="0.15" y="-3.85" kX="9.2" kY="9.2" cX="1" cY="1" z="7" twE="0" dr="5"/>
+          <f x="0.9" y="-4.1" kX="1.77" kY="1.77" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="0.25" y="-5.6" kX="-4.77" kY="-6.3" cX="1" cY="1" z="7" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-hb2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="CityFashion_nv_1-fsnv-hb3-2" twE="0" dr="5"/>
+          <f x="0.25" y="-4.35" kX="9.29" kY="9.29" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="-1.15" y="-3.45" kX="-2.24" kY="-2.24" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-1.1" y="-5.75" kX="-4.59" kY="-5.17" cX="1" cY="1" z="8" twE="0" dr="7"/>
+          <f x="-0.15" y="0.6" kX="-6.2" kY="-6.2" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="0.25" y="-4.2" kX="3" kY="3" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="0.8" y="-4" kX="-3.19" kY="-3.19" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0.15" y="-5.75" kX="-7.2" kY="-7.2" cX="1" cY="1" z="8" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-6a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="CityFashion_nv_1-fsnv-6a1-1" twE="0" dr="5"/>
+          <f x="-7.35" y="-2.3" kX="14.65" kY="14.65" cX="1" cY="1.03" z="9" twE="0" dr="5"/>
+          <f x="-13.25" y="-2.35" kX="16.8" kY="16.8" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="-16.6" y="-5.75" kX="30.8" kY="30.8" cX="1" cY="1.06" z="9" twE="0" dr="7"/>
+          <f x="-21.5" y="-4.05" kX="43.47" kY="43.47" cX="1" cY="1.03" z="9" twE="0" dr="5"/>
+          <f x="-16" y="-9.9" kX="63.97" kY="63.97" cX="1" cY="1" z="9" twE="0" dr="5"/>
+          <f x="-9.25" y="-10.3" kX="63.97" kY="63.97" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="1.5" y="-14.3" kX="36.01" kY="36.01" cX="1" cY="0.98" z="9" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-7a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="CityFashion_nv_1-fsnv-7a1-1" twE="0" dr="5"/>
+          <f x="-12.3" y="-0.1" kX="2" kY="2" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="-19" y="-0.6" kX="2" kY="2" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="-26.25" y="-3.05" kX="18.98" kY="18.98" cX="1" cY="1" z="10" twE="0" dr="7"/>
+          <f x="-34.4" y="-4.2" kX="29.68" kY="29.68" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="-32.75" y="-14" kX="57.64" kY="57.64" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="-25.5" y="-14.1" kX="64.1" kY="64.1" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="-8.2" y="-14.2" kX="36.15" kY="36.15" cX="1" cY="1" z="10" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-5a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="CityFashion_nv_1-fsnv-5a1-2" twE="0" dr="5"/>
+          <f x="1" y="-4.1" kX="13.27" kY="13.27" cX="1" cY="1" z="12" twE="0" dr="5"/>
+          <f x="1.25" y="-5.95" kX="25.09" kY="25.09" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="1.6" y="-7.4" kX="29.33" kY="29.33" cX="1" cY="1" z="12" twE="0" dr="7"/>
+          <f x="3.3" y="-3.55" kX="39.83" kY="39.83" cX="1" cY="1" z="12" twE="0" dr="5"/>
+          <f x="3.1" y="-5.9" kX="31.14" kY="31.14" cX="1" cY="1" z="12" twE="0" dr="5"/>
+          <f x="2.55" y="-5.55" kX="16.2" kY="16.2" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-0.5" y="-5.45" kX="-11.4" kY="-11.4" cX="1" cY="1" z="12" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-6a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="CityFashion_nv_1-fsnv-6a1-1" twE="0" dr="5"/>
+          <f x="-0.4" y="-4.15" kX="18.74" kY="18.74" cX="1" cY="1" z="13" twE="0" dr="5"/>
+          <f x="14.05" y="-7.15" kX="18.74" kY="18.74" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="20.4" y="-9.65" kX="-15.74" kY="-15.74" cX="1" cY="1" z="13" twE="0" dr="7"/>
+          <f x="16.4" y="2.05" kX="-43.28" kY="-43.28" cX="1" cY="1" z="13" twE="0" dr="5"/>
+          <f x="11.2" y="0.8" kX="-35.97" kY="-35.97" cX="1" cY="1.03" z="13" twE="0" dr="5"/>
+          <f x="6.35" y="-0.55" kX="-27.68" kY="-27.68" cX="1" cY="1.03" z="13" twE="0" dr="3"/>
+          <f x="1.95" y="-2.85" kX="-17.56" kY="-17.57" cX="1" cY="1.03" z="13" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-7a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="1.05" z="14" img="CityFashion_nv_1-fsnv-7a1-1" twE="0" dr="5"/>
+          <f x="-1.25" y="-7.5" kX="43.75" kY="43.75" cX="1.05" cY="1.05" z="14" twE="0" dr="5"/>
+          <f x="13.2" y="-10.5" kX="43.75" kY="43.75" cX="1.05" cY="1.05" z="14" twE="0" dr="3"/>
+          <f x="27" y="-9.6" kX="9.27" kY="9.27" cX="1.05" cY="1.05" z="14" twE="0" dr="7"/>
+          <f x="29.9" y="2.65" kX="-17.46" kY="-17.46" cX="1.05" cY="1.05" z="14" twE="0" dr="5"/>
+          <f x="21.7" y="3.65" kX="-21.96" kY="-21.96" cX="1.05" cY="1.05" z="14" twE="0" dr="5"/>
+          <f x="14.05" y="3.15" kX="-21.96" kY="-21.96" cX="1.05" cY="1.05" z="14" twE="0" dr="3"/>
+          <f x="8.45" y="-0.2" kX="0.98" kY="0.98" cX="1.05" cY="1.05" z="14" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-5a2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="CityFashion_nv_1-fsnv-5a1-1" twE="0" dr="5"/>
+          <f x="-2.05" y="-3.2" kX="-4.87" kY="-4.87" cX="1" cY="1" z="16" twE="0" dr="5"/>
+          <f x="-4.4" y="-0.4" kX="-38.23" kY="-38.23" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="-4.1" y="-0.9" kX="-53.16" kY="-53.16" cX="1" cY="1" z="16" twE="0" dr="7"/>
+          <f x="-3.35" y="2.7" kX="-34.94" kY="-34.94" cX="1" cY="1" z="16" twE="0" dr="5"/>
+          <f x="-2.3" y="-1.5" kX="-23.07" kY="-23.07" cX="1" cY="1" z="16" twE="0" dr="5"/>
+          <f x="-1.4" y="-3.4" kX="-13.16" kY="-13.16" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="-1.15" y="-6" kX="-5.62" kY="-5.62" cX="1" cY="1" z="16" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-qz-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="CityFashion_nv_1-fsnv-qz-1" twE="0" dr="5"/>
+          <f x="-0.15" y="-2.8" kX="7.3" kY="0" cX="1" cY="1.01" z="17" twE="0" dr="5"/>
+          <f x="-1" y="-3.5" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="-0.85" y="-5.6" kX="-6.09" kY="0" cX="1" cY="1.01" z="17" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="5"/>
+          <f x="0.5" y="-2.95" kX="7.81" kY="0" cX="1" cY="1.01" z="17" twE="0" dr="5"/>
+          <f x="1" y="-3.95" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="0.5" y="-5.95" kX="-6.78" kY="0" cX="1" cY="1.01" z="17" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-hb5-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="CityFashion_nv_1-fsnv-hb4-1" twE="0" dr="5"/>
+          <f x="-0.15" y="-2.9" kX="6.48" kY="6.48" cX="1" cY="1" z="18" twE="0" dr="5"/>
+          <f x="-0.95" y="-3.55" kX="2.96" kY="2.96" cX="1" cY="1" z="18" twE="0" dr="3"/>
+          <f x="-0.65" y="-5.55" kX="1.1" kY="1.1" cX="1" cY="1" z="18" twE="0" dr="7"/>
+          <f x="0.1" y="-0.05" kX="2.94" kY="2.94" cX="1" cY="1" z="18" twE="0" dr="5"/>
+          <f x="0.65" y="-3.15" kX="9.24" kY="9.24" cX="1" cY="1" z="18" twE="0" dr="5"/>
+          <f x="1.05" y="-4" kX="2.52" kY="2.52" cX="1" cY="1" z="18" twE="0" dr="3"/>
+          <f x="0.6" y="-5.95" kX="-2.28" kY="-2.28" cX="1" cY="1" z="18" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-hb4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="CityFashion_nv_1-fsnv-hb2-1" twE="0" dr="5"/>
+          <f x="-0.2" y="-3.35" kX="2.95" kY="2.95" cX="1" cY="1" z="19" twE="0" dr="5"/>
+          <f x="-1" y="-3.75" kX="-2.07" kY="-2.07" cX="1" cY="1" z="19" twE="0" dr="3"/>
+          <f x="-1.15" y="-4.8" kX="-4.88" kY="-4.88" cX="1" cY="1" z="19" twE="0" dr="7"/>
+          <f x="-0.3" y="-0.3" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="5"/>
+          <f x="0.6" y="-3.95" kX="3.48" kY="3.48" cX="1" cY="1" z="19" twE="0" dr="5"/>
+          <f x="0.7" y="-4.2" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="3"/>
+          <f x="0" y="-5.55" kX="-3.21" kY="-3.21" cX="1" cY="1" z="19" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-hb3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="CityFashion_nv_1-fsnv-hb1-1" twE="0" dr="5"/>
+          <f x="-0.15" y="-3.3" kX="2.95" kY="2.95" cX="1" cY="1" z="20" twE="0" dr="5"/>
+          <f x="-1.05" y="-3.75" kX="-2.07" kY="-2.07" cX="1" cY="1" z="20" twE="0" dr="3"/>
+          <f x="-1.25" y="-4.9" kX="-4.88" kY="-4.88" cX="1" cY="1" z="20" twE="0" dr="7"/>
+          <f x="-0.3" y="-0.3" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="5"/>
+          <f x="0.65" y="-3.9" kX="3.48" kY="3.48" cX="1" cY="1" z="20" twE="0" dr="5"/>
+          <f x="0.7" y="-4.2" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="3"/>
+          <f x="-0.05" y="-5.6" kX="-3.22" kY="-3.22" cX="1" cY="1" z="20" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-yz-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="CityFashion_nv_1-fsnv-yz-2" twE="0" dr="5"/>
+          <f x="-0.2" y="-2.8" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="5"/>
+          <f x="-1.1" y="-3.45" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="3"/>
+          <f x="-1" y="-5.55" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="5"/>
+          <f x="0.4" y="-2.95" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="5"/>
+          <f x="0.9" y="-3.95" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="3"/>
+          <f x="0.35" y="-5.95" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-yz-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="CityFashion_nv_1-fsnv-yz-1" twE="0" dr="5"/>
+          <f x="-0.2" y="-2.8" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="-1.05" y="-3.45" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="3"/>
+          <f x="-0.95" y="-5.55" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="0.45" y="-2.95" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="0.9" y="-3.95" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="3"/>
+          <f x="0.35" y="-5.95" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-10a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="CityFashion_nv_1-fsnv-8a3-2" twE="0" dr="5"/>
+          <f x="-0.6" y="-2.65" kX="-1.01" kY="-1.01" cX="1" cY="1" z="23" twE="0" dr="5"/>
+          <f x="-1.6" y="-3.2" kX="-1.75" kY="-1.75" cX="1" cY="1" z="23" twE="0" dr="3"/>
+          <f x="-1.45" y="-5.3" kX="-1.75" kY="-1.75" cX="1" cY="1" z="23" twE="0" dr="7"/>
+          <f x="0" y="0.05" kX="-0.24" kY="-0.24" cX="1" cY="1" z="23" twE="0" dr="5"/>
+          <f x="0.2" y="-2.9" kX="-0.46" kY="-0.46" cX="1" cY="1" z="23" twE="0" dr="5"/>
+          <f x="0.4" y="-3.65" kX="-1.75" kY="-1.75" cX="1" cY="1" z="23" twE="0" dr="3"/>
+          <f x="-0.1" y="-5.65" kX="-1.75" kY="-1.75" cX="1" cY="1" z="23" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-9a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="CityFashion_nv_1-fsnv-8a2-1" twE="0" dr="5"/>
+          <f x="-0.7" y="-2.65" kX="-1.01" kY="-1.01" cX="1" cY="1" z="24" twE="0" dr="5"/>
+          <f x="-1.85" y="-3.25" kX="-1.75" kY="-1.75" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="-1.7" y="-5.35" kX="-1.75" kY="-1.75" cX="1" cY="1" z="24" twE="0" dr="7"/>
+          <f x="0.05" y="0" kX="-0.24" kY="-0.24" cX="1" cY="1" z="24" twE="0" dr="5"/>
+          <f x="0.15" y="-2.85" kX="-0.46" kY="-0.46" cX="1" cY="1" z="24" twE="0" dr="5"/>
+          <f x="0.15" y="-3.7" kX="-1.75" kY="-1.75" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="-0.35" y="-5.7" kX="-1.75" kY="-1.75" cX="1" cY="1" z="24" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-8a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="CityFashion_nv_1-fsnv-8a1-1" twE="0" dr="5"/>
+          <f x="-0.95" y="-2.7" kX="-1.02" kY="-1.02" cX="1" cY="1" z="25" twE="0" dr="5"/>
+          <f x="-2.3" y="-3.2" kX="-1.76" kY="-1.76" cX="1" cY="1" z="25" twE="0" dr="3"/>
+          <f x="-2.15" y="-5.3" kX="-1.76" kY="-1.76" cX="1" cY="1" z="25" twE="0" dr="7"/>
+          <f x="-0.1" y="0.1" kX="-0.25" kY="-0.25" cX="1" cY="1" z="25" twE="0" dr="5"/>
+          <f x="0" y="-2.85" kX="-0.47" kY="-0.47" cX="1" cY="1" z="25" twE="0" dr="5"/>
+          <f x="-0.3" y="-3.65" kX="-1.76" kY="-1.76" cX="1" cY="1" z="25" twE="0" dr="3"/>
+          <f x="-0.8" y="-5.65" kX="-1.76" kY="-1.76" cX="1" cY="1" z="25" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-qz2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="1" z="26" img="CityFashion_nv_1-fsnv-hua-1" twE="0" dr="5"/>
+          <f x="-0.2" y="-2.8" kX="0" kY="0" cX="0.95" cY="1" z="26" twE="0" dr="5"/>
+          <f x="-1" y="-3.5" kX="0" kY="0" cX="0.95" cY="1" z="26" twE="0" dr="3"/>
+          <f x="-0.9" y="-5.6" kX="0" kY="0" cX="0.95" cY="1" z="26" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="1" z="26" twE="0" dr="5"/>
+          <f x="0.4" y="-3" kX="0" kY="0" cX="0.95" cY="1" z="26" twE="0" dr="5"/>
+          <f x="0.85" y="-4" kX="0" kY="0" cX="0.95" cY="1" z="26" twE="0" dr="3"/>
+          <f x="0.35" y="-6" kX="0" kY="0" cX="0.95" cY="1" z="26" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv-x-3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" img="CityFashion_nv_1-fsnv-xiong-2" twE="0" dr="5"/>
+          <f x="-0.7" y="-2.45" kX="-1.01" kY="-1.01" cX="1" cY="1.1" z="27" twE="0" dr="5"/>
+          <f x="-1.85" y="-3.7" kX="-1.75" kY="-1.75" cX="1" cY="1" z="27" twE="0" dr="3"/>
+          <f x="-1.7" y="-6.25" kX="-1.75" kY="-1.75" cX="1" cY="0.91" z="27" twE="0" dr="7"/>
+          <f x="0.05" y="-0.05" kX="-0.24" kY="-0.24" cX="1" cY="1" z="27" twE="0" dr="5"/>
+          <f x="0.1" y="-2.4" kX="-0.46" kY="-0.46" cX="1" cY="1.12" z="27" twE="0" dr="5"/>
+          <f x="0.15" y="-4.15" kX="-1.75" kY="-1.75" cX="1" cY="1" z="27" twE="0" dr="3"/>
+          <f x="-0.35" y="-6.5" kX="-1.75" kY="-1.75" cX="1" cY="0.93" z="27" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv--x-4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="28" img="CityFashion_nv_1-fsnv-xiong-1" twE="0" dr="5"/>
+          <f x="-0.7" y="-2.35" kX="-1.02" kY="-1.01" cX="1" cY="1.09" z="28" twE="0" dr="5"/>
+          <f x="-1.8" y="-3.5" kX="-1.76" kY="-1.75" cX="1" cY="1" z="28" twE="0" dr="3"/>
+          <f x="-1.65" y="-6.2" kX="-1.76" kY="-1.75" cX="1" cY="0.89" z="28" twE="0" dr="7"/>
+          <f x="0.05" y="-0.05" kX="-0.25" kY="-0.24" cX="1" cY="1" z="28" twE="0" dr="5"/>
+          <f x="0.15" y="-2.3" kX="-0.47" kY="-0.47" cX="1" cY="1.12" z="28" twE="0" dr="5"/>
+          <f x="0.2" y="-3.95" kX="-1.76" kY="-1.75" cX="1" cY="1" z="28" twE="0" dr="3"/>
+          <f x="-0.3" y="-6.45" kX="-1.76" kY="-1.75" cX="1" cY="0.91" z="28" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-2a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="29" img="CityFashion_nv_1-fsnv-2a-1" twE="0" dr="5"/>
+          <f x="-1.25" y="-2.6" kX="-1.02" kY="-1.02" cX="1" cY="1" z="29" twE="0" dr="5"/>
+          <f x="-2.8" y="-3.05" kX="-1.76" kY="-1.76" cX="1" cY="1" z="29" twE="0" dr="3"/>
+          <f x="-2.9" y="-5.15" kX="-1.76" kY="-1.76" cX="1" cY="1" z="29" twE="0" dr="7"/>
+          <f x="-1.05" y="0.05" kX="-0.25" kY="-0.25" cX="1" cY="1" z="29" twE="0" dr="5"/>
+          <f x="-0.8" y="-2.85" kX="-0.47" kY="-0.47" cX="1" cY="1" z="29" twE="0" dr="5"/>
+          <f x="-0.8" y="-3.5" kX="-1.76" kY="-1.76" cX="1" cY="1" z="29" twE="0" dr="3"/>
+          <f x="-1.05" y="-5.5" kX="-1.76" kY="-1.76" cX="1" cY="1" z="29" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-4a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="30" img="CityFashion_nv_1-fsnv-4a-2" twE="0" dr="5"/>
+          <f x="-0.65" y="-2.5" kX="-1.01" kY="-1.01" cX="1" cY="1" z="30" twE="0" dr="5"/>
+          <f x="-1.8" y="-3" kX="-1.75" kY="-1.75" cX="1" cY="1" z="30" twE="0" dr="3"/>
+          <f x="-1.9" y="-5.1" kX="-1.75" kY="-1.75" cX="1" cY="1" z="30" twE="0" dr="7"/>
+          <f x="-0.9" y="0.05" kX="-0.24" kY="-0.24" cX="1" cY="1" z="30" twE="0" dr="5"/>
+          <f x="-0.55" y="-2.85" kX="-0.46" kY="-0.46" cX="1" cY="1" z="30" twE="0" dr="5"/>
+          <f x="0.2" y="-3.45" kX="-1.75" kY="-1.75" cX="1" cY="1" z="30" twE="0" dr="3"/>
+          <f x="-0.05" y="-5.45" kX="-1.75" kY="-1.75" cX="1" cY="1" z="30" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-3a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="31" img="CityFashion_nv_1-fsnv-3a-2" twE="0" dr="5"/>
+          <f x="-0.8" y="-2.4" kX="-1.01" kY="-1.01" cX="1" cY="1" z="31" twE="0" dr="5"/>
+          <f x="-2" y="-2.75" kX="-1.76" kY="-1.76" cX="1" cY="1" z="31" twE="0" dr="3"/>
+          <f x="-2.1" y="-4.85" kX="-1.76" kY="-1.76" cX="1" cY="1" z="31" twE="0" dr="7"/>
+          <f x="-0.95" y="0.1" kX="-0.24" kY="-0.24" cX="1" cY="1" z="31" twE="0" dr="5"/>
+          <f x="-0.6" y="-2.75" kX="-0.47" kY="-0.47" cX="1" cY="1" z="31" twE="0" dr="5"/>
+          <f x="0" y="-3.2" kX="-1.76" kY="-1.76" cX="1" cY="1" z="31" twE="0" dr="3"/>
+          <f x="-0.25" y="-5.2" kX="-1.76" kY="-1.76" cX="1" cY="1" z="31" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-mao3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="32" img="CityFashion_nv_1-fsnv-ym1-2" twE="0" dr="5"/>
+          <f x="-1.25" y="-3.2" kX="0.71" kY="0.71" cX="1" cY="1" z="32" twE="0" dr="5"/>
+          <f x="-2.75" y="-4" kX="1.19" kY="1.19" cX="1" cY="1" z="32" twE="0" dr="3"/>
+          <f x="-2.85" y="-6.1" kX="0.46" kY="0.46" cX="1" cY="1" z="32" twE="0" dr="7"/>
+          <f x="-0.2" y="-0.1" kX="-0.25" kY="-0.25" cX="1" cY="1" z="32" twE="0" dr="5"/>
+          <f x="0.55" y="-3.15" kX="2.49" kY="2.49" cX="1" cY="1" z="32" twE="0" dr="5"/>
+          <f x="-0.75" y="-4.5" kX="1.05" kY="1.05" cX="1" cY="1" z="32" twE="0" dr="3"/>
+          <f x="-1.55" y="-6.35" kX="0.19" kY="0.19" cX="1" cY="1" z="32" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-tf3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="33" img="CityFashion_nv_1-fsnv-tf2-1" twE="0" dr="5"/>
+          <f x="-1.8" y="-2.35" kX="-1.01" kY="-1.01" cX="1" cY="1" z="33" twE="0" dr="5"/>
+          <f x="-3.6" y="-2.55" kX="-1.75" kY="-1.75" cX="1" cY="1" z="33" twE="0" dr="3"/>
+          <f x="-3.45" y="-4.65" kX="-1.75" kY="-1.75" cX="1" cY="1" z="33" twE="0" dr="7"/>
+          <f x="-0.25" y="0.05" kX="-0.24" kY="-0.24" cX="1" cY="1" z="33" twE="0" dr="5"/>
+          <f x="-0.4" y="-2.75" kX="-0.46" kY="-0.46" cX="1" cY="1" z="33" twE="0" dr="5"/>
+          <f x="-1.6" y="-3" kX="-1.75" kY="-1.75" cX="1" cY="1" z="33" twE="0" dr="3"/>
+          <f x="-2.1" y="-5" kX="-1.75" kY="-1.75" cX="1" cY="1" z="33" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-1a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="34" img="CityFashion_nv_1-fsnv-1a-1" twE="0" dr="5"/>
+          <f x="-1.85" y="-2.5" kX="-1.01" kY="-1.01" cX="1" cY="1" z="34" twE="0" dr="5"/>
+          <f x="-3.75" y="-2.8" kX="-1.75" kY="-1.75" cX="1" cY="1" z="34" twE="0" dr="3"/>
+          <f x="-3.6" y="-4.9" kX="-1.75" kY="-1.75" cX="1" cY="1" z="34" twE="0" dr="7"/>
+          <f x="-0.3" y="0.1" kX="-0.24" kY="-0.24" cX="1" cY="1" z="34" twE="0" dr="5"/>
+          <f x="-0.45" y="-2.8" kX="-0.46" kY="-0.46" cX="1" cY="1" z="34" twE="0" dr="5"/>
+          <f x="-1.75" y="-3.25" kX="-1.75" kY="-1.75" cX="1" cY="1" z="34" twE="0" dr="3"/>
+          <f x="-2.25" y="-5.25" kX="-1.75" kY="-1.75" cX="1" cY="1" z="34" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-mao2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="35" img="CityFashion_nv_1-fsnv-ym1-1" twE="0" dr="5"/>
+          <f x="-2.8" y="-1.45" kX="-3.21" kY="-3.21" cX="1" cY="1" z="35" twE="0" dr="5"/>
+          <f x="-5.15" y="-1.05" kX="-5.18" kY="-5.18" cX="1" cY="1" z="35" twE="0" dr="3"/>
+          <f x="-4.65" y="-3.4" kX="-4.21" kY="-4.21" cX="1" cY="1" z="35" twE="0" dr="7"/>
+          <f x="-0.25" y="0.1" kX="-0.25" kY="-0.25" cX="1" cY="1" z="35" twE="0" dr="5"/>
+          <f x="-1.4" y="-1.85" kX="-2.74" kY="-2.74" cX="1" cY="1" z="35" twE="0" dr="5"/>
+          <f x="-3.2" y="-1.45" kX="-5.4" kY="-5.4" cX="1" cY="1" z="35" twE="0" dr="3"/>
+          <f x="-3.55" y="-3.6" kX="-4.97" kY="-4.97" cX="1" cY="1" z="35" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-rd-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="36" img="CityFashion_nv_1-fsnv-rd-1" twE="0" dr="5"/>
+          <f x="-1.5" y="-2.4" kX="-1.02" kY="-1.02" cX="1" cY="1" z="36" twE="0" dr="5"/>
+          <f x="-3.05" y="-2.65" kX="-1.76" kY="-1.76" cX="1" cY="1" z="36" twE="0" dr="3"/>
+          <f x="-2.9" y="-4.75" kX="-1.76" kY="-1.76" cX="1" cY="1" z="36" twE="0" dr="7"/>
+          <f x="-0.2" y="0.05" kX="-0.25" kY="-0.25" cX="1" cY="1" z="36" twE="0" dr="5"/>
+          <f x="-0.25" y="-2.75" kX="-0.47" kY="-0.47" cX="1" cY="1" z="36" twE="0" dr="5"/>
+          <f x="-1.05" y="-3.1" kX="-1.76" kY="-1.76" cX="1" cY="1" z="36" twE="0" dr="3"/>
+          <f x="-1.55" y="-5.1" kX="-1.76" kY="-1.76" cX="1" cY="1" z="36" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-tf1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="37" img="CityFashion_nv_1-fsnv-tf-1" twE="0" dr="5"/>
+          <f x="-1.5" y="-2.55" kX="2.07" kY="-1.02" cX="1" cY="1" z="37" twE="0" dr="5"/>
+          <f x="-3.1" y="-3" kX="3.16" kY="-1.76" cX="1" cY="1" z="37" twE="0" dr="3"/>
+          <f x="-2.9" y="-5.1" kX="5.14" kY="-1.76" cX="1" cY="1.01" z="37" twE="0" dr="7"/>
+          <f x="0.2" y="0" kX="10.28" kY="-0.25" cX="1" cY="1.02" z="37" twE="0" dr="5"/>
+          <f x="0.05" y="-2.9" kX="7.21" kY="-0.47" cX="1" cY="1.01" z="37" twE="0" dr="5"/>
+          <f x="-1.1" y="-3.45" kX="3.54" kY="-1.76" cX="1" cY="1" z="37" twE="0" dr="3"/>
+          <f x="-1.7" y="-5.4" kX="1.42" kY="-1.76" cX="1" cY="1" z="37" twE="0" dr="7"/>
+        </b>
+        <b name="c_zui1 副本" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="38" img="CityFashion_nv_1-fsnv-zb-1" twE="0" dr="5"/>
+          <f x="-0.95" y="-2.95" kX="-1.01" kY="-1.01" cX="1" cY="1" z="38" twE="0" dr="5"/>
+          <f x="-2.3" y="-3.7" kX="-1.75" kY="-1.75" cX="1" cY="1" z="38" twE="0" dr="3"/>
+          <f x="-2.15" y="-5.8" kX="-1.75" kY="-1.75" cX="1" cY="1" z="38" twE="0" dr="7"/>
+          <f x="0" y="-0.05" kX="-0.24" kY="-0.24" cX="1" cY="1" z="38" twE="0" dr="5"/>
+          <f x="0" y="-3" kX="-0.46" kY="-0.46" cX="1" cY="1" z="38" twE="0" dr="5"/>
+          <f x="-0.3" y="-4.15" kX="-1.75" kY="-1.75" cX="1" cY="1" z="38" twE="0" dr="3"/>
+          <f x="-0.8" y="-6.15" kX="-1.75" kY="-1.75" cX="1" cY="1" z="38" twE="0" dr="7"/>
+        </b>
+        <b name="fsan0-ym-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.05" cY="1.05" z="39" img="CityFashion_nv_1-fsnv-ym2-1" twE="0" dr="5"/>
+          <f x="-3.25" y="-0.55" kX="-2.9" kY="-2.9" cX="1.05" cY="1.05" z="39" twE="0" dr="5"/>
+          <f x="-6.35" y="0.9" kX="-5.45" kY="-5.45" cX="1.05" cY="1.05" z="39" twE="0" dr="3"/>
+          <f x="-7.6" y="1.25" kX="-8.15" kY="-8.15" cX="1.05" cY="1.05" z="39" twE="0" dr="7"/>
+          <f x="-4.55" y="6.95" kX="-8.13" kY="-8.13" cX="1.05" cY="1.05" z="39" twE="0" dr="5"/>
+          <f x="-4.2" y="2.85" kX="-6.94" kY="-6.94" cX="1.05" cY="1.05" z="39" twE="0" dr="5"/>
+          <f x="-4.4" y="0.45" kX="-5.5" kY="-5.5" cX="1.05" cY="1.05" z="39" twE="0" dr="3"/>
+          <f x="-4.35" y="-2.35" kX="-4.46" kY="-4.46" cX="1.05" cY="1.05" z="39" twE="0" dr="7"/>
+        </b>
+        <b name="fsan0-ym-10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.6" cY="0.92" z="40" img="CityFashion_nv_1-fsnv-ym2-1" twE="0" dr="5"/>
+          <f x="-3.4" y="-2.35" kX="-2.24" kY="-2.24" cX="0.6" cY="0.92" z="40" twE="0" dr="5"/>
+          <f x="-6.5" y="-2.55" kX="-3.95" kY="-3.95" cX="0.6" cY="0.92" z="40" twE="0" dr="3"/>
+          <f x="-7.7" y="-4.05" kX="-5.69" kY="-5.69" cX="0.6" cY="0.92" z="40" twE="0" dr="7"/>
+          <f x="-4.8" y="1.85" kX="-5.58" kY="-5.58" cX="0.6" cY="0.92" z="40" twE="0" dr="5"/>
+          <f x="-4.15" y="-1.4" kX="-4.92" kY="-4.92" cX="0.6" cY="0.92" z="40" twE="0" dr="5"/>
+          <f x="-5.1" y="-2.6" kX="-4.7" kY="-4.7" cX="0.6" cY="0.92" z="40" twE="0" dr="3"/>
+          <f x="-5.2" y="-4.9" kX="-4.19" kY="-4.19" cX="0.6" cY="0.92" z="40" twE="0" dr="7"/>
+        </b>
+        <b name="fsnv0-mao-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="41" img="CityFashion_nv_1-fsnv-ym4-1" twE="0" dr="5"/>
+          <f x="-0.95" y="-3.25" kX="0.72" kY="0.72" cX="1" cY="1" z="41" twE="0" dr="5"/>
+          <f x="-2.1" y="-4.2" kX="1.46" kY="1.46" cX="1" cY="1" z="41" twE="0" dr="3"/>
+          <f x="-1.35" y="-6.75" kX="2.98" kY="2.98" cX="1" cY="1" z="41" twE="0" dr="7"/>
+          <f x="2.6" y="-1.8" kX="6.24" kY="6.24" cX="1" cY="1" z="41" twE="0" dr="5"/>
+          <f x="1.7" y="-4.25" kX="4.25" kY="4.25" cX="1" cY="1" z="41" twE="0" dr="5"/>
+          <f x="-0.1" y="-4.7" kX="1.44" kY="1.44" cX="1" cY="1" z="41" twE="0" dr="3"/>
+          <f x="-0.85" y="-6.6" kX="0.97" kY="0.97" cX="1" cY="1" z="41" twE="0" dr="7"/>
+        </b>
+        <b name="图层 50" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="42" img="CityFashion_nv_1-fsnv-mj-1" twE="0" dr="5"/>
+          <f x="-1.45" y="-2.65" kX="-1.01" kY="-1.01" cX="1" cY="1" z="42" twE="0" dr="5"/>
+          <f x="-3.05" y="-3.15" kX="-1.76" kY="-1.76" cX="1" cY="1" z="42" twE="0" dr="3"/>
+          <f x="-2.9" y="-5.25" kX="-1.76" kY="-1.76" cX="1" cY="1" z="42" twE="0" dr="7"/>
+          <f x="-0.2" y="0" kX="-0.25" kY="-0.25" cX="1" cY="1" z="42" twE="0" dr="5"/>
+          <f x="-0.25" y="-2.9" kX="-0.47" kY="-0.47" cX="1" cY="1" z="42" twE="0" dr="5"/>
+          <f x="-1.05" y="-3.6" kX="-1.76" kY="-1.76" cX="1" cY="1" z="42" twE="0" dr="3"/>
+          <f x="-1.55" y="-5.6" kX="-1.76" kY="-1.76" cX="1" cY="1" z="42" twE="0" dr="7"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="化妆舞会女-主城时装1" width="512" height="64">
+    <SubTexture name="CityFashion_nv_1-fsnv-6a2-1" x="431" y="0" width="12" height="29" pX="0" pY="5.35"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-7a2-1 " x="456" y="0" width="16" height="22" pX="-0.35" pY="1.35"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-hb2-2" x="198" y="0" width="11" height="56" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-hb1-2" x="170" y="0" width="15" height="61" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-8a3-1" x="407" y="23" width="17" height="14" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-3a-1" x="444" y="30" width="7" height="10" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-4a2-1" x="429" y="30" width="14" height="9" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-yz1-2" x="0" y="0" width="85" height="24" pX="12.75" pY="5.15"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-7a3-1" x="235" y="27" width="12" height="11" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-111" x="305" y="31" width="4" height="4" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-2a2-1" x="444" y="0" width="11" height="29" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-4a-1" x="492" y="20" width="12" height="20" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-sz-1" x="235" y="0" width="36" height="26" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-4a0-1" x="291" y="31" width="6" height="9" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-3a2-1" x="70" y="25" width="8" height="16" pX="0.1" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-hb3-1" x="210" y="0" width="12" height="52" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-hb3-2" x="223" y="0" width="11" height="52" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-6a1-1" x="326" y="0" width="12" height="35" pX="0" pY="8.95"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-7a1-1" x="493" y="0" width="17" height="19" pX="0.35" pY="0.8"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-5a1-2" x="339" y="0" width="13" height="33" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-5a1-1" x="312" y="0" width="13" height="34" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-qz-1" x="473" y="0" width="19" height="18" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-hb4-1" x="505" y="20" width="4" height="20" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-hb2-1" x="186" y="0" width="11" height="58" pX="-0.15" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-hb1-1" x="134" y="0" width="15" height="63" pX="0.45" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-yz-2" x="79" y="25" width="6" height="10" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-yz-1" x="425" y="23" width="3" height="8" pX="-1.9" pY="-0.3"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-8a3-2" x="0" y="25" width="18" height="13" pX="-0.8" pY="-0.35"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-8a2-1" x="473" y="19" width="18" height="15" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-8a1-1" x="410" y="0" width="20" height="22" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-hua-1" x="19" y="25" width="21" height="8" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-xiong-2" x="56" y="25" width="13" height="14" pX="5.3" pY="6"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-xiong-1" x="41" y="25" width="14" height="14" pX="6.55" pY="6.05"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-2a-1" x="353" y="0" width="15" height="30" pX="0" pY="0.25"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-4a-2" x="258" y="27" width="11" height="12" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-3a-2" x="248" y="27" width="9" height="14" pX="0" pY="-1.15"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-ym1-2" x="398" y="18" width="8" height="22" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-tf2-1" x="381" y="0" width="28" height="17" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-1a-1" x="86" y="0" width="47" height="48" pX="2.5" pY="1"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-ym1-1" x="272" y="0" width="18" height="34" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-rd-1" x="381" y="18" width="16" height="20" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-tf-1" x="369" y="0" width="11" height="34" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-zb-1" x="298" y="31" width="6" height="4" pX="1.95" pY="1.15"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-ym2-1" x="150" y="0" width="19" height="58" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-ym4-1" x="291" y="0" width="20" height="30" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_1-fsnv-mj-1" x="456" y="23" width="14" height="14" pX="-15.3" pY="-3"/>
+  </TextureAtlas>
+</skeleton>

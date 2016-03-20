@@ -1,0 +1,40 @@
+<skeleton name="聊天说话4">
+  <armatures>
+    <armature name="myVoice">
+      <b name="图层 8" bT="0" bi="Chatting_voice-0001 " x="0" y="0" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="othersVoice">
+      <b name="图层 4" bT="0" bi="Chatting_voice-001" x="0.05" y="0.1" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="myVoice">
+      <mov name="myVoice" to="1" dr="46" drTW="46" lp="1">
+        <b name="图层 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Chatting_voice-0001 " dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Chatting_voice-0002 " dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Chatting_voice-0003 " dr="21"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="othersVoice">
+      <mov name="othersVoice" to="1" dr="46" drTW="46" lp="1">
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Chatting_voice-001" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Chatting_voice-0020" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Chatting_voice-0030" dr="21"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="聊天说话4" width="512" height="32">
+    <SubTexture name="Chatting_voice-0001 " x="88" y="0" width="7" height="16" pX="-15" pY="-5.35"/>
+    <SubTexture name="Chatting_voice-0002 " x="64" y="0" width="15" height="22" pX="-7.65" pY="-2.65"/>
+    <SubTexture name="Chatting_voice-0003 " x="0" y="0" width="23" height="27" pX="0.05" pY="0.1"/>
+    <SubTexture name="Chatting_voice-001" x="80" y="0" width="7" height="16" pX="0" pY="-5.45"/>
+    <SubTexture name="Chatting_voice-0020" x="48" y="0" width="15" height="22" pX="0" pY="-2.75"/>
+    <SubTexture name="Chatting_voice-0030" x="24" y="0" width="23" height="27" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

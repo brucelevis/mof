@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="124" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="1" tilewidth="64" tileheight="64">
+  <image source="501214_1.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="17" name="2" tilewidth="64" tileheight="64">
+  <image source="501214_2.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="33" name="4" tilewidth="64" tileheight="64">
+  <image source="501214_4.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="49" name="6" tilewidth="64" tileheight="64">
+  <image source="501214_6.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="113" name="7" tilewidth="64" tileheight="64">
+  <image source="501214_7.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="129" name="8" tilewidth="64" tileheight="64">
+  <image source="501214_8.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="145" name="5" tilewidth="64" tileheight="64">
+  <image source="501214_5.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="161" name="11" tilewidth="64" tileheight="64">
+  <image source="501214_11.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="177" name="12" tilewidth="64" tileheight="64">
+  <image source="501214_12.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="193" name="13" tilewidth="64" tileheight="64">
+  <image source="501214_13.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="209" name="3" tilewidth="64" tileheight="64">
+  <image source="501214_3.png" width="256" height="256"/>
+ </tileset>
+ <layer name="块层 5" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8ENwCAQBDESINB/xWwZ4WRL85jWAACAv3jSm3oavvwDAPeZ6UsrbV/+DxBQBF0=
+  </data>
+ </layer>
+ <layer name="块层 8" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztxcEJADAIADG/Fez+4+oYggkcFwEAwGZvSj/zmr6fOQAAuzXWAQsl
+  </data>
+ </layer>
+ <layer name="块层 6" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx9sNgCAUwFBW8IGIgrj/lHYLkmtP0o+mJEmSJEmaYaGVNtr98J/poEKnH/4rXXRT88N/p4cGvX741798oA8veQ==
+  </data>
+ </layer>
+ <layer name="块层 7" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8ENwCAQBDHaSYBA/9WxZYSTLc1jWgMAbvOkN/U0fPmf6UsrbV/+AQCA/zhWCSsd
+  </data>
+ </layer>
+ <layer name="块层 11" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0csKgDAMRNH5aZ9V2093wL0WEhHkHjq7JmmJdG+TWnFWZ3EerqfLmO86uV7l6hfW229wRmdy5oS5kbf0aj7VOZz9g31nzHedXK+qnA/09sveReQteB+7AAAAAAAA+L8TOcghMw==
+  </data>
+ </layer>
+ <layer name="块层 12" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkmsOgjAQhOeoHAUFRcQHR/QojgESJNvuVvw5XzKhlJndsjAAuFEHTPBa874eqJZqqAd1nwSu0czeYZU94hvPm+uz1DhxPVJP6jLvp3KfZ63Rp6OYBWtgnGomz2nlU/te1qtbcoaF1LvQU0fmCSO7nXG38S99raxFyhvp03PvCrzOFAK53HdljYq1qj5zTivv/S+eJ5Iv9VrvEpmnlbVmnMKb4b/6rPFyJWcqyUfq5jx7ZhXh13kKIYQQQgghhBBCiH28AZ5znSY=
+  </data>
+ </layer>
+ <layer name="块层 9" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkeFKA0EMhPNOBRUOVNpi5SoqrVipYksrKn2KfXRz7kWGOJur//yxgdA7b2a+IYqIjETSif6e6p7J7xnrd8m671FNOs2eROTokyh3NODHHM8cwXfPKOWOAx7raYwx0Y/cO/bzHOsTMUpZrCvzsFszXTeN5p7r74XuJfne9tymf1dNusge2gd8EuU2R/6/W8Js4LtnlHLbgMd6GqMl+sa9Yz/PsT4Ro5TFujIPuzXTTTVzonulzzPda6JZ9NxJ1neaNMse2gd8Uso1buTHHM+0LuIYUe4C/j5131hPYyxIFvLF9XOcnz4RA2fovszDbs10N5o5173V5zvde5K/7rnzrO806S57aB/wSSnXuJEfczzTuohjRLnrgMd6GmNN9MgX1w852Cdi4Azdl3nYrZnuQTOXuo/6vNJ9Ivm7nrvM+k6TVtlD+4BPSrnGjfyY45nWRRwjyt0FPNbTGDuiR764fsjBPhEDZ+i+zMNuzXQvmvms+6rPG90tyT/03Oes7zRpkz20D/iklGvcyI85nmldxDGi3EPAYz2NcSB65IvrhxzsEzFwtgP3ZR52a6Z708y97rs+f+h+MkA/+6zvNOkje2gfnFKucYf8Np5pXTzjr7lRT2T48d9KN8E+xzKG7lvq5fOj/nXq1KlTp06dOnX+53wBhSzCyg==
+  </data>
+ </layer>
+ <layer name="块层 10" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0T0KwCAMhuFcyeJicfRgHr0OHYpojFUolPcBh/rzxVgREVfGIX1eJLfmy5nsOmv3OfNejVfWRnevcpr1Df2brfS5kjXzDqGMU1mPnZrlTA7KfeLEXk2svp85o7tXOc36hv7Nen2GiYxRVsvMO4ykl/8p7au/Kyd/WR8AAAAAAAD/cwFgkRYn
+  </data>
+ </layer>
+ <layer name="块层 13" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztz0EKwCAMRFGPnmu0xXrVztKFgU5w0cJ/kIUxYbQ1AAAA/M2hOlVXcnb3q3Pqh+5Dc/EyOt1Z9bP8edb9e+XNbsaOzFlX3aqRnN396pz6ofvoxj+ynVU/y59n3b9X3uxm7MgEAADANz2JxUGJ
+  </data>
+ </layer>
+ <layer name="块层 14" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkVkOgzAQQ3N0XwG6b7RHrVEXjUaewCcffpIFmdVRWjPGGGOMMVtnoO4ifqGu1K3oG6ndyllVfbWPX/CM9unB+P2P82O8grUYQo26U/TV869mLt2pl89estfoR/mu3ifuVDV76iX8PKiJeorcgTpSJ+q8YlZVX+3jFzyDtWAP2AvOwG9+jhcj59q555/Pd8q+Kv9q5tKdlvLZS/bagh/1FiqWd/be0BhjjDHGbI83YbRZBw==
+  </data>
+ </layer>
+ <layer name="块层 14" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0UkKgDAQRNEc3Ss6z8NRLPcqSegWhP+gVsYqQkIAAAAAAABfK5XK8bzV/7XSRHy37n/qSz3vtZdjCqEYFaO6pL5W6ZReGRz6Lfa+7Lvzdt/U/V09m7IavXdu36wsjv25e5fDuC9F7H299vEvJ8u8Rbg=
+  </data>
+ </layer>
+ <layer name="Foreground1" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkEEOwjAMBP30fAUKFAoUnshIuVWqW4seZ6S9RN7N2hEiIiIiIiIiIiLyD5eINqAzOqEHbxN6oteGl/nAF0PPSankrnXbaSv/W9njqJ50aXRqU7956sn6LXO2drkzM6IbuqI3bzP6oO9GZ+YDX4w9J6WSu9Ztp638b2WPo3rSpdGpzf3mqSfrt8zJZn8tQlLx
+  </data>
+ </layer>
+ <layer name="Foreground2" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkTEOwkAQA/N0f4pACAGextSRKG5vBc2M5PY83lsWERERERERERH5NReykiu5/dGD7uAQXIJTKm90bunw+UaXZ8VxI3eyk8dE96wL3cEhuGQr3rdzy4jP6NYuz8rNDvIkL/Ke6J51oTs4BJccxf/u3DLiM7q1y/Ps+AFcHFn9
+  </data>
+ </layer>
+ <layer name="Foreground3" width="124" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0EEKg0AQRFGPXleLYoKKyZXyl2EQcWzI6j+olXYVzDBIkiRJkiRJ+qcHGcl08G0hK9mKG3SHjbCVK/+3u733LXpCX5ab92dvVN3r7a6ayZO8Dr7t5E0+xQ26w0bmi+/d7vbet+gJfdlv3p+9UXWvt/vXF23INhk=
+  </data>
+ </layer>
+ <objectgroup name="monster" width="78" height="12">
+  <object name="32025" x="842" y="703"/>
+  <object name="32026" x="1050" y="540"/>
+  <object name="32026" x="1034" y="703"/>
+  <object name="32025" x="2381" y="525"/>
+  <object name="32025" x="2381" y="653"/>
+  <object name="32027" x="2765" y="525"/>
+  <object name="32026" x="2564" y="662"/>
+  <object name="32026" x="2563" y="532"/>
+  <object name="32025" x="3821" y="566"/>
+  <object name="32025" x="3821" y="649"/>
+  <object name="32026" x="3974" y="569"/>
+  <object name="32026" x="3974" y="652"/>
+  <object name="32027" x="4150" y="545"/>
+  <object name="32027" x="4122" y="680"/>
+  <object name="32025" x="842" y="537"/>
+  <object name="32027" x="2817" y="656"/>
+  <object name="32026" x="7104" y="512"/>
+  <object name="32026" x="7104" y="704"/>
+  <object name="32901" x="7488" y="512"/>
+  <object name="32025" x="7231" y="608"/>
+  <object name="32027" x="7360" y="576"/>
+  <object name="32027" x="7360" y="640"/>
+  <object name="32902" x="7488" y="640"/>
+  <object name="32027" x="1187" y="543"/>
+  <object name="32027" x="1189" y="699"/>
+  <object name="32901" x="4271" y="575"/>
+  <object name="32901" x="4275" y="625"/>
+  <object name="32903" x="7549" y="577"/>
+  <object name="32026" x="5574" y="569"/>
+  <object name="32026" x="5574" y="652"/>
+  <object name="32027" x="5703" y="566"/>
+  <object name="32902" x="5871" y="575"/>
+  <object name="32027" x="5703" y="649"/>
+  <object name="32902" x="5875" y="625"/>
+  <object name="32025" x="5421" y="566"/>
+  <object name="32025" x="5421" y="649"/>
+  <object name="32026" x="7101" y="615"/>
+  <object name="32025" x="844" y="623"/>
+  <object name="32026" x="1042" y="624"/>
+  <object name="32027" x="1192" y="617"/>
+  <object name="32025" x="2391" y="585"/>
+  <object name="32026" x="2570" y="590"/>
+  <object name="32027" x="2766" y="578"/>
+  <object name="32025" x="3828" y="611"/>
+  <object name="32026" x="3982" y="607"/>
+  <object name="32027" x="4149" y="606"/>
+  <object name="32025" x="5424" y="602"/>
+  <object name="32026" x="5576" y="612"/>
+  <object name="32027" x="5707" y="600"/>
+  <object name="32025" x="7008" y="548"/>
+  <object name="32025" x="7003" y="629"/>
+  <object name="32025" x="7005" y="680"/>
+ </objectgroup>
+ <objectgroup name="bg" width="124" height="12">
+  <object name="anyesenlin_bg2" x="0" y="0" width="256" height="256"/>
+  <object name="anyesenlin_bg2" x="256" y="0" width="256" height="256"/>
+  <object name="anyesenlin_bg" x="512" y="0" width="256" height="256"/>
+  <object name="anyesenlin_bg2" x="768" y="0" width="256" height="256"/>
+  <object name="anyesenlin_bg2" x="1024" y="0" width="256" height="256"/>
+  <object name="anyesenlin_bg2" x="1280" y="0" width="256" height="256"/>
+  <object name="anyesenlin_bg" x="1536" y="0" width="256" height="256"/>
+  <object name="anyesenlin_bg2" x="2048" y="0" width="256" height="256"/>
+  <object name="anyesenlin_bg2" x="1792" y="0" width="256" height="256"/>
+  <object name="anyesenlin_bg2" x="2304" y="0" width="256" height="256"/>
+  <object name="anyesenlin_bg" x="2560" y="0" width="256" height="256"/>
+ </objectgroup>
+ <objectgroup name="mg" width="124" height="12">
+  <object name="anyesenlin_mg2" x="0" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="0" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="512" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="768" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="1024" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="1280" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="1536" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="1792" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="256" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="512" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="768" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="1024" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="1280" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="1536" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="1792" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="256" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="2049" y="260" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="2304" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="2560" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="2816" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="3072" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="3328" y="256" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="2048" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="2304" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="2560" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="2816" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="3072" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="3328" y="0" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="5891" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="5123" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="6147" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="5379" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="6659" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="3587" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="4099" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="6915" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="4611" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="4867" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="5636" y="259" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="6147" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="5379" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="6403" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="6915" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="4099" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="4355" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="5635" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="4867" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="5891" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="5123" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="6403" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="3587" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="3843" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="6659" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="4355" y="-1" width="256" height="256"/>
+  <object name="anyesenlin_mg2" x="4611" y="255" width="256" height="256"/>
+  <object name="anyesenlin_mg" x="3843" y="-1" width="256" height="256"/>
+ </objectgroup>
+ <objectgroup name="area" width="78" height="12">
+  <object x="6" y="448" width="1536" height="320"/>
+  <object x="1600" y="448" width="1536" height="320"/>
+  <object x="3200" y="448" width="1536" height="320"/>
+  <object x="6400" y="448" width="1536" height="320"/>
+  <object x="4805" y="449" width="1536" height="320"/>
+ </objectgroup>
+ <objectgroup name="AreaBornPoint" width="78" height="12">
+  <object x="1694" y="618"/>
+  <object x="3309" y="618"/>
+  <object x="4928" y="640"/>
+  <object x="6527" y="640"/>
+ </objectgroup>
+</map>

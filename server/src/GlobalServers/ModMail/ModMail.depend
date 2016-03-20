@@ -1,0 +1,716 @@
+# depslib dependency file v1.0
+1390719684 source:/home/tfl/new_game/ModMail/async_func.cpp
+	<algorithm>
+	<functional>
+	"async_func.h"
+	"MailListCache.h"
+	<mysql_connection.h>
+	"SysMailCache.h"
+
+1390448951 /home/tfl/new_game/ModMail/async_func.h
+	"ModMail.h"
+
+1392862224 /home/tfl/new_game/ModMail/ModMail.h
+	"../Interface/ShellHandle.h"
+	"../CustomDefine/PublicMessage.h"
+	<map>
+
+1385367013 /home/tfl/new_game/Interface/ShellHandle.h
+	"GameType.h"
+
+1385367013 /home/tfl/new_game/Interface/GameType.h
+	"LuaHandle.h"
+	<string>
+	<map>
+	<list>
+	<queue>
+
+1385367013 /home/tfl/new_game/Interface/LuaHandle.h
+	"Utils.h"
+
+1385450013 /home/tfl/new_game/Utils/Utils.h
+	"Encrypt/md5.h"
+	"Encrypt/rc5.h"
+	"AstarPathFind/AStar.h"
+	"MessageQueue/MsgBuf.h"
+	"FileSys/FileSys.h"
+	"Math/MathUtil.h"
+	"Log/LogFile.h"
+	"DumpStack/DumpStack.h"
+	"StringUtils/StringUtil.h"
+	"StringUtils/TextFilter.h"
+	"StringUtils/TokenNode.h"
+	"ThreadPool/ThreadPool.h"
+	"SyncSock/SyncSock.h"
+	"TinyXml/tinyxml.h"
+	"Public/Tools.h"
+	"Public/Inlines.h"
+	"Public/Macros.h"
+	"WShellAPI/eWshell.h"
+	"Time/TimeUtils.h"
+	"VarTable/VarTable.h"
+	"Json/json.h"
+	"minilzo/minilzo_class.h"
+	"readline/getcmd.h"
+	"./LUA/LuaStateWapper.h"
+
+1385367013 /home/tfl/new_game/Utils/Encrypt/md5.h
+
+1385367013 /home/tfl/new_game/Utils/Encrypt/rc5.h
+	<stdio.h>
+	<string.h>
+
+1385367013 /home/tfl/new_game/Utils/AstarPathFind/AStar.h
+	<vector>
+
+1385367013 /home/tfl/new_game/Utils/MessageQueue/MsgBuf.h
+	<crtdbg.h>
+	<wtypes.h>
+	<stddef.h>
+	<stdlib.h>
+	"../ThreadPool/ThreadPool.h"
+
+1385367013 /home/tfl/new_game/Utils/ThreadPool/ThreadPool.h
+	<pthread.h>
+	"../FileSys/SearchOps.h"
+	<mysql_connection.h>
+	<mysql_driver.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+	<cppconn/driver.h>
+	<cppconn/exception.h>
+	<cppconn/resultset.h>
+	<queue>
+	<string>
+
+1385367013 /home/tfl/new_game/Utils/FileSys/SearchOps.h
+	<sys/types.h>
+
+1385367013 /home/tfl/new_game/Utils/FileSys/FileSys.h
+	<windows.h>
+	<io.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string.h>
+	"SearchOps.h"
+	"../Public/Macros.h"
+	<assert.h>
+	<vector>
+	<string>
+	"zlib/zlib.h"
+
+1385367013 /home/tfl/new_game/Utils/Public/Macros.h
+	<stddef.h>
+	"Debug.h"
+
+1385367013 /home/tfl/new_game/Utils/Public/Debug.h
+	<crtdbg.h>
+	<stddef.h>
+
+1385367013 /home/tfl/new_game/Utils/FileSys/zlib/zlib.h
+	"zconf.h"
+
+1385367013 /home/tfl/new_game/Utils/FileSys/zlib/zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1385367013 /home/tfl/new_game/Utils/Math/MathUtil.h
+
+1385367013 /home/tfl/new_game/Utils/Log/LogFile.h
+
+1385367013 /home/tfl/new_game/Utils/DumpStack/DumpStack.h
+	<stdio.h>
+
+1385367013 /home/tfl/new_game/Utils/StringUtils/StringUtil.h
+	"../Public/Tools.h"
+	"../ThreadPool/ThreadPool.h"
+	<wchar.h>
+
+1385367013 /home/tfl/new_game/Utils/Public/Tools.h
+	<windows.h>
+	"Macros.h"
+	"Var.h"
+	<string>
+	<vector>
+
+1385367013 /home/tfl/new_game/Utils/Public/Var.h
+	"Macros.h"
+	<stddef.h>
+	<string.h>
+
+1385367013 /home/tfl/new_game/Utils/StringUtils/TextFilter.h
+	<string>
+	<map>
+
+1385367013 /home/tfl/new_game/Utils/StringUtils/TokenNode.h
+	"../StringUtils/StringUtil.h"
+
+1385367013 /home/tfl/new_game/Utils/SyncSock/SyncSock.h
+	<sys/socket.h>
+	<netinet/tcp.h>
+	<pthread.h>
+	<queue>
+	"../WShellAPI/eWshell.h"
+	"../MessageQueue/MsgQueue.h"
+
+1385367013 /home/tfl/new_game/Utils/WShellAPI/eWshell.h
+	<sys/socket.h>
+	<unistd.h>
+	<stdio.h>
+	<dlfcn.h>
+	"../FileSys/FileSys.h"
+
+1385519067 /home/tfl/new_game/Utils/MessageQueue/MsgQueue.h
+	"MsgBuf.h"
+	"../ThreadPool/ThreadPool.h"
+	<semaphore.h>
+	<queue>
+
+1385367013 /home/tfl/new_game/Utils/TinyXml/tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1385367013 /home/tfl/new_game/Utils/TinyXml/tinystr.h
+	<assert.h>
+	<string.h>
+
+1385367013 /home/tfl/new_game/Utils/Public/Inlines.h
+	"Macros.h"
+	"Var.h"
+	<float.h>
+	<stdio.h>
+	"../FileSys/SearchOps.h"
+	<wchar.h>
+	<time.h>
+	<stdlib.h>
+	<stdarg.h>
+	<windows.h>
+
+1385367013 /home/tfl/new_game/Utils/Time/TimeUtils.h
+	<time.h>
+	<signal.h>
+	<sys/types.h>
+	<windows.h>
+	<string>
+	<sys/time.h>
+
+1385367013 /home/tfl/new_game/Utils/VarTable/VarTable.h
+	"../Public/Var.h"
+	"../MessageQueue/MsgBuf.h"
+	"../Log/LogFile.h"
+	<vector>
+	<map>
+	<ext/hash_map>
+
+1385367013 /home/tfl/new_game/Utils/Json/json.h
+	"autolink.h"
+	"value.h"
+	"reader.h"
+	"writer.h"
+	"features.h"
+
+1385367013 /home/tfl/new_game/Utils/Json/autolink.h
+	"config.h"
+	<cpptl/cpptl_autolink.h>
+	"autolink.h"
+
+1385367013 /home/tfl/new_game/Utils/Json/config.h
+	<cpptl/config.h>
+
+1385367013 /home/tfl/new_game/Utils/Json/value.h
+	"forwards.h"
+	<string>
+	<vector>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+
+1385367013 /home/tfl/new_game/Utils/Json/forwards.h
+	"config.h"
+
+1385367013 /home/tfl/new_game/Utils/Json/reader.h
+	"features.h"
+	"value.h"
+	<deque>
+	<stack>
+	<string>
+	<iostream>
+
+1385367013 /home/tfl/new_game/Utils/Json/features.h
+	"forwards.h"
+
+1385367013 /home/tfl/new_game/Utils/Json/writer.h
+	"value.h"
+	<vector>
+	<string>
+	<iostream>
+
+1385367013 /home/tfl/new_game/Utils/minilzo/minilzo_class.h
+	"../ThreadPool/ThreadPool.h"
+	"./minilzo.h"
+
+1385367013 /home/tfl/new_game/Utils/minilzo/minilzo.h
+	"lzoconf.h"
+
+1385367013 /home/tfl/new_game/Utils/minilzo/lzoconf.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"lzodefs.h"
+
+1385367013 /home/tfl/new_game/Utils/minilzo/lzodefs.h
+
+1385367013 /home/tfl/new_game/Utils/readline/getcmd.h
+	"history.h"
+	"readline.h"
+
+1385367013 /home/tfl/new_game/Utils/readline/history.h
+	<time.h>
+	"rlstdc.h"
+	"rltypedefs.h"
+
+1385367013 /home/tfl/new_game/Utils/readline/rlstdc.h
+
+1385367013 /home/tfl/new_game/Utils/readline/rltypedefs.h
+
+1385367013 /home/tfl/new_game/Utils/readline/readline.h
+	"rlstdc.h"
+	"rltypedefs.h"
+	"keymaps.h"
+	"tilde.h"
+
+1385367013 /home/tfl/new_game/Utils/readline/keymaps.h
+	"rlstdc.h"
+	"chardefs.h"
+	"rltypedefs.h"
+
+1385367013 /home/tfl/new_game/Utils/readline/chardefs.h
+	<ctype.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<string.h>
+
+1385367013 /home/tfl/new_game/Utils/readline/tilde.h
+
+1385367013 /home/tfl/new_game/Utils/LUA/LuaStateWapper.h
+	"src/lua.h"
+	"src/lauxlib.h"
+	"src/lualib.h"
+	"../MessageQueue/MsgBuf.h"
+	"../StringUtils/StringUtil.h"
+
+1385367013 /home/tfl/new_game/Utils/LUA/src/lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1385367013 /home/tfl/new_game/Utils/LUA/src/luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1385367013 /home/tfl/new_game/Utils/LUA/src/lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1385367013 /home/tfl/new_game/Utils/LUA/src/lualib.h
+	"lua.h"
+
+1392866315 /home/tfl/new_game/CustomDefine/PublicMessage.h
+
+1392866053 /home/tfl/new_game/ModMail/MailListCache.h
+	"async_func.h"
+
+1392866028 source:/home/tfl/new_game/ModMail/MailListCache.cpp
+	"MailListCache.h"
+
+1390382386 source:/home/tfl/new_game/ModMail/main.cpp
+	"stdafx.h"
+	"main.h"
+
+1390382386 /home/tfl/new_game/ModMail/stdafx.h
+
+1390382386 /home/tfl/new_game/ModMail/main.h
+	"ModMail.h"
+
+1392866285 source:/home/tfl/new_game/ModMail/ModMail.cpp
+	"ModMail.h"
+	"async_func.h"
+	"RoleRegister.h"
+	"MailListCache.h"
+	"SysMailCache.h"
+
+1392866053 /home/tfl/new_game/ModMail/RoleRegister.h
+	"../Interface/ShellHandle.h"
+	"../CustomDefine/PublicMessage.h"
+
+1392862451 /home/tfl/new_game/ModMail/SysMailCache.h
+	"MailListCache.h"
+
+1392866012 source:/home/tfl/new_game/ModMail/RoleRegister.cpp
+	"RoleRegister.h"
+	<mysql_connection.h>
+
+1390382386 source:/home/tfl/new_game/ModMail/stdafx.cpp
+	"stdafx.h"
+
+1392865908 source:/home/tfl/new_game/ModMail/SysMailCache.cpp
+	"SysMailCache.h"
+	"RoleRegister.h"
+
+1396829702 source:/home/mof_hybird/trunk/server/src/GlobalServers/ModMail/async_func.cpp
+	<algorithm>
+	<functional>
+	"async_func.h"
+	"MailListCache.h"
+	<mysql_connection.h>
+	"SysMailCache.h"
+
+1396829702 /home/mof_hybird/trunk/server/src/GlobalServers/ModMail/async_func.h
+	"ModMail.h"
+
+1396829702 /home/mof_hybird/trunk/server/src/GlobalServers/ModMail/ModMail.h
+	"../Interface/ShellHandle.h"
+	"../CustomDefine/PublicMessage.h"
+	<map>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Interface/ShellHandle.h
+	"GameType.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Interface/GameType.h
+	"LuaHandle.h"
+	<string>
+	<map>
+	<list>
+	<queue>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Interface/LuaHandle.h
+	"Utils.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Utils.h
+	"Md5/md5.h"
+	"AstarPathFind/AStar.h"
+	"MessageQueue/MsgBuf.h"
+	"FileSys/FileSys.h"
+	"Math/MathUtil.h"
+	"Log/LogFile.h"
+	"DumpStack/DumpStack.h"
+	"StringUtils/StringUtil.h"
+	"StringUtils/TextFilter.h"
+	"ThreadPool/ThreadPool.h"
+	"SyncSock/SyncSock.h"
+	"TinyXml/tinyxml.h"
+	"Public/Tools.h"
+	"Public/Inlines.h"
+	"Public/Macros.h"
+	"WShellAPI/eWshell.h"
+	"Time/TimeUtils.h"
+	"VarTable/VarTable.h"
+	"Json/json.h"
+	"minilzo/minilzo_class.h"
+	"./LUA/LuaStateWapper.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Md5/md5.h
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/AstarPathFind/AStar.h
+	<vector>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/MessageQueue/MsgBuf.h
+	<crtdbg.h>
+	<wtypes.h>
+	<stddef.h>
+	<stdlib.h>
+	"../ThreadPool/ThreadPool.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/ThreadPool/ThreadPool.h
+	<pthread.h>
+	"../FileSys/SearchOps.h"
+	<mysql_connection.h>
+	<mysql_driver.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+	<cppconn/driver.h>
+	<cppconn/exception.h>
+	<cppconn/resultset.h>
+	<queue>
+	<string>
+	<unistd.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/FileSys/SearchOps.h
+	<sys/types.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/FileSys/FileSys.h
+	<windows.h>
+	<io.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string.h>
+	"SearchOps.h"
+	"../Public/Macros.h"
+	<assert.h>
+	<vector>
+	<string>
+	"zlib/zlib.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Public/Macros.h
+	<stddef.h>
+	"Debug.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Public/Debug.h
+	<crtdbg.h>
+	<stddef.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/FileSys/zlib/zlib.h
+	"zconf.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/FileSys/zlib/zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Math/MathUtil.h
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Log/LogFile.h
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/DumpStack/DumpStack.h
+	<stdio.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/StringUtils/StringUtil.h
+	"../Public/Tools.h"
+	"../ThreadPool/ThreadPool.h"
+	<wchar.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Public/Tools.h
+	<windows.h>
+	"Macros.h"
+	"Var.h"
+	<string>
+	<vector>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Public/Var.h
+	"Macros.h"
+	<stddef.h>
+	<string.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/StringUtils/TextFilter.h
+	<string>
+	<map>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/SyncSock/SyncSock.h
+	<sys/socket.h>
+	<netinet/tcp.h>
+	<pthread.h>
+	<queue>
+	"../WShellAPI/eWshell.h"
+	"../MessageQueue/MsgQueue.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/WShellAPI/eWshell.h
+	<sys/socket.h>
+	<unistd.h>
+	<stdio.h>
+	<dlfcn.h>
+	"../FileSys/FileSys.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/MessageQueue/MsgQueue.h
+	"MsgBuf.h"
+	"../ThreadPool/ThreadPool.h"
+	<semaphore.h>
+	<queue>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/TinyXml/tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/TinyXml/tinystr.h
+	<assert.h>
+	<string.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Public/Inlines.h
+	"Macros.h"
+	"Var.h"
+	<float.h>
+	<stdio.h>
+	"../FileSys/SearchOps.h"
+	<wchar.h>
+	<time.h>
+	<stdlib.h>
+	<stdarg.h>
+	<windows.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Time/TimeUtils.h
+	<time.h>
+	<signal.h>
+	<sys/types.h>
+	<windows.h>
+	<string>
+	<sys/time.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/VarTable/VarTable.h
+	"../Public/Var.h"
+	"../MessageQueue/MsgBuf.h"
+	<vector>
+	<map>
+	<ext/hash_map>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Json/json.h
+	"autolink.h"
+	"value.h"
+	"reader.h"
+	"writer.h"
+	"features.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Json/autolink.h
+	"config.h"
+	<cpptl/cpptl_autolink.h>
+	"autolink.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Json/config.h
+	<cpptl/config.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Json/value.h
+	"forwards.h"
+	<string>
+	<vector>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Json/forwards.h
+	"config.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Json/reader.h
+	"features.h"
+	"value.h"
+	<deque>
+	<stack>
+	<string>
+	<iostream>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Json/features.h
+	"forwards.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/Json/writer.h
+	"value.h"
+	<vector>
+	<string>
+	<iostream>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/minilzo/minilzo_class.h
+	"../ThreadPool/ThreadPool.h"
+	"./minilzo.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/minilzo/minilzo.h
+	"lzoconf.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/minilzo/lzoconf.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"lzodefs.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/minilzo/lzodefs.h
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/LUA/LuaStateWapper.h
+	"src/lua.h"
+	"src/lauxlib.h"
+	"src/lualib.h"
+	"../MessageQueue/MsgBuf.h"
+	"../StringUtils/StringUtil.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/LUA/src/lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/LUA/src/luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/LUA/src/lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1384778933 /home/mof_hybird/trunk/server/src/GlobalServers/Utils/LUA/src/lualib.h
+	"lua.h"
+
+1398527469 /home/mof_hybird/trunk/server/src/GlobalServers/CustomDefine/PublicMessage.h
+
+1404776173 /home/mof_hybird/trunk/server/src/GlobalServers/ModMail/MailListCache.h
+	"async_func.h"
+	<set>
+
+1396829702 /home/mof_hybird/trunk/server/src/GlobalServers/ModMail/SysMailCache.h
+	"MailListCache.h"
+
+1396829702 source:/home/mof_hybird/trunk/server/src/GlobalServers/ModMail/MailListCache.cpp
+	"MailListCache.h"
+
+1396829702 source:/home/mof_hybird/trunk/server/src/GlobalServers/ModMail/main.cpp
+	"stdafx.h"
+	"main.h"
+
+1396829702 /home/mof_hybird/trunk/server/src/GlobalServers/ModMail/stdafx.h
+
+1396829702 /home/mof_hybird/trunk/server/src/GlobalServers/ModMail/main.h
+	"ModMail.h"
+
+1403467911 source:/home/mof_hybird/trunk/server/src/GlobalServers/ModMail/ModMail.cpp
+	"ModMail.h"
+	"async_func.h"
+	"RoleRegister.h"
+	"MailListCache.h"
+	"SysMailCache.h"
+
+1396829702 /home/mof_hybird/trunk/server/src/GlobalServers/ModMail/RoleRegister.h
+	"../Interface/ShellHandle.h"
+	"../CustomDefine/PublicMessage.h"
+
+1396874365 source:/home/mof_hybird/trunk/server/src/GlobalServers/ModMail/RoleRegister.cpp
+	"RoleRegister.h"
+	<mysql_connection.h>
+
+1396829702 source:/home/mof_hybird/trunk/server/src/GlobalServers/ModMail/stdafx.cpp
+	"stdafx.h"
+
+1396829702 source:/home/mof_hybird/trunk/server/src/GlobalServers/ModMail/SysMailCache.cpp
+	"SysMailCache.h"
+	"RoleRegister.h"
+	<mysql_connection.h>
+

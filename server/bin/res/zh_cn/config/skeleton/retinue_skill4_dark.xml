@@ -1,0 +1,464 @@
+<skeleton name="侍魂技能5">
+  <armatures>
+    <armature name="shdark">
+      <b name="图层 10" bT="0" bi="retinue_skill4_dark-shi01" x="-468.3" y="15.55" kX="0" kY="0" z="0"/>
+      <b name="dain" bT="0" bi="retinue_skill4_dark-shi01" x="-721.05" y="13.3" kX="0" kY="0" z="1"/>
+      <b name="dain0" bT="0" bi="retinue_skill4_dark-shi01" x="-199.75" y="-13.25" kX="0" kY="0" z="0"/>
+      <b name="dain1" bT="0" bi="retinue_skill4_dark-shi01" x="-547.45" y="1.3" kX="0" kY="0" z="1"/>
+      <b name="dain2" bT="0" bi="retinue_skill4_dark-shi01" x="-307.15" y="-64.55" kX="0" kY="0" z="1"/>
+      <b name="dain00" bT="0" bi="retinue_skill4_dark-shi01" x="169.95" y="-70.5" kX="0" kY="0" z="3"/>
+      <b name="dain4" bT="0" bi="retinue_skill4_dark-shi01" x="460.35" y="17.7" kX="0" kY="0" z="5"/>
+      <b name="dain5" bT="0" bi="retinue_skill4_dark-shi01" x="335.25" y="25.8" kX="0" kY="0" z="4"/>
+      <b name="dain6" bT="0" bi="retinue_skill4_dark-shi01" x="40.65" y="38.1" kX="0" kY="0" z="2"/>
+      <b name="图层 20" bT="0" bi="retinue_skill4_dark-shi01" x="-468.3" y="15.55" kX="0" kY="0" z="0"/>
+      <b name="图层 19" bT="0" bi="retinue_skill4_dark-shi01" x="-721.05" y="13.3" kX="0" kY="0" z="1"/>
+      <b name="图层 18" bT="0" bi="retinue_skill4_dark-shi01" x="-199.75" y="-13.25" kX="0" kY="0" z="0"/>
+      <b name="图层 17" bT="0" bi="retinue_skill4_dark-shi01" x="-547.45" y="1.3" kX="0" kY="0" z="2"/>
+      <b name="图层 16" bT="0" bi="retinue_skill4_dark-shi01" x="-307.15" y="-64.55" kX="0" kY="0" z="1"/>
+      <b name="图层 13" bT="0" bi="retinue_skill4_dark-shi01" x="169.95" y="-70.5" kX="0" kY="0" z="2"/>
+      <b name="图层 12" bT="0" bi="retinue_skill4_dark-shi01" x="460.35" y="17.7" kX="0" kY="0" z="4"/>
+      <b name="图层 11" bT="0" bi="retinue_skill4_dark-shi01" x="335.25" y="25.8" kX="0" kY="0" z="3"/>
+      <b name="图层 14" bT="0" bi="retinue_skill4_dark-shi01" x="40.65" y="38.1" kX="0" kY="0" z="1"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="shdark">
+      <mov name="shdark" to="1" dr="123" drTW="123">
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="72" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="dain" sc="1" dl="0">
+          <f dr="83" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="0" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="0" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="0" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="0" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="0" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="0" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="dain0" sc="1" dl="0">
+          <f dr="43" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="41" hide="1"/>
+        </b>
+        <b name="dain1" sc="1" dl="0">
+          <f dr="59" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="1" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="1" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="1" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="1" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="1" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="1" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="25" hide="1"/>
+        </b>
+        <b name="dain2" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="1" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="1" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="1" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="1" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="2" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="2" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="2" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="2" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="2" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="2" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="3" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="3" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="3" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="3" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="3" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="3" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="3" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="3" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="3" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="33" hide="1"/>
+        </b>
+        <b name="dain00" sc="1" dl="0">
+          <f dr="60" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="2" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="dain4" sc="1" dl="0">
+          <f dr="78" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="4" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="4" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="4" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="4" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="dain5" sc="1" dl="0">
+          <f dr="68" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="4" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="4" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="5" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="5" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="5" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="5" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="5" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="5" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="4" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="3" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="3" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="3" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="3" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="dain6" sc="1" dl="0">
+          <f dr="51" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="2" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="2" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="2" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="2" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="4" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="4" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="4" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="4" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="5" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="5" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="6" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="6" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="6" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="7" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="7" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="7" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="7" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="7" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="7" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="33" hide="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f dr="24" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="0" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="1" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="1" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="1" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="1" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="3" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="3" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="3" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="3" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="5" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.58" cY="1.58" z="5" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="60" hide="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="35" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="1" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="2" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="4" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="4" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="4" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="6" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="6" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="6" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="7" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="49" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="0" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="2" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="2" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="84" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="41" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="2" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="3" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="3" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="3" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="3" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="5" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="5" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="5" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="5" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="7" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="7" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="7" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="7" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="8" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="7" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="7" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="8" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="43" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="1" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="1" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="1" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="1" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="1" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="1" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="1" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="1" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="2" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="2" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="2" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="2" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="2" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="3" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="3" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="2" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="3" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="4" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="3.3" z="4" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="76" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="2" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="2" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="2" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="2" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="2" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="2" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="3" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="5" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="5" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.94" cY="2.94" z="4" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="72" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="33" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="4" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="4" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="6" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="6" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="5" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="6" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="6" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="6" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="7" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="8" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="7" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="7" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="7" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="8" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.9" cY="1.9" z="8" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="51" hide="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="3" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="3" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="4" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="4" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="4" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="4" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="5" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="5" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="7" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="7" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="6" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="7" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="7" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="7" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.47" cY="2.47" z="7" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="64" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="1" img="retinue_skill4_dark-shi02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="2" img="retinue_skill4_dark-shi03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="2" img="retinue_skill4_dark-shi04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="3" img="retinue_skill4_dark-shi05" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="3" img="retinue_skill4_dark-shi06" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="3" img="retinue_skill4_dark-shi07" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="3" img="retinue_skill4_dark-shi08" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="4" img="retinue_skill4_dark-shi09" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="4" img="retinue_skill4_dark-shi10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="5" img="retinue_skill4_dark-shi11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="5" img="retinue_skill4_dark-shi12" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="5" img="retinue_skill4_dark-shi13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="5" img="retinue_skill4_dark-shi14" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="6" img="retinue_skill4_dark-shi15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="7" img="retinue_skill4_dark-shi16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="7" img="retinue_skill4_dark-shi17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="6" img="retinue_skill4_dark-shi18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.98" cY="1.98" z="7" img="retinue_skill4_dark-shi19" dr="2"/>
+          <f dr="81" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="侍魂技能5" width="512" height="512">
+    <SubTexture name="retinue_skill4_dark-shi01" x="475" y="0" width="29" height="7" pX="26.55" pY="-68.4"/>
+    <SubTexture name="retinue_skill4_dark-shi02" x="312" y="245" width="61" height="10" pX="42.25" pY="-62.4"/>
+    <SubTexture name="retinue_skill4_dark-shi03" x="242" y="245" width="69" height="15" pX="47" pY="-65.4"/>
+    <SubTexture name="retinue_skill4_dark-shi04" x="0" y="244" width="74" height="23" pX="48.55" pY="-58.15"/>
+    <SubTexture name="retinue_skill4_dark-shi05" x="166" y="181" width="75" height="66" pX="51.05" pY="-14.65"/>
+    <SubTexture name="retinue_skill4_dark-shi06" x="377" y="180" width="78" height="69" pX="52.5" pY="-11.4"/>
+    <SubTexture name="retinue_skill4_dark-shi07" x="84" y="173" width="81" height="73" pX="54.5" pY="-7.9"/>
+    <SubTexture name="retinue_skill4_dark-shi08" x="0" y="102" width="84" height="70" pX="56" pY="-9.9"/>
+    <SubTexture name="retinue_skill4_dark-shi09" x="293" y="173" width="83" height="71" pX="57.05" pY="-9.9"/>
+    <SubTexture name="retinue_skill4_dark-shi10" x="293" y="102" width="84" height="70" pX="58.75" pY="-10.9"/>
+    <SubTexture name="retinue_skill4_dark-shi11" x="0" y="173" width="83" height="70" pX="57.75" pY="-10.4"/>
+    <SubTexture name="retinue_skill4_dark-shi12" x="102" y="101" width="94" height="71" pX="58.6" pY="-13.4"/>
+    <SubTexture name="retinue_skill4_dark-shi13" x="388" y="100" width="95" height="79" pX="58.1" pY="-3.4"/>
+    <SubTexture name="retinue_skill4_dark-shi14" x="198" y="92" width="94" height="88" pX="58.25" pY="5.85"/>
+    <SubTexture name="retinue_skill4_dark-shi15" x="388" y="0" width="86" height="99" pX="54.75" pY="15.6"/>
+    <SubTexture name="retinue_skill4_dark-shi16" x="300" y="0" width="87" height="101" pX="53.25" pY="19.1"/>
+    <SubTexture name="retinue_skill4_dark-shi17" x="102" y="0" width="95" height="100" pX="52.75" pY="20.1"/>
+    <SubTexture name="retinue_skill4_dark-shi18" x="0" y="0" width="101" height="101" pX="55" pY="21.5"/>
+    <SubTexture name="retinue_skill4_dark-shi19" x="198" y="0" width="101" height="91" pX="60" pY="16.35"/>
+  </TextureAtlas>
+</skeleton>

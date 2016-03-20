@@ -1,0 +1,29 @@
+<skeleton name="天平座专属被击">
+  <armatures>
+    <armature name="tpbeiji">
+      <b name="图层 3" bT="0" bi="Libra_hitted_light-tpbj1" x="-0.05" y="-3.05" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="tpbeiji">
+      <mov name="tpbeiji" to="1" dr="11" drTW="11" lp="0">
+        <b name="图层 1" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Libra_hitted_light-tpbj1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Libra_hitted_light-tpbj2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Libra_hitted_light-tpbj3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Libra_hitted_light-tpbj4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Libra_hitted_light-tpbj5" dr="2"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="天平座专属被击" width="512" height="64">
+    <SubTexture name="Libra_hitted_light-tpbj1" x="328" y="0" width="81" height="61" pX="40" pY="30"/>
+    <SubTexture name="Libra_hitted_light-tpbj2" x="164" y="0" width="81" height="61" pX="40" pY="30"/>
+    <SubTexture name="Libra_hitted_light-tpbj3" x="0" y="0" width="81" height="61" pX="40" pY="30"/>
+    <SubTexture name="Libra_hitted_light-tpbj4" x="82" y="0" width="81" height="61" pX="40" pY="30"/>
+    <SubTexture name="Libra_hitted_light-tpbj5" x="246" y="0" width="81" height="61" pX="40" pY="30"/>
+  </TextureAtlas>
+</skeleton>

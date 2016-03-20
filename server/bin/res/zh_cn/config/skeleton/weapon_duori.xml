@@ -1,0 +1,15 @@
+<skeleton name="转盘装备">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_xiongmao" bT="0" bi="weapon_duori-fs_duori" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_duori-fs_duori"/>
+      <b name="weapon-ck_xiongmao" bT="0" bi="weapon_duori-ck_duori" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_duori-ck_duori"/>
+      <b name="weapon-zs_xiongmao" bT="0" bi="weapon_duori-zs_duori" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_duori-zs_duori"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="转盘装备" width="512" height="256">
+    <SubTexture name="weapon_duori-fs_duori" x="0" y="0" width="92" height="215" pX="52.65" pY="110.15"/>
+    <SubTexture name="weapon_duori-ck_duori" x="292" y="0" width="49" height="129" pX="32.2" pY="86.05"/>
+    <SubTexture name="weapon_duori-zs_duori" x="93" y="0" width="198" height="61" pX="31.75" pY="32"/>
+  </TextureAtlas>
+</skeleton>

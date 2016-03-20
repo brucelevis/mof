@@ -1,0 +1,47 @@
+<skeleton name="传送门效果(1)">
+  <armatures>
+    <armature name="portal_copy">
+      <b name="图层 3" bT="0" bi="portal-copy01" x="200.3" y="182.5" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="portal_city">
+      <b name="图层 2" bT="0" bi="portal-csm01" x="-0.1" y="0" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="portal_copy">
+      <mov name="portal_copy" to="1" dr="20" drTW="20" lp="1">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="portal-copy01" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="portal-copy02" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="portal-copy03" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="portal-copy04" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="portal-copy05" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="portal_city">
+      <mov name="portal_city" to="1" dr="20" drTW="20" lp="1">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="portal-csm01" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="portal-csm02" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="portal-csm03" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="portal-csm04" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="portal-csm05" dr="4"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="传送门效果(1)" width="512" height="512">
+    <SubTexture name="portal-copy01" x="0" y="187" width="87" height="186" pX="45.5" pY="92.5"/>
+    <SubTexture name="portal-copy02" x="88" y="187" width="86" height="186" pX="44.6" pY="92.5"/>
+    <SubTexture name="portal-copy03" x="0" y="0" width="102" height="186" pX="50.9" pY="92.5"/>
+    <SubTexture name="portal-copy04" x="344" y="187" width="81" height="186" pX="39.6" pY="92.5"/>
+    <SubTexture name="portal-copy05" x="299" y="0" width="88" height="186" pX="47.45" pY="92.5"/>
+    <SubTexture name="portal-csm01" x="260" y="187" width="83" height="186" pX="-158.75" pY="-90"/>
+    <SubTexture name="portal-csm02" x="103" y="0" width="99" height="186" pX="-142.05" pY="-90"/>
+    <SubTexture name="portal-csm03" x="175" y="187" width="84" height="186" pX="-157.5" pY="-90"/>
+    <SubTexture name="portal-csm04" x="203" y="0" width="95" height="186" pX="-153.35" pY="-90"/>
+    <SubTexture name="portal-csm05" x="388" y="0" width="88" height="186" pX="-157.1" pY="-90"/>
+  </TextureAtlas>
+</skeleton>

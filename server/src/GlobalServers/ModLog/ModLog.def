@@ -1,0 +1,4 @@
+LIBRARY	"GameScene"
+
+EXPORTS
+ Initialise @1

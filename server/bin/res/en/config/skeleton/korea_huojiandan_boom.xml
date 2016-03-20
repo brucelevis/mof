@@ -1,0 +1,46 @@
+<skeleton name="军人火箭弹被击">
+  <armatures>
+    <armature name="huojiandanbeiji">
+      <b name="C" bT="0" bi="korea_huojiandan_boom-dda1" x="9.45" y="-31.5" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="huojiandanbeiji">
+      <mov name="huojiandanbeiji" to="1" dr="23" drTW="23" lp="0">
+        <b name="图层 1" sc="1" dl="0"/>
+        <b name="C" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-dda1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-dda2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-dda3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.19" cY="2.19" z="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-dda4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-dda5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-dda6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-dda7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-dda8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-dda9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-dda10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-dda11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-dda12" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.6" z="0" img="korea_huojiandan_boom-junren-k" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="军人火箭弹被击" width="512" height="512">
+    <SubTexture name="korea_huojiandan_boom-dda1" x="0" y="0" width="172" height="168" pX="92.5" pY="68.5"/>
+    <SubTexture name="korea_huojiandan_boom-dda2" x="0" y="277" width="66" height="61" pX="39.5" pY="27.5"/>
+    <SubTexture name="korea_huojiandan_boom-dda3" x="0" y="169" width="109" height="107" pX="55.5" pY="37.5"/>
+    <SubTexture name="korea_huojiandan_boom-dda4" x="173" y="0" width="157" height="159" pX="76.5" pY="62.5"/>
+    <SubTexture name="korea_huojiandan_boom-dda5" x="331" y="0" width="163" height="146" pX="74.5" pY="61.5"/>
+    <SubTexture name="korea_huojiandan_boom-dda6" x="331" y="147" width="157" height="123" pX="76.5" pY="48.5"/>
+    <SubTexture name="korea_huojiandan_boom-dda7" x="173" y="160" width="114" height="115" pX="55.5" pY="73.5"/>
+    <SubTexture name="korea_huojiandan_boom-dda8" x="288" y="271" width="102" height="105" pX="51.5" pY="84.5"/>
+    <SubTexture name="korea_huojiandan_boom-dda9" x="391" y="271" width="96" height="104" pX="43" pY="84.5"/>
+    <SubTexture name="korea_huojiandan_boom-dda10" x="110" y="276" width="78" height="90" pX="33.5" pY="84.5"/>
+    <SubTexture name="korea_huojiandan_boom-dda11" x="189" y="276" width="69" height="81" pX="32.5" pY="75.5"/>
+    <SubTexture name="korea_huojiandan_boom-dda12" x="110" y="169" width="57" height="67" pX="23.5" pY="71.5"/>
+    <SubTexture name="korea_huojiandan_boom-junren-k" x="495" y="0" width="2" height="2" pX="1.45" pY="0.2"/>
+  </TextureAtlas>
+</skeleton>

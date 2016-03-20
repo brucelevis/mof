@@ -1,0 +1,230 @@
+<skeleton name="飞行光效">
+  <armatures>
+    <armature name="touming">
+      <b name="Layer3" bT="0" bi="FlyingSkill_light-jingdong1" x="-0.05" y="0" kX="-90" kY="90" z="0"/>
+    </armature>
+    <armature name="nvwuboss_gx">
+      <b name="mohuanv-gq-1" bT="0" bi="FlyingSkill_light-fashibo-gq-1" x="-15.3" y="-15.5" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="nvwu_gx">
+      <b name="mohuanv-gq-1" bT="0" bi="FlyingSkill_light-mohuanv-gq-1" x="-15.3" y="-15.5" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="ko">
+      <b name="Layer4" bT="0" bi="FlyingSkill_light-BattleEnd_o" x="576.75" y="-0.05" kX="0" kY="0" z="0"/>
+      <b name="Layer3" bT="0" bi="FlyingSkill_light-BattleEnd_K" x="-552.25" y="-0.1" kX="0" kY="0" z="1"/>
+    </armature>
+    <armature name="jiangx3">
+      <b name="Layer2" bT="0" bi="FlyingSkill_light-dvsgg-1" x="-36.9" y="-40.45" kX="90" kY="90" z="0"/>
+      <b name="Layer4" bT="0" bi="FlyingSkill_light-dvsgg-1" x="-6.9" y="-0.45" kX="90" kY="90" z="1"/>
+      <b name="Layer3" bT="0" bi="FlyingSkill_light-dvsgg-1" x="13.1" y="49.55" kX="90" kY="90" z="2"/>
+    </armature>
+    <armature name="jiangx">
+      <b name="Layer3" bT="0" bi="FlyingSkill_light-dvsgg-1" x="3.1" y="-0.45" kX="90" kY="90" z="0"/>
+    </armature>
+    <armature name="jian">
+      <b name="Layer3" bT="0" bi="FlyingSkill_light-jingdong" x="-33.5" y="1.5" kX="-90" kY="90" z="0"/>
+    </armature>
+    <armature name="190">
+      <b name="Layer6" bT="0" bi="FlyingSkill_light-duqiu" x="2.2" y="-0.5" kX="0" kY="0" z="0"/>
+      <b name="Layer2" bT="0" bi="FlyingSkill_light-k678" x="-4.3" y="-0.7" kX="0" kY="0" z="1"/>
+    </armature>
+    <armature name="182">
+      <b name="Layer10" bT="0" bi="FlyingSkill_light-ea01" x="-85.65" y="-29.6" kX="0" kY="0" z="0"/>
+      <b name="Layer5" bT="0" bi="FlyingSkill_light-e07" x="-109.8" y="-2.5" kX="-7" kY="-7" z="1"/>
+      <b name="Layer6" bT="0" bi="FlyingSkill_light-e06" x="-81.55" y="-13.35" kX="0" kY="0" z="2"/>
+      <b name="Layer2" bT="0" bi="FlyingSkill_light-e3" x="-25.6" y="-15.95" kX="0" kY="0" z="1"/>
+      <b name="Layer4" bT="0" bi="FlyingSkill_light-e3" x="6.45" y="20.6" kX="-145.9" kY="-145.9" z="2"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="touming">
+      <mov name="touming" to="1" dr="3" drTW="3" lp="1">
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="Layer3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_light-jingdong1" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="nvwuboss_gx">
+      <mov name="nvwuboss_gx" to="1" dr="12" drTW="13" lp="1">
+        <b name="mohuanv-gq-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="FlyingSkill_light-fashibo-gq-1" twE="0" dr="3"/>
+          <f x="1.55" y="1.55" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="FlyingSkill_light-fashibo-gq-2" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="FlyingSkill_light-fashibo-gq-3" twE="0" dr="3"/>
+          <f x="1.55" y="1.55" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="FlyingSkill_light-fashibo-gq-4" twE="0" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="nvwu_gx">
+      <mov name="nvwu_gx" to="1" dr="12" drTW="13" lp="1">
+        <b name="mohuanv-gq-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="FlyingSkill_light-mohuanv-gq-1" twE="0" dr="3"/>
+          <f x="1.55" y="1.55" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="FlyingSkill_light-mohuanv-gq-2" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="FlyingSkill_light-mohuanv-gq-3" twE="0" dr="3"/>
+          <f x="1.55" y="1.55" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="FlyingSkill_light-mohuanv-gq-4" twE="0" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="ko">
+      <mov name="ko" to="1" dr="27" drTW="27">
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="Layer4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_light-BattleEnd_o" twE="0" dr="3"/>
+          <f x="-416" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+          <f x="-474" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="-482" y="0" kX="0" kY="0" cX="1.15" cY="1.15" z="0" twE="0" dr="2"/>
+          <f x="-472" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="18"/>
+          <f x="-472" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="Layer3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="FlyingSkill_light-BattleEnd_K" twE="0" dr="3"/>
+          <f x="392" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+          <f x="450" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="467" y="0" kX="0" kY="0" cX="1.15" cY="1.15" z="1" twE="0" dr="2"/>
+          <f x="452" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="18"/>
+          <f x="452" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="jiangx3">
+      <mov name="jiangx3" to="1" dr="4" drTW="4" lp="1">
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="Layer2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="0" img="FlyingSkill_light-dvsgg-1" twE="0" dr="2"/>
+          <f x="-2" y="0.05" kX="0" kY="0" cX="0.8" cY="0.8" z="0" twE="0" dr="2"/>
+        </b>
+        <b name="Layer4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="1" img="FlyingSkill_light-dvsgg-1" twE="0" dr="2"/>
+          <f x="3.05" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="1" twE="0" dr="2"/>
+        </b>
+        <b name="Layer3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="FlyingSkill_light-dvsgg-1" twE="0" dr="2"/>
+          <f x="-6" y="-0.05" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="jiangx">
+      <mov name="jiangx" to="1" dr="3" drTW="3" lp="1">
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="Layer3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" img="FlyingSkill_light-dvsgg-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="jian">
+      <mov name="jian" to="1" dr="6" drTW="6" lp="1">
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="Layer3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_light-jingdong" twE="0" dr="3"/>
+          <f x="0" y="-3" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_light-jingdong2" twE="0" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="190">
+      <mov name="190" to="1" dr="8" drTW="9" lp="1">
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="Layer6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_light-duqiu" twE="0" dr="2"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="0.9" cY="0.9" z="0" img="FlyingSkill_light-duqiu1" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_light-duqiu" twE="0" dr="2"/>
+          <f x="0.35" y="0.35" kX="0" kY="0" cX="0.9" cY="0.9" z="0" img="FlyingSkill_light-duqiu1" twE="0" dr="1"/>
+          <f x="0.2" y="0.2" kX="0" kY="0" cX="0.95" cY="0.95" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="Layer2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.35" cY="1.35" z="1" img="FlyingSkill_light-k678" twE="0" dr="2"/>
+          <f x="1.85" y="6.3" kX="0" kY="0" cX="1.22" cY="1.22" z="1" twE="0" dr="2"/>
+          <f x="-4.45" y="1.8" kX="0" kY="0" cX="1.35" cY="1.35" z="1" twE="0" dr="2"/>
+          <f x="-0.85" y="-2.7" kX="0" kY="0" cX="1.22" cY="1.22" z="1" twE="0" dr="1"/>
+          <f x="-0.4" y="-1.35" kX="0" kY="0" cX="1.28" cY="1.28" z="1" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="182">
+      <mov name="182" to="1" dr="10" drTW="10" lp="1">
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="Layer10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_light-ea01" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_light-ea02" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_light-ea03" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_light-ea04" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="FlyingSkill_light-ea05" dr="2"/>
+        </b>
+        <b name="Layer5" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="FlyingSkill_light-e07" dr="2"/>
+          <f x="-14.25" y="-0.1" kX="7" kY="7" cX="1" cY="1" z="1" img="FlyingSkill_light-e06" dr="2"/>
+          <f x="-30.95" y="-3.6" kX="7" kY="7" cX="0.87" cY="0.87" z="1" img="FlyingSkill_light-e07" dr="2"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="Layer6" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.86" cY="0.86" z="2" img="FlyingSkill_light-e06" dr="2"/>
+          <f x="-9.1" y="-3.6" kX="6.93" kY="6.93" cX="0.66" cY="0.66" z="2" img="FlyingSkill_light-e07" dr="2"/>
+          <f x="-23.5" y="-3.85" kX="7.7" kY="7.7" cX="0.43" cY="0.43" z="2" img="FlyingSkill_light-e06" dr="2"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="Layer2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="FlyingSkill_light-e3" dr="1"/>
+          <f x="22.4" y="-11.7" kX="61.4" kY="61.4" cX="1" cY="1" z="1" dr="1"/>
+          <f x="44.8" y="6.45" kX="129.62" kY="129.62" cX="1" cY="1" z="3" dr="1"/>
+          <f x="32.05" y="36.55" kX="-145.9" kY="-145.9" cX="1" cY="1" z="3" dr="1"/>
+          <f x="5.25" y="33" kX="-76.41" kY="-76.41" cX="1" cY="1" z="3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+          <f x="22.4" y="-11.7" kX="61.4" kY="61.4" cX="1" cY="1" z="3" dr="1"/>
+          <f x="44.8" y="6.45" kX="129.62" kY="129.62" cX="1" cY="1" z="3" dr="1"/>
+          <f x="32.05" y="36.55" kX="-145.9" kY="-145.9" cX="1" cY="1" z="1" dr="1"/>
+          <f x="5.25" y="33" kX="-76.41" kY="-76.41" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="Layer4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="FlyingSkill_light-e3" dr="1"/>
+          <f x="-26.8" y="-3.55" kX="69.49" kY="69.49" cX="1" cY="1" z="2" dr="1"/>
+          <f x="-32.05" y="-36.55" kX="145.9" kY="145.9" cX="1" cY="1" z="4" dr="1"/>
+          <f x="-9.65" y="-48.25" kX="207.3" kY="207.3" cX="1" cY="1" z="4" dr="1"/>
+          <f x="12.75" y="-30.1" kX="275.52" kY="275.52" cX="1" cY="1" z="4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+          <f x="-26.8" y="-3.55" kX="69.49" kY="69.49" cX="1" cY="1" z="4" dr="1"/>
+          <f x="-32.05" y="-36.55" kX="145.9" kY="145.9" cX="1" cY="1" z="4" dr="1"/>
+          <f x="-9.65" y="-48.25" kX="207.3" kY="207.3" cX="1" cY="1" z="2" dr="1"/>
+          <f x="12.75" y="-30.1" kX="275.52" kY="275.52" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="飞行光效" width="512" height="512">
+    <SubTexture name="FlyingSkill_light-jingdong1" x="500" y="0" width="3" height="3" pX="0.65" pY="0.65"/>
+    <SubTexture name="FlyingSkill_light-fashibo-gq-1" x="118" y="162" width="56" height="56" pX="20.05" pY="19"/>
+    <SubTexture name="FlyingSkill_light-fashibo-gq-2" x="427" y="0" width="58" height="58" pX="21.5" pY="20.3"/>
+    <SubTexture name="FlyingSkill_light-fashibo-gq-3" x="427" y="118" width="58" height="56" pX="20.05" pY="18.9"/>
+    <SubTexture name="FlyingSkill_light-fashibo-gq-4" x="427" y="59" width="58" height="58" pX="21.5" pY="20.3"/>
+    <SubTexture name="FlyingSkill_light-mohuanv-gq-1" x="337" y="210" width="39" height="39" pX="10.9" pY="10.95"/>
+    <SubTexture name="FlyingSkill_light-mohuanv-gq-2" x="473" y="180" width="38" height="38" pX="10.4" pY="10.45"/>
+    <SubTexture name="FlyingSkill_light-mohuanv-gq-3" x="377" y="217" width="39" height="37" pX="9.8" pY="9.9"/>
+    <SubTexture name="FlyingSkill_light-mohuanv-gq-4" x="389" y="162" width="36" height="36" pX="9.95" pY="9.35"/>
+    <SubTexture name="FlyingSkill_light-BattleEnd_o" x="0" y="0" width="176" height="161" pX="86.65" pY="82.9"/>
+    <SubTexture name="FlyingSkill_light-BattleEnd_K" x="177" y="0" width="175" height="161" pX="86.75" pY="81.4"/>
+    <SubTexture name="FlyingSkill_light-dvsgg-1" x="353" y="0" width="73" height="161" pX="35.45" pY="43.8"/>
+    <SubTexture name="FlyingSkill_light-jingdong" x="486" y="0" width="13" height="89" pX="6.3" pY="14.2"/>
+    <SubTexture name="FlyingSkill_light-jingdong2" x="486" y="90" width="13" height="89" pX="6.3" pY="14.2"/>
+    <SubTexture name="FlyingSkill_light-duqiu" x="426" y="175" width="46" height="47" pX="24.25" pY="22.35"/>
+    <SubTexture name="FlyingSkill_light-duqiu1" x="342" y="162" width="46" height="47" pX="24.25" pY="22.35"/>
+    <SubTexture name="FlyingSkill_light-k678" x="289" y="162" width="52" height="45" pX="22.65" pY="20.75"/>
+    <SubTexture name="FlyingSkill_light-ea01" x="175" y="162" width="113" height="57" pX="0" pY="0"/>
+    <SubTexture name="FlyingSkill_light-ea02" x="118" y="220" width="107" height="60" pX="-4.75" pY="-1.3"/>
+    <SubTexture name="FlyingSkill_light-ea03" x="0" y="221" width="106" height="60" pX="-7.05" pY="-0.7"/>
+    <SubTexture name="FlyingSkill_light-ea04" x="226" y="251" width="102" height="59" pX="-9.45" pY="-0.2"/>
+    <SubTexture name="FlyingSkill_light-ea05" x="0" y="162" width="117" height="58" pX="6.05" pY="-0.25"/>
+    <SubTexture name="FlyingSkill_light-e07" x="389" y="209" width="26" height="7" pX="-4.4" pY="-1.3"/>
+    <SubTexture name="FlyingSkill_light-e06" x="389" y="199" width="31" height="9" pX="0" pY="0"/>
+    <SubTexture name="FlyingSkill_light-e3" x="289" y="208" width="47" height="42" pX="0" pY="-1"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,48 @@
+<skeleton name="Loding等待">
+  <armatures>
+    <armature name="loading">
+      <b name="图层 2" bT="0" bi="waiting_circle-shape 2" x="40" y="40" kX="0" kY="0" z="0"/>
+      <b name="图层 1" bT="0" bi="waiting_circle-shape3" x="39.8" y="40" kX="44.65" kY="44.65" z="1"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="loading">
+      <mov name="loading" to="1" dr="20" drTW="20" lp="1">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-shape 2" twE="0" dr="2"/>
+          <f x="0" y="0" kX="39.86" kY="39.86" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="0" y="0" kX="59.91" kY="59.91" cX="1" cY="1" z="0" twE="0" dr="6"/>
+          <f x="0" y="0" kX="179.5" kY="179.5" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="0" y="0" kX="-179.5" kY="-179.5" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="0" y="0" kX="-139.63" kY="-139.63" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="0" y="-0.05" kX="-119.59" kY="-119.59" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="0.05" y="0" kX="-99.56" kY="-99.56" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="0" y="-0.05" kX="-79.94" kY="-79.94" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="0" y="0.05" kX="-59.91" kY="-59.91" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="-0.05" y="0" kX="-39.86" kY="-39.86" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="0" y="0.05" kX="-19.82" kY="-19.82" cX="1" cY="1" z="0" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="waiting_circle-shape3" twE="0" dr="2"/>
+          <f x="0" y="0" kX="39.86" kY="39.86" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="59.91" kY="59.91" cX="1" cY="1" z="1" twE="0" dr="6"/>
+          <f x="0" y="0" kX="-180.5" kY="-180.5" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="-179.5" kY="-179.5" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="0" y="0" kX="-139.63" kY="-139.63" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0.05" y="-0.05" kX="-119.59" kY="-119.59" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0.05" y="0.1" kX="-99.56" kY="-99.56" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0.05" y="-0.05" kX="-79.93" kY="-79.93" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="-0.05" y="0.05" kX="-59.91" kY="-59.91" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="-39.86" kY="-39.86" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="-0.05" y="0.05" kX="-19.82" kY="-19.82" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="Loding等待" width="512" height="64">
+    <SubTexture name="waiting_circle-shape 2" x="38" y="0" width="37" height="35" pX="17.6" pY="17.15"/>
+    <SubTexture name="waiting_circle-shape3" x="0" y="0" width="37" height="35" pX="17.35" pY="17"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,78 @@
+<skeleton name="金龙电球子弹">
+  <armatures>
+    <armature name="Longdianqiu">
+      <b name="图层 4" bT="0" bi="jinglong_skill_2-DWei1" x="-262.25" y="-261.35" kX="0" kY="0" z="0"/>
+      <b name="图层 2" bT="0" bi="jinglong_skill_2-SDlight1" x="-212.55" y="-175.55" kX="0" kY="0" z="1"/>
+      <b name="图层 1" bT="0" bi="jinglong_skill_2-SDlight4" x="249.65" y="-74.4" kX="24.2" kY="-155.8" z="2"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="Longdianqiu">
+      <mov name="Longdianqiu" to="1" dr="16" drTW="16" lp="1">
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight16" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight6" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight7" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight9" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight10" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight12" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="1" img="jinglong_skill_2-SDlight15" dr="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight16" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight15" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight16" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight12" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight10" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight9" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.02" cY="2.02" z="2" img="jinglong_skill_2-SDlight6" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="jinglong_skill_2-DWei1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="jinglong_skill_2-DWe2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="jinglong_skill_2-DWe3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="jinglong_skill_2-DWe4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="jinglong_skill_2-DWe5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="jinglong_skill_2-DWe6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="jinglong_skill_2-DWe3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.25" z="0" img="jinglong_skill_2-DWe2" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="金龙电球子弹" width="512" height="2048">
+    <SubTexture name="jinglong_skill_2-SDlight1" x="368" y="749" width="106" height="93" pX="-56.5" pY="-50.15"/>
+    <SubTexture name="jinglong_skill_2-SDlight16" x="394" y="436" width="110" height="105" pX="-55.05" pY="-38.75"/>
+    <SubTexture name="jinglong_skill_2-SDlight2" x="202" y="760" width="149" height="133" pX="-50" pY="-21.95"/>
+    <SubTexture name="jinglong_skill_2-SDlight3" x="0" y="789" width="201" height="160" pX="0" pY="0"/>
+    <SubTexture name="jinglong_skill_2-SDlight4" x="394" y="542" width="110" height="101" pX="-46" pY="-45.45"/>
+    <SubTexture name="jinglong_skill_2-SDlight6" x="0" y="623" width="201" height="165" pX="0" pY="5"/>
+    <SubTexture name="jinglong_skill_2-SDlight7" x="300" y="953" width="204" height="160" pX="0" pY="0"/>
+    <SubTexture name="jinglong_skill_2-SDlight9" x="352" y="843" width="146" height="109" pX="-14.05" pY="-39.2"/>
+    <SubTexture name="jinglong_skill_2-SDlight10" x="202" y="634" width="165" height="125" pX="-3" pY="-34.95"/>
+    <SubTexture name="jinglong_skill_2-SDlight12" x="202" y="894" width="97" height="98" pX="-62.05" pY="-42.2"/>
+    <SubTexture name="jinglong_skill_2-SDlight15" x="368" y="644" width="106" height="104" pX="-58.95" pY="-39.95"/>
+    <SubTexture name="jinglong_skill_2-DWei1" x="0" y="0" width="227" height="232" pX="0" pY="0"/>
+    <SubTexture name="jinglong_skill_2-DWe2" x="204" y="436" width="189" height="197" pX="-17" pY="-12"/>
+    <SubTexture name="jinglong_skill_2-DWe3" x="228" y="227" width="209" height="208" pX="-12" pY="-18.05"/>
+    <SubTexture name="jinglong_skill_2-DWe4" x="228" y="0" width="229" height="226" pX="-6.45" pY="-9.1"/>
+    <SubTexture name="jinglong_skill_2-DWe5" x="0" y="435" width="203" height="187" pX="-8.05" pY="-7.05"/>
+    <SubTexture name="jinglong_skill_2-DWe6" x="0" y="233" width="200" height="201" pX="-8.05" pY="-15.1"/>
+  </TextureAtlas>
+</skeleton>

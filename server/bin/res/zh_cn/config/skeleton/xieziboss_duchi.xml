@@ -1,0 +1,1484 @@
+<skeleton name="毒池源文件(2)">
+  <armatures>
+    <armature name="duchi_wu">
+      <b name="d3-1-1" bT="0" bi="xieziboss_duchi-7781" x="171.2" y="233.45" kX="5.02" kY="0" z="0"/>
+      <b name="d3-1-10" bT="0" bi="xieziboss_duchi-7781" x="136.9" y="252.35" kX="5.02" kY="0" z="1"/>
+      <b name="d3-1-11" bT="0" bi="xieziboss_duchi-7781" x="184.3" y="253.65" kX="5.02" kY="0" z="2"/>
+      <b name="d3-1-12" bT="0" bi="xieziboss_duchi-7781" x="225.4" y="254.85" kX="5.02" kY="0" z="3"/>
+      <b name="d3-1-13" bT="0" bi="xieziboss_duchi-7781" x="173.5" y="243.45" kX="5.02" kY="0" z="4"/>
+      <b name="d3-1-14" bT="0" bi="xieziboss_duchi-7781" x="156.5" y="273.25" kX="5.02" kY="0" z="5"/>
+      <b name="d3-1-15" bT="0" bi="xieziboss_duchi-7781" x="124.7" y="293.5" kX="12" kY="7.49" z="6"/>
+      <b name="d3-1-16" bT="0" bi="xieziboss_duchi-7781" x="206.1" y="286.05" kX="10.13" kY="0" z="7"/>
+      <b name="d3-1-17" bT="0" bi="xieziboss_duchi-7781" x="259.5" y="252.85" kX="10.13" kY="0" z="8"/>
+      <b name="d3-1-18" bT="0" bi="xieziboss_duchi-7781" x="263.4" y="274.55" kX="10.13" kY="0" z="9"/>
+      <b name="d3-1-19" bT="0" bi="xieziboss_duchi-7781" x="112.4" y="239.25" kX="10.13" kY="0" z="10"/>
+      <b name="d3-1-110" bT="0" bi="xieziboss_duchi-7781" x="98.6" y="256.25" kX="10.13" kY="0" z="11"/>
+      <b name="d3-1-111" bT="0" bi="xieziboss_duchi-7781" x="114.7" y="281.95" kX="10.13" kY="0" z="12"/>
+      <b name="d3-1-112" bT="0" bi="xieziboss_duchi-7781" x="166" y="296.75" kX="5.28" kY="0" z="13"/>
+      <b name="d3-1-113" bT="0" bi="xieziboss_duchi-7781" x="230.4" y="232.15" kX="5.28" kY="0" z="14"/>
+      <b name="d3-1-114" bT="0" bi="xieziboss_duchi-7781" x="223.6" y="291.85" kX="5.28" kY="0" z="15"/>
+      <b name="d3-1-115" bT="0" bi="xieziboss_duchi-7781" x="145.9" y="242.45" kX="5.28" kY="0" z="16"/>
+      <b name="d3-1-116" bT="0" bi="xieziboss_duchi-7781" x="206.5" y="249.65" kX="5.28" kY="0" z="17"/>
+      <b name="d3-1-117" bT="0" bi="xieziboss_duchi-7781" x="104.2" y="250.05" kX="5.28" kY="0" z="18"/>
+      <b name="d3-1-118" bT="0" bi="xieziboss_duchi-7781" x="104.2" y="269.05" kX="0" kY="0" z="19"/>
+      <b name="d3-1-119" bT="0" bi="xieziboss_duchi-7781" x="256.2" y="263.3" kX="0" kY="0" z="20"/>
+      <b name="d3-1-120" bT="0" bi="xieziboss_duchi-7781" x="249.6" y="242.05" kX="0" kY="0" z="21"/>
+      <b name="d3-1-121" bT="0" bi="xieziboss_duchi-7781" x="196.4" y="221.65" kX="0" kY="0" z="22"/>
+      <b name="d3-1-122" bT="0" bi="xieziboss_duchi-7781" x="142.3" y="227.45" kX="0" kY="0" z="23"/>
+      <b name="d3-1-123" bT="0" bi="xieziboss_duchi-7781" x="217.1" y="273.05" kX="0" kY="0" z="24"/>
+      <b name="图层 10" bT="0" bi="xieziboss_duchi-wang-01" x="184.7" y="259.95" kX="0" kY="0" z="25"/>
+      <b name="d30" bT="0" bi="xieziboss_duchi-zd-d3-2" x="179.65" y="177.15" kX="0" kY="0" z="26"/>
+      <b name="图层 2" bT="0" bi="xieziboss_duchi-qipao2-1" x="228.75" y="290.55" kX="0" kY="0" z="27"/>
+      <b name="图层 23" bT="0" bi="xieziboss_duchi-qipao2-1" x="146.75" y="229.55" kX="0" kY="0" z="28"/>
+      <b name="图层 24" bT="0" bi="xieziboss_duchi-qipao2-1" x="264.4" y="251" kX="0" kY="0" z="29"/>
+      <b name="图层 29" bT="0" bi="xieziboss_duchi-qipao2-6" x="84.6" y="264.05" kX="0" kY="0" z="28"/>
+      <b name="图层 32" bT="0" bi="xieziboss_duchi-qipao2-5" x="178.7" y="253.65" kX="0" kY="0" z="29"/>
+      <b name="图层 125" bT="0" bi="xieziboss_duchi-zd-y1-2" x="90.8" y="238" kX="106.18" kY="106.18" z="30"/>
+      <b name="图层 124" bT="0" bi="xieziboss_duchi-zd-y1-2" x="100.3" y="223.5" kX="-106.18" kY="73.82" z="31"/>
+      <b name="zd-y1-2" bT="0" bi="xieziboss_duchi-zd-y1-2" x="95.85" y="259.3" kX="-114.03" kY="-114.03" z="32"/>
+      <b name="zd-y1-20" bT="0" bi="xieziboss_duchi-zd-y1-2" x="109.35" y="205.8" kX="-114.03" kY="-114.03" z="33"/>
+      <b name="zd-y1-21" bT="0" bi="xieziboss_duchi-zd-y1-2" x="70.35" y="252.8" kX="101.71" kY="101.71" z="32"/>
+      <b name="zd-y1-22" bT="0" bi="xieziboss_duchi-zd-y1-2" x="87.35" y="194.3" kX="73.24" kY="73.24" z="34"/>
+      <b name="zd-y1-23" bT="0" bi="xieziboss_duchi-zd-y1-2" x="99.35" y="180.8" kX="73.24" kY="73.24" z="36"/>
+      <b name="zd-y1-24" bT="0" bi="xieziboss_duchi-zd-y1-2" x="173.3" y="140" kX="-73.24" kY="106.76" z="36"/>
+      <b name="zd-y1-25" bT="0" bi="xieziboss_duchi-zd-y1-2" x="162.8" y="156.5" kX="73.24" kY="73.24" z="38"/>
+      <b name="zd-y1-26" bT="0" bi="xieziboss_duchi-zd-y1-2" x="144.8" y="173.5" kX="-73.24" kY="106.76" z="38"/>
+      <b name="zd-y1-27" bT="0" bi="xieziboss_duchi-zd-y1-2" x="135.8" y="194" kX="90.79" kY="90.79" z="40"/>
+      <b name="zd-y1-28" bT="0" bi="xieziboss_duchi-zd-y1-2" x="168.8" y="188.5" kX="-90.79" kY="89.21" z="40"/>
+      <b name="zd-y1-29" bT="0" bi="xieziboss_duchi-zd-y1-2" x="217.2" y="178.5" kX="-58.55" kY="121.45" z="41"/>
+      <b name="zd-y1-210" bT="0" bi="xieziboss_duchi-zd-y1-2" x="204.7" y="161.5" kX="-84.24" kY="95.76" z="42"/>
+      <b name="zd-y1-211" bT="0" bi="xieziboss_duchi-zd-y1-2" x="202.7" y="200.5" kX="-84.24" kY="95.76" z="40"/>
+      <b name="zd-y1-212" bT="0" bi="xieziboss_duchi-zd-y1-2" x="159.3" y="244" kX="-90.79" kY="89.21" z="41"/>
+      <b name="zd-y1-213" bT="0" bi="xieziboss_duchi-zd-y1-2" x="172.8" y="255.5" kX="-90.79" kY="89.21" z="43"/>
+      <b name="zd-y1-214" bT="0" bi="xieziboss_duchi-zd-y1-2" x="226.8" y="132.9" kX="117.75" kY="117.75" z="46"/>
+      <b name="zd-y1-215" bT="0" bi="xieziboss_duchi-zd-y1-2" x="239.3" y="150.4" kX="-117.75" kY="62.25" z="46"/>
+      <b name="zd-y1-216" bT="0" bi="xieziboss_duchi-zd-y1-2" x="247.8" y="179.4" kX="-117.75" kY="62.25" z="43"/>
+      <b name="zd-y1-217" bT="0" bi="xieziboss_duchi-zd-y1-2" x="228.3" y="193.9" kX="62.25" kY="-117.75" z="42"/>
+      <b name="zd-y1-218" bT="0" bi="xieziboss_duchi-zd-y1-2" x="245.8" y="216.9" kX="-117.75" kY="62.25" z="45"/>
+      <b name="zd-y1-219" bT="0" bi="xieziboss_duchi-zd-y1-2" x="264.3" y="149.9" kX="117.75" kY="117.75" z="51"/>
+      <b name="zd-y1-220" bT="0" bi="xieziboss_duchi-zd-y1-2" x="269.3" y="171.9" kX="117.75" kY="117.75" z="51"/>
+      <b name="zd-y1-221" bT="0" bi="xieziboss_duchi-zd-y1-2" x="276.3" y="208.4" kX="-87.01" kY="92.99" z="48"/>
+      <b name="zd-y1-222" bT="0" bi="xieziboss_duchi-zd-y1-2" x="284.3" y="221.9" kX="-87.01" kY="92.99" z="48"/>
+      <b name="zd-y1-223" bT="0" bi="xieziboss_duchi-zd-y1-2" x="292.3" y="237.9" kX="-51.81" kY="128.19" z="49"/>
+      <b name="zd-y1-224" bT="0" bi="xieziboss_duchi-zd-y1-2" x="173.8" y="217" kX="-117.75" kY="62.25" z="55"/>
+      <b name="zd-y1-225" bT="0" bi="xieziboss_duchi-zd-y1-2" x="122.35" y="255" kX="117.75" kY="117.75" z="54"/>
+      <b name="zd-y1-226" bT="0" bi="xieziboss_duchi-zd-y1-2" x="248.8" y="244.9" kX="125.04" kY="125.04" z="53"/>
+      <b name="zd-y1-227" bT="0" bi="xieziboss_duchi-zd-y1-2" x="212.2" y="257.5" kX="-84.24" kY="95.76" z="50"/>
+      <b name="zd-y1-228" bT="0" bi="xieziboss_duchi-zd-y1-2" x="218.3" y="232.9" kX="-49.04" kY="130.96" z="59"/>
+      <b name="zd-y1-229" bT="0" bi="xieziboss_duchi-zd-y1-2" x="140.8" y="233" kX="-90.79" kY="89.21" z="61"/>
+      <b name="zd-y1-230" bT="0" bi="xieziboss_duchi-zd-y1-2" x="223.8" y="233.9" kX="-62.25" kY="-62.25" z="53"/>
+      <b name="zd-y1-2240" bT="0" bi="xieziboss_duchi-zd-y1-2" x="170.8" y="248" kX="-117.75" kY="62.25" z="61"/>
+      <b name="zd-y1-2250" bT="0" bi="xieziboss_duchi-zd-y1-2" x="127.35" y="269" kX="117.75" kY="117.75" z="58"/>
+      <b name="zd-y1-2260" bT="0" bi="xieziboss_duchi-zd-y1-2" x="241.8" y="274.9" kX="125.04" kY="125.04" z="57"/>
+      <b name="zd-y1-2270" bT="0" bi="xieziboss_duchi-zd-y1-2" x="165.8" y="299.5" kX="-84.24" kY="95.76" z="55"/>
+      <b name="zd-y1-2280" bT="0" bi="xieziboss_duchi-zd-y1-2" x="205.3" y="275.9" kX="-49.04" kY="130.96" z="65"/>
+      <b name="zd-y1-2290" bT="0" bi="xieziboss_duchi-zd-y1-2" x="137.8" y="250" kX="-90.79" kY="89.21" z="68"/>
+      <b name="zd-y1-2300" bT="0" bi="xieziboss_duchi-zd-y1-2" x="216.8" y="275.9" kX="-62.25" kY="-62.25" z="59"/>
+      <b name="图层 34" bT="0" bi="xieziboss_duchi-zd-y1-2" x="116.3" y="257.5" kX="-106.18" kY="73.82" z="58"/>
+      <b name="zd-y1-200" bT="0" bi="xieziboss_duchi-zd-y1-2" x="114.85" y="271.3" kX="-114.03" kY="-114.03" z="59"/>
+      <b name="zd-y1-201" bT="0" bi="xieziboss_duchi-zd-y1-2" x="128.35" y="217.8" kX="-114.03" kY="-114.03" z="62"/>
+      <b name="zd-y1-2100" bT="0" bi="xieziboss_duchi-zd-y1-2" x="89.35" y="264.8" kX="101.71" kY="101.71" z="56"/>
+      <b name="zd-y1-2200" bT="0" bi="xieziboss_duchi-zd-y1-2" x="103.35" y="228.3" kX="73.24" kY="73.24" z="62"/>
+      <b name="zd-y1-2150" bT="0" bi="xieziboss_duchi-zd-y1-2" x="260.3" y="208.4" kX="-117.75" kY="62.25" z="71"/>
+      <b name="zd-y1-2160" bT="0" bi="xieziboss_duchi-zd-y1-2" x="268.8" y="237.4" kX="-117.75" kY="62.25" z="63"/>
+      <b name="zd-y1-2170" bT="0" bi="xieziboss_duchi-zd-y1-2" x="241.3" y="272.9" kX="62.25" kY="-117.75" z="65"/>
+      <b name="图层 60" bT="0" bi="xieziboss_duchi-d3-2" x="150.5" y="264.6" kX="90" kY="90" z="65"/>
+      <b name="图层 59" bT="0" bi="xieziboss_duchi-d3-2" x="239.6" y="238.65" kX="90" kY="90" z="68"/>
+      <b name="图层 58" bT="0" bi="xieziboss_duchi-d3-2" x="199.5" y="247.8" kX="90" kY="90" z="69"/>
+      <b name="图层 57" bT="0" bi="xieziboss_duchi-d3-2" x="142.45" y="215.1" kX="90" kY="90" z="68"/>
+      <b name="图层 56" bT="0" bi="xieziboss_duchi-d3-2" x="213.6" y="211.05" kX="90" kY="90" z="69"/>
+      <b name="图层 55" bT="0" bi="xieziboss_duchi-d3-2" x="228.85" y="255.35" kX="90" kY="90" z="77"/>
+      <b name="图层 54" bT="0" bi="xieziboss_duchi-d3-2" x="144.8" y="254.55" kX="90" kY="90" z="78"/>
+      <b name="图层 53" bT="0" bi="xieziboss_duchi-d3-2" x="145.6" y="241.9" kX="90" kY="90" z="81"/>
+      <b name="图层 52" bT="0" bi="xieziboss_duchi-d3-2" x="172.4" y="237" kX="90" kY="90" z="82"/>
+      <b name="图层 51" bT="0" bi="xieziboss_duchi-d3-2" x="229.35" y="204.85" kX="90" kY="90" z="73"/>
+      <b name="图层 50" bT="0" bi="xieziboss_duchi-d3-2" x="134.15" y="213.95" kX="90" kY="90" z="74"/>
+      <b name="图层 49" bT="0" bi="xieziboss_duchi-d3-2" x="249.3" y="218.7" kX="90" kY="90" z="75"/>
+      <b name="gakghhg0" bT="0" bi="xieziboss_duchi-d3-2" x="139.75" y="182.1" kX="90" kY="90" z="74"/>
+      <b name="gakghhg2" bT="0" bi="xieziboss_duchi-d3-2" x="221.65" y="170.6" kX="90" kY="90" z="75"/>
+      <b name="图层 20" bT="0" bi="xieziboss_duchi-d3-2" x="166.5" y="274.6" kX="90" kY="90" z="76"/>
+      <b name="图层 19" bT="0" bi="xieziboss_duchi-d3-2" x="245.6" y="216.65" kX="90" kY="90" z="75"/>
+      <b name="图层 18" bT="0" bi="xieziboss_duchi-d3-2" x="205.5" y="225.8" kX="90" kY="90" z="76"/>
+      <b name="图层 17" bT="0" bi="xieziboss_duchi-d3-2" x="118.45" y="225.1" kX="90" kY="90" z="79"/>
+      <b name="图层 16" bT="0" bi="xieziboss_duchi-d3-2" x="189.6" y="221.05" kX="90" kY="90" z="80"/>
+      <b name="图层 15" bT="0" bi="xieziboss_duchi-d3-2" x="262.85" y="265.35" kX="90" kY="90" z="86"/>
+      <b name="图层 14" bT="0" bi="xieziboss_duchi-d3-2" x="178.8" y="264.55" kX="90" kY="90" z="87"/>
+      <b name="图层 13" bT="0" bi="xieziboss_duchi-d3-2" x="201.6" y="241.9" kX="90" kY="90" z="89"/>
+      <b name="图层 12" bT="0" bi="xieziboss_duchi-d3-2" x="228.4" y="237" kX="90" kY="90" z="90"/>
+      <b name="图层 8" bT="0" bi="xieziboss_duchi-d3-2" x="176.35" y="186.85" kX="90" kY="90" z="83"/>
+      <b name="图层 7" bT="0" bi="xieziboss_duchi-d3-2" x="93.15" y="195.95" kX="90" kY="90" z="84"/>
+      <b name="图层 6" bT="0" bi="xieziboss_duchi-d3-2" x="196.3" y="200.7" kX="90" kY="90" z="85"/>
+      <b name="gakghhg00" bT="0" bi="xieziboss_duchi-d3-2" x="101.75" y="184.1" kX="90" kY="90" z="85"/>
+      <b name="gakghhg20" bT="0" bi="xieziboss_duchi-d3-2" x="183.65" y="172.6" kX="90" kY="90" z="86"/>
+      <b name="qi" bT="0" bi="xieziboss_duchi-dusu2-1 " x="97.8" y="242.7" kX="0" kY="0" z="93"/>
+      <b name="qi0" bT="0" bi="xieziboss_duchi-dusu2-1 " x="173.15" y="238.3" kX="0" kY="0" z="81"/>
+      <b name="qi1" bT="0" bi="xieziboss_duchi-dusu2-1 " x="131.1" y="267.8" kX="0" kY="0" z="79"/>
+      <b name="qi2" bT="0" bi="xieziboss_duchi-dusu2-1 " x="188" y="270.65" kX="0" kY="0" z="97"/>
+      <b name="qi3" bT="0" bi="xieziboss_duchi-dusu2-5" x="107.9" y="221.8" kX="0" kY="0" z="93"/>
+      <b name="图层 26" bT="0" bi="xieziboss_duchi-zd-b1-1" x="97.3" y="173.5" kX="0" kY="0" z="95"/>
+      <b name="图层 25" bT="0" bi="xieziboss_duchi-zd-b1-1" x="122.15" y="234.35" kX="0" kY="0" z="96"/>
+      <b name="b" bT="0" bi="xieziboss_duchi-zd-b1-1" x="182.55" y="249.15" kX="0" kY="0" z="84"/>
+      <b name="b0" bT="0" bi="xieziboss_duchi-zd-b1-5" x="269.5" y="233.7" kX="0" kY="0" z="95"/>
+      <b name="b1" bT="0" bi="xieziboss_duchi-zd-b1-1" x="255.55" y="158.15" kX="0" kY="0" z="83"/>
+      <b name="b2" bT="0" bi="xieziboss_duchi-zd-b1-3" x="150.4" y="162.35" kX="0" kY="0" z="100"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="duchi_wu">
+      <mov name="duchi_wu" to="1" dr="42" drTW="42" lp="1">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="27" img="xieziboss_duchi-qipao2-1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="27" img="xieziboss_duchi-qipao2-2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="27" img="xieziboss_duchi-qipao2-3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="27" img="xieziboss_duchi-qipao2-4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="27" img="xieziboss_duchi-qipao2-5" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="27" img="xieziboss_duchi-qipao2-6" dr="4"/>
+          <f x="0" y="-0.2" kX="0" kY="0" cX="2.12" cY="2.12" z="27" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="27" img="xieziboss_duchi-qipao2-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="27" img="xieziboss_duchi-qipao2-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="27" img="xieziboss_duchi-qipao2-9" dr="2"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="d30" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="1.97" z="26" img="xieziboss_duchi-zd-d3-2" dr="41"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="1.97" z="26" dr="1"/>
+        </b>
+        <b name="图层 125" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="30" img="xieziboss_duchi-zd-y1-2" twE="0" dr="13"/>
+          <f x="5.35" y="-27.4" kX="-0.12" kY="-0.12" cX="1" cY="1" z="30" twE="0" dr="6"/>
+          <f x="4.5" y="-91" kX="0" kY="0" cX="1" cY="1" z="30" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="31" twE="0" dr="12"/>
+          <f x="5.35" y="-27.4" kX="-0.12" kY="-0.12" cX="1" cY="1" z="30" twE="0" dr="7"/>
+          <f x="4.5" y="-91" kX="0" kY="0" cX="1" cY="1" z="30" dr="1"/>
+        </b>
+        <b name="图层 124" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="31" img="xieziboss_duchi-zd-y1-2" twE="0" dr="9"/>
+          <f x="-5.5" y="-39.5" kX="0" kY="0" cX="1" cY="1" z="30" dr="1"/>
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="32" twE="0" dr="8"/>
+          <f x="-5.5" y="-39.5" kX="0" kY="0" cX="1" cY="1" z="32" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="zd-y1-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="32" img="xieziboss_duchi-zd-y1-2" twE="0" dr="14"/>
+          <f x="-14.25" y="-56.15" kX="-0.01" kY="-0.01" cX="1" cY="1" z="31" twE="0" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="3.5" y="8.5" kX="0" kY="0" cX="1" cY="1" z="31" twE="0" dr="2"/>
+          <f x="1.15" y="2.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="31" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="33" twE="0" dr="13"/>
+          <f x="-14.25" y="-56.15" kX="-0.01" kY="-0.01" cX="1" cY="1" z="33" twE="0" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="3.5" y="8.5" kX="0" kY="0" cX="1" cY="1" z="31" twE="0" dr="2"/>
+          <f x="1.15" y="2.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="31" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-20" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="33" img="xieziboss_duchi-zd-y1-2" twE="0" dr="9"/>
+          <f x="-9" y="-52" kX="0" kY="0" cX="1" cY="1" z="33" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="-2" y="29.5" kX="0" kY="0" cX="1" cY="1" z="32" twE="0" dr="5"/>
+          <f x="-0.35" y="4.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="32" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="34" twE="0" dr="9"/>
+          <f x="-9" y="-52" kX="0" kY="0" cX="1" cY="1" z="34" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="-2" y="29.5" kX="0" kY="0" cX="1" cY="1" z="32" twE="0" dr="6"/>
+          <f x="-0.35" y="4.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="32" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-21" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="32" img="xieziboss_duchi-zd-y1-2" twE="0" dr="17"/>
+          <f x="4.5" y="-70" kX="0" kY="0" cX="1" cY="1" z="32" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="10" y="13" kX="0" kY="0" cX="1" cY="1" z="33" twE="0" dr="1"/>
+          <f x="5" y="6.5" kX="-0.15" kY="-0.15" cX="1" cY="1" z="33" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="33" twE="0" dr="15"/>
+          <f x="4.5" y="-70" kX="0" kY="0" cX="1" cY="1" z="32" dr="3"/>
+          <f dr="1" hide="1"/>
+          <f x="10" y="13" kX="0" kY="0" cX="1" cY="1" z="33" twE="0" dr="1"/>
+          <f x="5" y="6.5" kX="-0.15" kY="-0.15" cX="1" cY="1" z="33" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-22" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="34" img="xieziboss_duchi-zd-y1-2" twE="0" dr="11"/>
+          <f x="-2.5" y="-61.5" kX="0" kY="0" cX="1" cY="1" z="34" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="5" y="20.5" kX="0" kY="0" cX="1" cY="1" z="34" twE="0" dr="3"/>
+          <f x="0.95" y="4.1" kX="-0.01" kY="-0.01" cX="1" cY="1" z="34" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="35" twE="0" dr="11"/>
+          <f x="-2.5" y="-61.5" kX="0" kY="0" cX="1" cY="1" z="35" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="5" y="20.5" kX="0" kY="0" cX="1" cY="1" z="34" twE="0" dr="5"/>
+          <f x="0.95" y="4.1" kX="-0.01" kY="-0.01" cX="1" cY="1" z="34" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-23" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="36" img="xieziboss_duchi-zd-y1-2" twE="0" dr="9"/>
+          <f x="6" y="-53.5" kX="0" kY="0" cX="1" cY="1" z="36" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="8.95" y="58.2" kX="0" kY="0" cX="1" cY="1" z="35" twE="0" dr="9"/>
+          <f x="0.95" y="6.45" kX="-0.01" kY="-0.01" cX="1" cY="1" z="35" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="37" twE="0" dr="9"/>
+          <f x="6" y="-53.5" kX="0" kY="0" cX="1" cY="1" z="37" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="8.95" y="58.2" kX="0" kY="0" cX="1" cY="1" z="35" twE="0" dr="9"/>
+          <f x="0.95" y="6.45" kX="-0.01" kY="-0.01" cX="1" cY="1" z="35" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-24" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="36" img="xieziboss_duchi-zd-y1-2" twE="0" dr="5"/>
+          <f x="-17.5" y="-19" kX="0" kY="0" cX="1" cY="1" z="37" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="16.5" y="88.5" kX="0" kY="0" cX="1" cY="1" z="36" twE="0" dr="11"/>
+          <f x="1.5" y="8" kX="0.01" kY="0.01" cX="1" cY="1" z="36" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="37" twE="0" dr="5"/>
+          <f x="-17.5" y="-19" kX="0" kY="0" cX="1" cY="1" z="38" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="16.5" y="88.5" kX="0" kY="0" cX="1" cY="1" z="36" twE="0" dr="11"/>
+          <f x="1.5" y="8" kX="0.01" kY="0.01" cX="1" cY="1" z="36" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-25" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="38" img="xieziboss_duchi-zd-y1-2" twE="0" dr="6"/>
+          <f x="-16" y="-31" kX="0" kY="0" cX="1" cY="1" z="37" dr="1"/>
+          <f dr="7" hide="1"/>
+          <f x="28.5" y="69" kX="0" kY="0" cX="1" cY="1" z="37" twE="0" dr="6"/>
+          <f x="4.05" y="9.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="37" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="39" twE="0" dr="6"/>
+          <f x="-16" y="-31" kX="0" kY="0" cX="1" cY="1" z="38" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="28.5" y="69" kX="0" kY="0" cX="1" cY="1" z="37" twE="0" dr="7"/>
+          <f x="4.05" y="9.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="37" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-26" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="38" img="xieziboss_duchi-zd-y1-2" twE="0" dr="7"/>
+          <f x="-4" y="-23" kX="0" kY="0" cX="1" cY="1" z="36" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-7.5" y="48.5" kX="0" kY="0" cX="1" cY="1" z="38" twE="0" dr="11"/>
+          <f x="-0.7" y="4.4" kX="0.01" kY="0.01" cX="1" cY="1" z="38" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="39" twE="0" dr="7"/>
+          <f x="-4" y="-23" kX="0" kY="0" cX="1" cY="1" z="38" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-7.5" y="48.5" kX="0" kY="0" cX="1" cY="1" z="38" twE="0" dr="11"/>
+          <f x="-0.7" y="4.4" kX="0.01" kY="0.01" cX="1" cY="1" z="38" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-27" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="40" img="xieziboss_duchi-zd-y1-2" twE="0" dr="6"/>
+          <f x="-6.5" y="-56" kX="0" kY="0" cX="1" cY="1" z="39" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="4" y="39" kX="0" kY="0" cX="1" cY="1" z="39" twE="0" dr="10"/>
+          <f x="0.35" y="3.85" kX="-0.03" kY="-0.03" cX="1" cY="1" z="39" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="41" twE="0" dr="6"/>
+          <f x="-6.5" y="-56" kX="0" kY="0" cX="1" cY="1" z="40" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="4" y="39" kX="0" kY="0" cX="1" cY="1" z="39" twE="0" dr="10"/>
+          <f x="0.35" y="3.85" kX="-0.03" kY="-0.03" cX="1" cY="1" z="39" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-28" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="40" img="xieziboss_duchi-zd-y1-2" twE="0" dr="4"/>
+          <f x="-13.5" y="-23.5" kX="0" kY="0" cX="1" cY="1" z="40" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="-4.5" y="46.5" kX="0" kY="0" cX="1" cY="1" z="40" twE="0" dr="10"/>
+          <f x="-0.45" y="4.7" kX="0.03" kY="0.03" cX="1" cY="1" z="40" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="41" twE="0" dr="3"/>
+          <f x="-13.5" y="-23.5" kX="0" kY="0" cX="1" cY="1" z="41" dr="2"/>
+          <f dr="5" hide="1"/>
+          <f x="-4.5" y="46.5" kX="0" kY="0" cX="1" cY="1" z="40" twE="0" dr="10"/>
+          <f x="-0.45" y="4.7" kX="0.03" kY="0.03" cX="1" cY="1" z="40" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-29" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="41" img="xieziboss_duchi-zd-y1-2" twE="0" dr="4"/>
+          <f x="2" y="-27" kX="0" kY="0" cX="1" cY="1" z="41" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="0.1" y="44.9" kX="0" kY="0" cX="1" cY="1" z="41" twE="0" dr="12"/>
+          <f x="1.95" y="4.35" kX="-0.1" kY="-0.1" cX="1" cY="1" z="41" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="42" twE="0" dr="3"/>
+          <f x="2" y="-27" kX="0" kY="0" cX="1" cY="1" z="42" dr="2"/>
+          <f dr="3" hide="1"/>
+          <f x="0.1" y="44.9" kX="0" kY="0" cX="1" cY="1" z="41" twE="0" dr="12"/>
+          <f x="1.95" y="4.35" kX="-0.1" kY="-0.1" cX="1" cY="1" z="41" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-210" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="42" img="xieziboss_duchi-zd-y1-2" twE="0" dr="3"/>
+          <f x="2" y="-28" kX="0" kY="0" cX="1" cY="1" z="42" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="1.6" y="56.4" kX="0" kY="0" cX="1" cY="1" z="42" twE="0" dr="13"/>
+          <f x="1.65" y="4.75" kX="-0.01" kY="-0.01" cX="1" cY="1" z="42" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="43" twE="0" dr="2"/>
+          <f x="2" y="-28" kX="0" kY="0" cX="1" cY="1" z="43" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="1.6" y="56.4" kX="0" kY="0" cX="1" cY="1" z="42" twE="0" dr="13"/>
+          <f x="1.65" y="4.75" kX="-0.01" kY="-0.01" cX="1" cY="1" z="42" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-211" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="40" img="xieziboss_duchi-zd-y1-2" twE="0" dr="7"/>
+          <f x="-2.5" y="-59" kX="0" kY="0" cX="1" cY="1" z="38" dr="1"/>
+          <f dr="7" hide="1"/>
+          <f x="15.5" y="19.5" kX="0" kY="0" cX="1" cY="1" z="43" twE="0" dr="5"/>
+          <f x="2.6" y="3.25" kX="-0.01" kY="-0.01" cX="1" cY="1" z="43" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="41" twE="0" dr="7"/>
+          <f x="-2.5" y="-59" kX="0" kY="0" cX="1" cY="1" z="40" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="15.5" y="19.5" kX="0" kY="0" cX="1" cY="1" z="43" twE="0" dr="6"/>
+          <f x="2.6" y="3.25" kX="-0.01" kY="-0.01" cX="1" cY="1" z="43" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-212" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="41" img="xieziboss_duchi-zd-y1-2" twE="0" dr="14"/>
+          <f x="-5" y="-107.5" kX="0" kY="0" cX="1" cY="1" z="41" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="42" twE="0" dr="13"/>
+          <f x="-5" y="-107.5" kX="0" kY="0" cX="1" cY="1" z="43" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="zd-y1-213" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="43" img="xieziboss_duchi-zd-y1-2" twE="0" dr="18"/>
+          <f x="-9" y="-99" kX="0" kY="0" cX="1" cY="1" z="43" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="43" twE="0" dr="18"/>
+          <f x="-9" y="-99" kX="0" kY="0" cX="1" cY="1" z="43" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="zd-y1-214" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="46" img="xieziboss_duchi-zd-y1-2" twE="0" dr="4"/>
+          <f x="-7.5" y="-6.5" kX="0" kY="0" cX="1" cY="1" z="45" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="4.5" y="82.5" kX="0" kY="0" cX="1" cY="1" z="44" twE="0" dr="12"/>
+          <f x="0.25" y="5.5" kX="-0.15" kY="-0.15" cX="1" cY="1" z="44" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="47" twE="0" dr="3"/>
+          <f x="-7.5" y="-6.5" kX="0" kY="0" cX="1" cY="1" z="46" dr="2"/>
+          <f dr="3" hide="1"/>
+          <f x="4.5" y="82.5" kX="0" kY="0" cX="1" cY="1" z="44" twE="0" dr="12"/>
+          <f x="0.25" y="5.5" kX="-0.15" kY="-0.15" cX="1" cY="1" z="44" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-215" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="46" img="xieziboss_duchi-zd-y1-2" twE="0" dr="5"/>
+          <f x="-12" y="-22" kX="0" kY="0" cX="1" cY="1" z="44" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="2" y="65.5" kX="0" kY="0" cX="1" cY="1" z="45" twE="0" dr="10"/>
+          <f x="0.15" y="5.1" kX="0.15" kY="0.15" cX="1" cY="1" z="45" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="47" twE="0" dr="5"/>
+          <f x="-12" y="-22" kX="0" kY="0" cX="1" cY="1" z="45" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="2" y="65.5" kX="0" kY="0" cX="1" cY="1" z="45" twE="0" dr="10"/>
+          <f x="0.15" y="5.1" kX="0.15" kY="0.15" cX="1" cY="1" z="45" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-216" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="43" img="xieziboss_duchi-zd-y1-2" twE="0" dr="7"/>
+          <f x="-6.5" y="-43.5" kX="0" kY="0" cX="1" cY="1" z="41" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="10" y="34.5" kX="0" kY="0" cX="1" cY="1" z="46" twE="0" dr="9"/>
+          <f x="0.8" y="2.9" kX="0.15" kY="0.15" cX="1" cY="1" z="46" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="44" twE="0" dr="7"/>
+          <f x="-6.5" y="-43.5" kX="0" kY="0" cX="1" cY="1" z="43" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="10" y="34.5" kX="0" kY="0" cX="1" cY="1" z="46" twE="0" dr="9"/>
+          <f x="0.8" y="2.9" kX="0.15" kY="0.15" cX="1" cY="1" z="46" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-217" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="42" img="xieziboss_duchi-zd-y1-2" twE="0" dr="9"/>
+          <f x="-14" y="-68" kX="0" kY="0" cX="1" cY="1" z="44" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="9.5" y="23" kX="0" kY="0" cX="1" cY="1" z="47" twE="0" dr="5"/>
+          <f x="1" y="2.6" kX="0.15" kY="0.15" cX="1" cY="1" z="47" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="43" twE="0" dr="9"/>
+          <f x="-14" y="-68" kX="0" kY="0" cX="1" cY="1" z="45" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="9.5" y="23" kX="0" kY="0" cX="1" cY="1" z="47" twE="0" dr="6"/>
+          <f x="1" y="2.6" kX="0.15" kY="0.15" cX="1" cY="1" z="47" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-218" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="45" img="xieziboss_duchi-zd-y1-2" twE="0" dr="11"/>
+          <f x="-15.5" y="-84.5" kX="0" kY="0" cX="1" cY="1" z="47" dr="1"/>
+          <f dr="7" hide="1"/>
+          <f x="7.5" y="13" kX="0" kY="0" cX="1" cY="1" z="48" twE="0" dr="1"/>
+          <f x="2.5" y="4.35" kX="0.15" kY="0.15" cX="1" cY="1" z="48" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="46" twE="0" dr="11"/>
+          <f x="-15.5" y="-84.5" kX="0" kY="0" cX="1" cY="1" z="48" dr="1"/>
+          <f dr="7" hide="1"/>
+          <f x="7.5" y="13" kX="0" kY="0" cX="1" cY="1" z="48" twE="0" dr="1"/>
+          <f x="2.5" y="4.35" kX="0.15" kY="0.15" cX="1" cY="1" z="48" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-219" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="51" img="xieziboss_duchi-zd-y1-2" twE="0" dr="4"/>
+          <f x="0.5" y="-32.5" kX="0" kY="0" cX="1" cY="1" z="50" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="15.5" y="83.5" kX="0" kY="0" cX="1" cY="1" z="49" twE="0" dr="14"/>
+          <f x="1.05" y="5.85" kX="-0.15" kY="-0.15" cX="1" cY="1" z="49" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="52" twE="0" dr="3"/>
+          <f x="0.5" y="-32.5" kX="0" kY="0" cX="1" cY="1" z="51" dr="2"/>
+          <f dr="1" hide="1"/>
+          <f x="15.5" y="83.5" kX="0" kY="0" cX="1" cY="1" z="49" twE="0" dr="14"/>
+          <f x="1.05" y="5.85" kX="-0.15" kY="-0.15" cX="1" cY="1" z="49" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-220" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="51" img="xieziboss_duchi-zd-y1-2" twE="0" dr="5"/>
+          <f x="-16.5" y="-38" kX="0" kY="0" cX="1" cY="1" z="48" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="-10" y="44.5" kX="0" kY="0" cX="1" cY="1" z="50" twE="0" dr="10"/>
+          <f x="-1.05" y="4.45" kX="-0.15" kY="-0.15" cX="1" cY="1" z="50" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="52" twE="0" dr="5"/>
+          <f x="-16.5" y="-38" kX="0" kY="0" cX="1" cY="1" z="49" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="-10" y="44.5" kX="0" kY="0" cX="1" cY="1" z="50" twE="0" dr="10"/>
+          <f x="-1.05" y="4.45" kX="-0.15" kY="-0.15" cX="1" cY="1" z="50" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-221" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="48" img="xieziboss_duchi-zd-y1-2" twE="0" dr="11"/>
+          <f x="-3" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="50" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="-10" y="21" kX="0" kY="0" cX="1" cY="1" z="51" twE="0" dr="3"/>
+          <f x="-2" y="4.15" kX="-0.18" kY="-0.18" cX="1" cY="1" z="51" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="49" twE="0" dr="11"/>
+          <f x="-3" y="-76.5" kX="0" kY="0" cX="1" cY="1" z="51" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="-10" y="21" kX="0" kY="0" cX="1" cY="1" z="51" twE="0" dr="5"/>
+          <f x="-2" y="4.15" kX="-0.18" kY="-0.18" cX="1" cY="1" z="51" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-222" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="48" img="xieziboss_duchi-zd-y1-2" twE="0" dr="14"/>
+          <f x="-7.5" y="-86.5" kX="0" kY="0" cX="1" cY="1" z="48" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="-12" y="17" kX="0" kY="0" cX="1" cY="1" z="52" twE="0" dr="3"/>
+          <f x="-2.45" y="3.35" kX="-0.18" kY="-0.18" cX="1" cY="1" z="52" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="49" twE="0" dr="13"/>
+          <f x="-7.5" y="-86.5" kX="0" kY="0" cX="1" cY="1" z="50" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="-12" y="17" kX="0" kY="0" cX="1" cY="1" z="52" twE="0" dr="5"/>
+          <f x="-2.45" y="3.35" kX="-0.18" kY="-0.18" cX="1" cY="1" z="52" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-223" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="49" img="xieziboss_duchi-zd-y1-2" twE="0" dr="14"/>
+          <f x="-2" y="-84" kX="0" kY="0" cX="1" cY="1" z="49" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="-26.5" y="9" kX="0" kY="0" cX="1" cY="1" z="53" twE="0" dr="2"/>
+          <f x="-8.8" y="3" kX="-0.07" kY="-0.07" cX="1" cY="1" z="53" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="50" twE="0" dr="13"/>
+          <f x="-2" y="-84" kX="0" kY="0" cX="1" cY="1" z="51" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="-26.5" y="9" kX="0" kY="0" cX="1" cY="1" z="53" twE="0" dr="2"/>
+          <f x="-8.8" y="3" kX="-0.07" kY="-0.07" cX="1" cY="1" z="53" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-224" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="55" img="xieziboss_duchi-zd-y1-2" twE="0" dr="5"/>
+          <f x="-4.5" y="-36" kX="0" kY="0" cX="1" cY="1" z="52" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="-13" y="71.5" kX="0" kY="0" cX="1" cY="1" z="54" twE="0" dr="12"/>
+          <f x="-1.1" y="5.9" kX="0.15" kY="0.15" cX="1" cY="1" z="54" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="56" twE="0" dr="5"/>
+          <f x="-4.5" y="-36" kX="0" kY="0" cX="1" cY="1" z="53" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="-13" y="71.5" kX="0" kY="0" cX="1" cY="1" z="54" twE="0" dr="12"/>
+          <f x="-1.1" y="5.9" kX="0.15" kY="0.15" cX="1" cY="1" z="54" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-225" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="54" img="xieziboss_duchi-zd-y1-2" twE="0" dr="12"/>
+          <f x="-28.5" y="-78.5" kX="0" kY="0" cX="1" cY="1" z="51" dr="2"/>
+          <f dr="4" hide="1"/>
+          <f x="0.5" y="21" kX="0" kY="0" cX="1" cY="1" z="55" twE="0" dr="2"/>
+          <f x="0.05" y="5.3" kX="-0.15" kY="-0.15" cX="1" cY="1" z="55" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="55" twE="0" dr="12"/>
+          <f x="-28.5" y="-78.5" kX="0" kY="0" cX="1" cY="1" z="52" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="0.5" y="21" kX="0" kY="0" cX="1" cY="1" z="55" twE="0" dr="2"/>
+          <f x="0.05" y="5.3" kX="-0.15" kY="-0.15" cX="1" cY="1" z="55" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-226" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="53" img="xieziboss_duchi-zd-y1-2" twE="0" dr="11"/>
+          <f x="-14" y="-77" kX="0" kY="0" cX="1" cY="1" z="55" dr="1"/>
+          <f dr="7" hide="1"/>
+          <f x="-13.5" y="25.5" kX="0" kY="0" cX="1" cY="1" z="56" twE="0" dr="1"/>
+          <f x="-6.8" y="12.7" kX="0.03" kY="0.03" cX="1" cY="1" z="56" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="54" twE="0" dr="11"/>
+          <f x="-14" y="-77" kX="0" kY="0" cX="1" cY="1" z="56" dr="1"/>
+          <f dr="7" hide="1"/>
+          <f x="-13.5" y="25.5" kX="0" kY="0" cX="1" cY="1" z="56" twE="0" dr="1"/>
+          <f x="-6.8" y="12.7" kX="0.03" kY="0.03" cX="1" cY="1" z="56" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-227" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="50" img="xieziboss_duchi-zd-y1-2" twE="0" dr="8"/>
+          <f x="2.5" y="-58" kX="0" kY="0" cX="1" cY="1" z="51" dr="1"/>
+          <f dr="8" hide="1"/>
+          <f x="-2.9" y="1.4" kX="0" kY="0" cX="1" cY="1" z="57" twE="0" dr="3"/>
+          <f x="4.4" y="1.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="57" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="52" twE="0" dr="8"/>
+          <f x="2.5" y="-58" kX="0" kY="0" cX="1" cY="1" z="52" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="-2.9" y="1.4" kX="0" kY="0" cX="1" cY="1" z="57" twE="0" dr="5"/>
+          <f x="4.4" y="1.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="57" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-228" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="59" img="xieziboss_duchi-zd-y1-2" twE="0" dr="5"/>
+          <f x="0" y="-40.5" kX="0" kY="0" cX="1" cY="1" z="56" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="-1.2" y="28.7" kX="-0.08" kY="-0.08" cX="1" cY="1" z="58" twE="0" dr="8"/>
+          <f x="-0.2" y="4.2" kX="-0.08" kY="-0.08" cX="1" cY="1" z="58" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="60" twE="0" dr="5"/>
+          <f x="0" y="-40.5" kX="0" kY="0" cX="1" cY="1" z="57" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="-1.2" y="28.7" kX="-0.08" kY="-0.08" cX="1" cY="1" z="58" twE="0" dr="8"/>
+          <f x="-0.2" y="4.2" kX="-0.08" kY="-0.08" cX="1" cY="1" z="58" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-229" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="61" img="xieziboss_duchi-zd-y1-2" twE="0" dr="3"/>
+          <f x="1" y="-26" kX="0" kY="0" cX="1" cY="1" z="61" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="5.5" y="50" kX="0" kY="0" cX="1" cY="1" z="59" twE="0" dr="13"/>
+          <f x="-1.4" y="4.3" kX="0.03" kY="0.03" cX="1" cY="1" z="59" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="62" twE="0" dr="2"/>
+          <f x="1" y="-26" kX="0" kY="0" cX="1" cY="1" z="62" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="5.5" y="50" kX="0" kY="0" cX="1" cY="1" z="59" twE="0" dr="13"/>
+          <f x="-1.4" y="4.3" kX="0.03" kY="0.03" cX="1" cY="1" z="59" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-230" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="53" img="xieziboss_duchi-zd-y1-2" twE="0" dr="9"/>
+          <f x="-5.5" y="-58.5" kX="0" kY="0" cX="1" cY="1" z="54" dr="1"/>
+          <f dr="8" hide="1"/>
+          <f x="6.5" y="20" kX="0" kY="0" cX="1" cY="1" z="60" twE="0" dr="2"/>
+          <f x="1.05" y="3.35" kX="-0.15" kY="-0.15" cX="1" cY="1" z="60" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="54" twE="0" dr="9"/>
+          <f x="-5.5" y="-58.5" kX="0" kY="0" cX="1" cY="1" z="55" dr="1"/>
+          <f dr="8" hide="1"/>
+          <f x="6.5" y="20" kX="0" kY="0" cX="1" cY="1" z="60" twE="0" dr="2"/>
+          <f x="1.05" y="3.35" kX="-0.15" kY="-0.15" cX="1" cY="1" z="60" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-2240" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="61" img="xieziboss_duchi-zd-y1-2" twE="0" dr="5"/>
+          <f x="-4.5" y="-36" kX="0" kY="0" cX="1" cY="1" z="58" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="-3" y="61.5" kX="0" kY="0" cX="1" cY="1" z="61" twE="0" dr="12"/>
+          <f x="8.9" y="-4.1" kX="0.15" kY="0.15" cX="1" cY="1" z="61" twE="0" dr="1"/>
+          <f x="10" y="-10" kX="0" kY="0" cX="1" cY="1" z="62" twE="0" dr="5"/>
+          <f x="5.5" y="-46" kX="0" kY="0" cX="1" cY="1" z="59" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="-3" y="61.5" kX="0" kY="0" cX="1" cY="1" z="61" twE="0" dr="12"/>
+          <f x="15.9" y="-46.1" kX="0.15" kY="0.15" cX="1" cY="1" z="61" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-2250" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="58" img="xieziboss_duchi-zd-y1-2" twE="0" dr="12"/>
+          <f x="-28.5" y="-78.5" kX="0" kY="0" cX="1" cY="1" z="55" dr="2"/>
+          <f dr="4" hide="1"/>
+          <f x="0.5" y="21" kX="0" kY="0" cX="1" cY="1" z="62" twE="0" dr="2"/>
+          <f x="0.05" y="5.3" kX="-0.15" kY="-0.15" cX="1" cY="1" z="62" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="59" twE="0" dr="12"/>
+          <f x="-21.5" y="-120.5" kX="0" kY="0" cX="1" cY="1" z="56" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="7.5" y="-21" kX="0" kY="0" cX="1" cY="1" z="62" twE="0" dr="2"/>
+          <f x="7.05" y="-36.7" kX="-0.15" kY="-0.15" cX="1" cY="1" z="62" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-2260" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="57" img="xieziboss_duchi-zd-y1-2" twE="0" dr="11"/>
+          <f x="-14" y="-77" kX="0" kY="0" cX="1" cY="1" z="59" dr="1"/>
+          <f dr="7" hide="1"/>
+          <f x="-13.5" y="25.5" kX="0" kY="0" cX="1" cY="1" z="63" twE="0" dr="1"/>
+          <f x="-6.8" y="12.7" kX="0.03" kY="0.03" cX="1" cY="1" z="63" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="58" twE="0" dr="11"/>
+          <f x="-14" y="-77" kX="0" kY="0" cX="1" cY="1" z="60" dr="1"/>
+          <f dr="7" hide="1"/>
+          <f x="-6.5" y="-16.5" kX="0" kY="0" cX="1" cY="1" z="63" twE="0" dr="1"/>
+          <f x="0.2" y="-29.3" kX="0.03" kY="0.03" cX="1" cY="1" z="63" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-2270" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="55" img="xieziboss_duchi-zd-y1-2" twE="0" dr="8"/>
+          <f x="2.5" y="-58" kX="0" kY="0" cX="1" cY="1" z="57" dr="1"/>
+          <f dr="8" hide="1"/>
+          <f x="17.5" y="8" kX="0" kY="0" cX="1" cY="1" z="64" twE="0" dr="3"/>
+          <f x="4.4" y="1.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="64" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="57" twE="0" dr="8"/>
+          <f x="2.5" y="-58" kX="0" kY="0" cX="1" cY="1" z="58" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="24.5" y="-34" kX="0" kY="0" cX="1" cY="1" z="64" twE="0" dr="5"/>
+          <f x="11.4" y="-40.1" kX="-0.01" kY="-0.01" cX="1" cY="1" z="64" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-2280" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="65" img="xieziboss_duchi-zd-y1-2" twE="0" dr="5"/>
+          <f x="0" y="-40.5" kX="0" kY="0" cX="1" cY="1" z="62" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="-1.2" y="28.7" kX="-0.08" kY="-0.08" cX="1" cY="1" z="65" twE="0" dr="8"/>
+          <f x="-3.2" y="4.2" kX="-0.08" kY="-0.08" cX="1" cY="1" z="65" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="66" twE="0" dr="5"/>
+          <f x="0" y="-40.5" kX="0" kY="0" cX="1" cY="1" z="63" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="11.8" y="-25.3" kX="-0.08" kY="-0.08" cX="1" cY="1" z="65" twE="0" dr="8"/>
+          <f x="12.8" y="-49.8" kX="-0.08" kY="-0.08" cX="1" cY="1" z="65" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-2290" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="68" img="xieziboss_duchi-zd-y1-2" twE="0" dr="3"/>
+          <f x="1" y="-26" kX="0" kY="0" cX="1" cY="1" z="68" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="5.5" y="50" kX="0" kY="0" cX="1" cY="1" z="66" twE="0" dr="13"/>
+          <f x="-1.4" y="4.3" kX="0.03" kY="0.03" cX="1" cY="1" z="66" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="69" twE="0" dr="2"/>
+          <f x="1" y="-26" kX="0" kY="0" cX="1" cY="1" z="69" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="5.5" y="50" kX="0" kY="0" cX="1" cY="1" z="66" twE="0" dr="13"/>
+          <f x="5.6" y="-37.7" kX="0.03" kY="0.03" cX="1" cY="1" z="66" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-2300" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="59" img="xieziboss_duchi-zd-y1-2" twE="0" dr="9"/>
+          <f x="-5.5" y="-58.5" kX="0" kY="0" cX="1" cY="1" z="59" dr="1"/>
+          <f dr="8" hide="1"/>
+          <f x="6.5" y="20" kX="0" kY="0" cX="1" cY="1" z="67" twE="0" dr="2"/>
+          <f x="1.05" y="3.35" kX="-0.15" kY="-0.15" cX="1" cY="1" z="67" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="60" twE="0" dr="9"/>
+          <f x="-5.5" y="-58.5" kX="0" kY="0" cX="1" cY="1" z="60" dr="1"/>
+          <f dr="8" hide="1"/>
+          <f x="13.5" y="-22" kX="0" kY="0" cX="1" cY="1" z="67" twE="0" dr="2"/>
+          <f x="8.05" y="-38.65" kX="-0.15" kY="-0.15" cX="1" cY="1" z="67" twE="0" dr="1"/>
+        </b>
+        <b name="图层 34" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="58" img="xieziboss_duchi-zd-y1-2" twE="0" dr="9"/>
+          <f x="-5.5" y="-39.5" kX="0" kY="0" cX="1" cY="1" z="56" dr="1"/>
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="59" twE="0" dr="8"/>
+          <f x="-5.5" y="-39.5" kX="0" kY="0" cX="1" cY="1" z="58" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="zd-y1-200" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="59" img="xieziboss_duchi-zd-y1-2" twE="0" dr="14"/>
+          <f x="-14.25" y="-56.15" kX="-0.01" kY="-0.01" cX="1" cY="1" z="57" twE="0" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="3.5" y="8.5" kX="0" kY="0" cX="1" cY="1" z="68" twE="0" dr="2"/>
+          <f x="1.15" y="2.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="68" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="60" twE="0" dr="13"/>
+          <f x="-14.25" y="-56.15" kX="-0.01" kY="-0.01" cX="1" cY="1" z="59" twE="0" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="3.5" y="8.5" kX="0" kY="0" cX="1" cY="1" z="68" twE="0" dr="2"/>
+          <f x="1.15" y="2.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="68" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-201" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="62" img="xieziboss_duchi-zd-y1-2" twE="0" dr="9"/>
+          <f x="-9" y="-52" kX="0" kY="0" cX="1" cY="1" z="62" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="-2" y="29.5" kX="0" kY="0" cX="1" cY="1" z="69" twE="0" dr="5"/>
+          <f x="-0.35" y="4.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="69" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="63" twE="0" dr="9"/>
+          <f x="-9" y="-52" kX="0" kY="0" cX="1" cY="1" z="63" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="-2" y="29.5" kX="0" kY="0" cX="1" cY="1" z="69" twE="0" dr="6"/>
+          <f x="-0.35" y="4.9" kX="-0.01" kY="-0.01" cX="1" cY="1" z="69" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-2100" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="56" img="xieziboss_duchi-zd-y1-2" twE="0" dr="17"/>
+          <f x="4.5" y="-70" kX="0" kY="0" cX="1" cY="1" z="61" dr="1"/>
+          <f dr="1" hide="1"/>
+          <f x="10" y="13" kX="0" kY="0" cX="1" cY="1" z="70" twE="0" dr="1"/>
+          <f x="5" y="6.5" kX="-0.15" kY="-0.15" cX="1" cY="1" z="70" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="57" twE="0" dr="15"/>
+          <f x="4.5" y="-70" kX="0" kY="0" cX="1" cY="1" z="61" dr="3"/>
+          <f dr="1" hide="1"/>
+          <f x="10" y="13" kX="0" kY="0" cX="1" cY="1" z="70" twE="0" dr="1"/>
+          <f x="5" y="6.5" kX="-0.15" kY="-0.15" cX="1" cY="1" z="70" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-2200" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="62" img="xieziboss_duchi-zd-y1-2" twE="0" dr="11"/>
+          <f x="-2.5" y="-61.5" kX="0" kY="0" cX="1" cY="1" z="64" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="5" y="20.5" kX="0" kY="0" cX="1" cY="1" z="71" twE="0" dr="3"/>
+          <f x="0.95" y="4.1" kX="-0.01" kY="-0.01" cX="1" cY="1" z="71" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="63" twE="0" dr="11"/>
+          <f x="-2.5" y="-61.5" kX="0" kY="0" cX="1" cY="1" z="65" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="5" y="20.5" kX="0" kY="0" cX="1" cY="1" z="71" twE="0" dr="5"/>
+          <f x="0.95" y="4.1" kX="-0.01" kY="-0.01" cX="1" cY="1" z="71" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-2150" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="71" img="xieziboss_duchi-zd-y1-2" twE="0" dr="5"/>
+          <f x="-12" y="-22" kX="0" kY="0" cX="1" cY="1" z="69" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="2" y="65.5" kX="0" kY="0" cX="1" cY="1" z="72" twE="0" dr="10"/>
+          <f x="0.15" y="5.1" kX="0.15" kY="0.15" cX="1" cY="1" z="72" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="72" twE="0" dr="5"/>
+          <f x="-12" y="-22" kX="0" kY="0" cX="1" cY="1" z="70" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="2" y="65.5" kX="0" kY="0" cX="1" cY="1" z="72" twE="0" dr="10"/>
+          <f x="0.15" y="5.1" kX="0.15" kY="0.15" cX="1" cY="1" z="72" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-2160" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="63" img="xieziboss_duchi-zd-y1-2" twE="0" dr="7"/>
+          <f x="-6.5" y="-43.5" kX="0" kY="0" cX="1" cY="1" z="63" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="10" y="34.5" kX="0" kY="0" cX="1" cY="1" z="73" twE="0" dr="9"/>
+          <f x="0.8" y="2.9" kX="0.15" kY="0.15" cX="1" cY="1" z="73" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="64" twE="0" dr="7"/>
+          <f x="-6.5" y="-43.5" kX="0" kY="0" cX="1" cY="1" z="65" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="10" y="34.5" kX="0" kY="0" cX="1" cY="1" z="73" twE="0" dr="9"/>
+          <f x="0.8" y="2.9" kX="0.15" kY="0.15" cX="1" cY="1" z="73" twE="0" dr="1"/>
+        </b>
+        <b name="zd-y1-2170" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="65" img="xieziboss_duchi-zd-y1-2" twE="0" dr="9"/>
+          <f x="-17" y="-68" kX="0" kY="0" cX="1" cY="1" z="65" dr="1"/>
+          <f dr="5" hide="1"/>
+          <f x="9.5" y="23" kX="0" kY="0" cX="1" cY="1" z="74" twE="0" dr="5"/>
+          <f x="1" y="2.6" kX="0.15" kY="0.15" cX="1" cY="1" z="74" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="66" twE="0" dr="9"/>
+          <f x="-17" y="-68" kX="0" kY="0" cX="1" cY="1" z="66" dr="1"/>
+          <f dr="4" hide="1"/>
+          <f x="9.5" y="23" kX="0" kY="0" cX="1" cY="1" z="74" twE="0" dr="6"/>
+          <f x="1" y="2.6" kX="0.15" kY="0.15" cX="1" cY="1" z="74" twE="0" dr="1"/>
+        </b>
+        <b name="图层 81" sc="1" dl="0"/>
+        <b name="图层 84" sc="1" dl="0"/>
+        <b name="b" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="84" img="xieziboss_duchi-zd-b1-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="86" img="xieziboss_duchi-zd-b1-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="81" img="xieziboss_duchi-zd-b1-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="84" img="xieziboss_duchi-zd-b1-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="90" img="xieziboss_duchi-zd-b1-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="98" img="xieziboss_duchi-zd-b1-6" dr="2"/>
+          <f dr="6" hide="1"/>
+          <f x="15" y="24" kX="0" kY="0" cX="2" cY="2" z="91" img="xieziboss_duchi-zd-b1-1" dr="2"/>
+          <f x="15" y="24" kX="0" kY="0" cX="2" cY="2" z="89" img="xieziboss_duchi-zd-b1-2" dr="2"/>
+          <f x="15" y="24" kX="0" kY="0" cX="2" cY="2" z="86" img="xieziboss_duchi-zd-b1-3" dr="2"/>
+          <f x="15" y="24" kX="0" kY="0" cX="2" cY="2" z="86" img="xieziboss_duchi-zd-b1-4" dr="2"/>
+          <f x="15" y="24" kX="0" kY="0" cX="2" cY="2" z="87" img="xieziboss_duchi-zd-b1-5" dr="2"/>
+          <f x="15" y="24" kX="0" kY="0" cX="2" cY="2" z="90" img="xieziboss_duchi-zd-b1-6" dr="1"/>
+          <f x="15" y="24" kX="0" kY="0" cX="2" cY="2" z="90" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="b0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="95" img="xieziboss_duchi-zd-b1-5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="96" img="xieziboss_duchi-zd-b1-6" dr="2"/>
+          <f dr="11" hide="1"/>
+          <f x="-9.95" y="-8.55" kX="0" kY="0" cX="2" cY="2" z="85" img="xieziboss_duchi-zd-b1-1" dr="2"/>
+          <f x="-9.95" y="-8.55" kX="0" kY="0" cX="2" cY="2" z="91" img="xieziboss_duchi-zd-b1-2" dr="2"/>
+          <f x="-9.95" y="-8.55" kX="0" kY="0" cX="2" cY="2" z="99" img="xieziboss_duchi-zd-b1-3" dr="2"/>
+          <f x="-9.95" y="-8.55" kX="0" kY="0" cX="2" cY="2" z="101" img="xieziboss_duchi-zd-b1-4" dr="2"/>
+          <f x="-9.95" y="-8.55" kX="0" kY="0" cX="2" cY="2" z="105" img="xieziboss_duchi-zd-b1-5" dr="2"/>
+          <f x="-9.95" y="-8.55" kX="0" kY="0" cX="2" cY="2" z="98" img="xieziboss_duchi-zd-b1-6" dr="2"/>
+          <f dr="7" hide="1"/>
+          <f x="-9.75" y="-8.55" kX="0" kY="0" cX="2" cY="2" z="90" img="xieziboss_duchi-zd-b1-1" dr="2"/>
+          <f x="-9.75" y="-8.55" kX="0" kY="0" cX="2" cY="2" z="91" img="xieziboss_duchi-zd-b1-2" dr="2"/>
+          <f x="-9.75" y="-8.55" kX="0" kY="0" cX="2" cY="2" z="90" img="xieziboss_duchi-zd-b1-3" dr="2"/>
+          <f x="-9.75" y="-8.55" kX="0" kY="0" cX="2" cY="2" z="91" img="xieziboss_duchi-zd-b1-4" dr="2"/>
+          <f x="-9.75" y="-8.55" kX="0" kY="0" cX="2" cY="2" z="90" img="xieziboss_duchi-zd-b1-5" dr="1"/>
+        </b>
+        <b name="b1" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="83" img="xieziboss_duchi-zd-b1-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="82" img="xieziboss_duchi-zd-b1-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="91" img="xieziboss_duchi-zd-b1-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="85" img="xieziboss_duchi-zd-b1-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="97" img="xieziboss_duchi-zd-b1-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="99" img="xieziboss_duchi-zd-b1-6" dr="2"/>
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="90" img="xieziboss_duchi-zd-b1-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="87" img="xieziboss_duchi-zd-b1-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="88" img="xieziboss_duchi-zd-b1-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="89" img="xieziboss_duchi-zd-b1-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="92" img="xieziboss_duchi-zd-b1-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="88" img="xieziboss_duchi-zd-b1-6" dr="2"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="b2" sc="1" dl="0">
+          <f dr="23" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="100" img="xieziboss_duchi-zd-b1-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="95" img="xieziboss_duchi-zd-b1-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="91" img="xieziboss_duchi-zd-b1-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="90" img="xieziboss_duchi-zd-b1-6" dr="2"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 60" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="65" img="xieziboss_duchi-d3-2" twE="0" dr="4"/>
+          <f x="6.25" y="-17.35" kX="0" kY="0" cX="0.8" cY="0.8" z="67" twE="0" dr="4"/>
+          <f x="13.95" y="-30.35" kX="0" kY="0" cX="0.8" cY="0.8" z="63" twE="0" dr="2"/>
+          <f x="16.55" y="-34.7" kX="0" kY="0" cX="0.8" cY="0.8" z="75" twE="0" dr="6"/>
+          <f x="14.75" y="-52.7" kX="0" kY="0" cX="0.8" cY="0.8" z="75" dr="1"/>
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="66" twE="0" dr="6"/>
+          <f x="6.25" y="-17.35" kX="0" kY="0" cX="0.8" cY="0.8" z="75" twE="0" dr="2"/>
+          <f x="13.95" y="-30.35" kX="0" kY="0" cX="0.8" cY="0.8" z="75" twE="0" dr="1"/>
+        </b>
+        <b name="图层 59" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="68" img="xieziboss_duchi-d3-2" twE="0" dr="7"/>
+          <f x="-4.4" y="-22.15" kX="0" kY="0" cX="0.64" cY="0.64" z="64" twE="0" dr="2"/>
+          <f x="-3.9" y="-24.15" kX="0" kY="0" cX="0.64" cY="0.64" z="77" twE="0" dr="8"/>
+          <f x="0.1" y="-48.25" kX="0" kY="0" cX="0.64" cY="0.64" z="73" twE="0" dr="5"/>
+          <f x="0.1" y="-63.85" kX="0" kY="0" cX="0.64" cY="0.64" z="66" twE="0" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="76" twE="0" dr="7"/>
+          <f x="-4.4" y="-22.15" kX="0" kY="0" cX="0.64" cY="0.64" z="76" twE="0" dr="1"/>
+        </b>
+        <b name="图层 58" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="69" img="xieziboss_duchi-d3-2" twE="0" dr="7"/>
+          <f x="-25.45" y="-22.2" kX="0" kY="0" cX="0.64" cY="0.64" z="65" twE="0" dr="2"/>
+          <f x="-24.95" y="-24.2" kX="0" kY="0" cX="0.64" cY="0.64" z="78" twE="0" dr="8"/>
+          <f x="-49.5" y="-47.85" kX="0" kY="0" cX="0.64" cY="0.64" z="74" twE="0" dr="5"/>
+          <f x="-57.1" y="-69.45" kX="0" kY="0" cX="0.64" cY="0.64" z="67" twE="0" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="77" twE="0" dr="7"/>
+          <f x="-25.45" y="-22.2" kX="0" kY="0" cX="0.64" cY="0.64" z="77" twE="0" dr="1"/>
+        </b>
+        <b name="图层 57" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="68" img="xieziboss_duchi-d3-2" twE="0" dr="7"/>
+          <f x="-15.7" y="-28.7" kX="0" kY="0" cX="0.8" cY="0.8" z="68" twE="0" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="82.05" y="49.5" kX="0" kY="0" cX="0.8" cY="0.8" z="78" twE="0" dr="7"/>
+          <f x="88.3" y="32.15" kX="0" kY="0" cX="0.8" cY="0.8" z="67" twE="0" dr="8"/>
+          <f x="92.6" y="4.8" kX="0" kY="0" cX="0.8" cY="0.8" z="64" twE="0" dr="7"/>
+          <f x="74.3" y="-28.7" kX="0" kY="0" cX="0.8" cY="0.8" z="69" twE="0" dr="3"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 56" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="69" img="xieziboss_duchi-d3-2" twE="0" dr="7"/>
+          <f x="11.55" y="-19.1" kX="0" kY="0" cX="0.8" cY="0.8" z="69" twE="0" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="-19.1" y="53.55" kX="0" kY="0" cX="0.8" cY="0.8" z="79" twE="0" dr="7"/>
+          <f x="-28.05" y="33.35" kX="0" kY="0" cX="0.8" cY="0.8" z="68" twE="0" dr="8"/>
+          <f x="-1.95" y="3.2" kX="0" kY="0" cX="0.8" cY="0.8" z="65" twE="0" dr="7"/>
+          <f x="11.55" y="-19.1" kX="0" kY="0" cX="0.8" cY="0.8" z="70" twE="0" dr="3"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 55" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="77" img="xieziboss_duchi-d3-2" twE="0" dr="5"/>
+          <f x="0.7" y="-10.95" kX="0" kY="0" cX="0.8" cY="0.8" z="70" twE="0" dr="7"/>
+          <f x="-2.2" y="-27.1" kX="0" kY="0" cX="0.8" cY="0.8" z="66" twE="0" dr="2"/>
+          <f x="-2.2" y="-31.1" kX="0" kY="0" cX="0.8" cY="0.8" z="82" twE="0" dr="9"/>
+          <f x="-19.85" y="-51.25" kX="0" kY="0" cX="0.8" cY="0.8" z="82" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="-0.75" y="10.95" kX="0" kY="0" cX="0.8" cY="0.8" z="67" twE="0" dr="8"/>
+          <f x="0.7" y="-10.95" kX="0" kY="0" cX="0.8" cY="0.8" z="78" twE="0" dr="7"/>
+          <f x="-2.2" y="-27.1" kX="0" kY="0" cX="0.8" cY="0.8" z="78" twE="0" dr="1"/>
+        </b>
+        <b name="图层 54" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="78" img="xieziboss_duchi-d3-2" twE="0" dr="5"/>
+          <f x="-1.6" y="-10.15" kX="0" kY="0" cX="0.8" cY="0.8" z="71" twE="0" dr="7"/>
+          <f x="-12.75" y="-26.3" kX="0" kY="0" cX="0.8" cY="0.8" z="67" twE="0" dr="2"/>
+          <f x="-21.25" y="-30.9" kX="0" kY="0" cX="0.8" cY="0.8" z="83" twE="0" dr="9"/>
+          <f x="-29.9" y="-51.45" kX="0" kY="0" cX="0.8" cY="0.8" z="83" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="1.55" y="10.05" kX="0" kY="0" cX="0.8" cY="0.8" z="68" twE="0" dr="8"/>
+          <f x="-1.6" y="-10.15" kX="0" kY="0" cX="0.8" cY="0.8" z="79" twE="0" dr="7"/>
+          <f x="-12.75" y="-26.3" kX="0" kY="0" cX="0.8" cY="0.8" z="79" twE="0" dr="1"/>
+        </b>
+        <b name="图层 53" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="81" img="xieziboss_duchi-d3-2" twE="0" dr="4"/>
+          <f x="3.05" y="-13.1" kX="0" kY="0" cX="0.64" cY="0.64" z="72" twE="0" dr="4"/>
+          <f x="3.25" y="-35" kX="0" kY="0" cX="0.64" cY="0.64" z="72" twE="0" dr="4"/>
+          <f x="3.85" y="-49.4" kX="0" kY="0" cX="0.64" cY="0.64" z="68" dr="2"/>
+          <f x="3.85" y="-53.4" kX="0" kY="0" cX="0.64" cY="0.64" z="68" dr="1"/>
+          <f dr="12" hide="1"/>
+          <f x="-2" y="8.75" kX="0" kY="0" cX="0.64" cY="0.64" z="69" twE="0" dr="5"/>
+          <f x="3.05" y="-13.1" kX="0" kY="0" cX="0.64" cY="0.64" z="68" twE="0" dr="4"/>
+          <f x="3.25" y="-35" kX="0" kY="0" cX="0.64" cY="0.64" z="80" twE="0" dr="5"/>
+          <f x="3.85" y="-49.4" kX="0" kY="0" cX="0.64" cY="0.64" z="80" dr="1"/>
+        </b>
+        <b name="图层 52" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="82" img="xieziboss_duchi-d3-2" twE="0" dr="4"/>
+          <f x="-2.3" y="-14.5" kX="0" kY="0" cX="0.64" cY="0.64" z="73" twE="0" dr="4"/>
+          <f x="9.7" y="-38.6" kX="0" kY="0" cX="0.64" cY="0.64" z="73" twE="0" dr="4"/>
+          <f x="39.4" y="-58.75" kX="0" kY="0" cX="0.64" cY="0.64" z="69" dr="2"/>
+          <f x="39.4" y="-62.75" kX="0" kY="0" cX="0.64" cY="0.64" z="69" dr="1"/>
+          <f dr="12" hide="1"/>
+          <f x="1.6" y="9.65" kX="0" kY="0" cX="0.64" cY="0.64" z="70" twE="0" dr="5"/>
+          <f x="-2.3" y="-14.5" kX="0" kY="0" cX="0.64" cY="0.64" z="69" twE="0" dr="4"/>
+          <f x="9.7" y="-38.6" kX="0" kY="0" cX="0.64" cY="0.64" z="81" twE="0" dr="5"/>
+          <f x="39.4" y="-58.75" kX="0" kY="0" cX="0.64" cY="0.64" z="81" dr="1"/>
+        </b>
+        <b name="图层 51" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="73" img="xieziboss_duchi-d3-2" twE="0" dr="4"/>
+          <f x="2.35" y="-14.45" kX="0" kY="0" cX="0.64" cY="0.64" z="84" twE="0" dr="6"/>
+          <f x="-5.3" y="-38.6" kX="0" kY="0" cX="0.64" cY="0.64" z="79" dr="2"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 50" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="74" img="xieziboss_duchi-d3-2" twE="0" dr="4"/>
+          <f x="-5.4" y="-14.45" kX="0" kY="0" cX="0.64" cY="0.64" z="85" twE="0" dr="6"/>
+          <f x="-7.9" y="-38.55" kX="0" kY="0" cX="0.64" cY="0.64" z="80" dr="2"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 49" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="75" img="xieziboss_duchi-d3-2" twE="0" dr="4"/>
+          <f x="5.6" y="-13" kX="0" kY="0" cX="0.64" cY="0.64" z="86" twE="0" dr="6"/>
+          <f x="8.5" y="-34.7" kX="0" kY="0" cX="0.64" cY="0.64" z="81" dr="2"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="gakghhg0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="74" img="xieziboss_duchi-d3-2" twE="0" dr="7"/>
+          <f x="2.55" y="-20.15" kX="0" kY="0" cX="0.64" cY="0.64" z="74" twE="0" dr="1"/>
+          <f dr="13" hide="1"/>
+          <f x="10.9" y="38.55" kX="0" kY="0" cX="0.64" cY="0.64" z="73" twE="0" dr="8"/>
+          <f x="-0.45" y="3.35" kX="0" kY="0" cX="0.64" cY="0.64" z="70" twE="0" dr="7"/>
+          <f x="2.55" y="-20.15" kX="0" kY="0" cX="0.64" cY="0.64" z="75" twE="0" dr="3"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="gakghhg2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="75" img="xieziboss_duchi-d3-2" twE="0" dr="7"/>
+          <f x="12.85" y="-25.3" kX="0" kY="0" cX="0.64" cY="0.64" z="75" twE="0" dr="1"/>
+          <f dr="15" hide="1"/>
+          <f x="-72.65" y="102.4" kX="0" kY="0" cX="0.64" cY="0.64" z="74" twE="0" dr="6"/>
+          <f x="-48.15" y="72.2" kX="0" kY="0" cX="0.64" cY="0.64" z="71" twE="0" dr="7"/>
+          <f x="-23.15" y="30.7" kX="0" kY="0" cX="0.64" cY="0.64" z="76" twE="0" dr="3"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="76" img="xieziboss_duchi-d3-2" twE="0" dr="4"/>
+          <f x="6.25" y="-17.35" kX="0" kY="0" cX="0.8" cY="0.8" z="74" twE="0" dr="4"/>
+          <f x="13.95" y="-30.35" kX="0" kY="0" cX="0.8" cY="0.8" z="70" twE="0" dr="2"/>
+          <f x="16.55" y="-34.7" kX="0" kY="0" cX="0.8" cY="0.8" z="85" twE="0" dr="6"/>
+          <f x="14.75" y="-52.7" kX="0" kY="0" cX="0.8" cY="0.8" z="85" dr="1"/>
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="77" twE="0" dr="6"/>
+          <f x="6.25" y="-17.35" kX="0" kY="0" cX="0.8" cY="0.8" z="82" twE="0" dr="2"/>
+          <f x="13.95" y="-30.35" kX="0" kY="0" cX="0.8" cY="0.8" z="82" twE="0" dr="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="75" img="xieziboss_duchi-d3-2" twE="0" dr="7"/>
+          <f x="-4.4" y="-22.15" kX="0" kY="0" cX="0.64" cY="0.64" z="71" twE="0" dr="2"/>
+          <f x="-3.9" y="-24.15" kX="0" kY="0" cX="0.64" cY="0.64" z="87" twE="0" dr="8"/>
+          <f x="0.1" y="-48.25" kX="0" kY="0" cX="0.64" cY="0.64" z="81" twE="0" dr="5"/>
+          <f x="0.1" y="-63.85" kX="0" kY="0" cX="0.64" cY="0.64" z="76" twE="0" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="83" twE="0" dr="7"/>
+          <f x="-4.4" y="-22.15" kX="0" kY="0" cX="0.64" cY="0.64" z="83" twE="0" dr="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="5" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="76" img="xieziboss_duchi-d3-2" twE="0" dr="7"/>
+          <f x="-25.45" y="-22.2" kX="0" kY="0" cX="0.64" cY="0.64" z="72" twE="0" dr="2"/>
+          <f x="-24.95" y="-24.2" kX="0" kY="0" cX="0.64" cY="0.64" z="88" twE="0" dr="8"/>
+          <f x="-49.5" y="-47.85" kX="0" kY="0" cX="0.64" cY="0.64" z="82" twE="0" dr="5"/>
+          <f x="-57.1" y="-69.45" kX="0" kY="0" cX="0.64" cY="0.64" z="77" twE="0" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="84" twE="0" dr="7"/>
+          <f x="-25.45" y="-22.2" kX="0" kY="0" cX="0.64" cY="0.64" z="84" twE="0" dr="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="79" img="xieziboss_duchi-d3-2" twE="0" dr="7"/>
+          <f x="-15.7" y="-28.7" kX="0" kY="0" cX="0.8" cY="0.8" z="79" twE="0" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="-7.95" y="49.5" kX="0" kY="0" cX="0.8" cY="0.8" z="88" twE="0" dr="7"/>
+          <f x="-1.7" y="32.15" kX="0" kY="0" cX="0.8" cY="0.8" z="75" twE="0" dr="8"/>
+          <f x="2.6" y="4.8" kX="0" kY="0" cX="0.8" cY="0.8" z="75" twE="0" dr="7"/>
+          <f x="-15.7" y="-28.7" kX="0" kY="0" cX="0.8" cY="0.8" z="80" twE="0" dr="3"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="80" img="xieziboss_duchi-d3-2" twE="0" dr="7"/>
+          <f x="11.55" y="-19.1" kX="0" kY="0" cX="0.8" cY="0.8" z="80" twE="0" dr="1"/>
+          <f dr="6" hide="1"/>
+          <f x="-19.1" y="53.55" kX="0" kY="0" cX="0.8" cY="0.8" z="89" twE="0" dr="7"/>
+          <f x="-28.05" y="33.35" kX="0" kY="0" cX="0.8" cY="0.8" z="76" twE="0" dr="8"/>
+          <f x="-1.95" y="3.2" kX="0" kY="0" cX="0.8" cY="0.8" z="76" twE="0" dr="7"/>
+          <f x="11.55" y="-19.1" kX="0" kY="0" cX="0.8" cY="0.8" z="81" twE="0" dr="3"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="86" img="xieziboss_duchi-d3-2" twE="0" dr="5"/>
+          <f x="0.7" y="-10.95" kX="0" kY="0" cX="0.8" cY="0.8" z="77" twE="0" dr="7"/>
+          <f x="-2.2" y="-27.1" kX="0" kY="0" cX="0.8" cY="0.8" z="73" twE="0" dr="2"/>
+          <f x="-2.2" y="-31.1" kX="0" kY="0" cX="0.8" cY="0.8" z="92" twE="0" dr="9"/>
+          <f x="-19.85" y="-51.25" kX="0" kY="0" cX="0.8" cY="0.8" z="93" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="-0.75" y="10.95" kX="0" kY="0" cX="0.8" cY="0.8" z="76" twE="0" dr="8"/>
+          <f x="0.7" y="-10.95" kX="0" kY="0" cX="0.8" cY="0.8" z="82" twE="0" dr="5"/>
+          <f x="-1.05" y="-20.65" kX="0" kY="0" cX="0.8" cY="0.8" z="85" twE="0" dr="2"/>
+          <f x="-2.2" y="-27.1" kX="0" kY="0" cX="0.8" cY="0.8" z="85" twE="0" dr="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.8" cY="0.8" z="87" img="xieziboss_duchi-d3-2" twE="0" dr="5"/>
+          <f x="-1.6" y="-10.15" kX="0" kY="0" cX="0.8" cY="0.8" z="78" twE="0" dr="7"/>
+          <f x="-12.75" y="-26.3" kX="0" kY="0" cX="0.8" cY="0.8" z="74" twE="0" dr="2"/>
+          <f x="-21.25" y="-30.9" kX="0" kY="0" cX="0.8" cY="0.8" z="93" twE="0" dr="9"/>
+          <f x="-29.9" y="-51.45" kX="0" kY="0" cX="0.8" cY="0.8" z="94" dr="1"/>
+          <f dr="2" hide="1"/>
+          <f x="1.55" y="10.05" kX="0" kY="0" cX="0.8" cY="0.8" z="77" twE="0" dr="8"/>
+          <f x="-1.6" y="-10.15" kX="0" kY="0" cX="0.8" cY="0.8" z="86" twE="0" dr="7"/>
+          <f x="-12.75" y="-26.3" kX="0" kY="0" cX="0.8" cY="0.8" z="86" twE="0" dr="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="89" img="xieziboss_duchi-d3-2" twE="0" dr="4"/>
+          <f x="3.05" y="-13.1" kX="0" kY="0" cX="0.64" cY="0.64" z="83" twE="0" dr="4"/>
+          <f x="3.25" y="-35" kX="0" kY="0" cX="0.64" cY="0.64" z="79" twE="0" dr="4"/>
+          <f x="3.85" y="-49.4" kX="0" kY="0" cX="0.64" cY="0.64" z="75" dr="2"/>
+          <f x="3.85" y="-53.4" kX="0" kY="0" cX="0.64" cY="0.64" z="80" dr="1"/>
+          <f dr="12" hide="1"/>
+          <f x="-2" y="8.75" kX="0" kY="0" cX="0.64" cY="0.64" z="77" twE="0" dr="5"/>
+          <f x="3.05" y="-13.1" kX="0" kY="0" cX="0.64" cY="0.64" z="79" twE="0" dr="4"/>
+          <f x="3.25" y="-35" kX="0" kY="0" cX="0.64" cY="0.64" z="87" twE="0" dr="5"/>
+          <f x="3.85" y="-49.4" kX="0" kY="0" cX="0.64" cY="0.64" z="87" dr="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="90" img="xieziboss_duchi-d3-2" twE="0" dr="4"/>
+          <f x="-2.3" y="-14.5" kX="0" kY="0" cX="0.64" cY="0.64" z="84" twE="0" dr="4"/>
+          <f x="9.7" y="-38.6" kX="0" kY="0" cX="0.64" cY="0.64" z="80" twE="0" dr="4"/>
+          <f x="39.4" y="-58.75" kX="0" kY="0" cX="0.64" cY="0.64" z="76" dr="2"/>
+          <f x="39.4" y="-62.75" kX="0" kY="0" cX="0.64" cY="0.64" z="81" dr="1"/>
+          <f dr="12" hide="1"/>
+          <f x="1.6" y="9.65" kX="0" kY="0" cX="0.64" cY="0.64" z="78" twE="0" dr="5"/>
+          <f x="-2.3" y="-14.5" kX="0" kY="0" cX="0.64" cY="0.64" z="80" twE="0" dr="4"/>
+          <f x="9.7" y="-38.6" kX="0" kY="0" cX="0.64" cY="0.64" z="88" twE="0" dr="5"/>
+          <f x="39.4" y="-58.75" kX="0" kY="0" cX="0.64" cY="0.64" z="88" dr="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="83" img="xieziboss_duchi-d3-2" twE="0" dr="4"/>
+          <f x="2.35" y="-14.45" kX="0" kY="0" cX="0.64" cY="0.64" z="95" twE="0" dr="6"/>
+          <f x="-5.3" y="-38.6" kX="0" kY="0" cX="0.64" cY="0.64" z="88" dr="2"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="84" img="xieziboss_duchi-d3-2" twE="0" dr="4"/>
+          <f x="-5.4" y="-14.45" kX="0" kY="0" cX="0.64" cY="0.64" z="96" twE="0" dr="6"/>
+          <f x="-7.9" y="-38.55" kX="0" kY="0" cX="0.64" cY="0.64" z="89" dr="2"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="85" img="xieziboss_duchi-d3-2" twE="0" dr="4"/>
+          <f x="5.6" y="-13" kX="0" kY="0" cX="0.64" cY="0.64" z="97" twE="0" dr="6"/>
+          <f x="8.5" y="-34.7" kX="0" kY="0" cX="0.64" cY="0.64" z="90" dr="2"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="gakghhg00" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="85" img="xieziboss_duchi-d3-2" twE="0" dr="7"/>
+          <f x="2.55" y="-20.15" kX="0" kY="0" cX="0.64" cY="0.64" z="85" twE="0" dr="1"/>
+          <f dr="13" hide="1"/>
+          <f x="10.9" y="38.55" kX="0" kY="0" cX="0.64" cY="0.64" z="81" twE="0" dr="8"/>
+          <f x="-0.45" y="3.35" kX="0" kY="0" cX="0.64" cY="0.64" z="81" twE="0" dr="7"/>
+          <f x="2.55" y="-20.15" kX="0" kY="0" cX="0.64" cY="0.64" z="86" twE="0" dr="3"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="gakghhg20" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.64" cY="0.64" z="86" img="xieziboss_duchi-d3-2" twE="0" dr="7"/>
+          <f x="12.85" y="-25.3" kX="0" kY="0" cX="0.64" cY="0.64" z="86" twE="0" dr="1"/>
+          <f dr="15" hide="1"/>
+          <f x="-72.65" y="102.4" kX="0" kY="0" cX="0.64" cY="0.64" z="82" twE="0" dr="6"/>
+          <f x="-48.15" y="72.2" kX="0" kY="0" cX="0.64" cY="0.64" z="82" twE="0" dr="7"/>
+          <f x="-23.15" y="30.7" kX="0" kY="0" cX="0.64" cY="0.64" z="87" twE="0" dr="3"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="d3-1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="0" img="xieziboss_duchi-7781" twE="0" dr="6"/>
+          <f x="-0.2" y="0" kX="-5.02" kY="0" cX="2" cY="2" z="0" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.51" kY="0" cX="2" cY="2.02" z="0" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="0" twE="0" dr="6"/>
+          <f x="-0.2" y="0" kX="-5.02" kY="0" cX="2" cY="2" z="0" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.51" kY="0" cX="2" cY="2.02" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="1" img="xieziboss_duchi-7781" twE="0" dr="6"/>
+          <f x="-0.2" y="0" kX="-5.02" kY="0" cX="2" cY="2" z="1" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.51" kY="0" cX="2" cY="2.02" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="1" twE="0" dr="6"/>
+          <f x="-0.2" y="0" kX="-5.02" kY="0" cX="2" cY="2" z="1" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.51" kY="0" cX="2" cY="2.02" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-11" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="2" img="xieziboss_duchi-7781" twE="0" dr="6"/>
+          <f x="-0.2" y="0" kX="-5.02" kY="0" cX="2" cY="2" z="2" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.51" kY="0" cX="2" cY="2.02" z="2" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="2" twE="0" dr="6"/>
+          <f x="-0.2" y="0" kX="-5.02" kY="0" cX="2" cY="2" z="2" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.51" kY="0" cX="2" cY="2.02" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-12" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="3" img="xieziboss_duchi-7781" twE="0" dr="6"/>
+          <f x="-0.2" y="0" kX="-5.02" kY="0" cX="2" cY="2" z="3" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.51" kY="0" cX="2" cY="2.02" z="3" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="3" twE="0" dr="6"/>
+          <f x="-0.2" y="0" kX="-5.02" kY="0" cX="2" cY="2" z="3" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.51" kY="0" cX="2" cY="2.02" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-13" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="4" img="xieziboss_duchi-7781" twE="0" dr="6"/>
+          <f x="-0.2" y="0" kX="-5.02" kY="0" cX="2" cY="2" z="4" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.51" kY="0" cX="2" cY="2.02" z="4" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="4" twE="0" dr="6"/>
+          <f x="-0.2" y="0" kX="-5.02" kY="0" cX="2" cY="2" z="4" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.51" kY="0" cX="2" cY="2.02" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="5" img="xieziboss_duchi-7781" twE="0" dr="6"/>
+          <f x="-0.2" y="0" kX="-5.02" kY="0" cX="2" cY="2" z="5" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.51" kY="0" cX="2" cY="2.02" z="5" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="5" twE="0" dr="6"/>
+          <f x="-0.2" y="0" kX="-5.02" kY="0" cX="2" cY="2" z="5" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.51" kY="0" cX="2" cY="2.02" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-15" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.45" z="6" img="xieziboss_duchi-7781" twE="0" dr="6"/>
+          <f x="-0.1" y="-0.05" kX="-4.51" kY="0" cX="1.3" cY="1.44" z="6" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.47" kY="0" cX="1.3" cY="1.45" z="6" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.3" cY="1.45" z="6" twE="0" dr="6"/>
+          <f x="-0.1" y="-0.05" kX="-4.51" kY="0" cX="1.3" cY="1.44" z="6" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0.47" kY="0" cX="1.3" cY="1.45" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-16" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.03" z="7" img="xieziboss_duchi-7781" twE="0" dr="10"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="7" twE="0" dr="1"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="7" twE="0" dr="9"/>
+          <f x="0" y="0" kX="-0.62" kY="0" cX="2" cY="2.03" z="7" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.03" z="7" twE="0" dr="10"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="7" twE="0" dr="1"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="7" twE="0" dr="9"/>
+          <f x="0" y="0" kX="-0.62" kY="0" cX="2" cY="2.03" z="7" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-17" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.03" z="8" img="xieziboss_duchi-7781" twE="0" dr="10"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="8" twE="0" dr="1"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="8" twE="0" dr="9"/>
+          <f x="0" y="0" kX="-0.62" kY="0" cX="2" cY="2.03" z="8" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.03" z="8" twE="0" dr="10"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="8" twE="0" dr="1"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="8" twE="0" dr="9"/>
+          <f x="0" y="0" kX="-0.62" kY="0" cX="2" cY="2.03" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-18" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.03" z="9" img="xieziboss_duchi-7781" twE="0" dr="10"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="9" twE="0" dr="1"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="9" twE="0" dr="9"/>
+          <f x="0" y="0" kX="-0.62" kY="0" cX="2" cY="2.03" z="9" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.03" z="9" twE="0" dr="10"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="9" twE="0" dr="1"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="9" twE="0" dr="9"/>
+          <f x="0" y="0" kX="-0.62" kY="0" cX="2" cY="2.03" z="9" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-19" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.03" z="10" img="xieziboss_duchi-7781" twE="0" dr="10"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="10" twE="0" dr="1"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="10" twE="0" dr="9"/>
+          <f x="0" y="0" kX="-0.62" kY="0" cX="2" cY="2.03" z="10" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.03" z="10" twE="0" dr="10"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="10" twE="0" dr="1"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="10" twE="0" dr="9"/>
+          <f x="0" y="0" kX="-0.62" kY="0" cX="2" cY="2.03" z="10" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-110" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.03" z="11" img="xieziboss_duchi-7781" twE="0" dr="10"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="11" twE="0" dr="1"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="11" twE="0" dr="9"/>
+          <f x="0" y="0" kX="-0.62" kY="0" cX="2" cY="2.03" z="11" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.03" z="11" twE="0" dr="10"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="11" twE="0" dr="1"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="11" twE="0" dr="2"/>
+          <f x="-0.15" y="0" kX="-8.1" kY="0" cX="2" cY="2.01" z="11" twE="0" dr="7"/>
+          <f x="0" y="0" kX="-0.62" kY="0" cX="2" cY="2.03" z="11" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-111" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.03" z="12" img="xieziboss_duchi-7781" twE="0" dr="10"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="12" twE="0" dr="1"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="12" twE="0" dr="9"/>
+          <f x="0" y="0" kX="-0.62" kY="0" cX="2" cY="2.03" z="12" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.03" z="12" twE="0" dr="10"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="12" twE="0" dr="1"/>
+          <f x="-0.2" y="0" kX="-10.13" kY="0" cX="2" cY="2" z="12" twE="0" dr="9"/>
+          <f x="0" y="0" kX="-0.62" kY="0" cX="2" cY="2.03" z="12" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-112" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="13" img="xieziboss_duchi-7781" twE="0" dr="14"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="13" twE="0" dr="1"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="13" twE="0" dr="5"/>
+          <f x="0" y="0" kX="-0.52" kY="0" cX="2" cY="2.01" z="13" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="13" twE="0" dr="13"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="13" twE="0" dr="1"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="13" twE="0" dr="6"/>
+          <f x="0" y="0" kX="-0.52" kY="0" cX="2" cY="2.01" z="13" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-113" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="14" img="xieziboss_duchi-7781" twE="0" dr="14"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="14" twE="0" dr="1"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="14" twE="0" dr="5"/>
+          <f x="0" y="0" kX="-0.52" kY="0" cX="2" cY="2.01" z="14" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="14" twE="0" dr="13"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="14" twE="0" dr="1"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="14" twE="0" dr="6"/>
+          <f x="0" y="0" kX="-0.52" kY="0" cX="2" cY="2.01" z="14" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-114" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="15" img="xieziboss_duchi-7781" twE="0" dr="14"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="15" twE="0" dr="1"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="15" twE="0" dr="5"/>
+          <f x="0" y="0" kX="-0.52" kY="0" cX="2" cY="2.01" z="15" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="15" twE="0" dr="13"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="15" twE="0" dr="1"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="15" twE="0" dr="6"/>
+          <f x="0" y="0" kX="-0.52" kY="0" cX="2" cY="2.01" z="15" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-115" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="16" img="xieziboss_duchi-7781" twE="0" dr="14"/>
+          <f x="-6.6" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="16" twE="0" dr="1"/>
+          <f x="-6.6" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="16" twE="0" dr="5"/>
+          <f x="0" y="0" kX="-0.52" kY="0" cX="2" cY="2.01" z="16" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="16" twE="0" dr="13"/>
+          <f x="-6.6" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="16" twE="0" dr="1"/>
+          <f x="-6.6" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="16" twE="0" dr="6"/>
+          <f x="0" y="0" kX="-0.52" kY="0" cX="2" cY="2.01" z="16" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-116" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="17" img="xieziboss_duchi-7781" twE="0" dr="14"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="17" twE="0" dr="1"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="17" twE="0" dr="5"/>
+          <f x="0" y="0" kX="-0.52" kY="0" cX="2" cY="2.01" z="17" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="17" twE="0" dr="13"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="17" twE="0" dr="1"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="17" twE="0" dr="6"/>
+          <f x="0" y="0" kX="-0.52" kY="0" cX="2" cY="2.01" z="17" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-117" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="18" img="xieziboss_duchi-7781" twE="0" dr="14"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="18" twE="0" dr="1"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="18" twE="0" dr="5"/>
+          <f x="0" y="0" kX="-0.52" kY="0" cX="2" cY="2.01" z="18" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2.02" z="18" twE="0" dr="13"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="18" twE="0" dr="1"/>
+          <f x="-0.1" y="0" kX="-5.28" kY="0" cX="2" cY="2" z="18" twE="0" dr="6"/>
+          <f x="0" y="0" kX="-0.52" kY="0" cX="2" cY="2.01" z="18" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-118" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="19" img="xieziboss_duchi-7781" twE="0" dr="9"/>
+          <f x="0.2" y="0" kX="10.13" kY="0" cX="2" cY="2.03" z="19" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="19" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="19" twE="0" dr="9"/>
+          <f x="0.2" y="0" kX="10.13" kY="0" cX="2" cY="2.03" z="19" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="19" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-119" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="20" img="xieziboss_duchi-7781" twE="0" dr="9"/>
+          <f x="0.2" y="0" kX="10.13" kY="0" cX="2" cY="2.03" z="20" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="20" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="20" twE="0" dr="9"/>
+          <f x="0.2" y="0" kX="10.13" kY="0" cX="2" cY="2.03" z="20" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="20" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-120" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="21" img="xieziboss_duchi-7781" twE="0" dr="9"/>
+          <f x="0.2" y="0" kX="10.13" kY="0" cX="2" cY="2.03" z="21" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="21" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="21" twE="0" dr="9"/>
+          <f x="0.2" y="0" kX="10.13" kY="0" cX="2" cY="2.03" z="21" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="21" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-121" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="22" img="xieziboss_duchi-7781" twE="0" dr="9"/>
+          <f x="0.2" y="0" kX="10.13" kY="0" cX="2" cY="2.03" z="22" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="22" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="22" twE="0" dr="9"/>
+          <f x="0.2" y="0" kX="10.13" kY="0" cX="2" cY="2.03" z="22" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="22" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-122" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="23" img="xieziboss_duchi-7781" twE="0" dr="9"/>
+          <f x="0.2" y="0" kX="10.13" kY="0" cX="2" cY="2.03" z="23" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="23" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="23" twE="0" dr="9"/>
+          <f x="0.2" y="0" kX="10.13" kY="0" cX="2" cY="2.03" z="23" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="23" twE="0" dr="1"/>
+        </b>
+        <b name="d3-1-123" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="24" img="xieziboss_duchi-7781" twE="0" dr="9"/>
+          <f x="0.2" y="0" kX="10.13" kY="0" cX="2" cY="2.03" z="24" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="24" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="24" twE="0" dr="9"/>
+          <f x="0.2" y="0" kX="10.13" kY="0" cX="2" cY="2.03" z="24" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="24" twE="0" dr="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="25" img="xieziboss_duchi-wang-01" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="25" img="xieziboss_duchi-wang-02" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="25" img="xieziboss_duchi-wang-03" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="25" img="xieziboss_duchi-wang-04" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="25" img="xieziboss_duchi-wang-05" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="25" img="xieziboss_duchi-wang-06" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="25" img="xieziboss_duchi-wang-05" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="25" img="xieziboss_duchi-wang-04" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="25" img="xieziboss_duchi-wang-03" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="25" img="xieziboss_duchi-wang-02" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="25" img="xieziboss_duchi-wang-01" dr="1"/>
+        </b>
+        <b name="图层 23" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="28" img="xieziboss_duchi-qipao2-1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="28" img="xieziboss_duchi-qipao2-2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="28" img="xieziboss_duchi-qipao2-3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="28" img="xieziboss_duchi-qipao2-4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="28" img="xieziboss_duchi-qipao2-5" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="28" img="xieziboss_duchi-qipao2-6" dr="4"/>
+          <f x="0" y="-0.15" kX="0" kY="0" cX="1.14" cY="1.14" z="27" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="27" img="xieziboss_duchi-qipao2-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="27" img="xieziboss_duchi-qipao2-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.08" cY="1.08" z="27" img="xieziboss_duchi-qipao2-9" dr="2"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.66" cY="1.66" z="29" img="xieziboss_duchi-qipao2-1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.66" cY="1.66" z="29" img="xieziboss_duchi-qipao2-2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.66" cY="1.66" z="29" img="xieziboss_duchi-qipao2-3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.66" cY="1.66" z="29" img="xieziboss_duchi-qipao2-4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.66" cY="1.66" z="28" img="xieziboss_duchi-qipao2-5" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.66" cY="1.66" z="28" img="xieziboss_duchi-qipao2-6" dr="4"/>
+          <f x="0" y="-0.2" kX="0" kY="0" cX="1.76" cY="1.76" z="27" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.66" cY="1.66" z="27" img="xieziboss_duchi-qipao2-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.66" cY="1.66" z="27" img="xieziboss_duchi-qipao2-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.66" cY="1.66" z="27" img="xieziboss_duchi-qipao2-9" dr="1"/>
+        </b>
+        <b name="图层 29" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.76" cY="1.76" z="28" img="xieziboss_duchi-qipao2-6" dr="1"/>
+          <f x="0" y="0.25" kX="0" kY="0" cX="1.66" cY="1.66" z="28" img="xieziboss_duchi-qipao2-7" dr="2"/>
+          <f x="0" y="0.25" kX="0" kY="0" cX="1.66" cY="1.66" z="28" img="xieziboss_duchi-qipao2-8" dr="2"/>
+          <f x="0" y="0.25" kX="0" kY="0" cX="1.66" cY="1.66" z="28" img="xieziboss_duchi-qipao2-9" dr="2"/>
+          <f dr="14" hide="1"/>
+          <f x="0" y="0.25" kX="0" kY="0" cX="1.66" cY="1.66" z="30" img="xieziboss_duchi-qipao2-1" dr="3"/>
+          <f x="0" y="0.25" kX="0" kY="0" cX="1.66" cY="1.66" z="30" img="xieziboss_duchi-qipao2-2" dr="3"/>
+          <f x="0" y="0.25" kX="0" kY="0" cX="1.66" cY="1.66" z="29" img="xieziboss_duchi-qipao2-3" dr="3"/>
+          <f x="0" y="0.25" kX="0" kY="0" cX="1.66" cY="1.66" z="29" img="xieziboss_duchi-qipao2-4" dr="3"/>
+          <f x="0" y="0.25" kX="0" kY="0" cX="1.66" cY="1.66" z="28" img="xieziboss_duchi-qipao2-5" dr="4"/>
+          <f x="0" y="0.25" kX="0" kY="0" cX="1.66" cY="1.66" z="28" img="xieziboss_duchi-qipao2-6" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.76" cY="1.76" z="28" dr="1"/>
+        </b>
+        <b name="图层 32" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.43" z="29" img="xieziboss_duchi-qipao2-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.43" z="29" img="xieziboss_duchi-qipao2-6" dr="4"/>
+          <f x="0" y="-0.15" kX="0" kY="0" cX="1.52" cY="1.52" z="28" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.43" z="29" img="xieziboss_duchi-qipao2-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.43" z="29" img="xieziboss_duchi-qipao2-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.43" z="29" img="xieziboss_duchi-qipao2-9" dr="2"/>
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.43" z="30" img="xieziboss_duchi-qipao2-1" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.43" z="30" img="xieziboss_duchi-qipao2-2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.43" z="29" img="xieziboss_duchi-qipao2-3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.43" z="29" img="xieziboss_duchi-qipao2-4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.43" cY="1.43" z="29" img="xieziboss_duchi-qipao2-5" dr="2"/>
+        </b>
+        <b name="qi" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="93" img="xieziboss_duchi-dusu2-1 " dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="94" img="xieziboss_duchi-dusu2-2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="80" img="xieziboss_duchi-dusu2-3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="81" img="xieziboss_duchi-dusu2-4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="85" img="xieziboss_duchi-dusu2-5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="86" img="xieziboss_duchi-dusu2-6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="91" img="xieziboss_duchi-dusu2-k" dr="1"/>
+          <f dr="3" hide="1"/>
+          <f x="157.7" y="-1.9" kX="0" kY="0" cX="1.62" cY="1.62" z="96" img="xieziboss_duchi-dusu2-1 " dr="3"/>
+          <f x="157.7" y="-1.9" kX="0" kY="0" cX="1.62" cY="1.62" z="88" img="xieziboss_duchi-dusu2-2" dr="3"/>
+          <f x="157.7" y="-1.9" kX="0" kY="0" cX="1.62" cY="1.62" z="84" img="xieziboss_duchi-dusu2-3" dr="3"/>
+          <f x="157.7" y="-1.9" kX="0" kY="0" cX="1.62" cY="1.62" z="83" img="xieziboss_duchi-dusu2-4" dr="3"/>
+          <f x="157.7" y="-1.9" kX="0" kY="0" cX="1.62" cY="1.62" z="88" img="xieziboss_duchi-dusu2-5" dr="3"/>
+          <f x="157.7" y="-1.9" kX="0" kY="0" cX="1.62" cY="1.62" z="85" img="xieziboss_duchi-dusu2-6" dr="3"/>
+          <f x="157.7" y="-1.9" kX="0" kY="0" cX="1.62" cY="1.62" z="89" img="xieziboss_duchi-dusu2-k" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="qi0" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.77" cY="1.77" z="81" img="xieziboss_duchi-dusu2-1 " dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.77" cY="1.77" z="82" img="xieziboss_duchi-dusu2-2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.77" cY="1.77" z="86" img="xieziboss_duchi-dusu2-3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.77" cY="1.77" z="87" img="xieziboss_duchi-dusu2-4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.77" cY="1.77" z="95" img="xieziboss_duchi-dusu2-5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.77" cY="1.77" z="100" img="xieziboss_duchi-dusu2-6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.77" cY="1.77" z="93" img="xieziboss_duchi-dusu2-k" dr="1"/>
+          <f dr="17" hide="1"/>
+        </b>
+        <b name="qi1" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.86" cY="1.86" z="79" img="xieziboss_duchi-dusu2-1 " dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.86" cY="1.86" z="82" img="xieziboss_duchi-dusu2-2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.86" cY="1.86" z="96" img="xieziboss_duchi-dusu2-3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.86" cY="1.86" z="99" img="xieziboss_duchi-dusu2-4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.86" cY="1.86" z="93" img="xieziboss_duchi-dusu2-5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.86" cY="1.86" z="83" img="xieziboss_duchi-dusu2-6" dr="3"/>
+          <f x="-12" y="0" kX="0" kY="0" cX="1.86" cY="1.86" z="83" img="xieziboss_duchi-dusu2-k" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="qi2" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.93" cY="1.93" z="97" img="xieziboss_duchi-dusu2-1 " dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.93" cY="1.93" z="100" img="xieziboss_duchi-dusu2-2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.93" cY="1.93" z="94" img="xieziboss_duchi-dusu2-3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.93" cY="1.93" z="84" img="xieziboss_duchi-dusu2-4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.93" cY="1.93" z="81" img="xieziboss_duchi-dusu2-5" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.93" cY="1.93" z="85" img="xieziboss_duchi-dusu2-6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.93" cY="1.93" z="83" img="xieziboss_duchi-dusu2-k" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="qi3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="93" img="xieziboss_duchi-dusu2-5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="94" img="xieziboss_duchi-dusu2-6" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="93" img="xieziboss_duchi-dusu2-k" dr="1"/>
+          <f dr="23" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="85" img="xieziboss_duchi-dusu2-1 " dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="84" img="xieziboss_duchi-dusu2-2" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="89" img="xieziboss_duchi-dusu2-3" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="86" img="xieziboss_duchi-dusu2-4" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.13" z="89" img="xieziboss_duchi-dusu2-5" dr="2"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="95" img="xieziboss_duchi-zd-b1-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="95" img="xieziboss_duchi-zd-b1-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="95" img="xieziboss_duchi-zd-b1-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="89" img="xieziboss_duchi-zd-b1-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="82" img="xieziboss_duchi-zd-b1-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="84" img="xieziboss_duchi-zd-b1-6" dr="2"/>
+          <f dr="9" hide="1"/>
+          <f x="11.8" y="91.85" kX="0" kY="0" cX="2" cY="2" z="102" img="xieziboss_duchi-zd-b1-1" dr="2"/>
+          <f x="11.8" y="91.85" kX="0" kY="0" cX="2" cY="2" z="97" img="xieziboss_duchi-zd-b1-2" dr="2"/>
+          <f x="11.8" y="91.85" kX="0" kY="0" cX="2" cY="2" z="92" img="xieziboss_duchi-zd-b1-3" dr="2"/>
+          <f x="11.8" y="91.85" kX="0" kY="0" cX="2" cY="2" z="87" img="xieziboss_duchi-zd-b1-4" dr="2"/>
+          <f x="11.8" y="91.85" kX="0" kY="0" cX="2" cY="2" z="86" img="xieziboss_duchi-zd-b1-5" dr="2"/>
+          <f x="11.8" y="91.85" kX="0" kY="0" cX="2" cY="2" z="87" img="xieziboss_duchi-zd-b1-6" dr="2"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="图层 25" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="96" img="xieziboss_duchi-zd-b1-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="90" img="xieziboss_duchi-zd-b1-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="83" img="xieziboss_duchi-zd-b1-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="85" img="xieziboss_duchi-zd-b1-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="80" img="xieziboss_duchi-zd-b1-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="83" img="xieziboss_duchi-zd-b1-6" dr="2"/>
+          <f dr="8" hide="1"/>
+          <f x="78.4" y="-38.2" kX="0" kY="0" cX="2" cY="2" z="97" img="xieziboss_duchi-zd-b1-1" dr="2"/>
+          <f x="78.4" y="-38.2" kX="0" kY="0" cX="2" cY="2" z="90" img="xieziboss_duchi-zd-b1-2" dr="2"/>
+          <f x="78.4" y="-38.2" kX="0" kY="0" cX="2" cY="2" z="88" img="xieziboss_duchi-zd-b1-3" dr="2"/>
+          <f x="78.4" y="-38.2" kX="0" kY="0" cX="2" cY="2" z="85" img="xieziboss_duchi-zd-b1-4" dr="2"/>
+          <f x="78.4" y="-38.2" kX="0" kY="0" cX="2" cY="2" z="85" img="xieziboss_duchi-zd-b1-5" dr="2"/>
+          <f x="78.4" y="-38.2" kX="0" kY="0" cX="2" cY="2" z="86" img="xieziboss_duchi-zd-b1-6" dr="2"/>
+          <f dr="6" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="毒池源文件(2)" width="512" height="128">
+    <SubTexture name="xieziboss_duchi-qipao2-1" x="499" y="37" width="7" height="4" pX="2.6" pY="1.85"/>
+    <SubTexture name="xieziboss_duchi-qipao2-2" x="499" y="30" width="9" height="6" pX="3.55" pY="3.65"/>
+    <SubTexture name="xieziboss_duchi-qipao2-3" x="499" y="21" width="11" height="8" pX="4.6" pY="5.45"/>
+    <SubTexture name="xieziboss_duchi-qipao2-4" x="499" y="11" width="11" height="9" pX="4.9" pY="6.65"/>
+    <SubTexture name="xieziboss_duchi-qipao2-5" x="99" y="104" width="13" height="10" pX="5.55" pY="7.75"/>
+    <SubTexture name="xieziboss_duchi-qipao2-6" x="499" y="0" width="12" height="10" pX="5" pY="7.75"/>
+    <SubTexture name="xieziboss_duchi-qipao2-7" x="227" y="100" width="14" height="11" pX="6.25" pY="9.25"/>
+    <SubTexture name="xieziboss_duchi-qipao2-8" x="99" y="92" width="15" height="11" pX="6.85" pY="9.15"/>
+    <SubTexture name="xieziboss_duchi-qipao2-9" x="351" y="100" width="18" height="9" pX="7.95" pY="8.65"/>
+    <SubTexture name="xieziboss_duchi-zd-d3-2" x="0" y="0" width="117" height="91" pX="56.75" pY="27.9"/>
+    <SubTexture name="xieziboss_duchi-zd-y1-2" x="467" y="100" width="21" height="17" pX="8.8" pY="7.55"/>
+    <SubTexture name="xieziboss_duchi-zd-b1-1" x="242" y="100" width="26" height="26" pX="13.2" pY="12.7"/>
+    <SubTexture name="xieziboss_duchi-zd-b1-2" x="269" y="100" width="26" height="26" pX="11.25" pY="12.45"/>
+    <SubTexture name="xieziboss_duchi-zd-b1-3" x="199" y="100" width="27" height="25" pX="11.65" pY="11.45"/>
+    <SubTexture name="xieziboss_duchi-zd-b1-4" x="296" y="100" width="24" height="26" pX="10.1" pY="11.3"/>
+    <SubTexture name="xieziboss_duchi-zd-b1-5" x="370" y="100" width="22" height="25" pX="8.35" pY="13.05"/>
+    <SubTexture name="xieziboss_duchi-zd-b1-6" x="393" y="100" width="21" height="24" pX="4.85" pY="12.95"/>
+    <SubTexture name="xieziboss_duchi-d3-2" x="415" y="100" width="23" height="21" pX="6.2" pY="6.5"/>
+    <SubTexture name="xieziboss_duchi-7781" x="46" y="92" width="52" height="23" pX="25.1" pY="10.5"/>
+    <SubTexture name="xieziboss_duchi-wang-01" x="118" y="50" width="126" height="49" pX="62.75" pY="23.7"/>
+    <SubTexture name="xieziboss_duchi-wang-02" x="372" y="0" width="126" height="49" pX="62.75" pY="23.7"/>
+    <SubTexture name="xieziboss_duchi-wang-03" x="245" y="50" width="126" height="49" pX="62.75" pY="23.7"/>
+    <SubTexture name="xieziboss_duchi-wang-04" x="372" y="50" width="126" height="49" pX="62.75" pY="23.7"/>
+    <SubTexture name="xieziboss_duchi-wang-05" x="245" y="0" width="126" height="49" pX="62.75" pY="23.7"/>
+    <SubTexture name="xieziboss_duchi-wang-06" x="118" y="0" width="126" height="49" pX="62.75" pY="24"/>
+    <SubTexture name="xieziboss_duchi-dusu2-1 " x="489" y="100" width="21" height="11" pX="9.95" pY="0.45"/>
+    <SubTexture name="xieziboss_duchi-dusu2-2" x="439" y="100" width="27" height="17" pX="11.8" pY="6.1"/>
+    <SubTexture name="xieziboss_duchi-dusu2-3" x="321" y="100" width="29" height="21" pX="13.9" pY="9.85"/>
+    <SubTexture name="xieziboss_duchi-dusu2-4" x="158" y="100" width="40" height="27" pX="18.1" pY="15.75"/>
+    <SubTexture name="xieziboss_duchi-dusu2-5" x="0" y="92" width="45" height="31" pX="21.2" pY="19.4"/>
+    <SubTexture name="xieziboss_duchi-dusu2-6" x="115" y="100" width="42" height="27" pX="18.9" pY="15.7"/>
+    <SubTexture name="xieziboss_duchi-dusu2-k" x="509" y="30" width="2" height="2" pX="0.15" pY="-4.25"/>
+  </TextureAtlas>
+</skeleton>

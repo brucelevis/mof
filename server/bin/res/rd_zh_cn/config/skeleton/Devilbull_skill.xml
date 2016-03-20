@@ -1,0 +1,29 @@
+<skeleton name="牛头盾buff2">
+  <armatures>
+    <armature name="NTDunbuff">
+      <b name="图层 1" bT="0" bi="Devilbull_skill-NTD-1" x="-40" y="-152.95" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="NTDunbuff">
+      <mov name="NTDunbuff" to="1" dr="12" drTW="26" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.42" z="0" img="Devilbull_skill-NTD-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.42" z="0" img="Devilbull_skill-NTD-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.42" z="0" img="Devilbull_skill-NTD-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.42" z="0" img="Devilbull_skill-NTD-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.42" z="0" img="Devilbull_skill-NTD-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.25" cY="2.42" z="0" img="Devilbull_skill-NTD-6" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="牛头盾buff2" width="512" height="1024">
+    <SubTexture name="Devilbull_skill-NTD-1" x="0" y="198" width="170" height="189" pX="-32.75" pY="-19.8"/>
+    <SubTexture name="Devilbull_skill-NTD-2" x="351" y="188" width="159" height="177" pX="-36.2" pY="-31.1"/>
+    <SubTexture name="Devilbull_skill-NTD-3" x="171" y="382" width="172" height="186" pX="-28.35" pY="-22.55"/>
+    <SubTexture name="Devilbull_skill-NTD-4" x="178" y="0" width="178" height="187" pX="-27.15" pY="-21.55"/>
+    <SubTexture name="Devilbull_skill-NTD-5" x="0" y="0" width="177" height="197" pX="-27.65" pY="-11.05"/>
+    <SubTexture name="Devilbull_skill-NTD-6" x="178" y="188" width="172" height="193" pX="-27.05" pY="-14.05"/>
+  </TextureAtlas>
+</skeleton>

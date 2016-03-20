@@ -1,0 +1,86 @@
+<skeleton name="侍魂龙卷风z">
+  <armatures>
+    <armature name="shwind">
+      <b name="图层 2" bT="0" bi="retinue_skill5_wind-Ljuan-1" x="143.35" y="-115.3" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="shwind">
+      <mov name="shwind" to="1" dr="120" drTW="120">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.43" cY="2.7" z="0" img="retinue_skill5_wind-Ljuan-5" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="侍魂龙卷风z" width="512" height="512">
+    <SubTexture name="retinue_skill5_wind-Ljuan-1" x="0" y="164" width="132" height="149" pX="-4.5" pY="-13.5"/>
+    <SubTexture name="retinue_skill5_wind-Ljuan-2" x="134" y="0" width="137" height="153" pX="0" pY="-13"/>
+    <SubTexture name="retinue_skill5_wind-Ljuan-3" x="0" y="0" width="133" height="163" pX="-3.5" pY="0"/>
+    <SubTexture name="retinue_skill5_wind-Ljuan-4" x="261" y="311" width="123" height="143" pX="-6" pY="-20"/>
+    <SubTexture name="retinue_skill5_wind-Ljuan-5" x="133" y="310" width="127" height="150" pX="-1.5" pY="-14.5"/>
+    <SubTexture name="retinue_skill5_wind-Ljuan-6" x="272" y="0" width="129" height="157" pX="-0.5" pY="-9.5"/>
+    <SubTexture name="retinue_skill5_wind-Ljuan-7" x="134" y="154" width="131" height="155" pX="-2" pY="-9"/>
+    <SubTexture name="retinue_skill5_wind-Ljuan-8" x="266" y="158" width="133" height="152" pX="-4" pY="-11"/>
+  </TextureAtlas>
+</skeleton>

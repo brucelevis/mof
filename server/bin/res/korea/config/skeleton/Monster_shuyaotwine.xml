@@ -1,0 +1,48 @@
+<skeleton name="树精小怪光效">
+  <armatures>
+    <armature name="physical_2_1">
+      <b name="图层 47" bT="0" bi="Monster_shuyaotwine-sydi-01" x="192.4" y="278" kX="0" kY="0" z="0"/>
+      <b name="图层 46" bT="0" bi="Monster_shuyaotwine-sy-h1" x="198.55" y="204.5" kX="0" kY="0" z="1"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="physical_2_1">
+      <mov name="twining" to="1" dr="28" drTW="28">
+        <b name="图层 47" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.02" z="0" img="Monster_shuyaotwine-sydi-01" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.02" z="0" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.13" cY="1.02" z="0" twE="0" dr="1"/>
+          <f x="4.35" y="0.1" kX="0" kY="0" cX="1.3" cY="1.05" z="0" twE="0" dr="1"/>
+          <f x="4.35" y="0.1" kX="0" kY="0" cX="1.3" cY="1.05" z="0" twE="0" dr="2"/>
+          <f x="1.35" y="2.1" kX="0" kY="0" cX="1.61" cY="1.38" z="0" twE="0" dr="3"/>
+          <f x="1.35" y="2.1" kX="0" kY="0" cX="1.61" cY="1.38" z="0" twE="0" dr="18"/>
+          <f x="1.35" y="2.1" kX="0" kY="0" cX="1.61" cY="1.38" z="0" dr="1"/>
+        </b>
+        <b name="图层 46" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="Monster_shuyaotwine-sy-h1" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="Monster_shuyaotwine-sy-h2" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="Monster_shuyaotwine-sy-h3" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="Monster_shuyaotwine-sy-h4" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="Monster_shuyaotwine-sy-h5" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" img="Monster_shuyaotwine-sy-h6" twE="0" dr="2"/>
+          <f x="0.1" y="-6.2" kX="0" kY="0" cX="1.77" cY="2.18" z="1" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" twE="0" dr="2"/>
+          <f x="0.1" y="-6.2" kX="0" kY="0" cX="1.77" cY="2.18" z="1" twE="0" dr="2"/>
+          <f x="0.1" y="-6.2" kX="0" kY="0" cX="1.77" cY="2.18" z="1" twE="0" dr="2"/>
+          <f x="0" y="2.9" kX="0" kY="0" cX="2.05" cY="1.92" z="1" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="1" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="树精小怪光效" width="512" height="128">
+    <SubTexture name="Monster_shuyaotwine-sydi-01" x="313" y="0" width="67" height="20" pX="29.55" pY="14.7"/>
+    <SubTexture name="Monster_shuyaotwine-sy-h1" x="381" y="0" width="36" height="38" pX="17.9" pY="0.55"/>
+    <SubTexture name="Monster_shuyaotwine-sy-h2" x="0" y="0" width="79" height="55" pX="40.55" pY="18.15"/>
+    <SubTexture name="Monster_shuyaotwine-sy-h3" x="257" y="0" width="55" height="53" pX="26.7" pY="15.8"/>
+    <SubTexture name="Monster_shuyaotwine-sy-h4" x="198" y="0" width="58" height="57" pX="26.9" pY="20.15"/>
+    <SubTexture name="Monster_shuyaotwine-sy-h5" x="140" y="0" width="57" height="71" pX="27.6" pY="34.25"/>
+    <SubTexture name="Monster_shuyaotwine-sy-h6" x="80" y="0" width="59" height="71" pX="28.15" pY="34.7"/>
+  </TextureAtlas>
+</skeleton>

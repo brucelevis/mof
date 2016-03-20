@@ -1,0 +1,64 @@
+<skeleton name="获得新技能提示">
+  <armatures>
+    <armature name="huodexinjineng">
+      <b name="图层 1" bT="0" bi="animation_newskill-kuanghuang" x="1.05" y="0.9" kX="0" kY="0" z="0"/>
+      <b name="图层 3" bT="0" bi="animation_newskill-kuanghuang" x="1.05" y="0.9" kX="0" kY="0" z="0"/>
+      <b name="图层 4" bT="0" bi="animation_newskill-kuanghuang" x="1.05" y="0.9" kX="0" kY="0" z="1"/>
+      <b name="图层 5" bT="0" bi="animation_newskill-kuanghuang" x="1.05" y="0.9" kX="0" kY="0" z="0"/>
+      <b name="图层 7" bT="0" bi="animation_newskill-kuanghuang" x="1.05" y="0.9" kX="0" kY="0" z="0"/>
+      <b name="图层 6" bT="0" bi="animation_newskill-kuanghuang" x="1.05" y="0.9" kX="0" kY="0" z="1"/>
+      <b name="图层 8" bT="0" bi="animation_newskill-kuanghuang" x="1.05" y="0.9" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="huodexinjineng">
+      <mov name="huodexinjineng" to="1" dr="31" drTW="31" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.47" z="0" img="animation_newskill-kuanghuang" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.78" z="0" img="animation_newskill-kuanghuang tou" dr="2"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.47" z="0" img="animation_newskill-kuanghuang" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.75" cY="1.75" z="0" img="animation_newskill-kuanghuang tou" dr="2"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.47" z="1" img="animation_newskill-kuanghuang" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.6" cY="1.78" z="0" img="animation_newskill-kuanghuang tou" dr="2"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.47" z="0" img="animation_newskill-kuanghuang" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.75" cY="1.75" z="0" img="animation_newskill-kuanghuang tou" dr="2"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.47" z="0" img="animation_newskill-kuanghuang" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.78" cY="1.78" z="0" img="animation_newskill-kuanghuang tou" dr="2"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.47" z="1" img="animation_newskill-kuanghuang" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.99" cY="1.99" z="0" img="animation_newskill-kuanghuang tou" dr="2"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.47" cY="1.47" z="0" img="animation_newskill-kuanghuang" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.96" cY="1.96" z="0" img="animation_newskill-kuanghuang tou" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="获得新技能提示" width="512" height="64">
+    <SubTexture name="animation_newskill-kuanghuang" x="0" y="0" width="58" height="59" pX="27.5" pY="30"/>
+    <SubTexture name="animation_newskill-kuanghuang tou" x="59" y="0" width="58" height="59" pX="28.5" pY="30"/>
+  </TextureAtlas>
+</skeleton>

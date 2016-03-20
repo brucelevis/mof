@@ -1,0 +1,444 @@
+<skeleton name="威特(1)">
+  <armatures>
+    <armature name="stand">
+      <b name="图层 3" bT="0" bi="NPC_Weite-yz1" x="155.2" y="252.75" kX="0" kY="0" z="0"/>
+      <b name="arm 4" bT="0" bi="NPC_Weite-arm 05" x="170.8" y="207.8" kX="12.24" kY="12.24" z="1"/>
+      <b name="arm 40" bT="0" bi="NPC_Weite-arm 06" x="169.45" y="217.25" kX="12.24" kY="12.24" z="2"/>
+      <b name="arm 3" bT="0" bi="NPC_Weite-arm 3" x="174.05" y="196.45" kX="12.27" kY="12.27" z="3"/>
+      <b name="kuzi02" bT="0" bi="NPC_Weite-kuzi02" x="175.1" y="229.9" kX="0" kY="0" z="4"/>
+      <b name="rzn0-72a-1" bT="0" bi="NPC_Weite-rzn0-72a-1" x="172.1" y="250.65" kX="2" kY="-180" z="5"/>
+      <b name="kzz" bT="0" bi="NPC_Weite-kzz" x="173.05" y="212.55" kX="-11.7" kY="-11.7" z="6"/>
+      <b name="rzn0-71a-1" bT="0" bi="NPC_Weite-rzn0-71a-1" x="188.65" y="253.5" kX="0" kY="-180" z="7"/>
+      <b name="shenti" bT="0" bi="NPC_Weite-shenti" x="181.7" y="199.25" kX="0" kY="0" z="8"/>
+      <b name="jainban 02" bT="0" bi="NPC_Weite-jainban 02" x="173.75" y="189.4" kX="0" kY="0" z="9"/>
+      <b name="rzn0-81c-2" bT="0" bi="NPC_Weite-rzn0-81c-2" x="198.8" y="189.85" kX="41.49" kY="-138.51" z="10"/>
+      <b name="dzz" bT="0" bi="NPC_Weite-dzz aa" x="189.45" y="204.6" kX="-44.97" kY="-44.97" z="11"/>
+      <b name="dzz0" bT="0" bi="NPC_Weite-dzz 2" x="190.25" y="204.9" kX="-43.06" kY="-43.06" z="12"/>
+      <b name="arm 1" bT="0" bi="NPC_Weite-arm 1" x="195.95" y="198.1" kX="-18.54" kY="-18.54" z="13"/>
+      <b name="arm 2" bT="0" bi="NPC_Weite-arm 2" x="188.95" y="207.2" kX="48.99" kY="48.99" z="14"/>
+      <b name="jianbang 01" bT="0" bi="NPC_Weite-jianbang 01" x="191.05" y="190.2" kX="0" kY="0" z="15"/>
+      <b name="图层 4" bT="0" bi="NPC_Weite-toubu" x="183.35" y="165.1" kX="0" kY="0" z="16"/>
+      <b name="图层 5" bT="0" bi="NPC_Weite-mouth 1" x="180.5" y="181.25" kX="0" kY="0" z="17"/>
+      <b name="图层 6" bT="0" bi="NPC_Weite-eye 1" x="180.7" y="171.5" kX="0" kY="0" z="18"/>
+      <b name="图层 27" bT="0" bi="NPC_Weite-dzz aa" x="181.55" y="204.15" kX="-72.87" kY="-72.87" z="10"/>
+      <b name="图层 23" bT="0" bi="NPC_Weite-arm 05" x="172.5" y="207.6" kX="-49.5" kY="-49.5" z="18"/>
+      <b name="图层 8" bT="0" bi="NPC_Weite-arm 08" x="169.2" y="201.55" kX="38.76" kY="-141.24" z="19"/>
+      <b name="图层 24" bT="0" bi="NPC_Weite-dzz aa" x="152.1" y="160.8" kX="179.21" kY="179.21" z="17"/>
+      <b name="图层 21" bT="0" bi="NPC_Weite-fashi-nan0-41a-1" x="171.25" y="212.15" kX="-43.1" kY="-43.1" z="20"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="36" drTW="36" lp="1">
+        <b name="元件 48" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="NPC_Weite-yz1" dr="36"/>
+        </b>
+        <b name="fsn0-62a-1" sc="1" dl="0"/>
+        <b name="fsn0-71a-3" sc="1" dl="0"/>
+        <b name="fsn0-71b-1" sc="1" dl="0"/>
+        <b name="裙子" sc="1" dl="0"/>
+        <b name="元件 50" sc="1" dl="0"/>
+        <b name="元件 50 副本" sc="1" dl="0"/>
+        <b name="元件 45 副本站立" sc="1" dl="0"/>
+        <b name="元件 49" sc="1" dl="0"/>
+        <b name="元件 52" sc="1" dl="0"/>
+        <b name="元件 49 副本" sc="1" dl="0"/>
+        <b name="arm 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Weite-arm 05" twE="0" dr="17"/>
+          <f x="-0.75" y="-1.05" kX="2.19" kY="2.19" cX="1" cY="1" z="1" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="arm 40" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Weite-arm 06" twE="0" dr="17"/>
+          <f x="-1" y="-1.1" kX="2.19" kY="2.19" cX="1" cY="1" z="2" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="arm 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Weite-arm 3" twE="0" dr="17"/>
+          <f x="-0.4" y="-0.95" kX="2.19" kY="2.19" cX="1" cY="1" z="3" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="kuzi02" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="NPC_Weite-kuzi02" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="rzn0-72a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="5" img="NPC_Weite-rzn0-72a-1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="5" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="kzz" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="6" img="NPC_Weite-kzz" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="6" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="rzn0-71a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="7" img="NPC_Weite-rzn0-71a-1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="7" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="7" twE="0" dr="1"/>
+        </b>
+        <b name="shenti" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Weite-shenti" twE="0" dr="17"/>
+          <f x="0" y="-0.7" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="jainban 02" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="NPC_Weite-jainban 02" twE="0" dr="17"/>
+          <f x="0" y="-0.7" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="1"/>
+        </b>
+        <b name="rzn0-81c-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="NPC_Weite-rzn0-81c-2" twE="0" dr="17"/>
+          <f x="0.5" y="-0.55" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="1"/>
+        </b>
+        <b name="dzz" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="NPC_Weite-dzz aa" twE="0" dr="17"/>
+          <f x="0" y="-0.7" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="1"/>
+        </b>
+        <b name="arm 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="NPC_Weite-arm 2" twE="0" dr="17"/>
+          <f x="0" y="-0.7" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="1"/>
+        </b>
+        <b name="arm 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="NPC_Weite-arm 1" twE="0" dr="17"/>
+          <f x="0" y="-0.7" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="1"/>
+        </b>
+        <b name="jianbang 01" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="NPC_Weite-jianbang 01" twE="0" dr="17"/>
+          <f x="0" y="-0.7" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="NPC_Weite-toubu" twE="0" dr="17"/>
+          <f x="0" y="-0.7" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="NPC_Weite-mouth 1" twE="0" dr="17"/>
+          <f x="0" y="-0.7" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="NPC_Weite-eye 1" twE="0" dr="17"/>
+          <f x="0" y="-0.7" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="1"/>
+        </b>
+        <b name="arm 10" sc="1" dl="0"/>
+        <b name="dzz0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="NPC_Weite-dzz 2" twE="0" dr="17"/>
+          <f x="-0.15" y="-0.65" kX="-0.51" kY="-0.51" cX="1" cY="1" z="12" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="physical_1" to="1" dr="102" drTW="96" lp="0">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="NPC_Weite-yz1" dr="102"/>
+        </b>
+        <b name="arm 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="NPC_Weite-arm 05" twE="0" dr="2"/>
+          <f x="2.5" y="-4.8" kX="-112.62" kY="-112.62" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="-1.05" y="-6.8" kX="-99.42" kY="-99.42" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="-4.65" y="-16.25" kX="-156.39" kY="-156.39" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="-12.85" y="-23.2" kX="152.99" kY="152.99" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="-14.1" y="-34.25" kX="120.53" kY="120.53" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="-16.9" y="-29.45" kX="111.57" kY="111.57" cX="1" cY="1" z="1" dr="83"/>
+          <f x="-16.9" y="-29.45" kX="111.57" kY="111.57" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="-14.1" y="-34.25" kX="120.53" kY="120.53" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="0.75" y="-9.5" kX="-118.15" kY="-118.15" cX="1" cY="1" z="1" twE="0" dr="1"/>
+          <f x="3.5" y="-5.3" kX="-98.17" kY="-98.17" cX="1" cY="1" z="1" dr="1"/>
+          <f x="3.5" y="-5.8" kX="-98.17" kY="-98.17" cX="1" cY="1" z="1" dr="2"/>
+        </b>
+        <b name="arm 40" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Weite-arm 06" dr="1"/>
+          <f dr="101" hide="1"/>
+        </b>
+        <b name="arm 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="NPC_Weite-arm 3" twE="0" dr="2"/>
+          <f x="-1.9" y="-0.4" kX="23.51" kY="23.51" cX="1" cY="1" z="2" twE="0" dr="2"/>
+          <f x="-1.55" y="-2.4" kX="39.01" kY="39.01" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-4.9" y="-12.3" kX="104.46" kY="104.46" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-6.2" y="-9.6" kX="95.5" kY="95.5" cX="1" cY="1" z="2" dr="83"/>
+          <f x="-6.2" y="-9.6" kX="95.5" kY="95.5" cX="1" cY="1" z="2" twE="0" dr="4"/>
+          <f x="-4.9" y="-12.3" kX="104.46" kY="104.46" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="-1.55" y="-2.9" kX="39.01" kY="39.01" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="-0.85" y="-1.9" kX="27.72" kY="27.72" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="-1.05" y="-1.8" kX="16" kY="16" cX="1" cY="1" z="2" twE="0" dr="1"/>
+          <f x="-0.55" y="-0.9" kX="8.01" kY="8.01" cX="1" cY="1" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="kuzi02" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="NPC_Weite-kuzi02" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="-0.45" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="83"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="0" y="-0.45" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="rzn0-72a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="4" img="NPC_Weite-rzn0-72a-1" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="4" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="4" twE="0" dr="3"/>
+          <f x="0" y="-0.55" kX="0" kY="357.53" cX="0.9" cY="0.9" z="4" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="4" dr="83"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="4" twE="0" dr="4"/>
+          <f x="0" y="-0.55" kX="0" kY="357.53" cX="0.9" cY="0.9" z="4" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.9" cY="0.9" z="4" twE="0" dr="1"/>
+          <f x="-0.05" y="0" kX="0" kY="360" cX="0.9" cY="0.9" z="4" twE="0" dr="2"/>
+          <f x="-0.05" y="0.05" kX="0" kY="360" cX="0.9" cY="0.9" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="kzz" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="5" img="NPC_Weite-kzz" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="5" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="5" twE="0" dr="3"/>
+          <f x="0" y="-0.45" kX="0" kY="0" cX="0.95" cY="0.95" z="5" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="5" dr="83"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="5" twE="0" dr="4"/>
+          <f x="0" y="-0.45" kX="0" kY="0" cX="0.95" cY="0.95" z="5" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="5" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="5" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="rzn0-71a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="6" img="NPC_Weite-rzn0-71a-1" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="6" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="6" twE="0" dr="3"/>
+          <f x="0" y="-0.45" kX="0" kY="0" cX="0.95" cY="0.99" z="6" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="6" dr="83"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="6" twE="0" dr="4"/>
+          <f x="0" y="-0.45" kX="0" kY="0" cX="0.95" cY="0.99" z="6" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="0.95" z="6" twE="0" dr="1"/>
+          <f x="0" y="0" kX="0" kY="360" cX="0.95" cY="0.95" z="6" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="360" cX="0.95" cY="0.95" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="shenti" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="NPC_Weite-shenti" twE="0" dr="2"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="0" y="1.25" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="0.2" y="-0.85" kX="2.72" kY="2.72" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="83"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="0.2" y="-0.85" kX="2.72" kY="2.72" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="0" y="0.75" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="1"/>
+          <f x="0" y="0.65" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="0" y="0.2" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="1"/>
+        </b>
+        <b name="jainban 02" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="NPC_Weite-jainban 02" twE="0" dr="2"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="0" y="1.25" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0.65" y="-1.25" kX="2.72" kY="2.72" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="83"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="0.65" y="-1.25" kX="2.72" kY="2.72" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="0" y="0.75" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="1"/>
+          <f x="0" y="0.65" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="2"/>
+          <f x="0" y="0.2" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="rzn0-81c-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="NPC_Weite-rzn0-81c-2" twE="0" dr="2"/>
+          <f x="0.1" y="1.1" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="0.2" y="0.9" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="0.65" y="-0.05" kX="2.72" kY="2.72" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="83"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="0.65" y="-0.05" kX="2.72" kY="2.72" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="-0.5" y="0.55" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="1"/>
+          <f x="-0.4" y="0.45" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="2"/>
+          <f x="-0.1" y="0.15" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="1"/>
+        </b>
+        <b name="图层 27" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="NPC_Weite-dzz aa" twE="0" dr="1"/>
+          <f x="-7.95" y="-8.8" kX="13.9" kY="13.9" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="-21.9" y="-31.7" kX="-98.39" kY="-98.39" cX="1" cY="1" z="10" dr="1"/>
+          <f dr="91" hide="1"/>
+          <f x="3.1" y="-2.2" kX="10.44" kY="10.44" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="6.7" y="1.15" kX="9.45" kY="9.45" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="7.45" y="1.15" kX="13.15" kY="13.15" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="7.45" y="1.15" kX="13.15" kY="13.15" cX="1" cY="1" z="10" twE="0" dr="1"/>
+        </b>
+        <b name="dzz" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="NPC_Weite-dzz aa" twE="0" dr="2"/>
+          <f x="0.2" y="1.4" kX="-20.2" kY="-20.2" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="-2.65" y="0.25" kX="-21.66" kY="-21.66" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f dr="98" hide="1"/>
+        </b>
+        <b name="arm 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="NPC_Weite-arm 2" twE="0" dr="2"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="2"/>
+          <f x="0" y="1.25" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="4.9" y="3.3" kX="-25.61" kY="-25.61" cX="1" cY="1" z="12" img="NPC_Weite-arm 5" twE="0" dr="3"/>
+          <f x="0.25" y="1.65" kX="-5.99" kY="-5.99" cX="1" cY="1" z="12" dr="83"/>
+          <f x="0.25" y="1.65" kX="-5.99" kY="-5.99" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="4.9" y="3.3" kX="-25.61" kY="-25.61" cX="1" cY="1" z="13" img="NPC_Weite-arm 2" twE="0" dr="2"/>
+          <f x="1.95" y="3.2" kX="-15.4" kY="-15.4" cX="1" cY="1" z="13" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="1"/>
+        </b>
+        <b name="arm 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="NPC_Weite-arm 1" twE="0" dr="2"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="2"/>
+          <f x="0" y="1.25" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="1.5" y="-0.15" kX="-3.46" kY="-3.46" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="0.05" y="0.15" kX="2.01" kY="2.01" cX="1" cY="1" z="11" dr="83"/>
+          <f x="0.05" y="0.15" kX="2.01" kY="2.01" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="1.5" y="-0.15" kX="-3.46" kY="-3.46" cX="1" cY="1" z="12" twE="0" dr="2"/>
+          <f x="0" y="0.65" kX="0.01" kY="0.01" cX="1" cY="1" z="12" twE="0" dr="2"/>
+          <f x="0.05" y="0.2" kX="0.01" kY="0.01" cX="1" cY="1" z="12" twE="0" dr="1"/>
+        </b>
+        <b name="jianbang 01" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="NPC_Weite-jianbang 01" twE="0" dr="2"/>
+          <f x="0" y="1.5" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="2"/>
+          <f x="0" y="1.25" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="0.6" y="-0.45" kX="2.72" kY="2.72" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="83"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="0.6" y="-0.45" kX="2.72" kY="2.72" cX="1" cY="1" z="13" twE="0" dr="1"/>
+          <f x="0" y="0.75" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="1"/>
+          <f x="0" y="0.65" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="2"/>
+          <f x="0" y="0.2" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="NPC_Weite-toubu" twE="0" dr="2"/>
+          <f x="-0.25" y="1.5" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="2"/>
+          <f x="-0.25" y="1.25" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="3.05" y="-1.25" kX="7.71" kY="7.71" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="1.25" y="0" kX="4.98" kY="4.98" cX="1" cY="1" z="14" dr="83"/>
+          <f x="1.25" y="0" kX="4.98" kY="4.98" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="3.05" y="-1.25" kX="7.71" kY="7.71" cX="1" cY="1" z="14" twE="0" dr="1"/>
+          <f x="-0.25" y="1" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="1"/>
+          <f x="-0.25" y="1" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="2"/>
+          <f x="-0.1" y="0.35" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="NPC_Weite-mouth 1" twE="0" dr="2"/>
+          <f x="-0.25" y="1.5" kX="0" kY="0" cX="1" cY="1" z="16" img="NPC_Weite-mouth 2" twE="0" dr="2"/>
+          <f x="-0.25" y="1.25" kX="0" kY="0" cX="1" cY="1" z="16" img="NPC_Weite-mouth 3" twE="0" dr="3"/>
+          <f x="0.9" y="-1.75" kX="7.71" kY="7.71" cX="1" cY="1.58" z="15" twE="0" dr="3"/>
+          <f x="-0.15" y="-0.3" kX="4.98" kY="4.98" cX="1" cY="1" z="15" dr="83"/>
+          <f x="-0.25" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="NPC_Weite-mouth 2" twE="0" dr="4"/>
+          <f x="0.9" y="-1.75" kX="7.71" kY="7.71" cX="1" cY="1.58" z="15" twE="0" dr="1"/>
+          <f x="-0.25" y="1" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="1"/>
+          <f x="-0.25" y="1" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="2"/>
+          <f x="-0.1" y="0.35" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="NPC_Weite-eye 1" twE="0" dr="2"/>
+          <f x="-0.25" y="1.5" kX="0" kY="0" cX="1" cY="1" z="17" img="NPC_Weite-eye 2" twE="0" dr="2"/>
+          <f x="-0.25" y="1.25" kX="0" kY="0" cX="1" cY="1" z="17" img="NPC_Weite-eye3" twE="0" dr="3"/>
+          <f x="2.2" y="-1.65" kX="7.71" kY="7.71" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="0.7" y="-0.25" kX="4.98" kY="4.98" cX="1" cY="1" z="16" dr="83"/>
+          <f x="0.7" y="-0.25" kX="4.98" kY="4.98" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="2.2" y="-1.65" kX="7.71" kY="7.71" cX="1" cY="1" z="16" twE="0" dr="1"/>
+          <f x="-0.25" y="1" kX="0" kY="0" cX="1" cY="1" z="17" img="NPC_Weite-eye 2" twE="0" dr="1"/>
+          <f x="-0.25" y="1" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="1"/>
+          <f x="-0.1" y="0.25" kX="0" kY="0" cX="1" cY="1" z="17" img="NPC_Weite-eye 1" twE="0" dr="1"/>
+          <f x="-0.05" y="0.15" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0"/>
+        <b name="arm 10" sc="1" dl="0"/>
+        <b name="图层 25" sc="1" dl="0"/>
+        <b name="图层 23" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="NPC_Weite-arm 05" twE="0" dr="1"/>
+          <f x="0.8" y="-4.6" kX="-50.88" kY="-50.88" cX="1" cY="1" z="18" twE="0" dr="2"/>
+          <f x="-2.7" y="-6.25" kX="-36.43" kY="-36.43" cX="1" cY="1" z="18" twE="0" dr="1"/>
+          <f x="-7.85" y="-16.05" kX="-94.65" kY="-94.65" cX="1" cY="1" z="18" twE="0" dr="1"/>
+          <f x="-14.55" y="-23" kX="214.73" kY="214.73" cX="1" cY="1" z="18" twE="0" dr="1"/>
+          <f dr="91" hide="1"/>
+          <f x="-0.8" y="-8.95" kX="-55.16" kY="-55.16" cX="1" cY="1" z="18" twE="0" dr="1"/>
+          <f x="1.8" y="-5.1" kX="-36.43" kY="-36.43" cX="1" cY="1" z="18" twE="0" dr="1"/>
+          <f x="2.5" y="-6.65" kX="-46.39" kY="-46.39" cX="1" cY="1" z="18" twE="0" dr="1"/>
+          <f x="4.3" y="-5.9" kX="-46.65" kY="-46.65" cX="1" cY="1" z="18" twE="0" dr="1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="NPC_Weite-dzz aa" twE="0" dr="3"/>
+          <f x="-6.75" y="6.75" kX="-21.03" kY="-21.03" cX="1" cY="1" z="17" twE="0" dr="83"/>
+          <f x="-6.75" y="6.75" kX="-21.03" kY="-21.03" cX="1" cY="1" z="17" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="1"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="NPC_Weite-fashi-nan0-41a-1" twE="0" dr="1"/>
+          <f x="4" y="-5.25" kX="-44.18" kY="-44.18" cX="1" cY="1" z="20" img="NPC_Weite-fashi-nan0-41a-12" twE="0" dr="1"/>
+          <f x="1.5" y="-6.2" kX="-44.18" kY="-44.18" cX="1" cY="1" z="20" twE="0" dr="1"/>
+          <f x="-3.4" y="-7.4" kX="-33.71" kY="-33.71" cX="1" cY="1" z="20" twE="0" dr="1"/>
+          <f x="-12.55" y="-21.75" kX="-3.06" kY="-3.06" cX="1" cY="1" z="19" twE="0" dr="1"/>
+          <f x="-10.4" y="-25" kX="-118.49" kY="-118.49" cX="1" cY="1" z="19" twE="0" dr="1"/>
+          <f x="-12.85" y="-41.75" kX="200.2" kY="200.2" cX="1" cY="1" z="18" img="NPC_Weite-fashi-nan0-41a-13" twE="0" dr="3"/>
+          <f x="-16.55" y="-37.8" kX="178.99" kY="178.99" cX="1" cY="1" z="18" twE="0" dr="83"/>
+          <f x="-16.55" y="-37.8" kX="178.99" kY="178.99" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="-12.85" y="-41.75" kX="200.2" kY="200.2" cX="1" cY="1" z="18" twE="0" dr="1"/>
+          <f x="-0.85" y="-11.6" kX="-33.71" kY="-33.71" cX="1" cY="1" z="20" img="NPC_Weite-fashi-nan0-41a-12" twE="0" dr="1"/>
+          <f x="4" y="-6.5" kX="-32.87" kY="-32.87" cX="1" cY="1" z="20" twE="0" dr="1"/>
+          <f x="5.35" y="-6.8" kX="-42.83" kY="-42.83" cX="1" cY="1" z="20" twE="0" dr="1"/>
+          <f x="5.35" y="-6.8" kX="-32.87" kY="-32.87" cX="1" cY="1" z="20" twE="0" dr="1"/>
+        </b>
+        <b name="dzz0" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="NPC_Weite-dzz 2" twE="0" dr="2"/>
+          <f x="0.25" y="1.1" kX="-19.96" kY="-19.96" cX="1" cY="1" z="11" twE="0" dr="1"/>
+          <f x="-0.6" y="1" kX="-23.67" kY="-23.67" cX="1" cY="1" z="11" twE="0" dr="1"/>
+          <f x="-1" y="1.2" kX="-30.29" kY="-30.29" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="-1.8" y="-1.9" kX="0.64" kY="0.64" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="-1.7" y="-1.3" kX="-1.06" kY="-1.06" cX="1" cY="1" z="10" dr="83"/>
+          <f x="-1.7" y="-1.3" kX="-1.06" kY="-1.06" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="-1.8" y="-1.9" kX="0.64" kY="0.64" cX="1" cY="1" z="10" twE="0" dr="1"/>
+          <f x="-0.7" y="-0.15" kX="-18.32" kY="-18.32" cX="1" cY="1" z="11" twE="0" dr="1"/>
+          <f x="-0.55" y="0.15" kX="-16.34" kY="-16.34" cX="1" cY="1" z="11" twE="0" dr="2"/>
+          <f x="0.15" y="0.2" kX="-12.53" kY="-12.53" cX="1" cY="1" z="11" twE="0" dr="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="NPC_Weite-arm 08" dr="1"/>
+          <f x="-1.3" y="0.6" kX="-46.2" kY="313.8" cX="1" cY="1" z="19" twE="0" dr="2"/>
+          <f x="-4.55" y="-2.6" kX="-21.73" kY="-21.73" cX="1" cY="1" z="19" dr="1"/>
+          <f dr="93" hide="1"/>
+          <f x="-3.3" y="-4.35" kX="-51.01" kY="308.99" cX="1" cY="1" z="19" dr="1"/>
+          <f x="-0.8" y="-1.25" kX="-51.01" kY="308.99" cX="1" cY="1" z="19" dr="1"/>
+          <f x="0.65" y="-1.05" kX="-51.01" kY="308.99" cX="1" cY="1" z="19" dr="1"/>
+          <f x="1.7" y="-0.55" kX="-61.22" kY="298.78" cX="1" cY="1" z="19" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="威特(1)" width="512" height="64">
+    <SubTexture name="NPC_Weite-yz1" x="0" y="0" width="71" height="20" pX="5.8" pY="3.3"/>
+    <SubTexture name="NPC_Weite-arm 05" x="396" y="0" width="7" height="14" pX="2.6" pY="7.8"/>
+    <SubTexture name="NPC_Weite-arm 06" x="374" y="0" width="10" height="15" pX="4.25" pY="6.95"/>
+    <SubTexture name="NPC_Weite-arm 3" x="311" y="0" width="11" height="20" pX="4.25" pY="9.45"/>
+    <SubTexture name="NPC_Weite-kuzi02" x="205" y="0" width="11" height="32" pX="4.6" pY="15.1"/>
+    <SubTexture name="NPC_Weite-rzn0-72a-1" x="176" y="0" width="28" height="21" pX="12.35" pY="10.45"/>
+    <SubTexture name="NPC_Weite-kzz" x="144" y="0" width="14" height="42" pX="-2.85" pY="0"/>
+    <SubTexture name="NPC_Weite-rzn0-71a-1" x="217" y="0" width="19" height="23" pX="13.55" pY="11.6"/>
+    <SubTexture name="NPC_Weite-shenti" x="118" y="0" width="25" height="38" pX="11.8" pY="18.35"/>
+    <SubTexture name="NPC_Weite-jainban 02" x="447" y="0" width="5" height="6" pX="1.9" pY="2.45"/>
+    <SubTexture name="NPC_Weite-rzn0-81c-2" x="323" y="0" width="7" height="24" pX="-7.4" pY="2.35"/>
+    <SubTexture name="NPC_Weite-dzz aa" x="159" y="0" width="16" height="34" pX="7" pY="16.85"/>
+    <SubTexture name="NPC_Weite-arm 2" x="237" y="0" width="14" height="24" pX="5.2" pY="13.05"/>
+    <SubTexture name="NPC_Weite-arm 1" x="364" y="0" width="9" height="20" pX="4.3" pY="10.3"/>
+    <SubTexture name="NPC_Weite-jianbang 01" x="435" y="0" width="11" height="9" pX="3.55" pY="3.6"/>
+    <SubTexture name="NPC_Weite-toubu" x="72" y="0" width="45" height="43" pX="21.55" pY="20.6"/>
+    <SubTexture name="NPC_Weite-mouth 1" x="461" y="0" width="6" height="3" pX="2.1" pY="0.5"/>
+    <SubTexture name="NPC_Weite-eye 1" x="289" y="0" width="21" height="12" pX="9.65" pY="5.25"/>
+    <SubTexture name="NPC_Weite-dzz 2" x="331" y="0" width="11" height="19" pX="4.7" pY="3.25"/>
+    <SubTexture name="NPC_Weite-arm 5" x="252" y="0" width="14" height="22" pX="5.6" pY="13.05"/>
+    <SubTexture name="NPC_Weite-mouth 2" x="468" y="0" width="6" height="2" pX="2.05" pY="0.45"/>
+    <SubTexture name="NPC_Weite-mouth 3" x="453" y="0" width="7" height="4" pX="2.65" pY="1.15"/>
+    <SubTexture name="NPC_Weite-eye 2" x="343" y="0" width="20" height="10" pX="9.55" pY="3.55"/>
+    <SubTexture name="NPC_Weite-eye3" x="267" y="0" width="21" height="12" pX="9.45" pY="5.55"/>
+    <SubTexture name="NPC_Weite-fashi-nan0-41a-1" x="425" y="0" width="9" height="10" pX="-0.8" pY="0"/>
+    <SubTexture name="NPC_Weite-fashi-nan0-41a-12" x="404" y="0" width="9" height="11" pX="-0.4" pY="0"/>
+    <SubTexture name="NPC_Weite-fashi-nan0-41a-13" x="385" y="0" width="10" height="11" pX="-1.2" pY="1.9"/>
+    <SubTexture name="NPC_Weite-arm 08" x="414" y="0" width="10" height="10" pX="4.2" pY="4.25"/>
+  </TextureAtlas>
+</skeleton>

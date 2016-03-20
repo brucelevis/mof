@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="78" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="用到的资源1" tilewidth="64" tileheight="64">
+  <image source="505214_1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="65" name="用到的资源2" tilewidth="64" tileheight="64">
+  <image source="505214_2.png" width="512" height="512"/>
+ </tileset>
+ <layer name="地板1" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztxyUSgGAYBuEfKUhBClKQghSkIPc/F3uELzPvzjxhnVNKqX924caDV29+Dz4ChHrzR4iRINWbP0OOAqXe/BVqNGj15u/QY8CoN/+EGQtWvfk37Dhw6s3/ATuPSkk=
+  </data>
+ </layer>
+ <layer name="阴影2" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztw7ENAAAIA6C+6v9POHbXFRISAKjxFAD4W3haHY8=
+  </data>
+ </layer>
+ <layer name="地上光2" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkzkKwDAMBP24XEWuIof//5Ks62CwErGo2IHpBm2llIQQQog3HezhAEc4/ewsvfc2c3OGC1zhBvfKndbO0ntvMzcPeMIL3jBX7rR2lt57m7HJ+gtrH/l3C6y/sPaRf7fA+gtrH/l3xXce4sJGbA==
+  </data>
+ </layer>
+ <layer name="骰子地毯2" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAowQSEQF9FBDzX109q8gQDU9AO1zKLEnOEQJ7QCpIRNCRpOxSJGDC6nkjmUmIWujxIzCakfBaNgFAx+AACqRisY
+  </data>
+ </layer>
+ <objectgroup name="monster" width="78" height="12">
+  <object name="50072" x="653" y="397"/>
+  <object name="50072" x="653" y="544"/>
+  <object name="50072" x="653" y="691"/>
+  <object name="50071" x="1139" y="397"/>
+  <object name="50070" x="883" y="397"/>
+  <object name="50070" x="883" y="691"/>
+  <object name="50071" x="1139" y="544"/>
+  <object name="50071" x="1139" y="691"/>
+  <object name="50070" x="2381" y="461"/>
+  <object name="50070" x="2189" y="461"/>
+  <object name="50070" x="2189" y="627"/>
+  <object name="50070" x="2381" y="627"/>
+  <object name="50071" x="2573" y="461"/>
+  <object name="50071" x="2573" y="627"/>
+  <object name="50072" x="2739" y="461"/>
+  <object name="50072" x="2739" y="627"/>
+  <object name="51008" x="4237" y="544"/>
+  <object name="50071" x="4045" y="653"/>
+  <object name="50071" x="4045" y="435"/>
+  <object name="50070" x="3917" y="435"/>
+  <object name="50070" x="3917" y="653"/>
+ </objectgroup>
+ <objectgroup name="area" width="78" height="12" visible="0">
+  <object x="6" y="352" width="1536" height="384"/>
+  <object x="1728" y="352" width="1536" height="384"/>
+  <object x="3450" y="352" width="1536" height="384"/>
+ </objectgroup>
+ <objectgroup name="bg" width="78" height="12">
+  <object name="505214_bg" x="0" y="0" width="1200" height="512"/>
+ </objectgroup>
+ <objectgroup name="AreaBornPoint" width="78" height="12" visible="0">
+  <object x="1822" y="539"/>
+  <object x="3554" y="543"/>
+ </objectgroup>
+</map>

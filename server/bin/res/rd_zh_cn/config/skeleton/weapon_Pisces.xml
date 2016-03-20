@@ -1,0 +1,15 @@
+<skeleton name="双鱼座武器">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_xiongmao" bT="0" bi="weapon_Pisces-fs_Pisces" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_Pisces-fs_Pisces"/>
+      <b name="weapon-ck_xiongmao" bT="0" bi="weapon_Pisces-ck_Pisces" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_Pisces-ck_Pisces"/>
+      <b name="weapon-zs_xiongmao" bT="0" bi="weapon_Pisces-zs_Pisces" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_Pisces-zs_Pisces"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="双鱼座武器" width="512" height="256">
+    <SubTexture name="weapon_Pisces-fs_Pisces" x="0" y="0" width="67" height="210" pX="40.5" pY="105.65"/>
+    <SubTexture name="weapon_Pisces-ck_Pisces" x="261" y="0" width="72" height="135" pX="39.1" pY="81.55"/>
+    <SubTexture name="weapon_Pisces-zs_Pisces" x="68" y="0" width="192" height="59" pX="35.9" pY="32.05"/>
+  </TextureAtlas>
+</skeleton>

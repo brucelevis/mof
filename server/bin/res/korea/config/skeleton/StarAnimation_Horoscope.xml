@@ -1,0 +1,37 @@
+<skeleton name="星座点亮z (2)">
+  <armatures>
+    <armature name="StarLight">
+      <b name="Layer1" bT="0" bi="StarAnimation_Horoscope-guanggaaa1" x="0.85" y="0.35" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="StarLight">
+      <mov name="StarLight" to="1" dr="19" drTW="21">
+        <b name="Layer1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="StarAnimation_Horoscope-guanggaaa1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="StarAnimation_Horoscope-guanggaaa3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="StarAnimation_Horoscope-guanggaaa5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="StarAnimation_Horoscope-guanggaaa7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="StarAnimation_Horoscope-guanggaaa9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="StarAnimation_Horoscope-guanggaaa11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="StarAnimation_Horoscope-guanggaaa13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="StarAnimation_Horoscope-guanggaaa15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="StarAnimation_Horoscope-guanggaaa17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="StarAnimation_Horoscope-guanggaaa19" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="星座点亮z (2)" width="512" height="1024">
+    <SubTexture name="StarAnimation_Horoscope-guanggaaa1" x="479" y="94" width="27" height="27" pX="13.85" pY="11.35"/>
+    <SubTexture name="StarAnimation_Horoscope-guanggaaa3" x="405" y="0" width="93" height="93" pX="46.9" pY="44.4"/>
+    <SubTexture name="StarAnimation_Horoscope-guanggaaa5" x="0" y="207" width="160" height="160" pX="79.05" pY="81"/>
+    <SubTexture name="StarAnimation_Horoscope-guanggaaa7" x="0" y="0" width="206" height="206" pX="102.3" pY="99.65"/>
+    <SubTexture name="StarAnimation_Horoscope-guanggaaa9" x="207" y="0" width="197" height="196" pX="98.7" pY="96.25"/>
+    <SubTexture name="StarAnimation_Horoscope-guanggaaa11" x="207" y="197" width="178" height="178" pX="89.8" pY="87.55"/>
+    <SubTexture name="StarAnimation_Horoscope-guanggaaa13" x="0" y="368" width="160" height="159" pX="79.6" pY="77.75"/>
+    <SubTexture name="StarAnimation_Horoscope-guanggaaa15" x="161" y="376" width="139" height="138" pX="69.4" pY="68.3"/>
+    <SubTexture name="StarAnimation_Horoscope-guanggaaa17" x="386" y="197" width="110" height="109" pX="54.55" pY="53.9"/>
+    <SubTexture name="StarAnimation_Horoscope-guanggaaa19" x="405" y="94" width="73" height="73" pX="35.8" pY="35.55"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,15 @@
+<skeleton name="开学武器源文件(1)">
+  <armatures>
+    <armature name="cc_weapon">
+      <b name="weapon-fs_kaixue" bT="0" bi="weapon_newterm-weapon-fs_kaixue" x="0.55" y="-5.2" kX="0" kY="0" z="0" img="weapon_newterm-weapon-fs_kaixue"/>
+      <b name="weapon-ck_kaixue" bT="0" bi="weapon_newterm-weapon-ck_kaixue" x="3.6" y="-10.6" kX="0" kY="0" z="1" img="weapon_newterm-weapon-ck_kaixue"/>
+      <b name="weapon-zs_kaixue" bT="0" bi="weapon_newterm-weapon-zs_kaixue" x="-35.15" y="-3.6" kX="0" kY="0" z="2" img="weapon_newterm-weapon-zs_kaixue"/>
+    </armature>
+  </armatures>
+  <animations/>
+  <TextureAtlas name="开学武器源文件(1)" width="512" height="256">
+    <SubTexture name="weapon_newterm-weapon-fs_kaixue" x="0" y="0" width="39" height="190" pX="17.9" pY="93.25"/>
+    <SubTexture name="weapon_newterm-weapon-ck_kaixue" x="185" y="0" width="29" height="89" pX="19.65" pY="44.7"/>
+    <SubTexture name="weapon_newterm-weapon-zs_kaixue" x="40" y="0" width="144" height="29" pX="11.5" pY="13.35"/>
+  </TextureAtlas>
+</skeleton>

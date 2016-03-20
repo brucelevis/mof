@@ -1,0 +1,181 @@
+<skeleton name="功能开启(改)">
+  <armatures>
+    <armature name="gongnengkaiqi">
+      <b name="图层 4" bT="0" bi="Function_open-huiguang 1" x="-68.8" y="-40.4" kX="0" kY="0" z="0"/>
+      <b name="图层 5" bT="0" bi="Function_open-huiguang 1" x="67.4" y="-40.4" kX="0" kY="180" z="1"/>
+      <b name="Layer 1  复制 46044" bT="0" bi="Function_open-888" x="-21.15" y="17.1" kX="179.82" kY="-0.28" z="2"/>
+      <b name="Layer 1  复制 460440" bT="0" bi="Function_open-888" x="-21.15" y="17.1" kX="179.82" kY="-0.28" z="3"/>
+      <b name="Layer 1  复制 460441" bT="0" bi="Function_open-888" x="-12.4" y="-5.65" kX="179.82" kY="-0.28" z="3"/>
+      <b name="Layer 1  复制 460442" bT="0" bi="Function_open-888" x="8.55" y="11.05" kX="179.82" kY="-0.28" z="4"/>
+      <b name="Layer 1  复制 460443" bT="0" bi="Function_open-888" x="-4.2" y="-0.45" kX="179.82" kY="-0.28" z="4"/>
+      <b name="Layer 1  复制 460444" bT="0" bi="Function_open-888" x="8.85" y="17.1" kX="179.82" kY="-0.28" z="5"/>
+      <b name="Layer 1  复制 460445" bT="0" bi="Function_open-888" x="3.1" y="-4.4" kX="179.82" kY="-0.28" z="5"/>
+      <b name="Layer 1  复制 460446" bT="0" bi="Function_open-888" x="-12.4" y="-5.65" kX="179.82" kY="-0.28" z="6"/>
+      <b name="Layer 1  复制 460447" bT="0" bi="Function_open-888" x="-28.65" y="3.55" kX="179.82" kY="-0.28" z="7"/>
+      <b name="Layer 1  复制 460448" bT="0" bi="Function_open-888" x="-1.45" y="21.05" kX="179.82" kY="-0.28" z="8"/>
+      <b name="Layer 1  复制 460449" bT="0" bi="Function_open-888" x="-14.2" y="9.55" kX="179.82" kY="-0.28" z="10"/>
+      <b name="Layer 1  复制 4604410" bT="0" bi="Function_open-888" x="-6.25" y="-26.45" kX="179.82" kY="-0.28" z="10"/>
+      <b name="Layer 1  复制 4604411" bT="0" bi="Function_open-888" x="24.8" y="8.6" kX="179.82" kY="-0.28" z="13"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="gongnengkaiqi">
+      <mov name="gongnengkaiqi" to="1" dr="65" drTW="65" lp="0">
+        <b name="图层 1" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 20" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 22" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 24" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 26" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 28" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 30" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 32" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="0" img="Function_open-huiguang 36" dr="2"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 16" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 18" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 20" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 22" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 24" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 26" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 28" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 30" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 32" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2.48" cY="2.48" z="1" img="Function_open-huiguang 36" dr="2"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 46044" sc="1" dl="0">
+          <f dr="24" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="2" img="Function_open-888" twE="0" dr="10"/>
+          <f x="-24" y="16.5" kX="0" kY="0" cX="2.12" cY="2.61" z="2" twE="0" dr="10"/>
+          <f x="-27.95" y="6.15" kX="0" kY="0.01" cX="0.17" cY="0.21" z="2" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 460440" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="3" img="Function_open-888" twE="0" dr="10"/>
+          <f x="-24" y="16.5" kX="0" kY="0" cX="2.12" cY="2.61" z="3" twE="0" dr="10"/>
+          <f x="-27.95" y="6.15" kX="0" kY="0.01" cX="0.17" cY="0.21" z="3" dr="1"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 460441" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="3" img="Function_open-888" twE="0" dr="10"/>
+          <f x="-20.35" y="2.5" kX="0" kY="0" cX="2.12" cY="2.61" z="2" twE="0" dr="10"/>
+          <f x="-14.95" y="-21.35" kX="0" kY="0.01" cX="0.17" cY="0.21" z="2" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 460442" sc="1" dl="0">
+          <f dr="34" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="4" img="Function_open-888" twE="0" dr="10"/>
+          <f x="-7.85" y="5.45" kX="0" kY="0" cX="2.12" cY="2.61" z="0" twE="0" dr="10"/>
+          <f x="4.55" y="-8.5" kX="0" kY="0.01" cX="0.17" cY="0.21" z="0" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 460443" sc="1" dl="0">
+          <f dr="39" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="4" img="Function_open-888" twE="0" dr="7"/>
+          <f x="-7.85" y="5.45" kX="0" kY="0" cX="2.12" cY="2.61" z="1" twE="0" dr="8"/>
+          <f x="4.55" y="-8.5" kX="0" kY="0.01" cX="0.17" cY="0.21" z="1" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 460444" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="5" img="Function_open-888" twE="0" dr="10"/>
+          <f x="1.75" y="15" kX="0" kY="0" cX="2.12" cY="2.61" z="6" twE="0" dr="10"/>
+          <f x="19.8" y="5.65" kX="0" kY="0.01" cX="0.17" cY="0.21" z="6" dr="1"/>
+          <f dr="24" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 460445" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="5" img="Function_open-888" twE="0" dr="10"/>
+          <f x="4.65" y="-1.25" kX="0" kY="0" cX="2.12" cY="2.61" z="7" twE="0" dr="10"/>
+          <f x="20.8" y="-16.6" kX="0" kY="0.01" cX="0.17" cY="0.21" z="6" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 460446" sc="1" dl="0">
+          <f dr="19" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="6" img="Function_open-888" twE="0" dr="10"/>
+          <f x="-20.35" y="2.5" kX="0" kY="0" cX="2.12" cY="2.61" z="7" twE="0" dr="10"/>
+          <f x="-14.95" y="-21.35" kX="0" kY="0.01" cX="0.17" cY="0.21" z="7" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 460447" sc="1" dl="0">
+          <f dr="18" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="7" img="Function_open-888" twE="0" dr="10"/>
+          <f x="-21.35" y="10.5" kX="0" kY="0" cX="2.12" cY="2.61" z="9" twE="0" dr="10"/>
+          <f x="-22.6" y="-2.25" kX="0" kY="0.01" cX="0.17" cY="0.21" z="8" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 460448" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="8" img="Function_open-888" twE="0" dr="10"/>
+          <f x="-7.85" y="5.45" kX="0" kY="0" cX="2.12" cY="2.61" z="10" twE="0" dr="10"/>
+          <f x="4.55" y="-8.5" kX="0" kY="0.01" cX="0.17" cY="0.21" z="10" dr="1"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 460449" sc="1" dl="0">
+          <f dr="23" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="10" img="Function_open-888" twE="0" dr="7"/>
+          <f x="-7.85" y="5.45" kX="0" kY="0" cX="2.12" cY="2.61" z="11" twE="0" dr="8"/>
+          <f x="4.55" y="-8.5" kX="0" kY="0.01" cX="0.17" cY="0.21" z="9" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 4604410" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="10" img="Function_open-888" twE="0" dr="8"/>
+          <f x="-14.2" y="0" kX="0" kY="0" cX="2.12" cY="2.61" z="12" twE="0" dr="9"/>
+          <f x="-9.2" y="-21.5" kX="0" kY="0.01" cX="0.17" cY="0.21" z="12" dr="1"/>
+          <f dr="27" hide="1"/>
+        </b>
+        <b name="Layer 1  复制 4604411" sc="1" dl="0">
+          <f dr="27" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.48" z="13" img="Function_open-888" twE="0" dr="10"/>
+          <f x="-2.6" y="11.2" kX="0" kY="0" cX="2.12" cY="2.61" z="5" twE="0" dr="11"/>
+          <f x="14.3" y="-1.25" kX="0" kY="0.01" cX="0.17" cY="0.21" z="5" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="功能开启(改)" width="512" height="256">
+    <SubTexture name="Function_open-huiguang 1" x="124" y="65" width="32" height="68" pX="3.1" pY="28.8"/>
+    <SubTexture name="Function_open-huiguang 3" x="455" y="55" width="33" height="69" pX="4.35" pY="29.55"/>
+    <SubTexture name="Function_open-huiguang 5" x="411" y="0" width="43" height="69" pX="13.8" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 7" x="362" y="0" width="48" height="69" pX="19" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 9" x="310" y="0" width="51" height="69" pX="22.25" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 11" x="256" y="0" width="53" height="69" pX="24.4" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 13" x="63" y="0" width="60" height="69" pX="30.9" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 16" x="0" y="0" width="62" height="69" pX="32.9" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 18" x="124" y="0" width="63" height="64" pX="33.65" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 20" x="188" y="0" width="67" height="57" pX="38.15" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 22" x="188" y="58" width="59" height="50" pX="38.15" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 24" x="455" y="0" width="53" height="54" pX="38.15" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 26" x="0" y="70" width="44" height="48" pX="38.15" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 28" x="59" y="70" width="42" height="42" pX="38.15" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 30" x="248" y="70" width="38" height="41" pX="38.15" pY="30.1"/>
+    <SubTexture name="Function_open-huiguang 32" x="157" y="65" width="26" height="33" pX="38.15" pY="28.2"/>
+    <SubTexture name="Function_open-huiguang 36" x="489" y="55" width="22" height="25" pX="38.15" pY="28.2"/>
+    <SubTexture name="Function_open-888" x="45" y="70" width="13" height="12" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

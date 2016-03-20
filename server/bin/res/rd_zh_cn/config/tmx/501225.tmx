@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="78" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="1" tilewidth="64" tileheight="64">
+  <image source="501211_1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="65" name="2" tilewidth="64" tileheight="64">
+  <image source="501211_2.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="81" name="3" tilewidth="64" tileheight="64">
+  <image source="501211_3.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="97" name="4" tilewidth="64" tileheight="64">
+  <image source="501211_4.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="113" name="5" tilewidth="64" tileheight="64">
+  <image source="501211_5.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="129" name="6" tilewidth="64" tileheight="64">
+  <image source="501211_6.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="145" name="7" tilewidth="64" tileheight="64">
+  <image source="501211_7.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="161" name="8" tilewidth="64" tileheight="64">
+  <image source="501211_8.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="177" name="9" tilewidth="64" tileheight="64">
+  <image source="501211_9.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="193" name="10" tilewidth="64" tileheight="64">
+  <image source="501211_10.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="209" name="11" tilewidth="64" tileheight="64">
+  <image source="501211_11.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="225" name="12" tilewidth="64" tileheight="64">
+  <image source="501211_12.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="241" name="13" tilewidth="64" tileheight="64">
+  <image source="501211_bg.png" width="512" height="512"/>
+ </tileset>
+ <layer name="块层 2" width="78" height="12">
+  <properties>
+   <property name="FG" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztx7kNwDAMwECvlt95nf2nMWsBalKl4AEsWIokSdI/DDTSRLOffrTQShtVP/1op4NOuvz0o5seavT66eubDn43U80=
+  </data>
+ </layer>
+ <layer name="块层 13" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztjyESwDAIBDGRkZGRkf3/9+qZwkKo5CR7m5uIiAzx88U9Z0Ane7fYLPrEaVPve92IM6GTvVtsFX3itKn3vW7EWdDJ3i22iz5x2tT7XjfibOhk7xY7RZ84bep9rxtxDnSyd4s9RZ84bep9rxtxbt6rvkn5+4+dTqfT6XTqeQHM3gfR
+  </data>
+ </layer>
+ <layer name="块层 10" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkEEKAjEQBPP0/qKKq67rmqdYEnMJM8FgTjIFfchM0QxJqXAmC7mQa2f25kCO5PR5s5Pnzuz1GOnD0VJ6VV32whO+kuO2s+rdyEruZOvMrDvZyXNn9nqM9OFoLb3anP9JhtvOqvcgO3mS3JlZd7KT587s9Rjpw9FeepWd/0mG28465wzf+Suze7/py8b/BEEQBEEQBP/HC+VWtto=
+  </data>
+ </layer>
+ <layer name="块层 11" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztjEEKgDAQA/N0P6nVWqtPMaU9lMXS057MQGBJlgnAsjErg0bifTKROVrPHfxDYPb299XZPjj7dyfnzGe3wsP7ZjJztZ47Yv0vTow623v7k5Nz5rPbCO7I9b84h53tvf197+3sf4QQQgghhPgDL2rzpSk=
+  </data>
+ </layer>
+ <layer name="块层 3" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzscNwEAUhcBt0TmH/qswXTx9mZG405okSVJGRz0NNIZfKplopoXW8EslG+100Bl+qeSimx56syv6gQ8lGQWJ
+  </data>
+ </layer>
+ <layer name="块层 4" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx7kNACAQxEBa5af/CnBy8QVkyCNZqy1FkiS9qtSo0/CnP1aSfjVp0abjT3/sBdNcPUM=
+  </data>
+ </layer>
+ <layer name="块层 5" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztxTEKADAIADG/W6H9/6ibXd0TOC4CAMbp0te/3fP1AeBX9YpBgw==
+  </data>
+ </layer>
+ <layer name="块层 6" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztjVEKgDAMQ3PtqdUefZH9KMSBMPYx8qDQpckCGGPMmmxAFo66lXbHzjkeOvekliqrMj3/yK5ZPff7pCc+OqLdceFt4J7UUmVVpucf2TWrJ9THxhhjjPlNBdaQQ7E=
+  </data>
+ </layer>
+ <layer name="块层 7" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzjsKACAMREGv7d+ju7UIatDKN7BVEjbOAcA/vBKUqKSLN+POqx5r32x+0peVolSlLXZPbsadVz3Wvtnc8iMAANjTAQqoIwU=
+  </data>
+ </layer>
+ <layer name="块层 19" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkEkOhDAMBP1UnuKnsg07M/ME6oIUIoFAwAW6pDrYTtRxSjMv8IsjWkCNDf7wjx9bQu30nblzzuvofh7VIVdnzXkZDthjeeNua28IqcySDtuoT+30U+bp1v0jnM3a879X5j2Ft+0rhBBCCCHEnUzxNV7R
+  </data>
+ </layer>
+ <layer name="块层 25" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztj0sKgDAQQ3N0j6r1U39Vj2A2QhdV1FKLkAcPZjETMkA+nDdboDhmw7miM51oQ2u6UOfthbhzawIZofyrrKjHE9Ky20ZX2lP7oOub27OdmB45GNhvBMqOfnmbMksIIYQQQoi/sQNBR03H
+  </data>
+ </layer>
+ <layer name="块层 18" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkEEOgkAQBPepPKWfuiKKoKJPsBLgQgIsrBxIupJKNjPTQ4YQet7Y4RUrfOILL1iu9JayR+0te8Vb1ERPzIhZkRFZpdy1tmMuP6XGB37wi7fEXk42Zy9vURM9MaN6+F9b7krZMc3PcQ+haLHZ2MvJ7tnLW9Qivbhwzt92jPmUbxljjDHGGHN2fu9/ooQ=
+  </data>
+ </layer>
+ <layer name="块层 14" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztjrERwwAIA1nB6ezO6ZzO6ezpMnq4o8MgaQB0R8ODJLOnXma/xadAtgSX96qv6lNx9JMz0S3LZv03Z2vD1+DyXvVVfSqOfnImumXZrP/b2d7wPbi8V31Vn4qjn5yJblk26/9xdjT8CC7vVV/Vp+LoJ2eiW5bN+n+dnQ0/g8t71Vf1qTj6yZnolmWz/rezq+FXcHmv+qo+FUc/ORPdsmyl/2g0Go1GI11/A6UrVw==
+  </data>
+ </layer>
+ <layer name="块层 17" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0LENADAIA0GKlAzN6MkKNu7yVyJkC6p0R5yn8p2etzvJ7o0W56l8p6fFv6VuAAAAAPCvCxluAWE=
+  </data>
+ </layer>
+ <layer name="块层 8" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkEsKwDAIRHPlNqTdevROdyKRmC7LeyAyEz+Y1gAA/s+hOBW9qJVN2uRbNiPzfO9qT+ZVandnz26KXndvL0NxKe6iVjZpG25OrMk837vak3mV2t3Zs5uid4d/AwAAgG88zUM8Iw==
+  </data>
+ </layer>
+ <layer name="xxxx" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkFEKwCAMQ72yE/W3R18GTqSY4n5HHhSiTVNoSkII8U8uVEHloXfkxVfce+dxfoM2/Jn3RXNk98yKck5yo6y1x3SDr6MqqpG7vb3uvJ14nP/ZYXXczc+yObJ7ZkU5J7lR1tpjmpxKCCGEEB+4AYkfSjM=
+  </data>
+ </layer>
+ <layer name="块层 26" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztz7ENwCAQBEFaNhaQXuneChyYJ/KOdOm+vjVJ+o+LdXYXd+mFbujnVKfqxheDTbaKu/RCN2Pzp7dO1Q1JknTeA/GHE+E=
+  </data>
+ </layer>
+ <layer name="块层 15" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkLEKgDAMBQuOjo6OddOtfmA/3YCC0KX3ajZzkO3lXZuUXqakYzt1YE12UY+Qc/POsKvZ6fZ6uKhHyLl5F9jV7HR7PVzUI+TcvCvsana6vR4u6hFybt5ss8G+dGdrHryb4qIe5T3ET/t2m4NIHyxb98G7KS7qUd5D/LSv2JxE+mDZWgbvprioR3kP8X/5XxAEQfAvLpHcHMg=
+  </data>
+ </layer>
+ <layer name="块层 16" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkKEOwlAQBKsAVVAFVVClqqAKn7efzpiXICen3ybjZjeXGwaXAxzhJH284IdeZKXUt56532y1HZsRznCRPl7wMxb/ZvvWM/ebrbZjM8EVbtLHC36m4t9s33rmfrPVdmxmuMND+njBz1z8m+1bz9xvttqOzQJPWKWPF/wsxb/ZvvXM/War7dhs8IK39PGCn634N9u3nrnfbLUdmx0+8JU+XvCzF/9m+9Yz95utttPT09PT0/OfH3WROu4=
+  </data>
+ </layer>
+ <layer name="块层 17" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0TsKACAMRMFoF0/t0Q1oYeMPUwi+gYDFshEishZsYnsnkaw2u/lb1pPDYJ/W/yz1uVnfSc8L+ZmdO3n0qdcCAAAAAN8rZKQFrg==
+  </data>
+ </layer>
+ <layer name="块层 20" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzsEJACAMBMHUrkHFhzXnHgFLCIEdWLjnmQEA8E111cjttXfa2OqplfvU3gEAoKUAcf8FQQ==
+  </data>
+ </layer>
+ <layer name="Foreground1" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0DEKACEQQ9Ec3Susssou6FkNDHb2WvwHgSFVGAkAAAAA9oqUsvNElKPT6j7f/9mJV2r+TXXeiGp0Wl33Pc5OvNIET3sQrQ==
+  </data>
+ </layer>
+ <layer name="Foreground2" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkEsOgCAMBbn/bRQ/+PdovqUxDRTiciaZFWTaNAQAAAAAAACbXkY5/Nhc5Co3uRvvXcNcq9nSyVHqvXeY5CxTxb6leYc85SVv4//omOtpejo19/72cjs89uQ2Vw==
+  </data>
+ </layer>
+ <layer name="Foreground3" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkUsOg0AMQzm6rwItpZT+jshbdDZWmIIE6qJ5klcTeeykaZIkSZIkSZJ/pkUdOqHzj7McAZ1EN+3t26MLGtDV3vbaacmOl9oDOtSgk4bKn2s7+tyIbmhCd5ut7XTLnyU7XuqDDlvu823Wb0QnTZ8/o/t5x6Ub+9wDPdELvS1DbaeR1xIlO14ag71FPmvzO34jOolumgGuw1nn
+  </data>
+ </layer>
+ <layer name="Foreground4" width="78" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztz1EKgCAQRVGXPlvLqEg31d2AjEJQH/fAA3HGUUuRJEmSpPdspJL964f8zE0a6YP6QU5yTZxjHewFtRjdN9OTyWZkf1rtfQCsPBmr
+  </data>
+ </layer>
+ <objectgroup name="area" width="24" height="12" visible="0">
+  <object x="32" y="429" width="1536" height="288"/>
+ </objectgroup>
+ <objectgroup name="monster" width="24" height="12"/>
+ <objectgroup name="bg" width="24" height="12" visible="0">
+  <object name="501211_bg" x="0" y="0" width="512" height="512"/>
+  <object name="501211_bg" x="512" y="0" width="512" height="512"/>
+  <object name="501211_bg" x="1024" y="0" width="512" height="512"/>
+  <object name="501211_bg" x="1536" y="0" width="512" height="512"/>
+  <object name="501211_bg" x="2048" y="0" width="512" height="512"/>
+  <object name="501211_bg" x="2560" y="0" width="512" height="512"/>
+  <object name="501211_bg" x="3072" y="0" width="512" height="512"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,807 @@
+<skeleton name="女新版时装3">
+  <armatures>
+    <armature name="stand">
+      <b name="图层 14" bT="0" bi="CityFashion_nv_3-fsnv-yz1-2" x="155.7" y="253" kX="0" kY="0" z="0"/>
+      <b name="jsnv3-tf3-1" bT="0" bi="CityFashion_nv_3-jsnv3-tf3-1" x="193.7" y="129.9" kX="-5.2" kY="174.8" z="1"/>
+      <b name="jsnv3-2a-2" bT="0" bi="CityFashion_nv_3-jsnv3-2a-2" x="180.8" y="158.85" kX="-24.73" kY="-24.73" z="2"/>
+      <b name="jsnv3-xz4-1" bT="0" bi="CityFashion_nv_3-jsnv3-xz4-1" x="188.6" y="173.4" kX="-23.29" kY="-23.29" z="3"/>
+      <b name="jsnv3-3a-2" bT="0" bi="CityFashion_nv_3-jsnv3-3a-2" x="192" y="173.35" kX="-27.27" kY="-27.27" z="4"/>
+      <b name="jsnv3-xz3-1" bT="0" bi="CityFashion_nv_3-jsnv3-xz3-1" x="188.6" y="173.4" kX="-23.29" kY="-23.29" z="5"/>
+      <b name="jsnv3-4a-2" bT="0" bi="CityFashion_nv_3-jsnv3-4a-2" x="198.4" y="187.7" kX="-29.73" kY="-29.73" z="6"/>
+      <b name="jsnv3-qz3-1" bT="0" bi="CityFashion_nv_3-jsnv3-qzd-1" x="179.4" y="227.45" kX="0" kY="0" z="7"/>
+      <b name="jsnv3-qz3-10" bT="0" bi="CityFashion_nv_3-jsnv3-qz3-1" x="160.75" y="227" kX="11.2" kY="11.2" z="8"/>
+      <b name="jsnv3-qz6-1" bT="0" bi="CityFashion_nv_3-jsnv3-qz6-1" x="191.8" y="233.5" kX="-8.78" kY="-8.78" z="9"/>
+      <b name="jsnv3-qz2-1" bT="0" bi="CityFashion_nv_3-jsnv3-qz2-1" x="156.1" y="194.9" kX="0" kY="0" z="10"/>
+      <b name="jsnv3-qz5-1" bT="0" bi="CityFashion_nv_3-jsnv3-qz5-1" x="194.7" y="192.65" kX="0" kY="0" z="11"/>
+      <b name="jsnv3-qz4-1" bT="0" bi="CityFashion_nv_3-jsnv3-qz4-1 " x="194.65" y="180.8" kX="-11.81" kY="-11.81" z="12"/>
+      <b name="jsnv3-hb-1" bT="0" bi="CityFashion_nv_3-jsnv3-hb-1" x="196.3" y="190.15" kX="24.15" kY="24.15" z="13"/>
+      <b name="jsnv3-qz1-1" bT="0" bi="CityFashion_nv_3-jsnv3-qz1-1 " x="150.65" y="183.7" kX="-12.77" kY="-12.77" z="14"/>
+      <b name="jsnv3-hb-2" bT="0" bi="CityFashion_nv_3-jsnv3-hb-2" x="151.8" y="200.25" kX="-11.95" kY="-11.95" z="15"/>
+      <b name="jsnv3-dz3-1" bT="0" bi="CityFashion_nv_3-jsnv3-dz3-1" x="187.7" y="204.95" kX="1.55" kY="1.55" z="16"/>
+      <b name="jsnv3-dz2-1" bT="0" bi="CityFashion_nv_3-jsnv3-dz2-1" x="185.85" y="189.1" kX="-2.47" kY="-2.47" z="17"/>
+      <b name="jsnv3-dz1-1" bT="0" bi="CityFashion_nv_3-jsnv3-dz1-1" x="181.85" y="181.85" kX="-12.77" kY="-12.77" z="18"/>
+      <b name="jsnv3-8a-1" bT="0" bi="CityFashion_nv_3-jsnv3-8a-1" x="173.4" y="154.85" kX="0" kY="0" z="19"/>
+      <b name="jsnv3-xiong-2" bT="0" bi="CityFashion_nv_3-jsnv3-xiong-2" x="186.3" y="159.95" kX="0" kY="0" z="20"/>
+      <b name="jsnv3-xiong-1" bT="0" bi="CityFashion_nv_3-jsnv3-xiong-1" x="177.1" y="160.45" kX="0" kY="0" z="21"/>
+      <b name="jsnv3-dz-1" bT="0" bi="CityFashion_nv_3-jsnv3-dz-1" x="184.3" y="156.8" kX="-23.02" kY="-23.02" z="22"/>
+      <b name="jsnv3-bz-1" bT="0" bi="CityFashion_nv_3-jsnv3-bz-1" x="175.1" y="146.75" kX="0" kY="0" z="23"/>
+      <b name="jsnv3-2a-1" bT="0" bi="CityFashion_nv_3-jsnv3-2a-1" x="169.75" y="152.05" kX="24.17" kY="24.17" z="24"/>
+      <b name="jsnv3-xz2-1" bT="0" bi="CityFashion_nv_3-jsnv3-xz2-1" x="158.05" y="172" kX="-1.8" kY="-1.8" z="25"/>
+      <b name="jsnv3-3a-1" bT="0" bi="CityFashion_nv_3-jsnv3-3a-1" x="165.55" y="179.95" kX="10.77" kY="10.77" z="26"/>
+      <b name="jsnv3-xz1-1" bT="0" bi="CityFashion_nv_3-jsnv3-xz1-1" x="158.05" y="172" kX="-1.8" kY="-1.8" z="27"/>
+      <b name="jsnv3-4a-1" bT="0" bi="CityFashion_nv_3-jsnv3-4a-1" x="160.45" y="189.3" kX="-0.83" kY="-0.83" z="28"/>
+      <b name="jsnv3-tf4-1" bT="0" bi="CityFashion_nv_3-jsnv3-tf4-1" x="160.2" y="125.35" kX="7.63" kY="7.63" z="29"/>
+      <b name="jsnv3-tf3-10" bT="0" bi="CityFashion_nv_3-jsnv3-tf3-1" x="158.6" y="133.8" kX="-6.98" kY="-6.98" z="30"/>
+      <b name="jsnv3-tf5-1" bT="0" bi="CityFashion_nv_3-jsnv3-tf5-1" x="189.3" y="125.15" kX="-2.21" kY="-2.21" z="31"/>
+      <b name="jsnv3-1a-1" bT="0" bi="CityFashion_nv_3-jsnv3-1a-1" x="167.45" y="119.8" kX="0" kY="0" z="32"/>
+      <b name="jsnv3-yj1-1" bT="0" bi="CityFashion_nv_3-jsnv3-yj1-1" x="175.45" y="130.6" kX="0" kY="0" z="33"/>
+      <b name="jsnv3-yj2-1" bT="0" bi="CityFashion_nv_3-jsnv3-yj2-1" x="192.05" y="130.7" kX="0" kY="0" z="34"/>
+      <b name="jsnv3-zb-1" bT="0" bi="CityFashion_nv_3-jsnv3-zb-1" x="184.95" y="146.3" kX="0" kY="0" z="35"/>
+      <b name="jsnv3-hg-1" bT="0" bi="CityFashion_nv_3-jsnv3-hg-1" x="171.65" y="95.5" kX="0" kY="0" z="36"/>
+      <b name="jsnv3-tf2-1" bT="0" bi="CityFashion_nv_3-jsnv3-tf2-1" x="158.45" y="126.15" kX="-14.61" kY="-14.61" z="37"/>
+      <b name="jsnv3-tf1-1" bT="0" bi="CityFashion_nv_3-jsnv3-tf1-1" x="170.85" y="116.9" kX="0" kY="0" z="38"/>
+    </armature>
+    <armature name="run">
+      <b name="图层 14" bT="0" bi="CityFashion_nv_3-fsnv-yz1-2" x="155.7" y="253" kX="0" kY="0" z="0"/>
+      <b name="jsnv3-tf3-1" bT="0" bi="CityFashion_nv_3-jsnv3-tf3-1" x="194.65" y="131.95" kX="-3.94" kY="176.06" z="1"/>
+      <b name="jsnv3-2a-2" bT="0" bi="CityFashion_nv_3-jsnv3-2a-2" x="181.85" y="162.15" kX="-37.32" kY="-37.32" z="2"/>
+      <b name="jsnv3-qz3-1" bT="0" bi="CityFashion_nv_3-jsnv3-qzd-1" x="179.4" y="229.45" kX="0" kY="0" z="3"/>
+      <b name="jsnv3-qz3-1 副本" bT="0" bi="CityFashion_nv_3-jsnv3-qz3-1" x="157.7" y="227.45" kX="15.14" kY="15.14" z="4"/>
+      <b name="jsnv3-qz6-1" bT="0" bi="CityFashion_nv_3-jsnv3-qz6-1" x="195.7" y="235.75" kX="-13.18" kY="-13.18" z="5"/>
+      <b name="jsnv3-qz2-1 副本" bT="0" bi="CityFashion_nv_3-jsnv3-qz2-1" x="155.25" y="195.1" kX="3.93" kY="3.93" z="6"/>
+      <b name="jsnv3-qz5-1" bT="0" bi="CityFashion_nv_3-jsnv3-qz5-1" x="195.45" y="194.8" kX="-4.4" kY="-4.4" z="7"/>
+      <b name="jsnv3-qz4-1 副本" bT="0" bi="CityFashion_nv_3-jsnv3-qz4-1 " x="194.5" y="183.05" kX="-16.66" kY="-16.66" z="8"/>
+      <b name="jsnv3-hb-1" bT="0" bi="CityFashion_nv_3-jsnv3-hb-1" x="197" y="192.15" kX="19.3" kY="19.3" z="9"/>
+      <b name="jsnv3-qz1-1 副本" bT="0" bi="CityFashion_nv_3-jsnv3-qz1-1 " x="150.55" y="184.25" kX="-9.6" kY="-9.6" z="10"/>
+      <b name="jsnv3-hb-2" bT="0" bi="CityFashion_nv_3-jsnv3-hb-2" x="150.75" y="200.65" kX="-8.78" kY="-8.78" z="11"/>
+      <b name="jsnv3-dz3-1" bT="0" bi="CityFashion_nv_3-jsnv3-dz3-1" x="188.35" y="206.25" kX="3.74" kY="5.29" z="12"/>
+      <b name="jsnv3-dz2-1" bT="0" bi="CityFashion_nv_3-jsnv3-dz2-1" x="186.45" y="190.75" kX="-2.08" kY="-0.5" z="13"/>
+      <b name="jsnv3-dz1-1" bT="0" bi="CityFashion_nv_3-jsnv3-dz1-1" x="181.85" y="183.85" kX="-14.46" kY="-13.05" z="14"/>
+      <b name="jsnv3-8a-1" bT="0" bi="CityFashion_nv_3-jsnv3-8a-1" x="173.75" y="156.65" kX="0.71" kY="0.71" z="15"/>
+      <b name="jsnv3-xiong-2" bT="0" bi="CityFashion_nv_3-jsnv3-xiong-2" x="186.6" y="161.9" kX="0.71" kY="0.71" z="16"/>
+      <b name="jsnv3-xiong-1" bT="0" bi="CityFashion_nv_3-jsnv3-xiong-1" x="177.4" y="162.3" kX="0.71" kY="0.71" z="17"/>
+      <b name="jsnv3-xz4-1" bT="0" bi="CityFashion_nv_3-jsnv3-xz4-1" x="192.95" y="169.4" kX="6.51" kY="6.51" z="18"/>
+      <b name="jsnv3-3a-2" bT="0" bi="CityFashion_nv_3-jsnv3-3a-2" x="196.1" y="170.8" kX="6.25" kY="6.25" z="19"/>
+      <b name="jsnv3-xz3-1" bT="0" bi="CityFashion_nv_3-jsnv3-xz3-1" x="192.95" y="169.4" kX="6.51" kY="6.51" z="20"/>
+      <b name="jsnv3-dz-1" bT="0" bi="CityFashion_nv_3-jsnv3-dz-1" x="184.65" y="158.75" kX="-22.32" kY="-22.32" z="21"/>
+      <b name="jsnv3-bz-1" bT="0" bi="CityFashion_nv_3-jsnv3-bz-1" x="175.55" y="148.55" kX="0.71" kY="0.71" z="22"/>
+      <b name="jsnv3-2a-1" bT="0" bi="CityFashion_nv_3-jsnv3-2a-1" x="169.8" y="154.55" kX="18.5" kY="18.5" z="23"/>
+      <b name="jsnv3-xz2-1" bT="0" bi="CityFashion_nv_3-jsnv3-xz2-1" x="162.95" y="184.4" kX="-60.7" kY="-60.7" z="24"/>
+      <b name="jsnv3-3a-1" bT="0" bi="CityFashion_nv_3-jsnv3-3a-1" x="173.7" y="182.15" kX="-48.13" kY="-48.13" z="25"/>
+      <b name="jsnv3-xz1-1" bT="0" bi="CityFashion_nv_3-jsnv3-xz1-1" x="162.95" y="184.4" kX="-60.7" kY="-60.7" z="26"/>
+      <b name="jsnv3-tf4-1" bT="0" bi="CityFashion_nv_3-jsnv3-tf4-1" x="161.3" y="126.6" kX="8.89" kY="8.89" z="27"/>
+      <b name="jsnv3-tf3-10" bT="0" bi="CityFashion_nv_3-jsnv3-tf3-1" x="159.6" y="135.05" kX="-5.72" kY="-5.72" z="28"/>
+      <b name="jsnv3-tf5-1" bT="0" bi="CityFashion_nv_3-jsnv3-tf5-1" x="190.4" y="127.05" kX="-0.95" kY="-0.95" z="29"/>
+      <b name="jsnv3-1a-1" bT="0" bi="CityFashion_nv_3-jsnv3-1a-1" x="168.65" y="121.25" kX="1.26" kY="1.26" z="30"/>
+      <b name="jsnv3-yj1-1" bT="0" bi="CityFashion_nv_3-jsnv3-yj1-1" x="176.45" y="132.15" kX="1.26" kY="1.26" z="31"/>
+      <b name="jsnv3-yj2-1" bT="0" bi="CityFashion_nv_3-jsnv3-yj2-1" x="193" y="132.7" kX="1.26" kY="1.26" z="32"/>
+      <b name="jsnv3-zb-1" bT="0" bi="CityFashion_nv_3-jsnv3-zb-1" x="185.5" y="148.15" kX="1.26" kY="1.26" z="33"/>
+      <b name="jsnv3-hg-1" bT="0" bi="CityFashion_nv_3-jsnv3-hg-1" x="173.4" y="97.1" kX="1.26" kY="1.26" z="34"/>
+      <b name="jsnv3-tf2-1" bT="0" bi="CityFashion_nv_3-jsnv3-tf2-1" x="159.55" y="127.35" kX="-13.35" kY="-13.35" z="35"/>
+      <b name="jsnv3-tf1-1" bT="0" bi="CityFashion_nv_3-jsnv3-tf1-1" x="172.15" y="118.4" kX="1.26" kY="1.26" z="36"/>
+      <b name="图层 3" bT="0" bi="CityFashion_nv_3-jsnv3-sh-1" x="178.15" y="181.25" kX="0" kY="0" z="37"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="68" drTW="69" lp="1">
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="CityFashion_nv_3-fsnv-yz1-2" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="17"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 13" sc="1" dl="0"/>
+        <b name="图层 12" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0"/>
+        <b name="46 5" sc="1" dl="0"/>
+        <b name="46 6" sc="1" dl="0"/>
+        <b name="46 4" sc="1" dl="0"/>
+        <b name="46 2" sc="1" dl="0"/>
+        <b name="46 3" sc="1" dl="0"/>
+        <b name="46 1" sc="1" dl="0"/>
+        <b name="46 7" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="女剑士1默认1-1-1-2" sc="1" dl="0"/>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 9" sc="1" dl="0"/>
+        <b name="图层 8" sc="1" dl="0"/>
+        <b name="女剑士1默认1-1-1-10" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="女剑士1头－头发 侧" sc="1" dl="0"/>
+        <b name="女剑士1默认1-1-1-4" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="jsnv3-tf3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="CityFashion_nv_3-jsnv3-tf3-1" twE="0" dr="17"/>
+          <f x="0" y="1.45" kX="-1.45" kY="-1.45" cX="1" cY="1" z="1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="17"/>
+          <f x="0" y="1.45" kX="-1.45" kY="-1.45" cX="1" cY="1" z="1" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-2a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="CityFashion_nv_3-jsnv3-2a-2" twE="0" dr="17"/>
+          <f x="0.25" y="2.35" kX="-4.66" kY="-4.66" cX="1" cY="1" z="2" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="17"/>
+          <f x="0.25" y="2.35" kX="-4.66" kY="-4.66" cX="1" cY="1" z="2" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-xz4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="CityFashion_nv_3-jsnv3-xz4-1" twE="0" dr="4"/>
+          <f x="0.1" y="-0.75" kX="8.31" kY="8.31" cX="1" cY="1" z="3" twE="0" dr="13"/>
+          <f x="1.4" y="1.6" kX="-4.66" kY="-4.66" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="1.1" y="2.85" kX="-15.57" kY="-15.57" cX="1" cY="1" z="3" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="0.1" y="-0.75" kX="8.31" kY="8.31" cX="1" cY="1" z="3" twE="0" dr="13"/>
+          <f x="1.4" y="1.6" kX="-4.66" kY="-4.66" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="1.1" y="2.85" kX="-15.57" kY="-15.57" cX="1" cY="1" z="3" twE="0" dr="13"/>
+        </b>
+        <b name="jsnv3-3a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="CityFashion_nv_3-jsnv3-3a-2" twE="0" dr="17"/>
+          <f x="1.35" y="1.3" kX="-4.66" kY="-4.66" cX="1" cY="1" z="4" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="17"/>
+          <f x="1.35" y="1.3" kX="-4.66" kY="-4.66" cX="1" cY="1" z="4" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-xz3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="CityFashion_nv_3-jsnv3-xz3-1" twE="0" dr="4"/>
+          <f x="0.1" y="-0.75" kX="8.31" kY="8.31" cX="1" cY="1" z="5" twE="0" dr="13"/>
+          <f x="1.4" y="1.6" kX="-4.66" kY="-4.66" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="1.1" y="2.85" kX="-15.57" kY="-15.57" cX="1" cY="1" z="5" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="0.1" y="-0.75" kX="8.31" kY="8.31" cX="1" cY="1" z="5" twE="0" dr="13"/>
+          <f x="1.4" y="1.6" kX="-4.66" kY="-4.66" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="1.1" y="2.85" kX="-15.57" kY="-15.57" cX="1" cY="1" z="5" twE="0" dr="13"/>
+        </b>
+        <b name="jsnv3-4a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="CityFashion_nv_3-jsnv3-4a-2" twE="0" dr="17"/>
+          <f x="2.6" y="0.95" kX="-7.67" kY="-7.67" cX="1" cY="1" z="6" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="17"/>
+          <f x="2.6" y="0.95" kX="-7.67" kY="-7.67" cX="1" cY="1" z="6" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-qz3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="CityFashion_nv_3-jsnv3-qzd-1" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-qz3-10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="CityFashion_nv_3-jsnv3-qz3-1" twE="0" dr="17"/>
+          <f x="-0.8" y="1.15" kX="1.06" kY="1.06" cX="1" cY="1" z="8" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="17"/>
+          <f x="-0.8" y="1.15" kX="1.06" kY="1.06" cX="1" cY="1" z="8" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-qz6-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="CityFashion_nv_3-jsnv3-qz6-1" twE="0" dr="17"/>
+          <f x="0.85" y="1.7" kX="-0.97" kY="-0.97" cX="1" cY="1" z="9" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="17"/>
+          <f x="0.85" y="1.7" kX="-0.97" kY="-0.97" cX="1" cY="1" z="9" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-qz2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="CityFashion_nv_3-jsnv3-qz2-1" twE="0" dr="17"/>
+          <f x="-0.2" y="1.1" kX="1.05" kY="1.05" cX="1" cY="1" z="10" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="17"/>
+          <f x="-0.2" y="1.1" kX="1.05" kY="1.05" cX="1" cY="1" z="10" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-qz5-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="CityFashion_nv_3-jsnv3-qz5-1" twE="0" dr="17"/>
+          <f x="0.2" y="1.65" kX="-0.97" kY="-0.97" cX="1" cY="1" z="11" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="17"/>
+          <f x="0.2" y="1.65" kX="-0.97" kY="-0.97" cX="1" cY="1" z="11" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-qz4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="CityFashion_nv_3-jsnv3-qz4-1 " twE="0" dr="7"/>
+          <f x="-0.05" y="0.7" kX="1.23" kY="1.23" cX="1" cY="1" z="12" twE="0" dr="10"/>
+          <f x="0.05" y="1.95" kX="-3.42" kY="-3.42" cX="1" cY="1" z="12" twE="0" dr="9"/>
+          <f x="-0.05" y="1" kX="-4.72" kY="-4.72" cX="1" cY="1" z="12" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="7"/>
+          <f x="-0.05" y="0.7" kX="1.23" kY="1.23" cX="1" cY="1" z="12" twE="0" dr="10"/>
+          <f x="0.05" y="1.95" kX="-3.42" kY="-3.42" cX="1" cY="1" z="12" twE="0" dr="9"/>
+          <f x="-0.05" y="1" kX="-4.72" kY="-4.72" cX="1" cY="1" z="12" twE="0" dr="8"/>
+        </b>
+        <b name="jsnv3-hb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="CityFashion_nv_3-jsnv3-hb-1" twE="0" dr="7"/>
+          <f x="-0.2" y="0.8" kX="0.92" kY="0.92" cX="1" cY="0.87" z="13" twE="0" dr="10"/>
+          <f x="0.65" y="1.9" kX="-4.19" kY="-4.19" cX="1" cY="0.68" z="13" twE="0" dr="9"/>
+          <f x="0.4" y="0.95" kX="-3.08" kY="-3.08" cX="1" cY="0.67" z="13" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="7"/>
+          <f x="-0.2" y="0.8" kX="0.92" kY="0.92" cX="1" cY="0.87" z="13" twE="0" dr="10"/>
+          <f x="0.65" y="1.9" kX="-4.19" kY="-4.19" cX="1" cY="0.68" z="13" twE="0" dr="9"/>
+          <f x="0.4" y="0.95" kX="-3.08" kY="-3.08" cX="1" cY="0.67" z="13" twE="0" dr="8"/>
+        </b>
+        <b name="jsnv3-qz1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="CityFashion_nv_3-jsnv3-qz1-1 " twE="0" dr="7"/>
+          <f x="0" y="1" kX="-0.26" kY="-0.26" cX="1" cY="1" z="14" twE="0" dr="10"/>
+          <f x="0" y="0.85" kX="1.62" kY="1.62" cX="1" cY="1" z="14" twE="0" dr="9"/>
+          <f x="0.1" y="-1.6" kX="4.41" kY="4.41" cX="1" cY="1" z="14" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="7"/>
+          <f x="0.05" y="1.5" kX="-1.26" kY="-1.26" cX="1" cY="1" z="14" twE="0" dr="10"/>
+          <f x="0" y="0.85" kX="1.62" kY="1.62" cX="1" cY="1" z="14" twE="0" dr="9"/>
+          <f x="0.1" y="-1.6" kX="4.41" kY="4.41" cX="1" cY="1" z="14" twE="0" dr="8"/>
+        </b>
+        <b name="jsnv3-hb-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="CityFashion_nv_3-jsnv3-hb-2" twE="0" dr="7"/>
+          <f x="0.35" y="0.75" kX="-0.79" kY="-0.32" cX="1" cY="1.1" z="15" twE="0" dr="10"/>
+          <f x="-0.65" y="1.15" kX="-2.24" kY="1.62" cX="1" cY="0.9" z="15" twE="0" dr="9"/>
+          <f x="-1.25" y="-1.1" kX="3.38" kY="4.34" cX="1" cY="0.85" z="15" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="7"/>
+          <f x="0.65" y="1.25" kX="-1.79" kY="-1.32" cX="1" cY="1.1" z="15" twE="0" dr="10"/>
+          <f x="-0.65" y="1.15" kX="-2.24" kY="1.62" cX="1" cY="0.9" z="15" twE="0" dr="9"/>
+          <f x="-1.25" y="-1.1" kX="3.38" kY="4.34" cX="1" cY="0.85" z="15" twE="0" dr="8"/>
+        </b>
+        <b name="jsnv3-dz3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="CityFashion_nv_3-jsnv3-dz3-1" twE="0" dr="17"/>
+          <f x="0.45" y="1.65" kX="-4.1" kY="-2.33" cX="1" cY="1" z="16" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="17"/>
+          <f x="0.45" y="1.65" kX="-4.1" kY="-2.33" cX="1" cY="1" z="16" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-dz2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="CityFashion_nv_3-jsnv3-dz2-1" twE="0" dr="17"/>
+          <f x="0.1" y="1.4" kX="-2.57" kY="1.42" cX="1" cY="1" z="17" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="17"/>
+          <f x="0.1" y="1.4" kX="-2.57" kY="1.42" cX="1" cY="1" z="17" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-dz1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="CityFashion_nv_3-jsnv3-dz1-1" twE="0" dr="17"/>
+          <f x="-0.05" y="1.6" kX="-1.7" kY="-0.09" cX="0.99" cY="1.01" z="18" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="17"/>
+          <f x="-0.05" y="1.6" kX="-1.7" kY="-0.09" cX="0.99" cY="1.01" z="18" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-8a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="CityFashion_nv_3-jsnv3-8a-1" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-xiong-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="CityFashion_nv_3-jsnv3-xiong-2" twE="0" dr="4"/>
+          <f x="0" y="0.4" kX="0" kY="0" cX="1" cY="0.96" z="20" twE="0" dr="13"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="5"/>
+          <f x="0" y="1.15" kX="0" kY="0" cX="1" cY="1.12" z="20" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="4"/>
+          <f x="0" y="0.4" kX="0" kY="0" cX="1" cY="0.96" z="20" twE="0" dr="13"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="5"/>
+          <f x="0" y="1.15" kX="0" kY="0" cX="1" cY="1.12" z="20" twE="0" dr="12"/>
+        </b>
+        <b name="jsnv3-xiong-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="CityFashion_nv_3-jsnv3-xiong-1" twE="0" dr="4"/>
+          <f x="0" y="0.45" kX="0" kY="0" cX="1" cY="0.91" z="21" twE="0" dr="13"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="5"/>
+          <f x="0" y="1.1" kX="0" kY="0" cX="1" cY="1.11" z="21" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="0" y="0.45" kX="0" kY="0" cX="1" cY="0.91" z="21" twE="0" dr="13"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="5"/>
+          <f x="0" y="1.1" kX="0" kY="0" cX="1" cY="1.11" z="21" twE="0" dr="12"/>
+        </b>
+        <b name="jsnv3-dz-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="CityFashion_nv_3-jsnv3-dz-1" twE="0" dr="4"/>
+          <f x="0.05" y="0.4" kX="-0.02" kY="-0.01" cX="1" cY="0.95" z="22" twE="0" dr="13"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="0" y="1.15" kX="-0.01" kY="-0.01" cX="1" cY="1.06" z="22" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="4"/>
+          <f x="0.05" y="0.4" kX="-0.02" kY="-0.01" cX="1" cY="0.95" z="22" twE="0" dr="13"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="0" y="1.15" kX="-0.01" kY="-0.01" cX="1" cY="1.06" z="22" twE="0" dr="12"/>
+        </b>
+        <b name="jsnv3-bz-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="CityFashion_nv_3-jsnv3-bz-1" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-2a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="CityFashion_nv_3-jsnv3-2a-1" twE="0" dr="17"/>
+          <f x="0.5" y="1.05" kX="4.32" kY="4.32" cX="1" cY="1" z="24" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="17"/>
+          <f x="0.5" y="1.05" kX="4.32" kY="4.32" cX="1" cY="1" z="24" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-xz2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="CityFashion_nv_3-jsnv3-xz2-1" twE="0" dr="4"/>
+          <f x="-0.4" y="1.3" kX="-6.19" kY="-6.19" cX="1" cY="1" z="25" twE="0" dr="13"/>
+          <f x="-1.05" y="0.15" kX="4.31" kY="4.31" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="0.55" y="-1.5" kX="12.21" kY="12.21" cX="1" cY="1" z="25" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="-0.4" y="1.3" kX="-6.19" kY="-6.19" cX="1" cY="1" z="25" twE="0" dr="13"/>
+          <f x="-1.05" y="0.15" kX="4.31" kY="4.31" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="0.55" y="-1.5" kX="12.21" kY="12.21" cX="1" cY="1" z="25" twE="0" dr="13"/>
+        </b>
+        <b name="jsnv3-3a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="CityFashion_nv_3-jsnv3-3a-1" twE="0" dr="17"/>
+          <f x="-1.7" y="0.7" kX="4.32" kY="4.32" cX="1" cY="1" z="26" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" twE="0" dr="17"/>
+          <f x="-1.7" y="0.7" kX="4.32" kY="4.32" cX="1" cY="1" z="26" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-xz1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" img="CityFashion_nv_3-jsnv3-xz1-1" twE="0" dr="4"/>
+          <f x="-0.4" y="1.3" kX="-6.19" kY="-6.19" cX="1" cY="1" z="27" twE="0" dr="13"/>
+          <f x="-1.05" y="0.15" kX="4.31" kY="4.31" cX="1" cY="1" z="27" twE="0" dr="4"/>
+          <f x="0.55" y="-1.5" kX="12.21" kY="12.21" cX="1" cY="1" z="27" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" twE="0" dr="4"/>
+          <f x="-0.4" y="1.3" kX="-6.19" kY="-6.19" cX="1" cY="1" z="27" twE="0" dr="13"/>
+          <f x="-1.05" y="0.15" kX="4.31" kY="4.31" cX="1" cY="1" z="27" twE="0" dr="4"/>
+          <f x="0.55" y="-1.5" kX="12.21" kY="12.21" cX="1" cY="1" z="27" twE="0" dr="13"/>
+        </b>
+        <b name="jsnv3-4a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="28" img="CityFashion_nv_3-jsnv3-4a-1" twE="0" dr="17"/>
+          <f x="-2.35" y="0" kX="7.3" kY="7.3" cX="1" cY="1" z="28" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="28" twE="0" dr="17"/>
+          <f x="-2.35" y="0" kX="7.3" kY="7.3" cX="1" cY="1" z="28" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-tf4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="29" img="CityFashion_nv_3-jsnv3-tf4-1" twE="0" dr="5"/>
+          <f x="-0.05" y="0.3" kX="1.4" kY="1.4" cX="1" cY="0.98" z="29" twE="0" dr="12"/>
+          <f x="0.15" y="1.25" kX="3.46" kY="3.46" cX="1" cY="1" z="29" twE="0" dr="6"/>
+          <f x="-0.05" y="0.95" kX="1.25" kY="1.25" cX="1" cY="1.02" z="29" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="29" twE="0" dr="5"/>
+          <f x="-0.05" y="0.3" kX="1.4" kY="1.4" cX="1" cY="0.98" z="29" twE="0" dr="12"/>
+          <f x="0.15" y="1.25" kX="3.46" kY="3.46" cX="1" cY="1" z="29" twE="0" dr="6"/>
+          <f x="-0.05" y="0.95" kX="1.25" kY="1.25" cX="1" cY="1.02" z="29" twE="0" dr="11"/>
+        </b>
+        <b name="jsnv3-tf3-10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="30" img="CityFashion_nv_3-jsnv3-tf3-1" twE="0" dr="5"/>
+          <f x="0" y="0.15" kX="2.72" kY="2.72" cX="1" cY="0.98" z="30" twE="0" dr="12"/>
+          <f x="0.35" y="1" kX="5.65" kY="5.65" cX="1" cY="1" z="30" twE="0" dr="6"/>
+          <f x="0.05" y="0.7" kX="4.27" kY="4.27" cX="1" cY="1.02" z="30" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="30" twE="0" dr="5"/>
+          <f x="0" y="0.15" kX="2.72" kY="2.72" cX="1" cY="0.98" z="30" twE="0" dr="12"/>
+          <f x="0.35" y="1" kX="5.65" kY="5.65" cX="1" cY="1" z="30" twE="0" dr="6"/>
+          <f x="0.05" y="0.7" kX="4.27" kY="4.27" cX="1" cY="1.02" z="30" twE="0" dr="11"/>
+        </b>
+        <b name="jsnv3-tf5-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="31" img="CityFashion_nv_3-jsnv3-tf5-1" twE="0" dr="5"/>
+          <f x="0" y="0.6" kX="-0.87" kY="-0.87" cX="1" cY="0.99" z="31" twE="0" dr="12"/>
+          <f x="0" y="1.85" kX="-2.24" kY="-2.24" cX="1" cY="1" z="31" twE="0" dr="6"/>
+          <f x="-0.1" y="1.15" kX="-0.86" kY="-0.86" cX="1" cY="1.01" z="31" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="31" twE="0" dr="5"/>
+          <f x="0" y="0.6" kX="-0.87" kY="-0.87" cX="1" cY="0.99" z="31" twE="0" dr="12"/>
+          <f x="0" y="1.85" kX="-2.24" kY="-2.24" cX="1" cY="1" z="31" twE="0" dr="6"/>
+          <f x="-0.1" y="1.15" kX="-0.86" kY="-0.86" cX="1" cY="1.01" z="31" twE="0" dr="11"/>
+        </b>
+        <b name="jsnv3-1a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="32" img="CityFashion_nv_3-jsnv3-1a-1" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="32" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="32" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="32" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-yj1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="33" img="CityFashion_nv_3-jsnv3-yj1-1" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="33" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="33" img="CityFashion_nv_3-jsnv3-yj1-2" twE="0" dr="3"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1" cY="1" z="33" img="CityFashion_nv_3-jsnv3-yj1-3" twE="0" dr="6"/>
+          <f x="0" y="0.85" kX="0" kY="0" cX="1" cY="1" z="33" img="CityFashion_nv_3-jsnv3-yj1-2" twE="0" dr="3"/>
+          <f x="0" y="1.15" kX="0" kY="0" cX="1" cY="1" z="33" img="CityFashion_nv_3-jsnv3-yj1-1" twE="0" dr="5"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="33" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-yj2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="34" img="CityFashion_nv_3-jsnv3-yj2-1" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="34" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="34" img="CityFashion_nv_3-jsnv3-yj2-2" twE="0" dr="3"/>
+          <f x="0" y="0.3" kX="0" kY="0" cX="1" cY="1" z="34" img="CityFashion_nv_3-jsnv3-yj2-3" twE="0" dr="6"/>
+          <f x="0" y="0.85" kX="0" kY="0" cX="1" cY="1" z="34" img="CityFashion_nv_3-jsnv3-yj2-2" twE="0" dr="3"/>
+          <f x="0" y="1.15" kX="0" kY="0" cX="1" cY="1" z="34" img="CityFashion_nv_3-jsnv3-yj2-1" twE="0" dr="5"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="34" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-zb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="35" img="CityFashion_nv_3-jsnv3-zb-1" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="35" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="35" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="35" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-hg-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="36" img="CityFashion_nv_3-jsnv3-hg-1" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="36" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="36" twE="0" dr="17"/>
+          <f x="0" y="1.6" kX="0" kY="0" cX="1" cY="1" z="36" twE="0" dr="17"/>
+        </b>
+        <b name="jsnv3-tf2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="37" img="CityFashion_nv_3-jsnv3-tf2-1" twE="0" dr="5"/>
+          <f x="-0.05" y="0.3" kX="0.91" kY="0.91" cX="1" cY="0.98" z="37" twE="0" dr="12"/>
+          <f x="-0.1" y="1" kX="2.42" kY="2.42" cX="1" cY="1" z="37" twE="0" dr="6"/>
+          <f x="-0.1" y="0.6" kX="1.78" kY="1.78" cX="1" cY="1.02" z="37" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="37" twE="0" dr="5"/>
+          <f x="-0.05" y="0.3" kX="0.91" kY="0.91" cX="1" cY="0.98" z="37" twE="0" dr="12"/>
+          <f x="-0.1" y="1" kX="2.42" kY="2.42" cX="1" cY="1" z="37" twE="0" dr="6"/>
+          <f x="-0.1" y="0.6" kX="1.78" kY="1.78" cX="1" cY="1.02" z="37" twE="0" dr="11"/>
+        </b>
+        <b name="jsnv3-tf1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="38" img="CityFashion_nv_3-jsnv3-tf1-1" twE="0" dr="17"/>
+          <f x="-0.05" y="1.25" kX="-3.02" kY="1.23" cX="1" cY="1" z="38" twE="0" dr="4"/>
+          <f x="0" y="0.95" kX="-2.26" kY="0.8" cX="1" cY="1.05" z="38" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="38" twE="0" dr="17"/>
+          <f x="-0.05" y="1.25" kX="-3.02" kY="1.23" cX="1" cY="1" z="38" twE="0" dr="4"/>
+          <f x="0" y="0.95" kX="-2.26" kY="0.8" cX="1" cY="1.05" z="38" twE="0" dr="13"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="run">
+      <mov name="run" to="1" dr="40" drTW="40" lp="1">
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="CityFashion_nv_3-fsnv-yz1-2" twE="0" dr="9"/>
+          <f x="1.75" y="0.35" kX="0" kY="0" cX="0.94" cY="0.94" z="0" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="10"/>
+          <f x="1.75" y="0.35" kX="0" kY="0" cX="0.94" cY="0.94" z="0" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-tf3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="CityFashion_nv_3-jsnv3-tf3-1" twE="0" dr="4"/>
+          <f x="-0.8" y="-1.8" kX="-1.36" kY="-1.36" cX="1" cY="1.02" z="1" twE="0" dr="5"/>
+          <f x="-1.25" y="-4.35" kX="-3.7" kY="-3.7" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="-0.9" y="-2.6" kX="-3.6" kY="-3.6" cX="1" cY="0.97" z="1" twE="0" dr="6"/>
+          <f x="0" y="-0.3" kX="-4.18" kY="-4.18" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="-0.75" y="-1.85" kX="-3.84" kY="-3.84" cX="1" cY="1.03" z="1" twE="0" dr="6"/>
+          <f x="-1.2" y="-4.4" kX="-4.2" kY="-4.2" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="-0.85" y="-2.5" kX="-2.34" kY="-2.34" cX="1" cY="0.98" z="1" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-2a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="CityFashion_nv_3-jsnv3-2a-2" twE="0" dr="9"/>
+          <f x="-0.15" y="-3.9" kX="-0.7" kY="-0.7" cX="1" cY="1" z="2" twE="0" dr="10"/>
+          <f x="0.1" y="0.05" kX="0.25" kY="0.25" cX="1" cY="1" z="2" twE="0" dr="10"/>
+          <f x="-0.15" y="-3.9" kX="-0.7" kY="-0.7" cX="1" cY="1" z="2" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-qz3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="CityFashion_nv_3-jsnv3-qzd-1" twE="0" dr="9"/>
+          <f x="0" y="-4" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="10"/>
+          <f x="0" y="-4" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-qz3-1 副本" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="CityFashion_nv_3-jsnv3-qz3-1" twE="0" dr="4"/>
+          <f x="1.55" y="-2.05" kX="1.9" kY="1.9" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="2.7" y="-2.65" kX="-3.4" kY="-3.4" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="0.75" y="-0.5" kX="-7.77" kY="-7.77" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="1.55" y="-2.05" kX="1.9" kY="1.9" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="2.7" y="-2.65" kX="-3.4" kY="-3.4" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="0.75" y="-0.5" kX="-7.77" kY="-7.77" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="jsnv3-qz6-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="CityFashion_nv_3-jsnv3-qz6-1" twE="0" dr="4"/>
+          <f x="-1.4" y="-0.6" kX="-3.57" kY="-3.57" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="-3.2" y="-4.15" kX="3.66" kY="3.66" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="-1.75" y="-3.6" kX="7.38" kY="7.38" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="-1.4" y="-0.6" kX="-3.57" kY="-3.57" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="-3.2" y="-4.15" kX="3.66" kY="3.66" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="-1.75" y="-3.6" kX="7.38" kY="7.38" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-qz2-1 副本" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="CityFashion_nv_3-jsnv3-qz2-1" twE="0" dr="9"/>
+          <f x="0.8" y="-2.45" kX="-3.4" kY="-3.4" cX="1" cY="1" z="6" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="10"/>
+          <f x="0.8" y="-2.45" kX="-3.4" kY="-3.4" cX="1" cY="1" z="6" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="jsnv3-qz5-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="CityFashion_nv_3-jsnv3-qz5-1" twE="0" dr="9"/>
+          <f x="-0.6" y="-4.1" kX="3.66" kY="3.66" cX="1" cY="1" z="7" twE="0" dr="5"/>
+          <f x="-0.35" y="-2.05" kX="1.88" kY="1.88" cX="1" cY="1" z="7" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="-0.25" y="-1.6" kX="1.6" kY="1.6" cX="1" cY="1" z="7" twE="0" dr="6"/>
+          <f x="-0.6" y="-4.1" kX="3.66" kY="3.66" cX="1" cY="1" z="7" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="jsnv3-qz4-1 副本" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="CityFashion_nv_3-jsnv3-qz4-1 " twE="0" dr="4"/>
+          <f x="0" y="-1.6" kX="-1.57" kY="-1.57" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="0.1" y="-4.1" kX="3.63" kY="3.63" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="0.05" y="-2.05" kX="3.62" kY="3.62" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="0" y="-1.6" kX="-1.57" kY="-1.57" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="0.1" y="-4.1" kX="3.63" kY="3.63" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="0.05" y="-2.05" kX="3.62" kY="3.62" cX="1" cY="1" z="8" twE="0" dr="5"/>
+          <f x="0" y="0" kX="-0.03" kY="-0.03" cX="1" cY="1" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-hb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="CityFashion_nv_3-jsnv3-hb-1" twE="0" dr="4"/>
+          <f x="0.35" y="-1.8" kX="-1.68" kY="-1.68" cX="1" cY="1.23" z="9" twE="0" dr="5"/>
+          <f x="-0.45" y="-3.95" kX="3.63" kY="3.63" cX="1" cY="1" z="9" twE="0" dr="5"/>
+          <f x="-0.45" y="-1.9" kX="3.5" kY="3.5" cX="1" cY="0.87" z="9" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="5"/>
+          <f x="0.35" y="-1.8" kX="-1.68" kY="-1.68" cX="1" cY="1.23" z="9" twE="0" dr="5"/>
+          <f x="-0.45" y="-3.95" kX="3.63" kY="3.63" cX="1" cY="1" z="9" twE="0" dr="5"/>
+          <f x="-0.45" y="-1.9" kX="3.5" kY="3.5" cX="1" cY="0.87" z="9" twE="0" dr="5"/>
+          <f x="0" y="0" kX="-0.03" kY="-0.03" cX="1" cY="1" z="9" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-qz1-1 副本" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="CityFashion_nv_3-jsnv3-qz1-1 " twE="0" dr="4"/>
+          <f x="0.15" y="-1.75" kX="-0.24" kY="-0.24" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="0.15" y="-2.45" kX="-2.87" kY="-2.87" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="0.35" y="-0.1" kX="-3.63" kY="-3.63" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="4"/>
+          <f x="0" y="-1.55" kX="-0.44" kY="-0.44" cX="1" cY="1" z="10" twE="0" dr="6"/>
+          <f x="0.2" y="-2.1" kX="-3.62" kY="-3.62" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="0.25" y="-0.2" kX="-3.44" kY="-3.44" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-hb-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="CityFashion_nv_3-jsnv3-hb-2" twE="0" dr="4"/>
+          <f x="0.05" y="-2.5" kX="-0.1" kY="-0.1" cX="1" cY="1.15" z="11" twE="0" dr="5"/>
+          <f x="0.95" y="-2.5" kX="-2.87" kY="-2.87" cX="1" cY="1" z="11" twE="0" dr="5"/>
+          <f x="1.4" y="0.35" kX="-3.49" kY="-3.49" cX="1" cY="0.88" z="11" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="4"/>
+          <f x="0.1" y="-2.3" kX="-0.53" kY="-0.53" cX="1" cY="1.15" z="11" twE="0" dr="6"/>
+          <f x="1.25" y="-2.1" kX="-3.62" kY="-3.62" cX="1" cY="1" z="11" twE="0" dr="5"/>
+          <f x="1.4" y="0.35" kX="-3.49" kY="-3.49" cX="1" cY="0.88" z="11" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-dz3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="CityFashion_nv_3-jsnv3-dz3-1" twE="0" dr="9"/>
+          <f x="1.3" y="-3.4" kX="-5.83" kY="-5.88" cX="1" cY="1" z="12" twE="0" dr="10"/>
+          <f x="1.7" y="1.1" kX="-12.87" kY="-9.25" cX="1.01" cY="0.99" z="12" twE="0" dr="3"/>
+          <f x="1.95" y="0.25" kX="-15.38" kY="-12.91" cX="1.01" cY="1" z="12" twE="0" dr="7"/>
+          <f x="1.3" y="-3.4" kX="-5.83" kY="-5.88" cX="1" cY="1" z="12" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-dz2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="CityFashion_nv_3-jsnv3-dz2-1" twE="0" dr="9"/>
+          <f x="0.15" y="-3.4" kX="-4.75" kY="-4.81" cX="1" cY="1" z="13" twE="0" dr="10"/>
+          <f x="-0.3" y="1" kX="-9.28" kY="-7.09" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-0.3" y="-0.1" kX="-10.59" kY="-7.95" cX="1" cY="1" z="13" twE="0" dr="7"/>
+          <f x="0.15" y="-3.4" kX="-4.75" kY="-4.81" cX="1" cY="1" z="13" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-dz1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="1.01" z="14" img="CityFashion_nv_3-jsnv3-dz1-1" twE="0" dr="9"/>
+          <f x="-0.25" y="-3.3" kX="-3.83" kY="-3.87" cX="0.99" cY="1.01" z="14" twE="0" dr="10"/>
+          <f x="-0.1" y="0.5" kX="-4.88" kY="-3.15" cX="0.98" cY="1.02" z="14" twE="0" dr="3"/>
+          <f x="-0.35" y="-0.45" kX="-6.66" kY="-3.96" cX="0.98" cY="1.02" z="14" twE="0" dr="7"/>
+          <f x="-0.25" y="-3.3" kX="-3.83" kY="-3.87" cX="0.99" cY="1.01" z="14" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.99" cY="1.01" z="14" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-8a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="CityFashion_nv_3-jsnv3-8a-1" twE="0" dr="9"/>
+          <f x="-0.35" y="-3.8" kX="-0.71" kY="-0.71" cX="1" cY="1" z="15" twE="0" dr="10"/>
+          <f x="0.15" y="0" kX="0.24" kY="0.24" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="-0.05" y="-1.05" kX="-0.17" kY="-0.17" cX="1" cY="1" z="15" twE="0" dr="7"/>
+          <f x="-0.35" y="-3.8" kX="-0.71" kY="-0.71" cX="1" cY="1" z="15" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-xiong-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="CityFashion_nv_3-jsnv3-xiong-2" twE="0" dr="5"/>
+          <f x="-0.3" y="-2.15" kX="-0.71" kY="-0.71" cX="1" cY="1.09" z="16" twE="0" dr="4"/>
+          <f x="-0.3" y="-3.95" kX="-0.71" kY="-0.71" cX="1" cY="1" z="16" twE="0" dr="5"/>
+          <f x="-0.3" y="-1.95" kX="-0.71" kY="-0.71" cX="1" cY="0.93" z="16" twE="0" dr="5"/>
+          <f x="0.05" y="0.1" kX="0.24" kY="0.24" cX="1" cY="1" z="16" twE="0" dr="5"/>
+          <f x="-0.3" y="-1.95" kX="-0.71" kY="-0.71" cX="1" cY="1.05" z="16" twE="0" dr="5"/>
+          <f x="-0.3" y="-3.95" kX="-0.71" kY="-0.71" cX="1" cY="1" z="16" twE="0" dr="6"/>
+          <f x="-0.3" y="-1.55" kX="-0.71" kY="-0.71" cX="1" cY="0.93" z="16" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-xiong-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="CityFashion_nv_3-jsnv3-xiong-1" twE="0" dr="5"/>
+          <f x="-0.3" y="-2.05" kX="-0.71" kY="-0.71" cX="1" cY="1.07" z="17" twE="0" dr="4"/>
+          <f x="-0.3" y="-3.85" kX="-0.71" kY="-0.71" cX="1" cY="1" z="17" twE="0" dr="5"/>
+          <f x="-0.3" y="-1.8" kX="-0.71" kY="-0.71" cX="1" cY="0.87" z="17" twE="0" dr="5"/>
+          <f x="0.1" y="0.05" kX="0.24" kY="0.24" cX="1" cY="1" z="17" twE="0" dr="5"/>
+          <f x="-0.3" y="-1.9" kX="-0.71" kY="-0.71" cX="1" cY="1.05" z="17" twE="0" dr="5"/>
+          <f x="-0.3" y="-3.85" kX="-0.71" kY="-0.71" cX="1" cY="1" z="17" twE="0" dr="6"/>
+          <f x="-0.3" y="-1.4" kX="-0.71" kY="-0.71" cX="1" cY="0.89" z="17" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-xz4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="CityFashion_nv_3-jsnv3-xz4-1" twE="0" dr="3"/>
+          <f x="-0.4" y="-0.9" kX="-5.94" kY="-5.94" cX="1" cY="1" z="18" twE="0" dr="6"/>
+          <f x="-0.4" y="-4.15" kX="-0.71" kY="-0.71" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="-0.35" y="-2.9" kX="3.2" kY="3.2" cX="1" cY="1" z="18" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="3"/>
+          <f x="-0.4" y="-0.9" kX="-5.94" kY="-5.94" cX="1" cY="1" z="18" twE="0" dr="7"/>
+          <f x="-0.4" y="-4.15" kX="-0.71" kY="-0.71" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="-0.35" y="-2.9" kX="3.2" kY="3.2" cX="1" cY="1" z="18" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-3a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="CityFashion_nv_3-jsnv3-3a-2" twE="0" dr="9"/>
+          <f x="-0.4" y="-4.1" kX="-0.7" kY="-0.7" cX="1" cY="1" z="19" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="10"/>
+          <f x="-0.4" y="-4.1" kX="-0.7" kY="-0.7" cX="1" cY="1" z="19" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-xz3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="CityFashion_nv_3-jsnv3-xz3-1" twE="0" dr="3"/>
+          <f x="-0.4" y="-0.9" kX="-5.94" kY="-5.94" cX="1" cY="1" z="20" twE="0" dr="6"/>
+          <f x="-0.4" y="-4.15" kX="-0.71" kY="-0.71" cX="1" cY="1" z="20" twE="0" dr="4"/>
+          <f x="-0.35" y="-2.9" kX="3.2" kY="3.2" cX="1" cY="1" z="20" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="3"/>
+          <f x="-0.4" y="-0.9" kX="-5.94" kY="-5.94" cX="1" cY="1" z="20" twE="0" dr="7"/>
+          <f x="-0.4" y="-4.15" kX="-0.71" kY="-0.71" cX="1" cY="1" z="20" twE="0" dr="4"/>
+          <f x="-0.35" y="-2.9" kX="3.2" kY="3.2" cX="1" cY="1" z="20" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-dz-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="CityFashion_nv_3-jsnv3-dz-1" twE="0" dr="3"/>
+          <f x="-0.3" y="-1.35" kX="-0.71" kY="-0.71" cX="1" cY="1.04" z="21" twE="0" dr="6"/>
+          <f x="-0.35" y="-3.95" kX="-0.7" kY="-0.7" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="-0.35" y="-2.4" kX="-0.71" kY="-0.71" cX="1" cY="0.92" z="21" twE="0" dr="6"/>
+          <f x="0.05" y="0.05" kX="0.25" kY="0.25" cX="1" cY="1" z="21" twE="0" dr="3"/>
+          <f x="-0.3" y="-1.35" kX="-0.71" kY="-0.71" cX="1" cY="1.04" z="21" twE="0" dr="7"/>
+          <f x="-0.35" y="-3.95" kX="-0.7" kY="-0.7" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="-0.35" y="-2.4" kX="-0.71" kY="-0.71" cX="1" cY="0.92" z="21" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-bz-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="CityFashion_nv_3-jsnv3-bz-1" twE="0" dr="9"/>
+          <f x="-0.45" y="-3.8" kX="-0.71" kY="-0.71" cX="1" cY="1" z="22" twE="0" dr="10"/>
+          <f x="0.2" y="0.05" kX="0.24" kY="0.24" cX="1" cY="1" z="22" twE="0" dr="10"/>
+          <f x="-0.45" y="-3.8" kX="-0.71" kY="-0.71" cX="1" cY="1" z="22" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-2a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="CityFashion_nv_3-jsnv3-2a-1" twE="0" dr="9"/>
+          <f x="-0.9" y="-3.7" kX="-0.7" kY="-0.7" cX="1" cY="1" z="23" twE="0" dr="10"/>
+          <f x="0.15" y="0" kX="0.24" kY="0.24" cX="1" cY="1" z="23" twE="0" dr="10"/>
+          <f x="-0.9" y="-3.7" kX="-0.7" kY="-0.7" cX="1" cY="1" z="23" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-xz2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="CityFashion_nv_3-jsnv3-xz2-1" twE="0" dr="3"/>
+          <f x="-0.6" y="-1.45" kX="2.5" kY="2.5" cX="1" cY="1" z="24" twE="0" dr="6"/>
+          <f x="-0.05" y="-3.65" kX="-0.71" kY="-0.71" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="1.05" y="-1.9" kX="-6.45" kY="-6.45" cX="1" cY="1" z="24" twE="0" dr="7"/>
+          <f x="0.1" y="-0.05" kX="0.24" kY="0.24" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="-0.6" y="-1.45" kX="2.5" kY="2.5" cX="1" cY="1" z="24" twE="0" dr="7"/>
+          <f x="-0.05" y="-3.65" kX="-0.71" kY="-0.71" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="1.05" y="-1.9" kX="-6.45" kY="-6.45" cX="1" cY="1" z="24" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-3a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="CityFashion_nv_3-jsnv3-3a-1" twE="0" dr="9"/>
+          <f x="-0.15" y="-3.85" kX="-0.71" kY="-0.71" cX="1" cY="1" z="25" twE="0" dr="10"/>
+          <f x="0" y="-0.05" kX="0.24" kY="0.24" cX="1" cY="1" z="25" twE="0" dr="10"/>
+          <f x="-0.15" y="-3.85" kX="-0.71" kY="-0.71" cX="1" cY="1" z="25" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-xz1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="CityFashion_nv_3-jsnv3-xz1-1" twE="0" dr="3"/>
+          <f x="-0.6" y="-1.45" kX="2.5" kY="2.5" cX="1" cY="1" z="26" twE="0" dr="6"/>
+          <f x="-0.05" y="-3.65" kX="-0.71" kY="-0.71" cX="1" cY="1" z="26" twE="0" dr="3"/>
+          <f x="1.05" y="-1.9" kX="-6.45" kY="-6.45" cX="1" cY="1" z="26" twE="0" dr="7"/>
+          <f x="0.1" y="-0.05" kX="0.24" kY="0.24" cX="1" cY="1" z="26" twE="0" dr="3"/>
+          <f x="-0.6" y="-1.45" kX="2.5" kY="2.5" cX="1" cY="1" z="26" twE="0" dr="7"/>
+          <f x="-0.05" y="-3.65" kX="-0.71" kY="-0.71" cX="1" cY="1" z="26" twE="0" dr="3"/>
+          <f x="1.05" y="-1.9" kX="-6.45" kY="-6.45" cX="1" cY="1" z="26" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-tf4-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" img="CityFashion_nv_3-jsnv3-tf4-1" twE="0" dr="3"/>
+          <f x="-0.7" y="-0.7" kX="-2.09" kY="-2.09" cX="1" cY="1.03" z="27" twE="0" dr="6"/>
+          <f x="-1.35" y="-2.7" kX="-6.37" kY="-6.37" cX="1" cY="1" z="27" twE="0" dr="3"/>
+          <f x="-1.1" y="-1.95" kX="-4.39" kY="-4.39" cX="1" cY="0.97" z="27" twE="0" dr="7"/>
+          <f x="-0.05" y="0.15" kX="-0.23" kY="-0.23" cX="1" cY="1" z="27" twE="0" dr="3"/>
+          <f x="-0.75" y="-0.9" kX="0.92" kY="0.92" cX="1" cY="1.03" z="27" twE="0" dr="7"/>
+          <f x="-1.5" y="-3.4" kX="2.99" kY="2.99" cX="1" cY="1" z="27" twE="0" dr="3"/>
+          <f x="-1.15" y="-2.5" kX="2.13" kY="2.13" cX="1" cY="0.97" z="27" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-tf3-10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="28" img="CityFashion_nv_3-jsnv3-tf3-1" twE="0" dr="3"/>
+          <f x="-0.8" y="-0.85" kX="-1.81" kY="-1.81" cX="1" cY="1.04" z="28" twE="0" dr="6"/>
+          <f x="-1.4" y="-2.55" kX="-6.18" kY="-6.18" cX="1" cY="1" z="28" twE="0" dr="3"/>
+          <f x="-1.15" y="-1.8" kX="-4.09" kY="-4.09" cX="1" cY="0.96" z="28" twE="0" dr="7"/>
+          <f x="-0.05" y="0.2" kX="-0.22" kY="-0.22" cX="1" cY="1" z="28" twE="0" dr="3"/>
+          <f x="-0.7" y="-1" kX="1.66" kY="1.66" cX="1" cY="1.05" z="28" twE="0" dr="7"/>
+          <f x="-1.2" y="-3.5" kX="4.34" kY="4.34" cX="1" cY="1" z="28" twE="0" dr="3"/>
+          <f x="-0.9" y="-2.4" kX="3.19" kY="3.19" cX="1" cY="0.96" z="28" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="28" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-tf5-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="29" img="CityFashion_nv_3-jsnv3-tf5-1" twE="0" dr="4"/>
+          <f x="-0.85" y="-1.7" kX="-1.05" kY="-1.05" cX="1" cY="1.02" z="29" twE="0" dr="5"/>
+          <f x="-1.45" y="-3.95" kX="-2.68" kY="-2.68" cX="1" cY="1" z="29" twE="0" dr="4"/>
+          <f x="-0.95" y="-2.2" kX="-2.86" kY="-2.86" cX="1" cY="0.96" z="29" twE="0" dr="6"/>
+          <f x="0.05" y="0.55" kX="-3.99" kY="-3.99" cX="1" cY="1" z="29" twE="0" dr="4"/>
+          <f x="-0.75" y="-1.15" kX="-2.85" kY="-2.85" cX="1" cY="1.03" z="29" twE="0" dr="6"/>
+          <f x="-1.45" y="-4" kX="-2.18" kY="-2.18" cX="1" cY="1" z="29" twE="0" dr="4"/>
+          <f x="-1" y="-2.4" kX="-1.09" kY="-1.09" cX="1" cY="0.98" z="29" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="29" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-1a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="30" img="CityFashion_nv_3-jsnv3-1a-1" twE="0" dr="9"/>
+          <f x="-1.6" y="-3.25" kX="-1.97" kY="-1.97" cX="1" cY="1" z="30" twE="0" dr="10"/>
+          <f x="0" y="0.1" kX="-0.22" kY="-0.22" cX="1" cY="1" z="30" twE="0" dr="10"/>
+          <f x="-1.6" y="-3.25" kX="-1.97" kY="-1.97" cX="1" cY="1" z="30" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="30" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-yj1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="31" img="CityFashion_nv_3-jsnv3-yj1-1" twE="0" dr="9"/>
+          <f x="-1.25" y="-3.45" kX="-1.97" kY="-1.97" cX="1" cY="1" z="31" twE="0" dr="10"/>
+          <f x="0.05" y="0.1" kX="-0.22" kY="-0.22" cX="1" cY="1" z="31" twE="0" dr="10"/>
+          <f x="-1.25" y="-3.45" kX="-1.97" kY="-1.97" cX="1" cY="1" z="31" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="31" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-yj2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="32" img="CityFashion_nv_3-jsnv3-yj2-1" twE="0" dr="9"/>
+          <f x="-1.2" y="-4.1" kX="-1.97" kY="-1.97" cX="1" cY="1" z="32" twE="0" dr="10"/>
+          <f x="0.05" y="0" kX="-0.22" kY="-0.22" cX="1" cY="1" z="32" twE="0" dr="10"/>
+          <f x="-1.2" y="-4.1" kX="-1.97" kY="-1.97" cX="1" cY="1" z="32" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="32" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-zb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="33" img="CityFashion_nv_3-jsnv3-zb-1" twE="0" dr="9"/>
+          <f x="-0.6" y="-3.9" kX="-1.97" kY="-1.97" cX="1" cY="1" z="33" twE="0" dr="10"/>
+          <f x="0.15" y="0" kX="-0.22" kY="-0.22" cX="1" cY="1" z="33" twE="0" dr="10"/>
+          <f x="-0.6" y="-3.9" kX="-1.97" kY="-1.97" cX="1" cY="1" z="33" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="33" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-hg-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="34" img="CityFashion_nv_3-jsnv3-hg-1" twE="0" dr="9"/>
+          <f x="-2.45" y="-3.45" kX="-1.97" kY="-1.97" cX="1" cY="1" z="34" twE="0" dr="10"/>
+          <f x="-0.1" y="0.1" kX="-0.22" kY="-0.22" cX="1" cY="1" z="34" twE="0" dr="10"/>
+          <f x="-2.45" y="-3.45" kX="-1.97" kY="-1.97" cX="1" cY="1" z="34" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="34" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-tf2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="35" img="CityFashion_nv_3-jsnv3-tf2-1" twE="0" dr="3"/>
+          <f x="-0.7" y="-1.15" kX="0.09" kY="0.09" cX="1" cY="1.03" z="35" twE="0" dr="6"/>
+          <f x="-1.4" y="-3.25" kX="-0.23" kY="-0.23" cX="1" cY="1" z="35" twE="0" dr="3"/>
+          <f x="-1.1" y="-2.5" kX="1.05" kY="1.05" cX="1" cY="0.98" z="35" twE="0" dr="7"/>
+          <f x="-0.15" y="-0.55" kX="3.25" kY="3.25" cX="1" cY="1" z="35" twE="0" dr="3"/>
+          <f x="-0.75" y="-1.6" kX="2.8" kY="2.8" cX="1" cY="1.03" z="35" twE="0" dr="7"/>
+          <f x="-1.45" y="-3.4" kX="0.27" kY="0.27" cX="1" cY="1" z="35" twE="0" dr="3"/>
+          <f x="-1.1" y="-2.4" kX="0.32" kY="0.32" cX="1" cY="0.98" z="35" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="35" twE="0" dr="1"/>
+        </b>
+        <b name="jsnv3-tf1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="36" img="CityFashion_nv_3-jsnv3-tf1-1" twE="0" dr="9"/>
+          <f x="-1.75" y="-3.35" kX="-3.63" kY="-1.97" cX="1" cY="1" z="36" twE="0" dr="10"/>
+          <f x="-0.1" y="0.1" kX="-5.92" kY="-0.22" cX="1" cY="1" z="36" twE="0" dr="10"/>
+          <f x="-1.75" y="-3.35" kX="-4.55" kY="-1.97" cX="1" cY="1" z="36" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="36" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="37" img="CityFashion_nv_3-jsnv3-sh-1" twE="0" dr="9"/>
+          <f x="-0.2" y="-3.8" kX="0" kY="0" cX="1" cY="1" z="37" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="37" twE="0" dr="10"/>
+          <f x="-0.2" y="-3.8" kX="0" kY="0" cX="1" cY="1" z="37" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="37" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="女新版时装3" width="512" height="64">
+    <SubTexture name="CityFashion_nv_3-jsnv3-4a-2" x="314" y="25" width="10" height="15" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-4a-1" x="301" y="25" width="12" height="18" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-yj1-2" x="252" y="37" width="11" height="13" pX="-0.1" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-yj1-3" x="240" y="37" width="11" height="13" pX="0.5" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-yj2-2" x="502" y="33" width="8" height="12" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-yj2-3" x="276" y="37" width="8" height="12" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-fsnv-yz1-2" x="0" y="0" width="85" height="24" pX="12.75" pY="5.15"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-tf3-1" x="478" y="0" width="12" height="36" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-2a-2" x="61" y="25" width="16" height="19" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-qzd-1" x="257" y="0" width="28" height="36" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-qz3-1" x="169" y="0" width="37" height="36" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-qz6-1" x="360" y="0" width="21" height="33" pX="0" pY="2"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-qz2-1" x="86" y="0" width="40" height="43" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-qz5-1" x="342" y="0" width="17" height="42" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-qz4-1 " x="446" y="19" width="12" height="20" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-hb-1" x="183" y="37" width="19" height="6" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-qz1-1 " x="286" y="0" width="39" height="24" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-hb-2" x="382" y="0" width="42" height="10" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-dz3-1" x="459" y="0" width="18" height="30" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-dz2-1" x="382" y="11" width="19" height="27" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-dz1-1" x="402" y="11" width="19" height="20" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-8a-1" x="226" y="0" width="30" height="36" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-xiong-2" x="226" y="37" width="13" height="13" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-xiong-1" x="360" y="34" width="14" height="13" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-xz4-1" x="169" y="37" width="13" height="14" pX="-0.25" pY="-5.25"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-3a-2" x="502" y="0" width="8" height="19" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-xz3-1" x="286" y="25" width="14" height="19" pX="0" pY="0.7"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-dz-1" x="375" y="34" width="4" height="11" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-bz-1" x="459" y="31" width="16" height="13" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-2a-1" x="24" y="25" width="17" height="21" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-xz2-1" x="402" y="32" width="18" height="10" pX="0" pY="-7.6"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-3a-1" x="78" y="25" width="7" height="13" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-xz1-1" x="42" y="25" width="18" height="17" pX="-0.15" pY="0.1"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-tf4-1" x="491" y="0" width="10" height="38" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-tf5-1" x="326" y="0" width="15" height="48" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-1a-1" x="127" y="0" width="41" height="41" pX="7.3" pY="8"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-yj1-1" x="264" y="37" width="11" height="13" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-yj2-1" x="502" y="20" width="8" height="12" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-zb-1" x="476" y="37" width="7" height="3" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-hg-1" x="422" y="19" width="23" height="21" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-tf2-1" x="207" y="0" width="18" height="52" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-tf1-1" x="425" y="0" width="33" height="18" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nv_3-jsnv3-sh-1" x="0" y="25" width="23" height="15" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

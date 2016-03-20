@@ -1,0 +1,745 @@
+<skeleton name="男新版时装3">
+  <armatures>
+    <armature name="stand">
+      <b name="图层 14" bT="0" bi="CityFashion_nan_3-fsnv-yz1-2" x="157.2" y="253" kX="0" kY="0" z="0"/>
+      <b name="jsnan3-4a-1" bT="0" bi="CityFashion_nan_3-jsnan3-4a-1" x="207.45" y="197.4" kX="-2.24" kY="-2.24" z="1"/>
+      <b name="jsnan3-hb-1" bT="0" bi="CityFashion_nan_3-jsnan3-hb-1" x="202.9" y="199.75" kX="-16.26" kY="-16.26" z="2"/>
+      <b name="jsnan3-3a-1" bT="0" bi="CityFashion_nan_3-jsnan3-3a-1" x="195.45" y="183.4" kX="-22.99" kY="-22.99" z="3"/>
+      <b name="jsnan3-2a-1" bT="0" bi="CityFashion_nan_3-jsnan3-2a-1" x="193" y="165.85" kX="-19.39" kY="-19.39" z="4"/>
+      <b name="jsnan3-qz2-1" bT="0" bi="CityFashion_nan_3-jsnan3-qz2-1" x="171.4" y="181.9" kX="8.18" kY="8.18" z="5"/>
+      <b name="jsnan3-6a-1" bT="0" bi="CityFashion_nan_3-jsnan3-6a-1" x="190.85" y="217.6" kX="4.22" kY="4.22" z="6"/>
+      <b name="jsnan3-5a-1" bT="0" bi="CityFashion_nan_3-jsnan3-5a-1" x="191" y="196" kX="0" kY="0" z="7"/>
+      <b name="jsnan3-7a-1" bT="0" bi="CityFashion_nan_3-jsnan3-7a-1" x="188.9" y="243.45" kX="0" kY="0" z="8"/>
+      <b name="jsnan3-7a2-1" bT="0" bi="CityFashion_nan_3-jsnan3-7a2-1" x="203.4" y="247.25" kX="0" kY="0" z="9"/>
+      <b name="jsnan3-6a-2" bT="0" bi="CityFashion_nan_3-jsnan3-6a-2" x="172.6" y="217.45" kX="14.94" kY="14.94" z="10"/>
+      <b name="jsnan3-5a-2" bT="0" bi="CityFashion_nan_3-jsnan3-5a-2" x="183.35" y="193.15" kX="23.28" kY="23.28" z="11"/>
+      <b name="jsnan3-7a3-1" bT="0" bi="CityFashion_nan_3-jsnan3-7a3-1" x="163" y="244.75" kX="0" kY="0" z="12"/>
+      <b name="jsnan3-9a-1" bT="0" bi="CityFashion_nan_3-jsnan3-9a-1" x="182" y="190.3" kX="0" kY="0" z="13"/>
+      <b name="jsnan3-qz1-1" bT="0" bi="CityFashion_nan_3-jsnan3-qz1-1" x="178.9" y="183.95" kX="30.67" kY="30.67" z="14"/>
+      <b name="jsnan3-zz-1" bT="0" bi="CityFashion_nan_3-jsnan3-zz-1" x="188.6" y="189.6" kX="70.1" kY="70.1" z="15"/>
+      <b name="jsnan3-tf1-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf1-1" x="202.95" y="136.4" kX="8.1" kY="8.1" z="16"/>
+      <b name="jsnan3-8a-1" bT="0" bi="CityFashion_nan_3-jsnan3-8a-1" x="176.6" y="154.8" kX="0" kY="0" z="17"/>
+      <b name="jsnan3-4a-2" bT="0" bi="CityFashion_nan_3-jsnan3-4a-2" x="161.4" y="198.25" kX="0" kY="0" z="18"/>
+      <b name="jsnan3-hb-2" bT="0" bi="CityFashion_nan_3-jsnan3-hb-2" x="160.65" y="196.05" kX="9.97" kY="9.97" z="19"/>
+      <b name="jsnan3-3a-2" bT="0" bi="CityFashion_nan_3-jsnan3-3a-2" x="164.05" y="175.55" kX="14.21" kY="14.21" z="20"/>
+      <b name="jsnan3-2a-2" bT="0" bi="CityFashion_nan_3-jsnan3-2a-2" x="175.75" y="161.45" kX="21.75" kY="21.75" z="21"/>
+      <b name="jsnan3-wj-1" bT="0" bi="CityFashion_nan_3-jsnan3-wj-1" x="185.7" y="161.25" kX="-9.87" kY="-9.87" z="22"/>
+      <b name="jsnan3-yl-1" bT="0" bi="CityFashion_nan_3-jsnan3-yl-1" x="178.9" y="151.55" kX="19.3" kY="19.3" z="23"/>
+      <b name="jsnan3-1a-1" bT="0" bi="CityFashion_nan_3-jsnan3-1a-1" x="171.7" y="116.4" kX="0" kY="0" z="24"/>
+      <b name="jsnan3-tf2-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf2-10" x="159.85" y="134.55" kX="-1.95" kY="-1.95" z="25"/>
+      <b name="jsnan3-zb-1" bT="0" bi="CityFashion_nan_3-jsnan3-zb-1" x="193.8" y="155.25" kX="0" kY="0" z="26"/>
+      <b name="jsnan3-yj1-1" bT="0" bi="CityFashion_nan_3-jsnan3-yj1-1" x="200.3" y="138.05" kX="0" kY="0" z="27"/>
+      <b name="jsnan3-tf3-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf3-1" x="174.55" y="140" kX="3.98" kY="3.98" z="28"/>
+      <b name="jsnan3-yj2-1" bT="0" bi="CityFashion_nan_3-jsnan3-yj2-1" x="183.05" y="137.15" kX="0" kY="0" z="29"/>
+      <b name="jsnan3-tf7-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf7-1" x="198.75" y="116.75" kX="26.49" kY="25.85" z="30"/>
+      <b name="jsnan3-tf4-10" bT="0" bi="CityFashion_nan_3-jsnan3-tf4-10" x="160.4" y="120.4" kX="-16.46" kY="-16.02" z="31"/>
+      <b name="jsnan3-tf6-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf6-1" x="181" y="122.5" kX="30.53" kY="29.83" z="32"/>
+      <b name="jsnan3-tf8-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf8-1" x="194.1" y="114.6" kX="-19.06" kY="-18.57" z="33"/>
+      <b name="jsnan3-tf5-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf5-1" x="193.8" y="121.2" kX="31.9" kY="31.9" z="34"/>
+    </armature>
+    <armature name="run">
+      <b name="图层 14" bT="0" bi="CityFashion_nan_3-fsnv-yz1-2" x="157.95" y="253.35" kX="0" kY="0" z="0"/>
+      <b name="jsnan3-4a-1" bT="0" bi="CityFashion_nan_3-jsnan3-4a-1" x="200.5" y="196.8" kX="6.45" kY="6.45" z="1"/>
+      <b name="jsnan3-hb-1" bT="0" bi="CityFashion_nan_3-jsnan3-hb-1" x="195.7" y="198.45" kX="-7.57" kY="-7.57" z="2"/>
+      <b name="jsnan3-3a-1" bT="0" bi="CityFashion_nan_3-jsnan3-3a-1" x="190.8" y="181.1" kX="-14.29" kY="-14.29" z="3"/>
+      <b name="jsnan3-2a-1" bT="0" bi="CityFashion_nan_3-jsnan3-2a-1" x="190.45" y="163.85" kX="-12.67" kY="-12.67" z="4"/>
+      <b name="jsnan3-qz2-1" bT="0" bi="CityFashion_nan_3-jsnan3-qz2-1" x="166.85" y="180.85" kX="7.47" kY="7.47" z="5"/>
+      <b name="jsnan3-6a-1" bT="0" bi="CityFashion_nan_3-jsnan3-6a-1" x="187.55" y="216.65" kX="2.39" kY="2.39" z="6"/>
+      <b name="jsnan3-5a-1" bT="0" bi="CityFashion_nan_3-jsnan3-5a-1" x="187.95" y="194.6" kX="0.49" kY="0.49" z="7"/>
+      <b name="jsnan3-7a-1" bT="0" bi="CityFashion_nan_3-jsnan3-7a-1" x="186.25" y="245" kX="-3.72" kY="-3.72" z="8"/>
+      <b name="jsnan3-7a2-1" bT="0" bi="CityFashion_nan_3-jsnan3-7a2-1" x="200.95" y="247.85" kX="-3.72" kY="-3.72" z="9"/>
+      <b name="jsnan3-6a-10" bT="0" bi="CityFashion_nan_3-jsnan3-6a-1" x="191.15" y="213.8" kX="40.55" kY="40.55" z="10"/>
+      <b name="jsnan3-7a-10" bT="0" bi="CityFashion_nan_3-jsnan3-7a-1" x="176.8" y="231.85" kX="63.11" kY="63.11" z="11"/>
+      <b name="jsnan3-7a2-10" bT="0" bi="CityFashion_nan_3-jsnan3-7a2-1" x="180" y="246.9" kX="63.11" kY="63.11" z="12"/>
+      <b name="jsnan3-5a-2" bT="0" bi="CityFashion_nan_3-jsnan3-5a-2" x="178.8" y="196.95" kX="-19.76" kY="-19.76" z="13"/>
+      <b name="jsnan3-9a-1" bT="0" bi="CityFashion_nan_3-jsnan3-9a-1" x="179" y="188.95" kX="0" kY="0" z="14"/>
+      <b name="jsnan3-qz1-1" bT="0" bi="CityFashion_nan_3-jsnan3-qz1-1" x="175.65" y="182.95" kX="28.19" kY="28.19" z="15"/>
+      <b name="jsnan3-zz-1" bT="0" bi="CityFashion_nan_3-jsnan3-zz-1" x="185.6" y="188.15" kX="67.63" kY="67.63" z="16"/>
+      <b name="jsnan3-tf1-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf1-1" x="202.6" y="136.4" kX="11.94" kY="11.94" z="17"/>
+      <b name="jsnan3-8a-1" bT="0" bi="CityFashion_nan_3-jsnan3-8a-1" x="174.1" y="153.2" kX="0.77" kY="0.77" z="18"/>
+      <b name="jsnan3-4a-2" bT="0" bi="CityFashion_nan_3-jsnan3-4a-2" x="164.2" y="198.25" kX="-8.18" kY="-8.18" z="19"/>
+      <b name="jsnan3-hb-2" bT="0" bi="CityFashion_nan_3-jsnan3-hb-2" x="163.05" y="196" kX="1.78" kY="1.78" z="20"/>
+      <b name="jsnan3-3a-2" bT="0" bi="CityFashion_nan_3-jsnan3-3a-2" x="163.55" y="175.4" kX="6.03" kY="6.03" z="21"/>
+      <b name="jsnan3-2a-2" bT="0" bi="CityFashion_nan_3-jsnan3-2a-2" x="172.1" y="160.75" kX="11.01" kY="11.01" z="22"/>
+      <b name="jsnan3-wj-1" bT="0" bi="CityFashion_nan_3-jsnan3-wj-1" x="183.1" y="160.3" kX="-13.38" kY="-13.38" z="23"/>
+      <b name="jsnan3-yl-1" bT="0" bi="CityFashion_nan_3-jsnan3-yl-1" x="176.65" y="149.4" kX="20.57" kY="20.57" z="24"/>
+      <b name="jsnan3-1a-1" bT="0" bi="CityFashion_nan_3-jsnan3-1a-1" x="173.1" y="113.25" kX="5.3" kY="5.3" z="25"/>
+      <b name="jsnan3-tf2-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf2-10" x="160.2" y="129.75" kX="6.55" kY="6.55" z="26"/>
+      <b name="jsnan3-zb-1" bT="0" bi="CityFashion_nan_3-jsnan3-zb-1" x="191.5" y="154.05" kX="5.3" kY="5.3" z="27"/>
+      <b name="jsnan3-yj1-1" bT="0" bi="CityFashion_nan_3-jsnan3-yj1-1" x="199.6" y="137.55" kX="5.3" kY="5.3" z="28"/>
+      <b name="jsnan3-yj2-1" bT="0" bi="CityFashion_nan_3-jsnan3-yj2-1" x="182.4" y="135.05" kX="5.3" kY="5.3" z="29"/>
+      <b name="jsnan3-tf3-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf3-1" x="173.65" y="137.15" kX="7.77" kY="7.77" z="30"/>
+      <b name="jsnan3-tf7-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf7-1" x="199.75" y="116" kX="28.01" kY="28.01" z="31"/>
+      <b name="jsnan3-tf4-10" bT="0" bi="CityFashion_nan_3-jsnan3-tf4-10" x="162" y="116.25" kX="-10.94" kY="-10.94" z="32"/>
+      <b name="jsnan3-tf6-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf6-1" x="182.15" y="120.05" kX="36.98" kY="36.98" z="33"/>
+      <b name="jsnan3-tf8-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf8-1" x="195.3" y="113.55" kX="-19.26" kY="-19.26" z="34"/>
+      <b name="jsnan3-tf5-1" bT="0" bi="CityFashion_nan_3-jsnan3-tf5-1" x="194.65" y="120.1" kX="36.63" kY="36.63" z="35"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="70" drTW="70" lp="1">
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="CityFashion_nan_3-fsnv-yz1-2" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="18"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0"/>
+        <b name="图层 13" sc="1" dl="0"/>
+        <b name="图层 12" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0"/>
+        <b name="46 5" sc="1" dl="0"/>
+        <b name="46 6" sc="1" dl="0"/>
+        <b name="46 4" sc="1" dl="0"/>
+        <b name="46 2" sc="1" dl="0"/>
+        <b name="46 3" sc="1" dl="0"/>
+        <b name="46 1" sc="1" dl="0"/>
+        <b name="46 7" sc="1" dl="0"/>
+        <b name="图层 6" sc="1" dl="0"/>
+        <b name="女剑士1默认1-1-1-2" sc="1" dl="0"/>
+        <b name="图层 7" sc="1" dl="0"/>
+        <b name="图层 9" sc="1" dl="0"/>
+        <b name="图层 8" sc="1" dl="0"/>
+        <b name="女剑士1默认1-1-1-10" sc="1" dl="0"/>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="女剑士1头－头发 侧" sc="1" dl="0"/>
+        <b name="女剑士1默认1-1-1-4" sc="1" dl="0"/>
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="jsnan3-4a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="CityFashion_nan_3-jsnan3-4a-1" twE="0" dr="17"/>
+          <f x="-3.3" y="-1.4" kX="5.91" kY="5.91" cX="1" cY="1" z="1" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="17"/>
+          <f x="-3.3" y="-1.4" kX="5.91" kY="5.91" cX="1" cY="1" z="1" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-hb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="CityFashion_nan_3-jsnan3-hb-1" twE="0" dr="17"/>
+          <f x="-3.55" y="-1.9" kX="-2.57" kY="5.91" cX="1" cY="0.92" z="2" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="17"/>
+          <f x="-3.55" y="-1.9" kX="-2.57" kY="5.91" cX="1" cY="0.92" z="2" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-3a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="CityFashion_nan_3-jsnan3-3a-1" twE="0" dr="17"/>
+          <f x="-1.75" y="-2.55" kX="5.91" kY="5.91" cX="1" cY="1" z="3" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="17"/>
+          <f x="-1.75" y="-2.55" kX="5.91" kY="5.91" cX="1" cY="1" z="3" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-2a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="CityFashion_nan_3-jsnan3-2a-1" twE="0" dr="17"/>
+          <f x="0.1" y="-2.7" kX="5.91" kY="5.91" cX="1" cY="1" z="4" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" twE="0" dr="17"/>
+          <f x="0.1" y="-2.7" kX="5.91" kY="5.91" cX="1" cY="1" z="4" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-qz2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="CityFashion_nan_3-jsnan3-qz2-1" twE="0" dr="4"/>
+          <f x="-0.1" y="-0.45" kX="-0.36" kY="-0.36" cX="1" cY="1" z="5" twE="0" dr="13"/>
+          <f x="0.5" y="-4.45" kX="4.47" kY="4.47" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="0.55" y="-3.7" kX="4.32" kY="4.32" cX="1" cY="1" z="5" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="-0.1" y="-0.45" kX="-0.36" kY="-0.36" cX="1" cY="1" z="5" twE="0" dr="13"/>
+          <f x="0.5" y="-4.45" kX="4.47" kY="4.47" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="0.55" y="-3.7" kX="4.32" kY="4.32" cX="1" cY="1" z="5" twE="0" dr="14"/>
+        </b>
+        <b name="jsnan3-6a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="CityFashion_nan_3-jsnan3-6a-1" twE="0" dr="17"/>
+          <f x="-0.2" y="0" kX="-0.44" kY="-0.44" cX="1" cY="1" z="6" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="17"/>
+          <f x="-0.2" y="0" kX="-0.44" kY="-0.44" cX="1" cY="1" z="6" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-5a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="CityFashion_nan_3-jsnan3-5a-1" twE="0" dr="17"/>
+          <f x="0" y="-1.2" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="17"/>
+          <f x="0" y="-1.2" kX="0" kY="0" cX="1" cY="1" z="7" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-7a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="CityFashion_nan_3-jsnan3-7a-1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-7a2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="CityFashion_nan_3-jsnan3-7a2-1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-6a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="CityFashion_nan_3-jsnan3-6a-2" twE="0" dr="17"/>
+          <f x="0.15" y="0" kX="0.32" kY="0.32" cX="1" cY="1" z="10" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" twE="0" dr="17"/>
+          <f x="0.15" y="0" kX="0.32" kY="0.32" cX="1" cY="1" z="10" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-5a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="CityFashion_nan_3-jsnan3-5a-2" twE="0" dr="17"/>
+          <f x="-0.1" y="-1.1" kX="-1" kY="-1" cX="1" cY="1" z="11" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" twE="0" dr="17"/>
+          <f x="-0.1" y="-1.1" kX="-1" kY="-1" cX="1" cY="1" z="11" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-7a3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="CityFashion_nan_3-jsnan3-7a3-1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-9a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="CityFashion_nan_3-jsnan3-9a-1" twE="0" dr="17"/>
+          <f x="0" y="-2.1" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="17"/>
+          <f x="0" y="-2.1" kX="0" kY="0" cX="1" cY="1" z="13" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-qz1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="CityFashion_nan_3-jsnan3-qz1-1" twE="0" dr="4"/>
+          <f x="0.05" y="-0.55" kX="-0.09" kY="-0.09" cX="1" cY="1" z="14" twE="0" dr="13"/>
+          <f x="-0.6" y="-1.2" kX="-6.21" kY="-6.21" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="-0.6" y="-0.7" kX="-6.05" kY="-6.05" cX="1" cY="1" z="14" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="0.05" y="-0.55" kX="-0.09" kY="-0.09" cX="1" cY="1" z="14" twE="0" dr="13"/>
+          <f x="-0.6" y="-1.2" kX="-6.21" kY="-6.21" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="-0.6" y="-0.7" kX="-6.05" kY="-6.05" cX="1" cY="1" z="14" twE="0" dr="14"/>
+        </b>
+        <b name="jsnan3-zz-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="CityFashion_nan_3-jsnan3-zz-1" twE="0" dr="4"/>
+          <f x="0.1" y="-0.4" kX="1.09" kY="1.09" cX="1" cY="1" z="15" twE="0" dr="13"/>
+          <f x="0" y="-2.1" kX="-3.17" kY="-3.17" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="-0.05" y="-1.65" kX="-5.63" kY="-5.63" cX="1" cY="1" z="15" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="0.1" y="-0.4" kX="1.09" kY="1.09" cX="1" cY="1" z="15" twE="0" dr="13"/>
+          <f x="0" y="-2.1" kX="-3.17" kY="-3.17" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="-0.05" y="-1.65" kX="-5.63" kY="-5.63" cX="1" cY="1" z="15" twE="0" dr="14"/>
+        </b>
+        <b name="jsnan3-tf1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="CityFashion_nan_3-jsnan3-tf1-1" twE="0" dr="4"/>
+          <f x="-0.05" y="-0.4" kX="-2.11" kY="-2.11" cX="1" cY="1" z="16" twE="0" dr="13"/>
+          <f x="0.2" y="-2.35" kX="3.48" kY="3.48" cX="1" cY="1" z="16" twE="0" dr="5"/>
+          <f x="0.15" y="-1.9" kX="5.35" kY="5.35" cX="1" cY="1" z="16" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="-0.05" y="-0.4" kX="-2.11" kY="-2.11" cX="1" cY="1" z="16" twE="0" dr="13"/>
+          <f x="0.2" y="-2.35" kX="3.48" kY="3.48" cX="1" cY="1" z="16" twE="0" dr="5"/>
+          <f x="0.15" y="-1.9" kX="5.35" kY="5.35" cX="1" cY="1" z="16" twE="0" dr="13"/>
+        </b>
+        <b name="jsnan3-8a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="CityFashion_nan_3-jsnan3-8a-1" twE="0" dr="17"/>
+          <f x="0" y="-2.1" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="17"/>
+          <f x="0" y="-2.1" kX="0" kY="0" cX="1" cY="1" z="17" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-4a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="CityFashion_nan_3-jsnan3-4a-2" twE="0" dr="17"/>
+          <f x="3.15" y="-0.6" kX="-6.52" kY="-6.52" cX="1" cY="1" z="18" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" twE="0" dr="17"/>
+          <f x="3.15" y="-0.6" kX="-6.52" kY="-6.52" cX="1" cY="1" z="18" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-hb-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="CityFashion_nan_3-jsnan3-hb-2" twE="0" dr="17"/>
+          <f x="3.05" y="-0.35" kX="4.09" kY="-6.52" cX="1" cY="0.9" z="19" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="17"/>
+          <f x="3.05" y="-0.35" kX="4.09" kY="-6.52" cX="1" cY="0.9" z="19" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-3a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="CityFashion_nan_3-jsnan3-3a-2" twE="0" dr="17"/>
+          <f x="0.65" y="-0.85" kX="-6.51" kY="-6.51" cX="1" cY="1" z="20" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="17"/>
+          <f x="0.65" y="-0.85" kX="-6.51" kY="-6.51" cX="1" cY="1" z="20" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-2a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="CityFashion_nan_3-jsnan3-2a-2" twE="0" dr="17"/>
+          <f x="-0.05" y="-1.95" kX="-3.98" kY="-3.98" cX="1" cY="1" z="21" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="17"/>
+          <f x="-0.05" y="-1.95" kX="-3.98" kY="-3.98" cX="1" cY="1" z="21" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-wj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="CityFashion_nan_3-jsnan3-wj-1" twE="0" dr="5"/>
+          <f x="0.2" y="-0.55" kX="6.94" kY="-0.91" cX="1" cY="1.01" z="22" twE="0" dr="12"/>
+          <f x="0" y="-1.7" kX="-2.88" kY="-3.25" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="0" y="-1" kX="-5.88" kY="-3.9" cX="1" cY="1" z="22" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="0.2" y="-0.55" kX="6.94" kY="-0.91" cX="1" cY="1.01" z="22" twE="0" dr="12"/>
+          <f x="0" y="-1.7" kX="-2.88" kY="-3.25" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="0" y="-1" kX="-5.88" kY="-3.9" cX="1" cY="1" z="22" twE="0" dr="13"/>
+        </b>
+        <b name="jsnan3-yl-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="CityFashion_nan_3-jsnan3-yl-1" twE="0" dr="17"/>
+          <f x="-0.55" y="-1.4" kX="-5.72" kY="-5.72" cX="1" cY="1" z="23" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="17"/>
+          <f x="-0.55" y="-1.4" kX="-5.72" kY="-5.72" cX="1" cY="1" z="23" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-1a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="CityFashion_nan_3-jsnan3-1a-1" twE="0" dr="17"/>
+          <f x="0" y="-2.1" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="17"/>
+          <f x="0" y="-2.1" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-tf2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="CityFashion_nan_3-jsnan3-tf2-10" twE="0" dr="4"/>
+          <f x="0.35" y="-0.8" kX="3.82" kY="3.82" cX="1" cY="1" z="25" twE="0" dr="13"/>
+          <f x="0.3" y="-1.85" kX="-3.32" kY="-3.32" cX="1" cY="1" z="25" twE="0" dr="5"/>
+          <f x="0.25" y="-0.9" kX="-5.78" kY="-5.78" cX="1" cY="1" z="25" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="0.35" y="-0.8" kX="3.82" kY="3.82" cX="1" cY="1" z="25" twE="0" dr="13"/>
+          <f x="0.3" y="-1.85" kX="-3.32" kY="-3.32" cX="1" cY="1" z="25" twE="0" dr="5"/>
+          <f x="0.25" y="-0.9" kX="-5.78" kY="-5.78" cX="1" cY="1" z="25" twE="0" dr="13"/>
+        </b>
+        <b name="jsnan3-zb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="CityFashion_nan_3-jsnan3-zb-1" twE="0" dr="17"/>
+          <f x="0" y="-2.1" kX="0" kY="0" cX="1" cY="1" z="26" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" twE="0" dr="17"/>
+          <f x="0" y="-2.1" kX="0" kY="0" cX="1" cY="1" z="26" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-yj1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" img="CityFashion_nan_3-jsnan3-yj1-1" twE="0" dr="17"/>
+          <f x="0" y="-2.1" kX="0" kY="0" cX="1" cY="1" z="27" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" img="CityFashion_nan_3-jsnan3-yj1-2" twE="0" dr="3"/>
+          <f x="0" y="-0.35" kX="0" kY="0" cX="1" cY="1" z="27" img="CityFashion_nan_3-jsnan3-yj1-3" twE="0" dr="5"/>
+          <f x="0" y="-0.95" kX="0" kY="0" cX="1" cY="1" z="27" img="CityFashion_nan_3-jsnan3-yj1-2" twE="0" dr="3"/>
+          <f x="0" y="-1.35" kX="0" kY="0" cX="1" cY="1" z="27" img="CityFashion_nan_3-jsnan3-yj1-1" twE="0" dr="6"/>
+          <f x="0" y="-2.1" kX="0" kY="0" cX="1" cY="1" z="27" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-tf3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="28" img="CityFashion_nan_3-jsnan3-tf3-1" twE="0" dr="4"/>
+          <f x="0.15" y="-0.85" kX="4.62" kY="4.62" cX="1" cY="1" z="28" twE="0" dr="13"/>
+          <f x="-0.15" y="-1.8" kX="-3.98" kY="-3.98" cX="1" cY="1" z="28" twE="0" dr="5"/>
+          <f x="-0.2" y="-1" kX="-6.67" kY="-6.67" cX="1" cY="1" z="28" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="28" twE="0" dr="4"/>
+          <f x="0.15" y="-0.85" kX="4.62" kY="4.62" cX="1" cY="1" z="28" twE="0" dr="13"/>
+          <f x="-0.15" y="-1.8" kX="-3.98" kY="-3.98" cX="1" cY="1" z="28" twE="0" dr="5"/>
+          <f x="-0.2" y="-1" kX="-6.67" kY="-6.67" cX="1" cY="1" z="28" twE="0" dr="13"/>
+        </b>
+        <b name="jsnan3-yj2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="29" img="CityFashion_nan_3-jsnan3-yj2-1" twE="0" dr="4"/>
+          <f x="0" y="-0.5" kX="0" kY="0" cX="1" cY="1" z="29" twE="0" dr="13"/>
+          <f x="0" y="-2.1" kX="0" kY="0" cX="1" cY="1" z="29" twE="0" dr="5"/>
+          <f x="0" y="-1.5" kX="0" kY="0" cX="1" cY="1" z="29" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="29" img="CityFashion_nan_3-jsnan3-yj2-2" twE="0" dr="3"/>
+          <f x="0" y="-0.35" kX="0" kY="0" cX="1" cY="1" z="29" img="CityFashion_nan_3-jsnan3-yj2-3" twE="0" dr="5"/>
+          <f x="0" y="-0.95" kX="0" kY="0" cX="1" cY="1" z="29" img="CityFashion_nan_3-jsnan3-yj2-2" twE="0" dr="3"/>
+          <f x="0" y="-1.35" kX="0" kY="0" cX="1" cY="1" z="29" img="CityFashion_nan_3-jsnan3-yj2-1" twE="0" dr="6"/>
+          <f x="0" y="-2.1" kX="0" kY="0" cX="1" cY="1" z="29" twE="0" dr="18"/>
+        </b>
+        <b name="jsnan3-tf7-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.01" cY="1" z="30" img="CityFashion_nan_3-jsnan3-tf7-1" twE="0" dr="4"/>
+          <f x="-0.15" y="-0.55" kX="-1.93" kY="-1.79" cX="1.01" cY="1" z="30" twE="0" dr="13"/>
+          <f x="0.15" y="-2.05" kX="2.38" kY="3.02" cX="1" cY="1" z="30" twE="0" dr="5"/>
+          <f x="0.3" y="-1.3" kX="4.1" kY="4.69" cX="1" cY="1" z="30" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.01" cY="1" z="30" twE="0" dr="4"/>
+          <f x="-0.15" y="-0.55" kX="-1.93" kY="-1.79" cX="1.01" cY="1" z="30" twE="0" dr="13"/>
+          <f x="0.15" y="-2.05" kX="2.38" kY="3.02" cX="1" cY="1" z="30" twE="0" dr="5"/>
+          <f x="0.3" y="-1.3" kX="4.1" kY="4.69" cX="1" cY="1" z="30" twE="0" dr="13"/>
+        </b>
+        <b name="jsnan3-tf4-10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.01" cY="1" z="31" img="CityFashion_nan_3-jsnan3-tf4-10" twE="0" dr="4"/>
+          <f x="0.15" y="-0.5" kX="0.16" kY="-0.01" cX="1.01" cY="1" z="31" twE="0" dr="13"/>
+          <f x="0.45" y="-2.1" kX="0.22" kY="-0.22" cX="1" cY="1" z="31" twE="0" dr="5"/>
+          <f x="0.35" y="-1.5" kX="0.18" kY="-0.04" cX="1" cY="1" z="31" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.01" cY="1" z="31" twE="0" dr="4"/>
+          <f x="0.15" y="-0.5" kX="0.16" kY="-0.01" cX="1.01" cY="1" z="31" twE="0" dr="13"/>
+          <f x="0.45" y="-2.1" kX="0.22" kY="-0.22" cX="1" cY="1" z="31" twE="0" dr="5"/>
+          <f x="0.35" y="-1.5" kX="0.18" kY="-0.04" cX="1" cY="1" z="31" twE="0" dr="13"/>
+        </b>
+        <b name="jsnan3-tf6-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.01" cY="1" z="32" img="CityFashion_nan_3-jsnan3-tf6-1" twE="0" dr="4"/>
+          <f x="0.15" y="-0.7" kX="1.74" kY="1.93" cX="1.01" cY="1" z="32" twE="0" dr="13"/>
+          <f x="-0.1" y="-1.7" kX="-4.06" kY="-3.36" cX="1" cY="1" z="32" twE="0" dr="5"/>
+          <f x="-0.25" y="-0.75" kX="-6.63" kY="-6.17" cX="1" cY="1" z="32" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.01" cY="1" z="32" twE="0" dr="4"/>
+          <f x="0.15" y="-0.7" kX="1.74" kY="1.93" cX="1.01" cY="1" z="32" twE="0" dr="13"/>
+          <f x="-0.1" y="-1.7" kX="-4.06" kY="-3.36" cX="1" cY="1" z="32" twE="0" dr="5"/>
+          <f x="-0.25" y="-0.75" kX="-6.63" kY="-6.17" cX="1" cY="1" z="32" twE="0" dr="13"/>
+        </b>
+        <b name="jsnan3-tf8-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.01" cY="1" z="33" img="CityFashion_nan_3-jsnan3-tf8-1" twE="0" dr="4"/>
+          <f x="0" y="-0.4" kX="-2.68" kY="-2.7" cX="1.01" cY="1" z="33" twE="0" dr="13"/>
+          <f x="0" y="-2.1" kX="6.47" kY="5.98" cX="1" cY="1" z="33" twE="0" dr="5"/>
+          <f x="0" y="-1.45" kX="9.25" kY="8.99" cX="1" cY="1" z="33" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.01" cY="1" z="33" twE="0" dr="4"/>
+          <f x="0" y="-0.4" kX="-2.68" kY="-2.7" cX="1.01" cY="1" z="33" twE="0" dr="13"/>
+          <f x="0" y="-2.1" kX="6.47" kY="5.98" cX="1" cY="1" z="33" twE="0" dr="5"/>
+          <f x="0" y="-1.45" kX="9.25" kY="8.99" cX="1" cY="1" z="33" twE="0" dr="13"/>
+        </b>
+        <b name="jsnan3-tf5-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="34" img="CityFashion_nan_3-jsnan3-tf5-1" twE="0" dr="4"/>
+          <f x="-0.1" y="-0.6" kX="-1.13" kY="-1.13" cX="1" cY="1" z="34" twE="0" dr="13"/>
+          <f x="0.35" y="-2.05" kX="2.54" kY="2.54" cX="1" cY="1" z="34" twE="0" dr="5"/>
+          <f x="0.45" y="-1.5" kX="3.93" kY="3.93" cX="1" cY="1" z="34" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="34" twE="0" dr="4"/>
+          <f x="-0.1" y="-0.6" kX="-1.13" kY="-1.13" cX="1" cY="1" z="34" twE="0" dr="13"/>
+          <f x="0.35" y="-2.05" kX="2.54" kY="2.54" cX="1" cY="1" z="34" twE="0" dr="5"/>
+          <f x="0.45" y="-1.5" kX="3.93" kY="3.93" cX="1" cY="1" z="34" twE="0" dr="13"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="run">
+      <mov name="run" to="1" dr="32" drTW="32" lp="1">
+        <b name="图层 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.94" cY="0.94" z="0" img="CityFashion_nan_3-fsnv-yz1-2" twE="0" dr="4"/>
+          <f x="-0.4" y="-0.2" kX="0" kY="0" cX="0.97" cY="0.97" z="0" twE="0" dr="4"/>
+          <f x="-0.75" y="-0.35" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="4"/>
+          <f x="0.1" y="-0.2" kX="0" kY="0" cX="0.97" cY="0.97" z="0" twE="0" dr="4"/>
+          <f x="1" y="0" kX="0" kY="0" cX="0.94" cY="0.94" z="0" twE="0" dr="4"/>
+          <f x="0.15" y="-0.2" kX="0" kY="0" cX="0.97" cY="0.97" z="0" twE="0" dr="4"/>
+          <f x="-0.75" y="-0.35" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="4"/>
+          <f x="-0.4" y="-0.2" kX="0" kY="0" cX="0.97" cY="0.97" z="0" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-4a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="CityFashion_nan_3-jsnan3-4a-1" twE="0" dr="8"/>
+          <f x="4.35" y="3.7" kX="-10.55" kY="-10.55" cX="1" cY="1" z="1" twE="0" dr="8"/>
+          <f x="1.65" y="-0.1" kX="-0.48" kY="-0.48" cX="1" cY="1" z="1" twE="0" dr="8"/>
+          <f x="-4.2" y="4.2" kX="12.79" kY="12.79" cX="1" cY="1" z="1" twE="0" dr="8"/>
+        </b>
+        <b name="jsnan3-hb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="CityFashion_nan_3-jsnan3-hb-1" twE="0" dr="8"/>
+          <f x="4.45" y="4" kX="-6.56" kY="-6.56" cX="1" cY="1" z="2" twE="0" dr="8"/>
+          <f x="1.6" y="-0.1" kX="-0.48" kY="-0.48" cX="1" cY="1" z="2" twE="0" dr="8"/>
+          <f x="-4.55" y="3.95" kX="7.33" kY="7.33" cX="1" cY="1" z="2" twE="0" dr="8"/>
+        </b>
+        <b name="jsnan3-3a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="CityFashion_nan_3-jsnan3-3a-1" twE="0" dr="8"/>
+          <f x="2.55" y="4.65" kX="-6.57" kY="-6.57" cX="1" cY="1" z="3" twE="0" dr="8"/>
+          <f x="1.45" y="0" kX="-0.49" kY="-0.49" cX="1" cY="1" z="3" twE="0" dr="8"/>
+          <f x="-2.25" y="3.6" kX="7.33" kY="7.33" cX="1" cY="1" z="3" twE="0" dr="8"/>
+        </b>
+        <b name="jsnan3-2a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="CityFashion_nan_3-jsnan3-2a-1" twE="0" dr="8"/>
+          <f x="1.4" y="4.4" kX="-4.59" kY="-4.59" cX="1" cY="1" z="4" twE="0" dr="8"/>
+          <f x="2.15" y="-0.5" kX="2.24" kY="2.24" cX="1" cY="1" z="4" twE="0" dr="8"/>
+          <f x="0.5" y="3.35" kX="9.3" kY="9.3" cX="1" cY="1" z="4" twE="0" dr="8"/>
+        </b>
+        <b name="jsnan3-qz2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="CityFashion_nan_3-jsnan3-qz2-1" twE="0" dr="4"/>
+          <f x="0.7" y="1.35" kX="1.8" kY="1.8" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="1.4" y="2.5" kX="3.71" kY="3.71" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="1.65" y="1.35" kX="1.3" kY="1.3" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="1.85" y="0.2" kX="-1.05" kY="-1.05" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="1.2" y="3.1" kX="-2.45" kY="-2.45" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="0.65" y="5.9" kX="-3.73" kY="-3.73" cX="1" cY="1" z="5" twE="0" dr="4"/>
+          <f x="0.3" y="2.95" kX="-1.94" kY="-1.94" cX="1" cY="1" z="5" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-6a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.07" z="6" img="CityFashion_nan_3-jsnan3-6a-1" twE="0" dr="4"/>
+          <f x="-2.8" y="-1.55" kX="13.88" kY="13.87" cX="1" cY="1.05" z="6" twE="0" dr="4"/>
+          <f x="-7.4" y="-1.35" kX="27.73" kY="27.73" cX="1" cY="1.04" z="6" twE="0" dr="4"/>
+          <f x="4.95" y="-4.25" kX="42.92" kY="42.92" cX="1" cY="1.02" z="6" twE="0" dr="4"/>
+          <f x="12.4" y="-7.3" kX="33.2" kY="33.2" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="12.25" y="-3.25" kX="13.63" kY="13.63" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="6.65" y="6.15" kX="-18.5" kY="-18.5" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="3.7" y="2.65" kX="-9.7" kY="-9.7" cX="1" cY="1.04" z="6" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-5a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="CityFashion_nan_3-jsnan3-5a-1" twE="0" dr="4"/>
+          <f x="1.15" y="0.4" kX="11.79" kY="11.79" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="2.65" y="0.6" kX="25.9" kY="25.9" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="1" y="1.7" kX="-0.19" kY="-0.19" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="0.65" y="2.4" kX="-23.78" kY="-23.78" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="0.4" y="6.15" kX="-30.97" kY="-30.97" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="-0.7" y="6.45" kX="-19.3" kY="-19.3" cX="1" cY="1" z="7" twE="0" dr="4"/>
+          <f x="-0.4" y="3.4" kX="-10.78" kY="-10.78" cX="1" cY="1" z="7" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-7a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="CityFashion_nan_3-jsnan3-7a-1" twE="0" dr="4"/>
+          <f x="-9.25" y="-3.95" kX="16.53" kY="16.53" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="-19.3" y="-6.45" kX="33.34" kY="33.34" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="-11.45" y="-14.75" kX="54.08" kY="54.08" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="-0.4" y="-15.9" kX="50.08" kY="50.08" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="7.6" y="-9.85" kX="26.99" kY="26.99" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="15.4" y="2.05" kX="-8.77" kY="-8.77" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="8.55" y="0.95" kX="-4.84" kY="-4.84" cX="1" cY="1" z="8" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-7a2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="CityFashion_nan_3-jsnan3-7a2-1" twE="0" dr="4"/>
+          <f x="-13.65" y="0.2" kX="0.17" kY="0.17" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="-28.6" y="0.45" kX="0" kY="0" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="-21.1" y="-6" kX="47.96" kY="47.96" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="-10.5" y="-7.5" kX="55.72" kY="55.72" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="4.85" y="-3.6" kX="31.31" kY="31.31" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="15.1" y="-0.6" kX="-6.57" kY="-6.57" cX="1" cY="1" z="9" twE="0" dr="4"/>
+          <f x="8.35" y="-0.55" kX="-3.81" kY="-3.81" cX="1" cY="1" z="9" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-6a-10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.03" cY="1.03" z="10" img="CityFashion_nan_3-jsnan3-6a-1" twE="0" dr="4"/>
+          <f x="3.75" y="1.3" kX="-28.5" kY="-28.5" cX="1.03" cY="1.03" z="10" twE="0" dr="4"/>
+          <f x="-1.3" y="11.65" kX="-56.73" kY="-56.73" cX="1.03" cY="1.03" z="10" twE="0" dr="4"/>
+          <f x="-5.35" y="8.5" kX="-47.84" kY="-47.84" cX="1.03" cY="1.06" z="10" twE="0" dr="4"/>
+          <f x="-9.05" y="6.15" kX="-39.16" kY="-39.16" cX="1.03" cY="1.09" z="10" twE="0" dr="4"/>
+          <f x="-12.75" y="4.3" kX="-22.74" kY="-22.74" cX="1.03" cY="1.06" z="10" twE="0" dr="4"/>
+          <f x="-17.2" y="4.75" kX="-6.07" kY="-6.07" cX="1.03" cY="1.03" z="10" twE="0" dr="4"/>
+          <f x="-8.1" y="3.2" kX="8.03" kY="8.03" cX="1.03" cY="1.03" z="10" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-7a-10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.03" cY="1.03" z="11" img="CityFashion_nan_3-jsnan3-7a-1" twE="0" dr="4"/>
+          <f x="13.6" y="6.25" kX="-39.57" kY="-39.57" cX="1.03" cY="1.03" z="11" twE="0" dr="4"/>
+          <f x="20.6" y="18.05" kX="-74.46" kY="-74.46" cX="1.03" cY="1.03" z="11" twE="0" dr="4"/>
+          <f x="12.6" y="17" kX="-69.15" kY="-69.15" cX="1.03" cY="1.03" z="11" twE="0" dr="4"/>
+          <f x="4.6" y="16.05" kX="-64.04" kY="-64.04" cX="1.03" cY="1.03" z="11" twE="0" dr="4"/>
+          <f x="-6.65" y="11.5" kX="-47.33" kY="-47.33" cX="1.03" cY="1.03" z="11" twE="0" dr="4"/>
+          <f x="-17.7" y="8.25" kX="-30.56" kY="-30.56" cX="1.03" cY="1.03" z="11" twE="0" dr="4"/>
+          <f x="-10.05" y="1.05" kX="2.57" kY="2.57" cX="1.03" cY="1.03" z="11" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-7a2-10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.03" cY="1.03" z="12" img="CityFashion_nan_3-jsnan3-7a2-1" twE="0" dr="4"/>
+          <f x="20.3" y="-0.9" kX="-39.57" kY="-39.57" cX="1.03" cY="1.03" z="12" twE="0" dr="4"/>
+          <f x="32.75" y="3.8" kX="-74.46" kY="-74.46" cX="1.03" cY="1.03" z="12" twE="0" dr="4"/>
+          <f x="24.6" y="4.25" kX="-69.15" kY="-69.15" cX="1.03" cY="1.03" z="12" twE="0" dr="4"/>
+          <f x="16.35" y="4.6" kX="-64.04" kY="-64.04" cX="1.03" cY="1.03" z="12" twE="0" dr="4"/>
+          <f x="1.05" y="4.45" kX="-63.9" kY="-63.9" cX="1.03" cY="1.03" z="12" twE="0" dr="4"/>
+          <f x="-14.35" y="4.3" kX="-64.04" kY="-64.04" cX="1.03" cY="1.03" z="12" twE="0" dr="4"/>
+          <f x="-11.1" y="0.25" kX="-0.77" kY="-0.77" cX="1.03" cY="1.03" z="12" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-5a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="CityFashion_nan_3-jsnan3-5a-2" twE="0" dr="4"/>
+          <f x="1" y="3.95" kX="-15.21" kY="-15.21" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="1.05" y="4.25" kX="-2.99" kY="-2.99" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="1.5" y="0.75" kX="7.24" kY="7.24" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="2.15" y="-2.65" kX="17.42" kY="17.42" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="2.15" y="-1.7" kX="28.8" kY="28.8" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="2.35" y="-0.7" kX="40.38" kY="40.38" cX="1" cY="1" z="13" twE="0" dr="4"/>
+          <f x="0.7" y="-0.65" kX="21.28" kY="21.28" cX="1" cY="1" z="13" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-9a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="CityFashion_nan_3-jsnan3-9a-1" twE="0" dr="4"/>
+          <f x="0.5" y="2.05" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="1" y="4.05" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="1.5" y="1.9" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="2" y="-0.25" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="1.5" y="2.05" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="1" y="4.35" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="0.5" y="2.2" kX="0" kY="0" cX="1" cY="1" z="14" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-qz1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="CityFashion_nan_3-jsnan3-qz1-1" twE="0" dr="4"/>
+          <f x="1.05" y="1.5" kX="4.12" kY="4.12" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="1.9" y="2.9" kX="8.19" kY="8.19" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="1.9" y="1.4" kX="3.9" kY="3.9" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="1.95" y="-0.15" kX="-0.26" kY="-0.26" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="1.5" y="2.3" kX="-1.61" kY="-1.61" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="0.95" y="4.7" kX="-2.75" kY="-2.75" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="0.35" y="2.55" kX="-2.6" kY="-2.6" cX="1" cY="1" z="15" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-zz-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="CityFashion_nan_3-jsnan3-zz-1" twE="0" dr="4"/>
+          <f x="0.55" y="2.2" kX="4.1" kY="4.1" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="1.05" y="4.35" kX="8.19" kY="8.19" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="1.6" y="2.1" kX="4.06" kY="4.06" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="2" y="-0.15" kX="-0.27" kY="-0.27" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="1.65" y="2.15" kX="-1.44" kY="-1.44" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="1.25" y="4.25" kX="-2.75" kY="-2.75" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="0.65" y="2.1" kX="-2.44" kY="-2.44" cX="1" cY="1" z="16" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-tf1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="CityFashion_nan_3-jsnan3-tf1-1" twE="0" dr="4"/>
+          <f x="-0.35" y="1.85" kX="-2.92" kY="-2.92" cX="1" cY="1" z="17" twE="0" dr="4"/>
+          <f x="-0.65" y="3.65" kX="-5.77" kY="-5.77" cX="1" cY="1" z="17" twE="0" dr="4"/>
+          <f x="0.7" y="1.7" kX="-2.92" kY="-2.92" cX="1" cY="1" z="17" twE="0" dr="4"/>
+          <f x="2" y="-0.15" kX="-0.02" kY="-0.02" cX="1" cY="1" z="17" twE="0" dr="4"/>
+          <f x="0.85" y="1.75" kX="0.33" kY="0.33" cX="1" cY="1" z="17" twE="0" dr="4"/>
+          <f x="-0.35" y="3.55" kX="0.7" kY="0.7" cX="1" cY="1" z="17" twE="0" dr="4"/>
+          <f x="-0.2" y="1.8" kX="0.33" kY="0.33" cX="1" cY="1" z="17" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-8a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="CityFashion_nan_3-jsnan3-8a-1" twE="0" dr="4"/>
+          <f x="0.2" y="2.2" kX="-0.49" kY="-0.49" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="0.5" y="4.3" kX="-0.77" kY="-0.77" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="1.2" y="2.05" kX="-0.49" kY="-0.49" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="1.95" y="-0.25" kX="-0.06" kY="-0.06" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="1.15" y="2.2" kX="-0.49" kY="-0.49" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="0.5" y="4.6" kX="-0.77" kY="-0.77" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="0.15" y="2.35" kX="-0.49" kY="-0.49" cX="1" cY="1" z="18" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-4a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="CityFashion_nan_3-jsnan3-4a-2" twE="0" dr="8"/>
+          <f x="-3.25" y="2" kX="12.45" kY="12.45" cX="1" cY="1" z="19" twE="0" dr="8"/>
+          <f x="1.2" y="-0.6" kX="1.79" kY="1.79" cX="1" cY="1" z="19" twE="0" dr="8"/>
+          <f x="6.05" y="6.45" kX="-13.04" kY="-13.04" cX="1" cY="1" z="19" twE="0" dr="8"/>
+        </b>
+        <b name="jsnan3-hb-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1.17" z="20" img="CityFashion_nan_3-jsnan3-hb-2" twE="0" dr="8"/>
+          <f x="-2.9" y="3" kX="7.22" kY="7.22" cX="1" cY="0.84" z="20" twE="0" dr="8"/>
+          <f x="1.45" y="-0.3" kX="1.79" kY="1.79" cX="1" cY="1" z="20" twE="0" dr="8"/>
+          <f x="5.9" y="6.25" kX="-8.53" kY="-8.53" cX="1" cY="1" z="20" twE="0" dr="8"/>
+        </b>
+        <b name="jsnan3-3a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="CityFashion_nan_3-jsnan3-3a-2" twE="0" dr="8"/>
+          <f x="-0.3" y="2.95" kX="7.22" kY="7.22" cX="1" cY="1" z="21" twE="0" dr="8"/>
+          <f x="2.05" y="-0.6" kX="1.79" kY="1.79" cX="1" cY="1" z="21" twE="0" dr="8"/>
+          <f x="2.6" y="6.15" kX="-8.53" kY="-8.53" cX="1" cY="1" z="21" twE="0" dr="8"/>
+        </b>
+        <b name="jsnan3-2a-2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="CityFashion_nan_3-jsnan3-2a-2" twE="0" dr="8"/>
+          <f x="0.6" y="4.2" kX="4.99" kY="4.99" cX="1" cY="1" z="22" twE="0" dr="8"/>
+          <f x="2" y="-0.5" kX="0.31" kY="0.31" cX="1" cY="1" z="22" twE="0" dr="8"/>
+          <f x="1.35" y="4.55" kX="-5.33" kY="-5.33" cX="1" cY="1" z="22" twE="0" dr="8"/>
+        </b>
+        <b name="jsnan3-wj-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="CityFashion_nan_3-jsnan3-wj-1" twE="0" dr="4"/>
+          <f x="0.3" y="2.4" kX="-3.19" kY="-3.19" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="0.65" y="4.9" kX="-6.68" kY="-6.68" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="1.35" y="2.35" kX="-3.41" kY="-3.41" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="2" y="-0.25" kX="-0.27" kY="-0.27" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="1.3" y="1.65" kX="3.37" kY="3.37" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="0.65" y="3.5" kX="6.99" kY="6.99" cX="1" cY="1" z="23" twE="0" dr="4"/>
+          <f x="0.4" y="1.75" kX="3.59" kY="3.59" cX="1" cY="1" z="23" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-yl-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="CityFashion_nan_3-jsnan3-yl-1" twE="0" dr="4"/>
+          <f x="0.5" y="2" kX="2.01" kY="2.01" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="0.95" y="3.85" kX="4.25" kY="4.25" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="1.45" y="1.95" kX="2" kY="2" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="1.9" y="-0.05" kX="-0.04" kY="-0.04" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="1.35" y="2.3" kX="0.75" kY="0.75" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="0.7" y="4.45" kX="1.75" kY="1.75" cX="1" cY="1" z="24" twE="0" dr="4"/>
+          <f x="0.3" y="2.25" kX="0.75" kY="0.75" cX="1" cY="1" z="24" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-1a-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="25" img="CityFashion_nan_3-jsnan3-1a-1" twE="0" dr="4"/>
+          <f x="-0.8" y="2.45" kX="-1.53" kY="-1.53" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="-1.6" y="5.05" kX="-2.99" kY="-2.99" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="0.1" y="2.5" kX="-1.54" kY="-1.54" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="1.9" y="-0.2" kX="-0.06" kY="-0.06" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="0.2" y="2.6" kX="-1.54" kY="-1.54" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="-1.6" y="5.35" kX="-2.99" kY="-2.99" cX="1" cY="1" z="25" twE="0" dr="4"/>
+          <f x="-0.8" y="2.75" kX="-1.53" kY="-1.53" cX="1" cY="1" z="25" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-tf2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="26" img="CityFashion_nan_3-jsnan3-tf2-10" twE="0" dr="4"/>
+          <f x="-0.35" y="2.6" kX="0.47" kY="0.47" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="-0.65" y="5.2" kX="1.02" kY="1.02" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="0.65" y="2.55" kX="0.24" kY="0.24" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="2" y="-0.15" kX="-0.34" kY="-0.34" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="0.55" y="3.35" kX="-4.54" kY="-4.54" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="-0.95" y="6.75" kX="-8.71" kY="-8.71" cX="1" cY="1" z="26" twE="0" dr="4"/>
+          <f x="-0.45" y="3.35" kX="-4.5" kY="-4.5" cX="1" cY="1" z="26" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-zb-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="27" img="CityFashion_nan_3-jsnan3-zb-1" twE="0" dr="4"/>
+          <f x="0.35" y="2" kX="-1.53" kY="-1.53" cX="1" cY="1" z="27" twE="0" dr="4"/>
+          <f x="0.5" y="4" kX="-2.99" kY="-2.99" cX="1" cY="1" z="27" twE="0" dr="4"/>
+          <f x="1.25" y="1.9" kX="-1.54" kY="-1.54" cX="1" cY="1" z="27" twE="0" dr="4"/>
+          <f x="1.95" y="-0.25" kX="-0.06" kY="-0.06" cX="1" cY="1" z="27" twE="0" dr="4"/>
+          <f x="1.2" y="2" kX="-1.54" kY="-1.54" cX="1" cY="1" z="27" twE="0" dr="4"/>
+          <f x="0.5" y="4.3" kX="-2.99" kY="-2.99" cX="1" cY="1" z="27" twE="0" dr="4"/>
+          <f x="0.3" y="2.15" kX="-1.53" kY="-1.53" cX="1" cY="1" z="27" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-yj1-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="28" img="CityFashion_nan_3-jsnan3-yj1-1" twE="0" dr="4"/>
+          <f x="-0.15" y="1.75" kX="-1.53" kY="-1.53" cX="1" cY="1" z="28" twE="0" dr="4"/>
+          <f x="-0.4" y="3.6" kX="-2.99" kY="-2.99" cX="1" cY="1" z="28" twE="0" dr="4"/>
+          <f x="0.8" y="1.7" kX="-1.54" kY="-1.54" cX="1" cY="1" z="28" twE="0" dr="4"/>
+          <f x="1.9" y="-0.25" kX="-0.06" kY="-0.06" cX="1" cY="1" z="28" twE="0" dr="4"/>
+          <f x="0.75" y="1.85" kX="-1.54" kY="-1.54" cX="1" cY="1" z="28" twE="0" dr="4"/>
+          <f x="-0.4" y="3.9" kX="-2.99" kY="-2.99" cX="1" cY="1" z="28" twE="0" dr="4"/>
+          <f x="-0.2" y="1.95" kX="-1.53" kY="-1.53" cX="1" cY="1" z="28" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-yj2-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="29" img="CityFashion_nan_3-jsnan3-yj2-1" twE="0" dr="4"/>
+          <f x="-0.25" y="2.25" kX="-1.53" kY="-1.53" cX="1" cY="1" z="29" twE="0" dr="4"/>
+          <f x="-0.45" y="4.5" kX="-2.99" kY="-2.99" cX="1" cY="1" z="29" twE="0" dr="4"/>
+          <f x="0.8" y="2.15" kX="-1.54" kY="-1.54" cX="1" cY="1" z="29" twE="0" dr="4"/>
+          <f x="2" y="-0.2" kX="-0.06" kY="-0.06" cX="1" cY="1" z="29" twE="0" dr="4"/>
+          <f x="0.85" y="2.35" kX="-1.54" kY="-1.54" cX="1" cY="1" z="29" twE="0" dr="4"/>
+          <f x="-0.4" y="4.8" kX="-2.99" kY="-2.99" cX="1" cY="1" z="29" twE="0" dr="4"/>
+          <f x="-0.15" y="2.35" kX="-1.53" kY="-1.53" cX="1" cY="1" z="29" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-tf3-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="30" img="CityFashion_nan_3-jsnan3-tf3-1" twE="0" dr="4"/>
+          <f x="-0.1" y="2.3" kX="0.27" kY="0.27" cX="1" cY="1" z="30" twE="0" dr="4"/>
+          <f x="-0.2" y="4.65" kX="0.76" kY="0.76" cX="1" cY="1" z="30" twE="0" dr="4"/>
+          <f x="0.8" y="2.2" kX="1.04" kY="1.04" cX="1" cY="1" z="30" twE="0" dr="4"/>
+          <f x="2.05" y="-0.35" kX="1.66" kY="1.66" cX="1" cY="1" z="30" twE="0" dr="4"/>
+          <f x="0.85" y="2.6" kX="-1.99" kY="-1.99" cX="1" cY="1" z="30" twE="0" dr="4"/>
+          <f x="-0.45" y="5.45" kX="-5.46" kY="-5.46" cX="1" cY="1" z="30" twE="0" dr="4"/>
+          <f x="-0.25" y="2.7" kX="-2.76" kY="-2.76" cX="1" cY="1" z="30" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-tf7-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="31" img="CityFashion_nan_3-jsnan3-tf7-1" twE="0" dr="4"/>
+          <f x="-0.85" y="1.8" kX="-2.96" kY="-2.96" cX="1" cY="1" z="31" twE="0" dr="4"/>
+          <f x="-1.8" y="3.55" kX="-5.92" kY="-5.92" cX="1" cY="1" z="31" twE="0" dr="4"/>
+          <f x="0.1" y="1.75" kX="-2.22" kY="-2.22" cX="1" cY="1" z="31" twE="0" dr="4"/>
+          <f x="1.95" y="-0.15" kX="1.43" kY="1.43" cX="1" cY="1" z="31" twE="0" dr="4"/>
+          <f x="0.3" y="1.9" kX="0.83" kY="0.83" cX="1" cY="1" z="31" twE="0" dr="4"/>
+          <f x="-1.3" y="4.05" kX="0.47" kY="0.47" cX="1" cY="1" z="31" twE="0" dr="4"/>
+          <f x="-0.65" y="2.1" kX="0.09" kY="0.09" cX="1" cY="1" z="31" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-tf4-10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="32" img="CityFashion_nan_3-jsnan3-tf4-10" twE="0" dr="4"/>
+          <f x="-0.75" y="2.8" kX="-1.36" kY="-1.36" cX="1" cY="1" z="32" twE="0" dr="4"/>
+          <f x="-1.45" y="5.65" kX="-2.99" kY="-2.99" cX="1" cY="1" z="32" twE="0" dr="4"/>
+          <f x="0.35" y="2.7" kX="-1.37" kY="-1.37" cX="1" cY="1" z="32" twE="0" dr="4"/>
+          <f x="1.9" y="-0.15" kX="-0.05" kY="-0.05" cX="1" cY="1" z="32" twE="0" dr="4"/>
+          <f x="0.25" y="2.9" kX="-1.37" kY="-1.37" cX="1" cY="1" z="32" twE="0" dr="4"/>
+          <f x="-1.45" y="5.95" kX="-2.99" kY="-2.99" cX="1" cY="1" z="32" twE="0" dr="4"/>
+          <f x="-0.6" y="2.95" kX="-1.36" kY="-1.36" cX="1" cY="1" z="32" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-tf6-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="33" img="CityFashion_nan_3-jsnan3-tf6-1" twE="0" dr="4"/>
+          <f x="-0.55" y="2.15" kX="-0.13" kY="-0.13" cX="1" cY="1" z="33" twE="0" dr="4"/>
+          <f x="-1" y="4.3" kX="-0.2" kY="-0.2" cX="1" cY="1" z="33" twE="0" dr="4"/>
+          <f x="0.55" y="2.1" kX="-0.14" kY="-0.14" cX="1" cY="1" z="33" twE="0" dr="4"/>
+          <f x="1.9" y="-0.2" kX="-0.07" kY="-0.07" cX="1" cY="1" z="33" twE="0" dr="4"/>
+          <f x="0.2" y="2.45" kX="-2.37" kY="-2.37" cX="1" cY="1" z="33" twE="0" dr="4"/>
+          <f x="-1.4" y="5.05" kX="-4.49" kY="-4.49" cX="1" cY="1" z="33" twE="0" dr="4"/>
+          <f x="-0.65" y="2.5" kX="-2.36" kY="-2.36" cX="1" cY="1" z="33" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-tf8-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="34" img="CityFashion_nan_3-jsnan3-tf8-1" twE="0" dr="4"/>
+          <f x="-0.95" y="2" kX="-4.08" kY="-4.08" cX="1" cY="1" z="34" twE="0" dr="4"/>
+          <f x="-1.85" y="3.8" kX="-8.44" kY="-8.44" cX="1" cY="1" z="34" twE="0" dr="4"/>
+          <f x="0.05" y="1.9" kX="-3.83" kY="-3.83" cX="1" cY="1" z="34" twE="0" dr="4"/>
+          <f x="1.95" y="-0.15" kX="0.5" kY="0.5" cX="1" cY="1" z="34" twE="0" dr="4"/>
+          <f x="0.25" y="1.95" kX="1.71" kY="1.71" cX="1" cY="1" z="34" twE="0" dr="4"/>
+          <f x="-1.35" y="4.15" kX="2.76" kY="2.76" cX="1" cY="1" z="34" twE="0" dr="4"/>
+          <f x="-0.65" y="2.05" kX="1.46" kY="1.46" cX="1" cY="1" z="34" twE="0" dr="4"/>
+        </b>
+        <b name="jsnan3-tf5-1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="35" img="CityFashion_nan_3-jsnan3-tf5-1" twE="0" dr="4"/>
+          <f x="-0.7" y="1.95" kX="-2.02" kY="-2.02" cX="1" cY="1" z="35" twE="0" dr="4"/>
+          <f x="-1.45" y="3.8" kX="-3.84" kY="-3.84" cX="1" cY="1" z="35" twE="0" dr="4"/>
+          <f x="0.3" y="1.75" kX="-1.81" kY="-1.81" cX="1" cY="1" z="35" twE="0" dr="4"/>
+          <f x="1.9" y="-0.3" kX="0.12" kY="0.12" cX="1" cY="1" z="35" twE="0" dr="4"/>
+          <f x="0.45" y="2.05" kX="-0.03" kY="-0.03" cX="1" cY="1" z="35" twE="0" dr="4"/>
+          <f x="-0.95" y="4.25" kX="-0.11" kY="-0.11" cX="1" cY="1" z="35" twE="0" dr="4"/>
+          <f x="-0.45" y="2.1" kX="-0.04" kY="-0.04" cX="1" cY="1" z="35" twE="0" dr="4"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="男新版时装3" width="512" height="128">
+    <SubTexture name="CityFashion_nan_3-jsnan3-6a-2" x="361" y="0" width="14" height="34" pX="0" pY="1.5"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-7a3-1" x="460" y="0" width="20" height="22" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-yj1-2" x="278" y="30" width="9" height="12" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-yj1-3" x="288" y="30" width="9" height="12" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-yj2-2" x="42" y="29" width="13" height="13" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-yj2-3" x="56" y="29" width="13" height="13" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-fsnv-yz1-2" x="0" y="0" width="101" height="28" pX="20.75" pY="7.3"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-4a-1" x="501" y="22" width="10" height="19" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-hb-1" x="338" y="29" width="18" height="8" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-3a-1" x="481" y="0" width="19" height="22" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-2a-1" x="501" y="0" width="10" height="21" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-qz2-1" x="102" y="0" width="51" height="56" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-6a-1" x="376" y="0" width="13" height="33" pX="-0.2" pY="1.65"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-5a-1" x="422" y="0" width="16" height="27" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-7a-1" x="243" y="23" width="21" height="19" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-7a2-1" x="13" y="29" width="14" height="15" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-5a-2" x="321" y="0" width="16" height="35" pX="-0.1" pY="3.7"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-9a-1" x="476" y="23" width="24" height="13" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-qz1-1" x="194" y="0" width="18" height="64" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-zz-1" x="311" y="16" width="9" height="18" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-tf1-1" x="265" y="23" width="12" height="27" pX="0" pY="0.05"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-8a-1" x="213" y="0" width="29" height="40" pX="0.05" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-4a-2" x="460" y="23" width="15" height="19" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-hb-2" x="70" y="29" width="19" height="7" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-3a-2" x="439" y="0" width="20" height="23" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-2a-2" x="422" y="28" width="11" height="21" pX="0" pY="-1.55"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-wj-1" x="439" y="24" width="16" height="17" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-yl-1" x="0" y="29" width="12" height="17" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-1a-1" x="154" y="0" width="39" height="45" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-tf2-10" x="338" y="0" width="22" height="28" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-zb-1" x="298" y="30" width="7" height="3" pX="0.05" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-yj1-1" x="90" y="29" width="10" height="12" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-yj2-1" x="28" y="29" width="13" height="13" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-tf3-1" x="390" y="0" width="16" height="29" pX="1.6" pY="3"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-tf7-1" x="283" y="16" width="27" height="13" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-tf4-10" x="243" y="0" width="39" height="22" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-tf6-1" x="407" y="0" width="14" height="29" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-tf8-1" x="390" y="30" width="14" height="6" pX="0" pY="0"/>
+    <SubTexture name="CityFashion_nan_3-jsnan3-tf5-1" x="283" y="0" width="37" height="15" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

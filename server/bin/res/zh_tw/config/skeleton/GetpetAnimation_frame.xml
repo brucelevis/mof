@@ -1,0 +1,41 @@
+<skeleton name="升蛋(1)">
+  <armatures>
+    <armature name="shengdan">
+      <b name="图层 4" bT="0" bi="Getpet-liuguang 1" x="0.5" y="8.75" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="shengdan">
+      <mov name="shengdan" to="1" dr="121" drTW="121" lp="1">
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="3.01" z="0" img="Getpet-liuguang 1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="3.01" z="0" img="Getpet-liuguang 2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="3.01" z="0" img="Getpet-liuguang 3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="3.01" z="0" img="Getpet-liuguang 4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="3.01" z="0" img="Getpet-liuguang 5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="3.01" z="0" img="Getpet-liuguang 6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="3.01" z="0" img="Getpet-liuguang 7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="3.01" z="0" img="Getpet-liuguang 8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="3.01" z="0" img="Getpet-liuguang 9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="3.01" z="0" img="Getpet-liuguang 10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="3.01" cY="3.01" z="0" img="Getpet-liuguang 11" dr="1"/>
+          <f dr="98" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="升蛋(1)" width="512" height="16">
+    <SubTexture name="Getpet-liuguang 1" x="117" y="0" width="12" height="4" pX="5.35" pY="0.25"/>
+    <SubTexture name="Getpet-liuguang 2" x="91" y="0" width="12" height="6" pX="5.35" pY="1.65"/>
+    <SubTexture name="Getpet-liuguang 3" x="65" y="0" width="12" height="7" pX="5.35" pY="3.05"/>
+    <SubTexture name="Getpet-liuguang 4" x="39" y="0" width="12" height="8" pX="5.35" pY="4.45"/>
+    <SubTexture name="Getpet-liuguang 5" x="26" y="0" width="12" height="9" pX="5.35" pY="5.9"/>
+    <SubTexture name="Getpet-liuguang 6" x="0" y="0" width="12" height="9" pX="5.35" pY="7.35"/>
+    <SubTexture name="Getpet-liuguang 7" x="13" y="0" width="12" height="9" pX="5.35" pY="8.75"/>
+    <SubTexture name="Getpet-liuguang 8" x="52" y="0" width="12" height="8" pX="5.35" pY="8.85"/>
+    <SubTexture name="Getpet-liuguang 9" x="78" y="0" width="12" height="6" pX="5.35" pY="8.85"/>
+    <SubTexture name="Getpet-liuguang 10" x="104" y="0" width="12" height="5" pX="5.35" pY="8.85"/>
+    <SubTexture name="Getpet-liuguang 11" x="130" y="0" width="12" height="4" pX="5.35" pY="8.85"/>
+  </TextureAtlas>
+</skeleton>

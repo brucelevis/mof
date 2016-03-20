@@ -1,0 +1,179 @@
+<skeleton name="f防御释放">
+  <armatures>
+    <armature name="jiafang">
+      <b name="图层 1" bT="0" bi="getdef_get-dunpai" x="0" y="0" kX="0" kY="0" z="0"/>
+      <b name="图层 11" bT="0" bi="getdef_get-llelel" x="-69.6" y="38.1" kX="0" kY="0" z="1"/>
+      <b name="图层 10" bT="0" bi="getdef_get-llelel" x="3.8" y="38.1" kX="0" kY="0" z="2"/>
+      <b name="图层 9" bT="0" bi="getdef_get-llelel" x="-25" y="27.3" kX="0" kY="0" z="3"/>
+      <b name="图层 8" bT="0" bi="getdef_get-llelel" x="-24.7" y="38.1" kX="0" kY="0" z="4"/>
+      <b name="图层 7" bT="0" bi="getdef_get-llelel" x="48.75" y="38.1" kX="0" kY="0" z="5"/>
+      <b name="图层 6" bT="0" bi="getdef_get-llelel" x="48.75" y="38.1" kX="0" kY="0" z="6"/>
+      <b name="图层 5" bT="0" bi="getdef_get-llelel" x="-24.7" y="38.1" kX="0" kY="0" z="7"/>
+      <b name="图层 4" bT="0" bi="getdef_get-llelel" x="48.75" y="38.1" kX="0" kY="0" z="8"/>
+      <b name="lizi" bT="0" bi="getdef_get-llelel" x="48.75" y="38.1" kX="0" kY="0" z="9"/>
+      <b name="图层 12" bT="0" bi="getdef_get-888" x="-42.25" y="-6.85" kX="179.82" kY="-0.28" z="10"/>
+      <b name="图层 13" bT="0" bi="getdef_get-888" x="25.75" y="22.2" kX="179.82" kY="-0.28" z="11"/>
+      <b name="图层 14" bT="0" bi="getdef_get-888" x="11.55" y="-26.3" kX="179.82" kY="-0.28" z="12"/>
+      <b name="图层 15" bT="0" bi="getdef_get-888" x="-15.75" y="39.7" kX="179.82" kY="-0.28" z="13"/>
+      <b name="图层 16" bT="0" bi="getdef_get-888" x="-37.25" y="-1.8" kX="179.82" kY="-0.28" z="14"/>
+      <b name="图层 17" bT="0" bi="getdef_get-888" x="15.25" y="23.8" kX="179.82" kY="-0.28" z="11"/>
+      <b name="图层 18" bT="0" bi="getdef_get-888" x="-26.85" y="38.55" kX="179.82" kY="-0.28" z="4"/>
+      <b name="图层 19" bT="0" bi="getdef_get-888" x="15.4" y="-3.25" kX="179.82" kY="-0.28" z="2"/>
+      <b name="图层 21" bT="0" bi="getdef_get-888" x="-30" y="2.15" kX="179.82" kY="-0.28" z="4"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="jiafang">
+      <mov name="fangyushifang" to="1" dr="48" drTW="48">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.25" cY="0.25" z="0" img="getdef_get-dunpai" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="25"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.13" cY="0.13" z="0" dr="1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="1" img="getdef_get-llelel" twE="0" dr="6"/>
+          <f x="11.7" y="-37.5" kX="0" kY="0" cX="1.73" cY="1.73" z="1" twE="0" dr="10"/>
+          <f x="20.6" y="-81.25" kX="0" kY="0" cX="0.43" cY="0.43" z="1" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="7" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="2" img="getdef_get-llelel" twE="0" dr="5"/>
+          <f x="-2.15" y="-32.9" kX="0" kY="0" cX="1.73" cY="1.73" z="2" twE="0" dr="10"/>
+          <f x="-22.4" y="-117.85" kX="0" kY="0" cX="0.43" cY="0.43" z="2" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="6" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="3" img="getdef_get-llelel" twE="0" dr="5"/>
+          <f x="5.05" y="-50.9" kX="0" kY="0" cX="1.73" cY="1.73" z="3" twE="0" dr="10"/>
+          <f x="20.8" y="-107.05" kX="0" kY="0" cX="0.43" cY="0.43" z="3" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="11" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="4" img="getdef_get-llelel" twE="0" dr="6"/>
+          <f x="11.7" y="-19.5" kX="0" kY="0" cX="1.73" cY="1.73" z="1" twE="0" dr="10"/>
+          <f x="17" y="-66.85" kX="0" kY="0" cX="0.43" cY="0.43" z="1" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="5" img="getdef_get-llelel" twE="0" dr="6"/>
+          <f x="5.05" y="-25.7" kX="0" kY="0" cX="1.73" cY="1.73" z="3" twE="0" dr="10"/>
+          <f x="24" y="-82.2" kX="0" kY="0" cX="0.43" cY="0.43" z="2" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="8" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="6" img="getdef_get-llelel" twE="0" dr="6"/>
+          <f x="1.45" y="-36.5" kX="0" kY="0" cX="1.73" cY="1.73" z="4" twE="0" dr="10"/>
+          <f x="31.55" y="-74.65" kX="0" kY="0" cX="0.43" cY="0.43" z="4" dr="1"/>
+          <f dr="23" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="12" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="7" img="getdef_get-llelel" twE="0" dr="6"/>
+          <f x="0.9" y="-51.9" kX="0" kY="0" cX="1.73" cY="1.73" z="2" twE="0" dr="10"/>
+          <f x="27.8" y="-92.05" kX="0" kY="0" cX="0.43" cY="0.43" z="1" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="8" img="getdef_get-llelel" twE="0" dr="6"/>
+          <f x="-5.75" y="-47.3" kX="0" kY="0" cX="1.73" cY="1.73" z="4" twE="0" dr="10"/>
+          <f x="-4.8" y="-114.6" kX="0" kY="0" cX="0.43" cY="0.43" z="3" dr="1"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="lizi" sc="1" dl="0">
+          <f dr="9" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.43" cY="0.43" z="9" img="getdef_get-llelel" twE="0" dr="6"/>
+          <f x="-16.55" y="-58.1" kX="0" kY="0" cX="1.73" cY="1.73" z="7" twE="0" dr="10"/>
+          <f x="-22.45" y="-117.85" kX="0" kY="0" cX="0.43" cY="0.43" z="5" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="13" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="1.17" z="10" img="getdef_get-888" twE="0" dr="5"/>
+          <f x="-14.15" y="15.85" kX="0" kY="0" cX="3.39" cY="4.18" z="10" twE="0" dr="1"/>
+          <f x="-12.8" y="14.2" kX="0" kY="0" cX="3.15" cY="3.87" z="8" twE="0" dr="6"/>
+          <f x="3.1" y="-3.6" kX="0.01" kY="0.01" cX="0.41" cY="0.51" z="6" dr="1"/>
+          <f dr="22" hide="1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="15" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="1.17" z="11" img="getdef_get-888" twE="0" dr="5"/>
+          <f x="-14.15" y="15.85" kX="0" kY="0" cX="3.39" cY="4.18" z="11" twE="0" dr="1"/>
+          <f x="-12.8" y="14.2" kX="0" kY="0" cX="3.15" cY="3.87" z="4" twE="0" dr="6"/>
+          <f x="3.1" y="-3.6" kX="0.01" kY="0.01" cX="0.41" cY="0.51" z="3" dr="1"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.95" cY="1.17" z="12" img="getdef_get-888" twE="0" dr="5"/>
+          <f x="-14.15" y="15.85" kX="0" kY="0" cX="3.39" cY="4.18" z="11" twE="0" dr="1"/>
+          <f x="-12.8" y="14.2" kX="0" kY="0" cX="3.15" cY="3.87" z="2" twE="0" dr="6"/>
+          <f x="3.1" y="-3.6" kX="0.01" kY="0.01" cX="0.41" cY="0.51" z="1" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="14" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.75" z="13" img="getdef_get-888" twE="0" dr="5"/>
+          <f x="-9.05" y="10.15" kX="0" kY="0" cX="2.17" cY="2.67" z="13" twE="0" dr="1"/>
+          <f x="-8.2" y="9.1" kX="0" kY="0.01" cX="2.01" cY="2.48" z="9" twE="0" dr="6"/>
+          <f x="2" y="-2.25" kX="0.01" kY="0.01" cX="0.26" cY="0.32" z="6" dr="1"/>
+          <f dr="21" hide="1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="17" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.75" z="14" img="getdef_get-888" twE="0" dr="5"/>
+          <f x="-9.05" y="10.15" kX="0" kY="0" cX="2.17" cY="2.67" z="13" twE="0" dr="1"/>
+          <f x="-8.2" y="9.1" kX="0" kY="0.01" cX="2.01" cY="2.48" z="3" twE="0" dr="6"/>
+          <f x="2" y="-2.25" kX="0.01" kY="0.01" cX="0.26" cY="0.32" z="2" dr="1"/>
+          <f dr="18" hide="1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f dr="21" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.75" z="11" img="getdef_get-888" twE="0" dr="5"/>
+          <f x="-9.05" y="10.15" kX="0" kY="0" cX="2.17" cY="2.67" z="8" twE="0" dr="1"/>
+          <f x="-8.2" y="9.1" kX="0" kY="0.01" cX="2.01" cY="2.48" z="1" twE="0" dr="6"/>
+          <f x="2" y="-2.25" kX="0.01" kY="0.01" cX="0.26" cY="0.32" z="1" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="25" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.75" z="4" img="getdef_get-888" twE="0" dr="5"/>
+          <f x="-9.05" y="10.15" kX="0" kY="0" cX="2.17" cY="2.67" z="2" twE="0" dr="1"/>
+          <f x="-8.2" y="9.1" kX="0" kY="0.01" cX="2.01" cY="2.48" z="1" twE="0" dr="6"/>
+          <f x="2" y="-2.25" kX="0.01" kY="0.01" cX="0.26" cY="0.32" z="1" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="32" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.75" z="2" img="getdef_get-888" twE="0" dr="5"/>
+          <f x="-9.05" y="10.15" kX="0" kY="0" cX="2.17" cY="2.67" z="2" twE="0" dr="1"/>
+          <f x="-8.2" y="9.1" kX="0" kY="0.01" cX="2.01" cY="2.48" z="1" twE="0" dr="6"/>
+          <f x="2" y="-2.25" kX="0.01" kY="0.01" cX="0.26" cY="0.32" z="1" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 21" sc="1" dl="0">
+          <f dr="29" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.61" cY="0.75" z="4" img="getdef_get-888" twE="0" dr="5"/>
+          <f x="-9.05" y="10.15" kX="0" kY="0" cX="2.17" cY="2.67" z="3" twE="0" dr="1"/>
+          <f x="-8.2" y="9.1" kX="0" kY="0.01" cX="2.01" cY="2.48" z="2" twE="0" dr="6"/>
+          <f x="2" y="-2.25" kX="0.01" kY="0.01" cX="0.26" cY="0.32" z="2" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="f防御释放" width="512" height="128">
+    <SubTexture name="getdef_get-dunpai" x="0" y="0" width="71" height="95" pX="35" pY="47"/>
+    <SubTexture name="getdef_get-llelel" x="72" y="0" width="25" height="27" pX="10.15" pY="11.15"/>
+    <SubTexture name="getdef_get-888" x="98" y="0" width="13" height="12" pX="0" pY="0"/>
+  </TextureAtlas>
+</skeleton>

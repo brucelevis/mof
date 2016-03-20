@@ -1,0 +1,661 @@
+<skeleton name="星星">
+  <armatures>
+    <armature name="star">
+      <b name="图层 3" bT="0" bi="LoginAnimation_star-g3" x="-380" y="-227.65" kX="0" kY="0" z="0"/>
+      <b name="图层 3  复制 2" bT="0" bi="LoginAnimation_star-g3" x="325.6" y="-318.85" kX="0" kY="0" z="1"/>
+      <b name="图层 3   复制 3" bT="0" bi="LoginAnimation_star-g3" x="521.6" y="-175.65" kX="0" kY="0" z="2"/>
+      <b name="图层 3    复制 4" bT="0" bi="LoginAnimation_star-g3" x="-149.4" y="-361.7" kX="0" kY="0" z="3"/>
+      <b name="图层 3 复制" bT="0" bi="LoginAnimation_star-g3" x="-144" y="-263.25" kX="0" kY="0" z="4"/>
+      <b name="图层 3  复制 20" bT="0" bi="LoginAnimation_star-g3" x="-481.6" y="-116.85" kX="0" kY="0" z="5"/>
+      <b name="图层 3  复制 21" bT="0" bi="LoginAnimation_star-g3" x="-222" y="-80.45" kX="0" kY="0" z="6"/>
+      <b name="图层 3   复制 30" bT="0" bi="LoginAnimation_star-g3" x="149.2" y="-195.65" kX="0" kY="0" z="7"/>
+      <b name="图层 3    复制 40" bT="0" bi="LoginAnimation_star-g3" x="179.75" y="-375.15" kX="0" kY="0" z="8"/>
+      <b name="图层 3    复制 41" bT="0" bi="LoginAnimation_star-g3" x="-433.05" y="-210.5" kX="0" kY="0" z="9"/>
+      <b name="图层 3    复制 42" bT="0" bi="LoginAnimation_star-g3" x="256.4" y="-152.45" kX="0" kY="0" z="10"/>
+      <b name="图层 3    复制 43" bT="0" bi="LoginAnimation_star-g3" x="303.6" y="-34.15" kX="0" kY="0" z="11"/>
+      <b name="图层 3     复制 5" bT="0" bi="LoginAnimation_star-g3" x="489.2" y="-346.15" kX="0" kY="0" z="12"/>
+      <b name="图层 3      复制 6" bT="0" bi="LoginAnimation_star-g3" x="334.4" y="-310.15" kX="0" kY="0" z="13"/>
+      <b name="图层 3       复制 7" bT="0" bi="LoginAnimation_star-g3" x="-464" y="-262.75" kX="0" kY="0" z="14"/>
+      <b name="图层 3        复制 8" bT="0" bi="LoginAnimation_star-g3" x="-163.3" y="-347.95" kX="0" kY="0" z="15"/>
+      <b name="图层 3       复制 70" bT="0" bi="LoginAnimation_star-g3" x="62" y="-357.25" kX="0" kY="0" z="16"/>
+      <b name="图层 3        复制 80" bT="0" bi="LoginAnimation_star-g3" x="62" y="-357.25" kX="0" kY="0" z="17"/>
+      <b name="图层 3        复制 81" bT="0" bi="LoginAnimation_star-g3" x="-243.6" y="-331.65" kX="0" kY="0" z="18"/>
+      <b name="图层 3        复制 82" bT="0" bi="LoginAnimation_star-g3" x="478.8" y="-118.85" kX="0" kY="0" z="19"/>
+      <b name="图层 3         复制 9" bT="0" bi="LoginAnimation_star-g3" x="-467.4" y="-353.55" kX="0" kY="0" z="20"/>
+      <b name="图层 3          复制 10" bT="0" bi="LoginAnimation_star-g3" x="-455.6" y="-274.35" kX="0" kY="0" z="21"/>
+      <b name="图层 3           复制 11" bT="0" bi="LoginAnimation_star-g3" x="486.05" y="-228.3" kX="0" kY="0" z="22"/>
+      <b name="图层 3            复制 12" bT="0" bi="LoginAnimation_star-g3" x="-493.15" y="-372.85" kX="0" kY="0" z="23"/>
+      <b name="图层 3     复制 50" bT="0" bi="LoginAnimation_star-g3" x="92" y="-88.9" kX="-22.25" kY="-22.25" z="24"/>
+      <b name="图层 3      复制 60" bT="0" bi="LoginAnimation_star-g3" x="-199.55" y="-186" kX="-22.25" kY="-22.25" z="25"/>
+      <b name="图层 3      复制 61" bT="0" bi="LoginAnimation_star-g3" x="234.1" y="-356.35" kX="-22.25" kY="-22.25" z="26"/>
+      <b name="图层 3       复制 71" bT="0" bi="LoginAnimation_star-g3" x="55" y="-236.4" kX="-22.25" kY="-22.25" z="27"/>
+      <b name="图层 3        复制 83" bT="0" bi="LoginAnimation_star-g3" x="456.6" y="-341.95" kX="-22.25" kY="-22.25" z="28"/>
+      <b name="图层 3        复制 84" bT="0" bi="LoginAnimation_star-g3" x="-165.5" y="-204.85" kX="-22.25" kY="-22.25" z="29"/>
+      <b name="图层 3         复制 90" bT="0" bi="LoginAnimation_star-g3" x="-165.5" y="-204.85" kX="-22.25" kY="-22.25" z="30"/>
+      <b name="图层 3         复制 91" bT="0" bi="LoginAnimation_star-g3" x="-438.65" y="-65.5" kX="-22.25" kY="-22.25" z="31"/>
+      <b name="图层 3          复制 100" bT="0" bi="LoginAnimation_star-g3" x="-188.65" y="-213" kX="-22.25" kY="-22.25" z="32"/>
+      <b name="图层 3          复制 101" bT="0" bi="LoginAnimation_star-g3" x="-526.1" y="-57.35" kX="-22.25" kY="-22.25" z="33"/>
+      <b name="图层 3           复制 110" bT="0" bi="LoginAnimation_star-g3" x="-613.2" y="67.8" kX="-22.25" kY="-22.25" z="34"/>
+      <b name="图层 3            复制 120" bT="0" bi="LoginAnimation_star-g3" x="275.8" y="-246.05" kX="-22.25" kY="-22.25" z="35"/>
+      <b name="图层 3             复制 13" bT="0" bi="LoginAnimation_star-g3" x="-86.6" y="-332.25" kX="-22.25" kY="-22.25" z="36"/>
+      <b name="图层 3             复制 130" bT="0" bi="LoginAnimation_star-g3" x="-685.2" y="-9.1" kX="-22.25" kY="-22.25" z="37"/>
+      <b name="图层 3    复制 44" bT="0" bi="LoginAnimation_star-g3" x="-525.45" y="-261.1" kX="-169.78" kY="-169.78" z="38"/>
+      <b name="图层 3  复制 22" bT="0" bi="LoginAnimation_star-g3" x="114.05" y="-56.85" kX="-169.79" kY="-169.79" z="39"/>
+      <b name="图层 3   复制 31" bT="0" bi="LoginAnimation_star-g3" x="472.3" y="-141.05" kX="-169.79" kY="-169.79" z="40"/>
+      <b name="图层 3   复制 32" bT="0" bi="LoginAnimation_star-g3" x="223.3" y="-222.95" kX="-169.78" kY="-169.78" z="41"/>
+      <b name="图层 3    复制 45" bT="0" bi="LoginAnimation_star-g3" x="-162.5" y="-175.35" kX="-169.78" kY="-169.78" z="42"/>
+      <b name="图层 3     复制 51" bT="0" bi="LoginAnimation_star-g3" x="-224.4" y="-4.15" kX="-169.78" kY="-169.78" z="43"/>
+      <b name="图层 3     复制 52" bT="0" bi="LoginAnimation_star-g3" x="407.9" y="-57.5" kX="-169.78" kY="-169.78" z="44"/>
+      <b name="图层 3     复制 53" bT="0" bi="LoginAnimation_star-g3" x="-260.35" y="-236.9" kX="-169.78" kY="-169.78" z="45"/>
+      <b name="图层 3     复制 54" bT="0" bi="LoginAnimation_star-g3" x="-285.8" y="-361.7" kX="-169.78" kY="-169.78" z="46"/>
+      <b name="图层 3      复制 62" bT="0" bi="LoginAnimation_star-g3" x="-523.8" y="-87.55" kX="-169.78" kY="-169.79" z="47"/>
+      <b name="图层 3       复制 72" bT="0" bi="LoginAnimation_star-g3" x="-365.05" y="-95.55" kX="-169.78" kY="-169.78" z="48"/>
+      <b name="图层 3        复制 85" bT="0" bi="LoginAnimation_star-g3" x="429.1" y="-0.6" kX="-169.78" kY="-169.78" z="49"/>
+      <b name="图层 3        复制 86" bT="0" bi="LoginAnimation_star-g3" x="-105.3" y="-0.9" kX="-169.79" kY="-169.79" z="50"/>
+      <b name="图层 3            复制 121" bT="0" bi="LoginAnimation_star-g3" x="-499.8" y="-203" kX="-169.79" kY="-169.79" z="51"/>
+      <b name="图层 3             复制 131" bT="0" bi="LoginAnimation_star-g3" x="438.25" y="112.95" kX="-169.79" kY="-169.79" z="52"/>
+      <b name="图层 3      复制 63" bT="0" bi="LoginAnimation_star-g3" x="-87.25" y="-270.25" kX="167.97" kY="167.97" z="53"/>
+      <b name="图层 3      复制 64" bT="0" bi="LoginAnimation_star-g3" x="-158.05" y="-376.1" kX="167.97" kY="167.97" z="54"/>
+      <b name="图层 3       复制 73" bT="0" bi="LoginAnimation_star-g3" x="182.45" y="-123" kX="167.97" kY="167.97" z="55"/>
+      <b name="图层 3       复制 74" bT="0" bi="LoginAnimation_star-g3" x="-274.55" y="-32.25" kX="167.97" kY="167.97" z="56"/>
+      <b name="图层 3        复制 87" bT="0" bi="LoginAnimation_star-g3" x="-77.05" y="-118.55" kX="167.97" kY="167.97" z="57"/>
+      <b name="图层 3         复制 92" bT="0" bi="LoginAnimation_star-g3" x="-564.3" y="-144.7" kX="167.97" kY="167.97" z="58"/>
+      <b name="图层 3         复制 93" bT="0" bi="LoginAnimation_star-g3" x="145.6" y="-110.5" kX="167.97" kY="167.97" z="59"/>
+      <b name="图层 3          复制 102" bT="0" bi="LoginAnimation_star-g3" x="145.6" y="-110.5" kX="167.97" kY="167.97" z="60"/>
+      <b name="图层 3          复制 103" bT="0" bi="LoginAnimation_star-g3" x="439.15" y="-199.2" kX="167.97" kY="167.97" z="61"/>
+      <b name="图层 3           复制 111" bT="0" bi="LoginAnimation_star-g3" x="166.9" y="-98.4" kX="167.97" kY="167.97" z="62"/>
+      <b name="图层 3           复制 112" bT="0" bi="LoginAnimation_star-g3" x="526.65" y="-191.7" kX="167.97" kY="167.97" z="63"/>
+      <b name="图层 3            复制 122" bT="0" bi="LoginAnimation_star-g3" x="634.55" y="-299.45" kX="167.97" kY="167.97" z="64"/>
+      <b name="图层 3             复制 132" bT="0" bi="LoginAnimation_star-g3" x="-296.05" y="-148.2" kX="167.97" kY="167.97" z="65"/>
+      <b name="图层 3              复制 14" bT="0" bi="LoginAnimation_star-g3" x="45.35" y="0.85" kX="167.97" kY="167.97" z="66"/>
+      <b name="图层 3              复制 140" bT="0" bi="LoginAnimation_star-g3" x="691.8" y="-211" kX="167.96" kY="167.96" z="67"/>
+      <b name="图层 8" bT="0" bi="LoginAnimation_star-10" x="61.15" y="-943.3" kX="6.27" kY="6.27" z="68"/>
+      <b name="图层 9" bT="0" bi="LoginAnimation_star-10" x="-460.85" y="-682.15" kX="-5.26" kY="-5.26" z="68"/>
+      <b name="图层 10" bT="0" bi="LoginAnimation_star-10" x="-327.2" y="-763.1" kX="0" kY="0" z="68"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="star">
+      <mov name="star" to="1" dr="119" drTW="119" lp="1">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="0" img="LoginAnimation_star-g3" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.27" z="0" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="0" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="0" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.27" z="0" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="0" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3  复制 2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="1" img="LoginAnimation_star-g3" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.27" z="1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="1" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="1" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.27" z="1" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="1" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3   复制 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="2" img="LoginAnimation_star-g3" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.27" z="2" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="2" twE="0" dr="28"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="2" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.27" z="2" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="2" twE="0" dr="28"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3    复制 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="3" img="LoginAnimation_star-g3" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.27" z="3" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="3" twE="0" dr="28"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="3" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.27" cY="0.27" z="3" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="3" twE="0" dr="28"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="3" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3 复制" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="4" img="LoginAnimation_star-g3" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.45" cY="0.45" z="4" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="4" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.45" cY="0.45" z="4" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="4" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3  复制 20" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="5" img="LoginAnimation_star-g3" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.45" cY="0.45" z="5" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="5" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.45" cY="0.45" z="5" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="5" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3  复制 21" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="6" img="LoginAnimation_star-g3" twE="0" dr="36"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="6" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.37" cY="0.37" z="6" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="6" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="6" twE="0" dr="36"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="6" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.37" cY="0.37" z="6" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="6" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="6" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3   复制 30" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="7" img="LoginAnimation_star-g3" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.47" cY="0.47" z="7" twE="0" dr="35"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="7" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.47" cY="0.47" z="7" twE="0" dr="35"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.37" cY="0.37" z="7" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3    复制 40" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="8" img="LoginAnimation_star-g3" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.47" cY="0.47" z="8" twE="0" dr="35"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="8" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.47" cY="0.47" z="8" twE="0" dr="35"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.37" cY="0.37" z="8" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3    复制 41" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="9" img="LoginAnimation_star-g3" twE="0" dr="21"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.47" cY="0.47" z="9" twE="0" dr="38"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="9" twE="0" dr="21"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.47" cY="0.47" z="9" twE="0" dr="38"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.37" cY="0.37" z="9" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3    复制 42" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="10" img="LoginAnimation_star-g3" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="10" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="10" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="10" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="10" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3    复制 43" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="11" img="LoginAnimation_star-g3" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="11" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="11" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="11" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="11" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3     复制 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="12" img="LoginAnimation_star-g3" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="12" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="12" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="12" twE="0" dr="25"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="12" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="12" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="12" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="12" twE="0" dr="25"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="12" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3      复制 6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="13" img="LoginAnimation_star-g3" twE="0" dr="46"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="13" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="13" twE="0" dr="46"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="13" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="13" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3       复制 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="14" img="LoginAnimation_star-g3" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="14" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="14" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="14" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="14" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3        复制 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="15" img="LoginAnimation_star-g3" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="15" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="15" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="15" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="15" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3       复制 70" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="16" img="LoginAnimation_star-g3" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="16" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="16" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="16" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="16" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3        复制 80" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="17" img="LoginAnimation_star-g3" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="17" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="17" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="17" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="17" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3        复制 81" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="18" img="LoginAnimation_star-g3" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.7" cY="0.7" z="18" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="18" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.7" cY="0.7" z="18" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="18" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3        复制 82" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="LoginAnimation_star-g3" twE="0" dr="33"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.4" cY="1.4" z="19" twE="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="33"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.4" cY="1.4" z="19" twE="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3         复制 9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="20" img="LoginAnimation_star-g3" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.28" cY="0.28" z="20" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="20" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.31" cY="0.31" z="20" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="20" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.28" cY="0.28" z="20" twE="0" dr="7"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="20" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.31" cY="0.31" z="20" twE="0" dr="14"/>
+        </b>
+        <b name="图层 3          复制 10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="21" img="LoginAnimation_star-g3" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="21" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="21" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="21" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="21" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="21" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="21" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="21" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="21" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3           复制 11" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="22" img="LoginAnimation_star-g3" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="22" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="22" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="22" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="22" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="22" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="22" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="22" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="22" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3            复制 12" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="23" img="LoginAnimation_star-g3" twE="0" dr="33"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.3" cY="0.3" z="23" twE="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="23" twE="0" dr="33"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.3" cY="0.3" z="23" twE="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="23" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3     复制 50" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="24" img="LoginAnimation_star-g3" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="24" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="24" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="24" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="24" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3      复制 60" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="25" img="LoginAnimation_star-g3" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="25" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="25" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="25" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="25" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3      复制 61" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="26" img="LoginAnimation_star-g3" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="26" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="26" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="26" twE="0" dr="25"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="26" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="26" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="26" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="26" twE="0" dr="25"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="26" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3       复制 71" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="27" img="LoginAnimation_star-g3" twE="0" dr="22"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="27" twE="0" dr="37"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="27" twE="0" dr="22"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="27" twE="0" dr="37"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="27" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3        复制 83" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="28" img="LoginAnimation_star-g3" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="28" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="28" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="28" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="28" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3        复制 84" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="29" img="LoginAnimation_star-g3" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="29" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="29" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="29" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="29" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3         复制 90" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="30" img="LoginAnimation_star-g3" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.72" cY="0.72" z="30" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="30" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.72" cY="0.72" z="30" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="30" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3         复制 91" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="31" img="LoginAnimation_star-g3" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.7" cY="0.7" z="31" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="31" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.7" cY="0.7" z="31" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="31" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3          复制 100" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="32" img="LoginAnimation_star-g3" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.7" cY="0.7" z="32" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="32" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.7" cY="0.7" z="32" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="32" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3          复制 101" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="33" img="LoginAnimation_star-g3" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.33" cY="0.33" z="33" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="33" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.34" cY="0.34" z="33" twE="0" dr="43"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="33" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.33" cY="0.33" z="33" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="33" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.34" cY="0.34" z="33" twE="0" dr="43"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="33" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3           复制 110" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="34" img="LoginAnimation_star-g3" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="34" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="34" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="34" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="34" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="34" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="34" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="34" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="34" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3            复制 120" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="35" img="LoginAnimation_star-g3" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="35" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="35" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="35" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="35" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="35" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="35" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="35" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="35" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3             复制 13" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="36" img="LoginAnimation_star-g3" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="36" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="36" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="36" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="36" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="36" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="36" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="36" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="36" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3             复制 130" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="37" img="LoginAnimation_star-g3" twE="0" dr="33"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.3" cY="0.3" z="37" twE="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="37" twE="0" dr="33"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.3" cY="0.3" z="37" twE="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="37" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3    复制 44" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="38" img="LoginAnimation_star-g3" twE="0" dr="14"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.27" cY="0.27" z="38" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="38" twE="0" dr="28"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="38" twE="0" dr="14"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.27" cY="0.27" z="38" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="38" twE="0" dr="28"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.48" cY="0.48" z="38" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3  复制 22" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="39" img="LoginAnimation_star-g3" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0.01" kY="0.01" cX="0.45" cY="0.45" z="39" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="39" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0.01" kY="0.01" cX="0.45" cY="0.45" z="39" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="39" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3   复制 31" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="40" img="LoginAnimation_star-g3" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0.01" kY="0.01" cX="0.45" cY="0.45" z="40" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="40" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0.01" kY="0.01" cX="0.45" cY="0.45" z="40" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.56" cY="0.56" z="40" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3   复制 32" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="41" img="LoginAnimation_star-g3" twE="0" dr="36"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="41" twE="0" dr="7"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.37" cY="0.37" z="41" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="41" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="41" twE="0" dr="36"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="41" twE="0" dr="7"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.37" cY="0.37" z="41" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="41" twE="0" dr="10"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.69" cY="0.69" z="41" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3    复制 45" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="42" img="LoginAnimation_star-g3" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.47" cY="0.47" z="42" twE="0" dr="35"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="42" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.47" cY="0.47" z="42" twE="0" dr="35"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.37" cY="0.37" z="42" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3     复制 51" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="43" img="LoginAnimation_star-g3" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.47" cY="0.47" z="43" twE="0" dr="35"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="43" twE="0" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.47" cY="0.47" z="43" twE="0" dr="35"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.37" cY="0.37" z="43" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3     复制 52" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="44" img="LoginAnimation_star-g3" twE="0" dr="21"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.47" cY="0.47" z="44" twE="0" dr="38"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="44" twE="0" dr="21"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.47" cY="0.47" z="44" twE="0" dr="38"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.37" cY="0.37" z="44" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3     复制 53" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="45" img="LoginAnimation_star-g3" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="45" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="45" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="45" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="45" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3     复制 54" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="46" img="LoginAnimation_star-g3" twE="0" dr="27"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.22" cY="0.22" z="46" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="46" twE="0" dr="27"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.22" cY="0.22" z="46" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="46" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3      复制 62" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="47" img="LoginAnimation_star-g3" twE="0" dr="11"/>
+          <f x="0" y="0" kX="-0.01" kY="0" cX="0.22" cY="0.22" z="47" twE="0" dr="8"/>
+          <f x="0" y="0" kX="-0.01" kY="0" cX="0.63" cY="0.63" z="47" twE="0" dr="15"/>
+          <f x="0" y="0" kX="-0.01" kY="0" cX="0.38" cY="0.38" z="47" twE="0" dr="25"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="47" twE="0" dr="11"/>
+          <f x="0" y="0" kX="-0.01" kY="0" cX="0.22" cY="0.22" z="47" twE="0" dr="8"/>
+          <f x="0" y="0" kX="-0.01" kY="0" cX="0.63" cY="0.63" z="47" twE="0" dr="15"/>
+          <f x="0" y="0" kX="-0.01" kY="0" cX="0.38" cY="0.38" z="47" twE="0" dr="25"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="47" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3       复制 72" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="48" img="LoginAnimation_star-g3" twE="0" dr="46"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.39" cY="0.39" z="48" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="48" twE="0" dr="46"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.39" cY="0.39" z="48" twE="0" dr="13"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="48" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3        复制 85" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="49" img="LoginAnimation_star-g3" twE="0" dr="40"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.39" cY="0.39" z="49" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="49" twE="0" dr="40"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.39" cY="0.39" z="49" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="49" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3        复制 86" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="50" img="LoginAnimation_star-g3" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="50" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="50" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="50" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="50" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3            复制 121" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="51" img="LoginAnimation_star-g3" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0.01" kY="0.01" cX="0.17" cY="0.17" z="51" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="51" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="51" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="51" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0.01" kY="0.01" cX="0.17" cY="0.17" z="51" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="51" twE="0" dr="12"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.12" cY="0.12" z="51" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="51" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3             复制 131" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="52" img="LoginAnimation_star-g3" twE="0" dr="33"/>
+          <f x="0" y="0" kX="0.01" kY="0.01" cX="0.3" cY="0.3" z="52" twE="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="52" twE="0" dr="33"/>
+          <f x="0" y="0" kX="0.01" kY="0.01" cX="0.3" cY="0.3" z="52" twE="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="52" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3      复制 63" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="53" img="LoginAnimation_star-g3" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="53" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="53" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.77" cY="0.77" z="53" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" z="53" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3      复制 64" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="54" img="LoginAnimation_star-g3" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="54" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="54" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="54" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="54" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3       复制 73" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="55" img="LoginAnimation_star-g3" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="55" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="55" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="55" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.53" cY="0.53" z="55" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3       复制 74" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="56" img="LoginAnimation_star-g3" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="56" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="56" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="56" twE="0" dr="25"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="56" twE="0" dr="11"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.22" cY="0.22" z="56" twE="0" dr="8"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.63" cY="0.63" z="56" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="56" twE="0" dr="25"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.5" cY="0.5" z="56" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3        复制 87" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="57" img="LoginAnimation_star-g3" twE="0" dr="22"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="57" twE="0" dr="37"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="57" twE="0" dr="22"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="57" twE="0" dr="37"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="57" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3         复制 92" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="58" img="LoginAnimation_star-g3" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="58" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="58" twE="0" dr="32"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="58" twE="0" dr="27"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.54" cY="0.54" z="58" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3         复制 93" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="59" img="LoginAnimation_star-g3" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="59" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="59" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.46" cY="0.46" z="59" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="59" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3          复制 102" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="60" img="LoginAnimation_star-g3" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.72" cY="0.72" z="60" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="60" twE="0" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.72" cY="0.72" z="60" twE="0" dr="40"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="60" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3          复制 103" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="61" img="LoginAnimation_star-g3" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.7" cY="0.7" z="61" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="61" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.7" cY="0.7" z="61" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="61" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3           复制 111" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="62" img="LoginAnimation_star-g3" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.7" cY="0.7" z="62" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="62" twE="0" dr="29"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.7" cY="0.7" z="62" twE="0" dr="30"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.39" cY="0.39" z="62" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3           复制 112" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="63" img="LoginAnimation_star-g3" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.33" cY="0.33" z="63" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="63" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.34" cY="0.34" z="63" twE="0" dr="43"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="63" twE="0" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.33" cY="0.33" z="63" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="63" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.34" cY="0.34" z="63" twE="0" dr="43"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.62" cY="0.62" z="63" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3            复制 122" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="64" img="LoginAnimation_star-g3" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="64" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="64" twE="0" dr="12"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="64" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="64" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="64" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="64" twE="0" dr="12"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="64" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="64" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3             复制 132" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="65" img="LoginAnimation_star-g3" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="65" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="65" twE="0" dr="12"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="65" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="65" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="65" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="65" twE="0" dr="12"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="65" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="65" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3              复制 14" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="66" img="LoginAnimation_star-g3" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="66" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="66" twE="0" dr="12"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="66" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="66" twE="0" dr="18"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.17" cY="0.17" z="66" twE="0" dr="15"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="66" twE="0" dr="12"/>
+          <f x="0" y="0" kX="-0.01" kY="-0.01" cX="0.12" cY="0.12" z="66" twE="0" dr="14"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.38" cY="0.38" z="66" twE="0" dr="1"/>
+        </b>
+        <b name="图层 3              复制 140" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="67" img="LoginAnimation_star-g3" twE="0" dr="33"/>
+          <f x="0" y="0" kX="0.01" kY="0.01" cX="0.3" cY="0.3" z="67" twE="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="67" twE="0" dr="33"/>
+          <f x="0" y="0" kX="0.01" kY="0.01" cX="0.3" cY="0.3" z="67" twE="0" dr="26"/>
+          <f x="0" y="0" kX="0" kY="0" cX="0.15" cY="0.15" z="67" twE="0" dr="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.26" cY="2.37" z="68" img="LoginAnimation_star-10" twE="0" dr="28"/>
+          <f x="-177" y="837.4" kX="0" kY="0" cX="0.48" cY="0.9" z="68" twE="0" dr="1"/>
+          <f dr="90" hide="1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="20" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.48" cY="1.48" z="68" img="LoginAnimation_star-10" twE="0" dr="28"/>
+          <f x="-116.15" y="705.45" kX="0.01" kY="0.01" cX="0.44" cY="0.44" z="68" twE="0" dr="1"/>
+          <f dr="70" hide="1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="64" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="2" cY="2" z="68" img="LoginAnimation_star-10" twE="0" dr="42"/>
+          <f x="-308.5" y="771.1" kX="0" kY="0" cX="1" cY="1" z="68" twE="0" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="星星" width="512" height="256">
+    <SubTexture name="LoginAnimation_star-g3" x="139" y="0" width="12" height="13" pX="5.2" pY="5.55"/>
+    <SubTexture name="LoginAnimation_star-10" x="0" y="0" width="138" height="138" pX="-287.85" pY="-38.2"/>
+  </TextureAtlas>
+</skeleton>

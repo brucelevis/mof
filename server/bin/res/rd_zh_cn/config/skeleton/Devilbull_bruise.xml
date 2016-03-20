@@ -1,0 +1,242 @@
+<skeleton name="牛头被击z">
+  <armatures>
+    <armature name="NTbeiji">
+      <b name="图层 13" bT="0" bi="Devilbull_bruise-vNTBJ-1" x="-137.05" y="-135.15" kX="0" kY="0" z="0"/>
+      <b name="图层 8" bT="0" bi="Devilbull_bruise-shape 32" x="-14.1" y="50.85" kX="0" kY="0" z="1"/>
+      <b name="图层 7" bT="0" bi="Devilbull_bruise-shape 32" x="-6.2" y="22.65" kX="6.22" kY="155.55" z="2"/>
+      <b name="图层 6" bT="0" bi="Devilbull_bruise-shape 32" x="-5.05" y="27.65" kX="2.97" kY="136.32" z="3"/>
+      <b name="图层 5" bT="0" bi="Devilbull_bruise-shape 32" x="-14.1" y="49.8" kX="0" kY="9.2" z="3"/>
+      <b name="图层 4" bT="0" bi="Devilbull_bruise-shape 32" x="-10.25" y="-4.95" kX="0" kY="48.72" z="5"/>
+      <b name="图层 3" bT="0" bi="Devilbull_bruise-shape 32" x="-10.25" y="4.95" kX="0" kY="-40.72" z="6"/>
+      <b name="图层 2" bT="0" bi="Devilbull_bruise-shape 32" x="-6.6" y="11.9" kX="-2.4" kY="-122.09" z="6"/>
+      <b name="图层 1" bT="0" bi="Devilbull_bruise-shape 32" x="2.55" y="20.6" kX="5.84" kY="-113.85" z="8"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="NTbeiji">
+      <mov name="NTbeiji" to="1" dr="31" drTW="31" lp="0">
+        <b name="图层 13" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Devilbull_bruise-vNTBJ-1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Devilbull_bruise-NTBJ-2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Devilbull_bruise-NTBJ-3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Devilbull_bruise-NTBJ-4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Devilbull_bruise-NTBJ-5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Devilbull_bruise-NTBJ-6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Devilbull_bruise-NTBJ-7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.8" cY="1.8" z="0" img="Devilbull_bruise-NTBJ-8" dr="2"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="13.5" y="-11.15" kX="0" kY="0" cX="1.5" cY="1.5" z="1" dr="1"/>
+          <f x="-5.15" y="1.05" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" dr="1"/>
+          <f x="4.6" y="3" kX="0" kY="0" cX="1.5" cY="1.5" z="1" dr="1"/>
+          <f x="-3" y="-4.65" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" dr="1"/>
+          <f x="-7.05" y="-13.4" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="Devilbull_bruise-shape 42" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.5" cY="1.5" z="1" img="Devilbull_bruise-shape 43" twE="0" dr="2"/>
+          <f x="8.5" y="63" kX="0" kY="0" cX="1.5" cY="1.5" z="1" dr="1"/>
+          <f x="107.5" y="64.9" kX="0" kY="0" cX="0.5" cY="0.5" z="1" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="107.5" y="64.9" kX="0" kY="0" cX="0.5" cY="0.5" z="1" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="112" y="61.2" kX="0" kY="0" cX="0.5" cY="0.5" z="0" dr="1"/>
+          <f x="105.8" y="65.2" kX="0" kY="0" cX="0.5" cY="0.5" z="0" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="107.5" y="64.9" kX="0" kY="0" cX="0.5" cY="0.5" z="0" dr="1"/>
+          <f x="109" y="65.9" kX="0" kY="0" cX="0.5" cY="0.5" z="0" dr="1"/>
+          <f x="106.5" y="63.35" kX="0" kY="0" cX="0.5" cY="0.5" z="0" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="107.5" y="64.9" kX="0" kY="0" cX="0.5" cY="0.5" z="0" dr="1"/>
+          <f x="105.15" y="60.45" kX="0" kY="0" cX="0.5" cY="0.5" z="0" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="107.5" y="64.9" kX="0" kY="0" cX="0.5" cY="0.5" z="0" dr="1"/>
+          <f x="107.5" y="64.9" kX="0" kY="0" cX="0.5" cY="0.5" z="0" img="Devilbull_bruise-shape 42" twE="0" dr="3"/>
+          <f x="113.5" y="81.9" kX="0" kY="0" cX="0.5" cY="0.5" z="0" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.73" cY="0.89" z="2" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.73" cY="0.89" z="2" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="-13.5" y="-0.05" kX="0" kY="0" cX="1.73" cY="0.89" z="2" dr="1"/>
+          <f x="5.4" y="-1.9" kX="0" kY="0" cX="1.73" cY="0.89" z="2" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.73" cY="0.89" z="2" dr="1"/>
+          <f x="-5.05" y="3.95" kX="0" kY="0" cX="1.73" cY="0.89" z="2" dr="1"/>
+          <f x="3.5" y="-4.1" kX="0" kY="0" cX="1.73" cY="0.89" z="2" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.73" cY="0.89" z="2" dr="1"/>
+          <f x="8.3" y="-11.2" kX="0" kY="0" cX="1.73" cY="0.89" z="2" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.73" cY="0.89" z="2" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.73" cY="0.89" z="2" img="Devilbull_bruise-shape 42" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.73" cY="0.89" z="2" img="Devilbull_bruise-shape 43" twE="0" dr="2"/>
+          <f x="-13" y="41.05" kX="0" kY="0" cX="1.73" cY="0.89" z="2" dr="1"/>
+          <f x="-117.25" y="89.5" kX="0" kY="0" cX="0.58" cY="0.29" z="2" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="-117.25" y="89.5" kX="0" kY="0" cX="0.58" cY="0.29" z="2" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="-121.7" y="89.5" kX="0" kY="0" cX="0.58" cY="0.29" z="1" dr="1"/>
+          <f x="-115.45" y="88.9" kX="0" kY="0" cX="0.58" cY="0.29" z="1" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="-117.25" y="89.5" kX="0" kY="0" cX="0.58" cY="0.29" z="1" dr="1"/>
+          <f x="-118.85" y="90.8" kX="0" kY="0" cX="0.58" cY="0.29" z="1" dr="1"/>
+          <f x="-116.1" y="88.15" kX="0" kY="0" cX="0.58" cY="0.29" z="1" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="-117.25" y="89.5" kX="0" kY="0" cX="0.58" cY="0.29" z="1" dr="1"/>
+          <f x="-114.5" y="85.8" kX="0" kY="0" cX="0.58" cY="0.29" z="1" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="-117.25" y="89.5" kX="0" kY="0" cX="0.58" cY="0.29" z="1" dr="1"/>
+          <f x="-117.25" y="89.5" kX="0" kY="0" cX="0.58" cY="0.29" z="1" img="Devilbull_bruise-shape 42" twE="0" dr="3"/>
+          <f x="-124.6" y="102.4" kX="0" kY="0" cX="0.58" cY="0.29" z="1" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="1" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="0.88" z="3" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="0.88" z="3" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="-6.45" y="-0.05" kX="0" kY="0" cX="1.04" cY="0.88" z="3" dr="1"/>
+          <f x="2.55" y="-1.9" kX="0" kY="0" cX="1.04" cY="0.88" z="3" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="0.88" z="3" dr="1"/>
+          <f x="-2.4" y="3.95" kX="0" kY="0" cX="1.04" cY="0.88" z="3" dr="1"/>
+          <f x="1.65" y="-4.1" kX="0" kY="0" cX="1.04" cY="0.88" z="3" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="0.88" z="3" dr="1"/>
+          <f x="3.95" y="-11.2" kX="0" kY="0" cX="1.04" cY="0.88" z="3" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="0.88" z="3" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="0.88" z="3" img="Devilbull_bruise-shape 42" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.04" cY="0.88" z="3" img="Devilbull_bruise-shape 43" twE="0" dr="2"/>
+          <f x="-6.2" y="41.05" kX="0" kY="0" cX="1.04" cY="0.88" z="3" dr="1"/>
+          <f x="-55.85" y="89.5" kX="0" kY="0" cX="0.34" cY="0.29" z="3" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="-55.85" y="89.5" kX="0" kY="0" cX="0.34" cY="0.29" z="2" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="-57.95" y="89.5" kX="0" kY="0" cX="0.34" cY="0.29" z="2" dr="1"/>
+          <f x="-55" y="88.9" kX="0" kY="0" cX="0.34" cY="0.29" z="2" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="-55.85" y="89.5" kX="0" kY="0" cX="0.34" cY="0.29" z="2" dr="1"/>
+          <f x="-56.6" y="90.8" kX="0" kY="0" cX="0.34" cY="0.29" z="2" dr="1"/>
+          <f x="-55.3" y="88.15" kX="0" kY="0" cX="0.34" cY="0.29" z="2" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="-55.85" y="89.5" kX="0" kY="0" cX="0.34" cY="0.29" z="2" dr="1"/>
+          <f x="-54.55" y="85.8" kX="0" kY="0" cX="0.34" cY="0.29" z="2" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="-55.85" y="89.5" kX="0" kY="0" cX="0.34" cY="0.29" z="2" dr="1"/>
+          <f x="-55.85" y="89.5" kX="0" kY="0" cX="0.34" cY="0.29" z="2" img="Devilbull_bruise-shape 42" twE="0" dr="3"/>
+          <f x="-59.35" y="102.4" kX="0" kY="0" cX="0.34" cY="0.29" z="0" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="0.97" z="3" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="0.97" z="4" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="13.5" y="-5.05" kX="0" kY="0" cX="1.52" cY="0.97" z="4" dr="1"/>
+          <f x="-5.15" y="-0.2" kX="0" kY="0" cX="1.52" cY="0.97" z="4" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="0.97" z="4" dr="1"/>
+          <f x="4.6" y="2.7" kX="0" kY="0" cX="1.52" cY="0.97" z="4" dr="1"/>
+          <f x="-3" y="-3.5" kX="0" kY="0" cX="1.52" cY="0.97" z="4" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="0.97" z="4" dr="1"/>
+          <f x="-7.05" y="-9.8" kX="0" kY="0" cX="1.52" cY="0.97" z="4" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="0.97" z="4" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="0.97" z="4" img="Devilbull_bruise-shape 42" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.52" cY="0.97" z="4" img="Devilbull_bruise-shape 43" twE="0" dr="2"/>
+          <f x="8.5" y="42" kX="0" kY="0" cX="1.52" cY="0.97" z="4" dr="1"/>
+          <f x="107.5" y="59.3" kX="0" kY="0" cX="0.5" cY="0.32" z="4" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="107.5" y="59.3" kX="0" kY="0" cX="0.5" cY="0.32" z="4" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="112" y="57.6" kX="0" kY="0" cX="0.5" cY="0.32" z="3" dr="1"/>
+          <f x="105.8" y="59.15" kX="0" kY="0" cX="0.5" cY="0.32" z="3" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="107.5" y="59.3" kX="0" kY="0" cX="0.5" cY="0.32" z="3" dr="1"/>
+          <f x="109" y="60.2" kX="0" kY="0" cX="0.5" cY="0.32" z="3" dr="1"/>
+          <f x="106.5" y="58.15" kX="0" kY="0" cX="0.5" cY="0.32" z="3" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="107.5" y="59.3" kX="0" kY="0" cX="0.5" cY="0.32" z="3" dr="1"/>
+          <f x="105.15" y="56" kX="0" kY="0" cX="0.5" cY="0.32" z="3" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="107.5" y="59.3" kX="0" kY="0" cX="0.5" cY="0.32" z="3" dr="1"/>
+          <f x="107.5" y="59.3" kX="0" kY="0" cX="0.5" cY="0.32" z="3" img="Devilbull_bruise-shape 42" twE="0" dr="3"/>
+          <f x="113.5" y="71.2" kX="0" kY="0" cX="0.5" cY="0.32" z="3" dr="1"/>
+          <f dr="3" hide="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="0.97" z="5" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="0.97" z="5" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="7.6" y="1.45" kX="0" kY="0" cX="1.29" cY="0.97" z="5" dr="1"/>
+          <f x="-2.95" y="-2.75" kX="0" kY="0" cX="1.29" cY="0.97" z="5" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="0.97" z="5" dr="1"/>
+          <f x="2.6" y="4.9" kX="0" kY="0" cX="1.29" cY="0.97" z="5" dr="1"/>
+          <f x="-1.7" y="-4.95" kX="0" kY="0" cX="1.29" cY="0.97" z="5" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="0.97" z="5" dr="1"/>
+          <f x="-4" y="-13.25" kX="0" kY="0" cX="1.29" cY="0.97" z="5" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="0.97" z="5" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="0.97" z="5" img="Devilbull_bruise-shape 42" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.29" cY="0.97" z="5" img="Devilbull_bruise-shape 43" twE="0" dr="2"/>
+          <f x="4.8" y="46.1" kX="0" kY="0" cX="1.29" cY="0.97" z="5" dr="1"/>
+          <f x="60.8" y="111.15" kX="0" kY="0" cX="0.43" cY="0.32" z="4" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="60.8" y="111.15" kX="0" kY="0" cX="0.43" cY="0.32" z="4" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="63.35" y="111.6" kX="0" kY="0" cX="0.43" cY="0.32" z="4" dr="1"/>
+          <f x="59.85" y="110.2" kX="0" kY="0" cX="0.43" cY="0.32" z="4" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="60.8" y="111.15" kX="0" kY="0" cX="0.43" cY="0.32" z="4" dr="1"/>
+          <f x="61.65" y="112.8" kX="0" kY="0" cX="0.43" cY="0.32" z="4" dr="1"/>
+          <f x="60.25" y="109.55" kX="0" kY="0" cX="0.43" cY="0.32" z="4" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="60.8" y="111.15" kX="0" kY="0" cX="0.43" cY="0.32" z="4" dr="1"/>
+          <f x="59.45" y="106.7" kX="0" kY="0" cX="0.43" cY="0.32" z="4" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="60.8" y="111.15" kX="0" kY="0" cX="0.43" cY="0.32" z="4" dr="1"/>
+          <f x="60.8" y="111.15" kX="0" kY="0" cX="0.43" cY="0.32" z="1" img="Devilbull_bruise-shape 42" twE="0" dr="3"/>
+          <f x="64.2" y="125.95" kX="0" kY="0" cX="0.43" cY="0.32" z="0" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="3" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.12" cY="0.97" z="6" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.12" cY="0.97" z="6" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="7.6" y="-13.75" kX="0" kY="0" cX="1.12" cY="0.97" z="6" dr="1"/>
+          <f x="-2.95" y="3.15" kX="0" kY="0" cX="1.12" cY="0.97" z="6" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.12" cY="0.97" z="6" dr="1"/>
+          <f x="2.6" y="-0.3" kX="0" kY="0" cX="1.12" cY="0.97" z="6" dr="1"/>
+          <f x="-1.7" y="-1.55" kX="0" kY="0" cX="1.12" cY="0.97" z="6" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.12" cY="0.97" z="6" dr="1"/>
+          <f x="-4" y="-5.25" kX="0" kY="0" cX="1.12" cY="0.97" z="6" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.12" cY="0.97" z="6" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.12" cY="0.97" z="6" img="Devilbull_bruise-shape 42" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.12" cY="0.97" z="6" img="Devilbull_bruise-shape 43" twE="0" dr="2"/>
+          <f x="4.8" y="36.5" kX="0" kY="0" cX="1.12" cY="0.97" z="5" dr="1"/>
+          <f dr="14" hide="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.64" cY="0.7" z="6" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.64" cY="0.7" z="7" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="-8.05" y="-17.6" kX="0" kY="0" cX="1.64" cY="0.7" z="7" dr="1"/>
+          <f x="3" y="5.3" kX="0" kY="0" cX="1.64" cY="0.7" z="7" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.64" cY="0.7" z="7" dr="1"/>
+          <f x="-2.7" y="-2.8" kX="0" kY="0" cX="1.64" cY="0.7" z="7" dr="1"/>
+          <f x="1.6" y="0.65" kX="0" kY="0" cX="1.64" cY="0.7" z="7" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.64" cY="0.7" z="7" dr="1"/>
+          <f x="3.8" y="0.25" kX="0" kY="0" cX="1.64" cY="0.7" z="7" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.64" cY="0.7" z="7" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.64" cY="0.7" z="7" img="Devilbull_bruise-shape 42" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.64" cY="0.7" z="7" img="Devilbull_bruise-shape 43" twE="0" dr="2"/>
+          <f x="-3.7" y="21.6" kX="0" kY="0" cX="1.64" cY="0.7" z="7" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="0.56" z="8" img="Devilbull_bruise-shape 32" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="0.56" z="8" img="Devilbull_bruise-shape 33" dr="1"/>
+          <f x="-4.35" y="-14.85" kX="0" kY="0" cX="1.31" cY="0.56" z="8" dr="1"/>
+          <f x="1.8" y="4.55" kX="0" kY="0" cX="1.31" cY="0.56" z="8" img="Devilbull_bruise-shape 36" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="0.56" z="8" dr="1"/>
+          <f x="-1.8" y="-2.55" kX="0" kY="0" cX="1.31" cY="0.56" z="8" dr="1"/>
+          <f x="1.15" y="0.7" kX="0" kY="0" cX="1.31" cY="0.56" z="8" img="Devilbull_bruise-shape 39" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="0.56" z="8" dr="1"/>
+          <f x="3" y="0.65" kX="0" kY="0" cX="1.31" cY="0.56" z="8" img="Devilbull_bruise-shape 41" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="0.56" z="8" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="0.56" z="8" img="Devilbull_bruise-shape 42" dr="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.31" cY="0.56" z="6" img="Devilbull_bruise-shape 43" twE="0" dr="2"/>
+          <f x="-5.4" y="16.65" kX="0" kY="0" cX="1.31" cY="0.56" z="5" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="牛头被击z" width="512" height="256">
+    <SubTexture name="Devilbull_bruise-vNTBJ-1" x="196" y="96" width="80" height="66" pX="-22" pY="-34.5"/>
+    <SubTexture name="Devilbull_bruise-NTBJ-2" x="294" y="0" width="87" height="82" pX="-16" pY="-26.5"/>
+    <SubTexture name="Devilbull_bruise-NTBJ-3" x="196" y="0" width="97" height="95" pX="-3" pY="-10.5"/>
+    <SubTexture name="Devilbull_bruise-NTBJ-4" x="98" y="0" width="97" height="102" pX="-2.5" pY="-5"/>
+    <SubTexture name="Devilbull_bruise-NTBJ-5" x="0" y="0" width="97" height="105" pX="-3" pY="-3"/>
+    <SubTexture name="Devilbull_bruise-NTBJ-6" x="382" y="0" width="73" height="96" pX="0" pY="-2"/>
+    <SubTexture name="Devilbull_bruise-NTBJ-7" x="294" y="83" width="63" height="86" pX="0" pY="0"/>
+    <SubTexture name="Devilbull_bruise-NTBJ-8" x="358" y="97" width="60" height="76" pX="0" pY="-3.5"/>
+    <SubTexture name="Devilbull_bruise-shape 32" x="456" y="0" width="17" height="27" pX="-0.85" pY="42.9"/>
+    <SubTexture name="Devilbull_bruise-shape 33" x="488" y="24" width="15" height="20" pX="-15.7" pY="66.35"/>
+    <SubTexture name="Devilbull_bruise-shape 36" x="471" y="44" width="14" height="13" pX="-36" pY="75.75"/>
+    <SubTexture name="Devilbull_bruise-shape 39" x="471" y="28" width="14" height="15" pX="-43.85" pY="69.45"/>
+    <SubTexture name="Devilbull_bruise-shape 41" x="456" y="28" width="14" height="20" pX="-51.1" pY="61.6"/>
+    <SubTexture name="Devilbull_bruise-shape 42" x="488" y="0" width="14" height="23" pX="-53.4" pY="56.5"/>
+    <SubTexture name="Devilbull_bruise-shape 43" x="474" y="0" width="13" height="25" pX="-61.4" pY="23.85"/>
+  </TextureAtlas>
+</skeleton>

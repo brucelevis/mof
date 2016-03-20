@@ -1,0 +1,12 @@
+set
+sadd srem smembers sismember 
+scard smove spop srandmember
+sinter (两个set内交集值) sinterstore 
+sunion (多个set内不同集)sunionstore
+sdiff (差集)diffstore 
+
+sorted set
+zadd zrem zcard zcount zscore zincrby
+zrange zreverange zrangebyscore
+zrevrangebyscore zrank zrevrank
+

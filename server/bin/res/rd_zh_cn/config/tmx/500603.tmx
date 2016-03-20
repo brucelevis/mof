@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="BJ" tilewidth="64" tileheight="64">
+  <image source="Godhall_BJ.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="17" name="BJ2" tilewidth="64" tileheight="64">
+  <image source="Godhall_BJ2.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="33" name="1" tilewidth="64" tileheight="64">
+  <image source="Godhall_1.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="49" name="2" tilewidth="64" tileheight="64">
+  <image source="Godhall_2.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="65" name="7" tilewidth="64" tileheight="64">
+  <image source="Godhall_7.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="81" name="3" tilewidth="64" tileheight="64">
+  <image source="Godhall_3.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="97" name="4" tilewidth="64" tileheight="64">
+  <image source="Godhall_4.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="101" name="6" tilewidth="64" tileheight="64">
+  <image source="Godhall_6.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="117" name="8" tilewidth="64" tileheight="64">
+  <image source="Godhall_8.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="133" name="9" tilewidth="64" tileheight="64">
+  <image source="Godhall_9.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="149" name="10" tilewidth="64" tileheight="64">
+  <image source="Godhall_10.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="153" name="11" tilewidth="64" tileheight="64">
+  <image source="Godhall_11.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="157" name="5" tilewidth="64" tileheight="64">
+  <image source="Godhall_5.png" width="128" height="128"/>
+ </tileset>
+ <layer name="块层 1" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx9ERgCAQxNA7BUFEof9qTR+7mXkfyYg4cKIgxb7iQkMX/BsDD6bgv/iwsAXfOeecc3r9HLAIgQ==
+  </data>
+ </layer>
+ <layer name="块层 4" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8kNADAMhEC3ldPpv6rQxzISD6okSYkGTVq0A//QpaYX+JJyfQ7ZHkE=
+  </data>
+ </layer>
+ <layer name="块层 2" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8kRwCAAw0Ba4AhnEui/StSHrZl9KATnnGoRCRlF8B9UNHTBH5hYeAX/w4+NI/jOOd0uQFIYgQ==
+  </data>
+ </layer>
+ <layer name="块层 3" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztx8kRwCAAw0Ba4QhnEui/OtSHrZl9KATnnHPOqRWRkFEE/0FFQxf8gYmFV/A//Ng4gn8BXHQogQ==
+  </data>
+ </layer>
+ <layer name="块层 5" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzskJACAUA1Fbcrf/yszFBga+KORBjglJyY6slIs9KupnVwbYpT0q6mdVGtilPSrq51QW2KU96pefZmZmr9rsZgaR
+  </data>
+ </layer>
+ <layer name="块层 6" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztizkOgEAMA/dr3DfL/19DKCxFiKRzQzKSG4+mlNg0xt8GcYPhi3KdrDccowO6Z3WL4x83yibZ/OEYHXj3rO5wPNwm2w3H6IDuWd3qeLgquwzH6IDuWd3p+MguSZLk79xpnx2j
+  </data>
+ </layer>
+ <layer name="块层 7" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztjbkNwEAMw7xi/v/Zf4qodiUJcBOcAXakFRExgDG4U1y3qd7I7gJWslVct6neyO4BTrJVXLep3sjuA16yVVy3qd7Ibgd6slVct6neyO4EZrJVXLep3sjuBnayVVy3qd7I7gVuslVct6necP63a9fuf/cBvXghMQ==
+  </data>
+ </layer>
+ <layer name="块层 8" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxLZECAJAb8IJEEteTqobUd5Jg/CkbBKBgFo2AUjIJRMApGwXABAKcMBJM=
+  </data>
+ </layer>
+ <layer name="块层 9" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzjkSwCAMQ1GOGwhbEu4/qIXCnaMCvZnf2gpBhONCnT2CKKPBHiGLiBK6f77N+rsrqKLmsMO6zfq7e9CLPocd1m3WXxE51wRbvBEx
+  </data>
+ </layer>
+ <layer name="块层 10" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztlNEKgCAMRf1pS8vqPvjhXfBFzBlIVOAOHLhsoBNhxrzPRnd6JMEM1vDBKIqiKLc47idUdpTLstC/1HpBcV8LJ8zTS+BZsXJeyLLQf2yGWNzXIgjzKN9j6UTnJJhhB/orTxe6JsEMP9D7lf9wArnIGuk=
+  </data>
+ </layer>
+ <layer name="块层 11" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkzkKwDAMBP15576TB0cuDGJREblQROKBqczuqnEI79CAnGh/jjkDyOntzzFnAf/GAXog/buZmWjJrqALc9gdQdwt2ZDQdu/MxEhOipsyUg67n75pNiRKujMruRnmvG2c5GWY87ZRqVS+yw1zwCge
+  </data>
+ </layer>
+ <layer name="块层 14" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMArIA3OBeN4gMZuWbsEF5gPxgkFiNi3dMgpGwSgYXgAAnmwHbw==
+  </data>
+ </layer>
+ <layer name="Foreground1" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzLENADAIA0H27wMZF0awTLr8Se4eIgAAAPCTM8uHndtvf7htza5wo3Zuv/3htg1ekg4d
+  </data>
+ </layer>
+ <layer name="Foreground2" width="64" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSgYBaNg5IGZQDwHiGej0bOwqENXg0wj6wPiBnxqkWlcdoPMgInB3ILNDaS4E1ktAPGAIR0=
+  </data>
+ </layer>
+ <objectgroup name="area" width="64" height="12">
+  <object x="896" y="442" width="2304" height="320"/>
+ </objectgroup>
+ <objectgroup name="statue" width="64" height="12">
+  <object name="19102" x="2048" y="560"/>
+ </objectgroup>
+</map>

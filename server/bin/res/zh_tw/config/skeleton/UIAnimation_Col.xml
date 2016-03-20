@@ -1,0 +1,263 @@
+<skeleton name="装备齐鸣">
+  <armatures>
+    <armature name="Col_Purple">
+      <b name="图层 7" bT="0" bi="UIziyuan-guangxianddaZi" x="73.5" y="5.9" kX="180" kY="180" z="0"/>
+      <b name="图层 6" bT="0" bi="UIziyuan-guangxianddaZi" x="75.75" y="70.65" kX="-90" kY="-90" z="1"/>
+      <b name="图层 5" bT="0" bi="UIziyuan-guangxianddaZi" x="1.95" y="72.15" kX="0" kY="0" z="1"/>
+      <b name="图层 4" bT="0" bi="UIziyuan-guangxianddaZi" x="2.5" y="66.2" kX="0" kY="0" z="1"/>
+      <b name="图层 3" bT="0" bi="UIziyuan-guangxianddaZi" x="0.25" y="0.95" kX="90" kY="90" z="3"/>
+      <b name="图层 2" bT="0" bi="UIziyuan-guangxianddaZi" x="74.05" y="-0.55" kX="180" kY="180" z="3"/>
+    </armature>
+    <armature name="Col_Green">
+      <b name="图层 7" bT="0" bi="UIziyuan-guangxiandda" x="73.5" y="5.9" kX="180" kY="180" z="0"/>
+      <b name="图层 6" bT="0" bi="UIziyuan-guangxiandda" x="75.75" y="70.65" kX="-90" kY="-90" z="1"/>
+      <b name="图层 5" bT="0" bi="UIziyuan-guangxiandda" x="1.95" y="72.15" kX="0" kY="0" z="1"/>
+      <b name="图层 4" bT="0" bi="UIziyuan-guangxiandda" x="2.5" y="66.2" kX="0" kY="0" z="1"/>
+      <b name="图层 3" bT="0" bi="UIziyuan-guangxiandda" x="0.25" y="0.95" kX="90" kY="90" z="3"/>
+      <b name="图层 2" bT="0" bi="UIziyuan-guangxiandda" x="74.05" y="-0.55" kX="180" kY="180" z="3"/>
+    </armature>
+    <armature name="Col_blue">
+      <b name="图层 7" bT="0" bi="UIziyuan-guangxianddaLan" x="73.5" y="5.9" kX="180" kY="180" z="0"/>
+      <b name="图层 6" bT="0" bi="UIziyuan-guangxianddaLan" x="75.75" y="70.65" kX="-90" kY="-90" z="1"/>
+      <b name="图层 5" bT="0" bi="UIziyuan-guangxianddaLan" x="1.95" y="72.15" kX="0" kY="0" z="1"/>
+      <b name="图层 4" bT="0" bi="UIziyuan-guangxianddaLan" x="2.5" y="66.2" kX="0" kY="0" z="1"/>
+      <b name="图层 3" bT="0" bi="UIziyuan-guangxianddaLan" x="0.25" y="0.95" kX="90" kY="90" z="3"/>
+      <b name="图层 2" bT="0" bi="UIziyuan-guangxianddaLan" x="74.05" y="-0.55" kX="180" kY="180" z="3"/>
+    </armature>
+    <armature name="Col_Gold">
+      <b name="图层 7" bT="0" bi="UIziyuan-guangxianddaJin" x="73.5" y="5.9" kX="180" kY="180" z="0"/>
+      <b name="图层 6" bT="0" bi="UIziyuan-guangxianddaJin" x="75.75" y="70.65" kX="-90" kY="-90" z="1"/>
+      <b name="图层 5" bT="0" bi="UIziyuan-guangxianddaJin" x="1.95" y="72.15" kX="0" kY="0" z="1"/>
+      <b name="图层 4" bT="0" bi="UIziyuan-guangxianddaJin" x="2.5" y="66.2" kX="0" kY="0" z="1"/>
+      <b name="图层 3" bT="0" bi="UIziyuan-guangxianddaJin" x="0.25" y="0.95" kX="90" kY="90" z="3"/>
+      <b name="图层 2" bT="0" bi="UIziyuan-guangxianddaJin" x="74.05" y="-0.55" kX="180" kY="180" z="3"/>
+    </armature>
+    <armature name="Col_Pink">
+      <b name="图层 7" bT="0" bi="UIziyuan-guangxianddaFen" x="73.5" y="5.9" kX="180" kY="180" z="0"/>
+      <b name="图层 6" bT="0" bi="UIziyuan-guangxianddaFen" x="75.75" y="70.65" kX="-90" kY="-90" z="1"/>
+      <b name="图层 5" bT="0" bi="UIziyuan-guangxianddaFen" x="1.95" y="72.15" kX="0" kY="0" z="1"/>
+      <b name="图层 4" bT="0" bi="UIziyuan-guangxianddaFen" x="2.5" y="66.2" kX="0" kY="0" z="1"/>
+      <b name="图层 3" bT="0" bi="UIziyuan-guangxianddaFen" x="0.25" y="0.95" kX="90" kY="90" z="3"/>
+      <b name="图层 2" bT="0" bi="UIziyuan-guangxianddaFen" x="74.05" y="-0.55" kX="180" kY="180" z="3"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="Col_Purple">
+      <mov name="Col_Purple" to="1" dr="12" drTW="12" lp="1">
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.65" z="0" img="UIziyuan-guangxianddaZi" twE="0" dr="2"/>
+          <f x="0" y="16" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="0" y="43.5" kX="0" kY="0" cX="1" cY="0.56" z="0" twE="0" dr="2"/>
+          <f x="0" y="62.05" kX="0" kY="0" cX="1" cY="0.11" z="0" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="1" img="UIziyuan-guangxianddaZi" twE="0" dr="2"/>
+          <f x="-12.5" y="0" kX="0" kY="0" cX="1" cY="1.22" z="0" twE="0" dr="3"/>
+          <f x="-50" y="0" kX="0" kY="0" cX="1" cY="0.62" z="0" twE="0" dr="2"/>
+          <f x="-61.15" y="0" kX="0" kY="0" cX="1" cY="0.36" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="1" img="UIziyuan-guangxianddaZi" twE="0" dr="1"/>
+          <f x="0" y="-2.15" kX="0" kY="0" cX="1" cY="0.54" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.57" z="1" img="UIziyuan-guangxianddaZi" twE="0" dr="2"/>
+          <f x="0" y="-16.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="0" y="-44" kX="0" kY="0" cX="1" cY="0.56" z="2" twE="0" dr="2"/>
+          <f x="0" y="-62.55" kX="0" kY="0" cX="1" cY="0.11" z="2" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="3" img="UIziyuan-guangxianddaZi" twE="0" dr="2"/>
+          <f x="22.5" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="50" y="0" kX="0" kY="0" cX="1" cY="0.62" z="2" twE="0" dr="2"/>
+          <f x="61.15" y="0" kX="0" kY="0" cX="1" cY="0.36" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="3" img="UIziyuan-guangxianddaZi" twE="0" dr="1"/>
+          <f x="0" y="2.15" kX="0" kY="0" cX="1" cY="0.54" z="3" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="Col_Green">
+      <mov name="Col_Green" to="1" dr="12" drTW="18" lp="1">
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.65" z="0" img="UIziyuan-guangxiandda" twE="0" dr="2"/>
+          <f x="0" y="16" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="0" y="43.5" kX="0" kY="0" cX="1" cY="0.56" z="0" twE="0" dr="2"/>
+          <f x="0" y="62.05" kX="0" kY="0" cX="1" cY="0.11" z="0" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="1" img="UIziyuan-guangxiandda" twE="0" dr="2"/>
+          <f x="-12.5" y="0" kX="0" kY="0" cX="1" cY="1.22" z="0" twE="0" dr="3"/>
+          <f x="-50" y="0" kX="0" kY="0" cX="1" cY="0.62" z="0" twE="0" dr="2"/>
+          <f x="-61.15" y="0" kX="0" kY="0" cX="1" cY="0.36" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="1" img="UIziyuan-guangxiandda" twE="0" dr="1"/>
+          <f x="0" y="-2.15" kX="0" kY="0" cX="1" cY="0.54" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.57" z="1" img="UIziyuan-guangxiandda" twE="0" dr="2"/>
+          <f x="0" y="-16.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="0" y="-44" kX="0" kY="0" cX="1" cY="0.56" z="2" twE="0" dr="2"/>
+          <f x="0" y="-62.55" kX="0" kY="0" cX="1" cY="0.11" z="2" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="3" img="UIziyuan-guangxiandda" twE="0" dr="2"/>
+          <f x="22.5" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="50" y="0" kX="0" kY="0" cX="1" cY="0.62" z="2" twE="0" dr="2"/>
+          <f x="61.15" y="0" kX="0" kY="0" cX="1" cY="0.36" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="3" img="UIziyuan-guangxiandda" twE="0" dr="1"/>
+          <f x="0" y="2.15" kX="0" kY="0" cX="1" cY="0.54" z="3" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="Col_blue">
+      <mov name="Col_Blue" to="1" dr="12" drTW="12" lp="1">
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.65" z="0" img="UIziyuan-guangxianddaLan" twE="0" dr="2"/>
+          <f x="0" y="16" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="0" y="43.5" kX="0" kY="0" cX="1" cY="0.56" z="0" twE="0" dr="2"/>
+          <f x="0" y="62.05" kX="0" kY="0" cX="1" cY="0.11" z="0" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="1" img="UIziyuan-guangxianddaLan" twE="0" dr="2"/>
+          <f x="-12.5" y="0" kX="0" kY="0" cX="1" cY="1.22" z="0" twE="0" dr="3"/>
+          <f x="-50" y="0" kX="0" kY="0" cX="1" cY="0.62" z="0" twE="0" dr="2"/>
+          <f x="-61.15" y="0" kX="0" kY="0" cX="1" cY="0.36" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="1" img="UIziyuan-guangxianddaLan" twE="0" dr="1"/>
+          <f x="0" y="-2.15" kX="0" kY="0" cX="1" cY="0.54" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.57" z="1" img="UIziyuan-guangxianddaLan" twE="0" dr="2"/>
+          <f x="0" y="-16.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="0" y="-44" kX="0" kY="0" cX="1" cY="0.56" z="2" twE="0" dr="2"/>
+          <f x="0" y="-62.55" kX="0" kY="0" cX="1" cY="0.11" z="2" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="3" img="UIziyuan-guangxianddaLan" twE="0" dr="2"/>
+          <f x="22.5" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="50" y="0" kX="0" kY="0" cX="1" cY="0.62" z="2" twE="0" dr="2"/>
+          <f x="61.15" y="0" kX="0" kY="0" cX="1" cY="0.36" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="3" img="UIziyuan-guangxianddaLan" twE="0" dr="1"/>
+          <f x="0" y="2.15" kX="0" kY="0" cX="1" cY="0.54" z="3" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="Col_Gold">
+      <mov name="Col_Gold" to="1" dr="12" drTW="12" lp="1">
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.65" z="0" img="UIziyuan-guangxianddaJin" twE="0" dr="2"/>
+          <f x="0" y="16" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="0" y="43.5" kX="0" kY="0" cX="1" cY="0.56" z="0" twE="0" dr="2"/>
+          <f x="0" y="62.05" kX="0" kY="0" cX="1" cY="0.11" z="0" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="1" img="UIziyuan-guangxianddaJin" twE="0" dr="2"/>
+          <f x="-12.5" y="0" kX="0" kY="0" cX="1" cY="1.22" z="0" twE="0" dr="3"/>
+          <f x="-50" y="0" kX="0" kY="0" cX="1" cY="0.62" z="0" twE="0" dr="2"/>
+          <f x="-61.15" y="0" kX="0" kY="0" cX="1" cY="0.36" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="1" img="UIziyuan-guangxianddaJin" twE="0" dr="1"/>
+          <f x="0" y="-2.15" kX="0" kY="0" cX="1" cY="0.54" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.57" z="1" img="UIziyuan-guangxianddaJin" twE="0" dr="2"/>
+          <f x="0" y="-16.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="0" y="-44" kX="0" kY="0" cX="1" cY="0.56" z="2" twE="0" dr="2"/>
+          <f x="0" y="-62.55" kX="0" kY="0" cX="1" cY="0.11" z="2" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="3" img="UIziyuan-guangxianddaJin" twE="0" dr="2"/>
+          <f x="22.5" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="50" y="0" kX="0" kY="0" cX="1" cY="0.62" z="2" twE="0" dr="2"/>
+          <f x="61.15" y="0" kX="0" kY="0" cX="1" cY="0.36" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="3" img="UIziyuan-guangxianddaJin" twE="0" dr="1"/>
+          <f x="0" y="2.15" kX="0" kY="0" cX="1" cY="0.54" z="3" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="Col_Pink">
+      <mov name="Col_Pink" to="1" dr="12" drTW="12" lp="1">
+        <b name="图层 7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.65" z="0" img="UIziyuan-guangxianddaFen" twE="0" dr="2"/>
+          <f x="0" y="16" kX="0" kY="0" cX="1" cY="1" z="0" twE="0" dr="2"/>
+          <f x="0" y="43.5" kX="0" kY="0" cX="1" cY="0.56" z="0" twE="0" dr="2"/>
+          <f x="0" y="62.05" kX="0" kY="0" cX="1" cY="0.11" z="0" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="1" img="UIziyuan-guangxianddaFen" twE="0" dr="2"/>
+          <f x="-12.5" y="0" kX="0" kY="0" cX="1" cY="1.22" z="0" twE="0" dr="3"/>
+          <f x="-50" y="0" kX="0" kY="0" cX="1" cY="0.62" z="0" twE="0" dr="2"/>
+          <f x="-61.15" y="0" kX="0" kY="0" cX="1" cY="0.36" z="0" twE="0" dr="1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="1" img="UIziyuan-guangxianddaFen" twE="0" dr="1"/>
+          <f x="0" y="-2.15" kX="0" kY="0" cX="1" cY="0.54" z="1" twE="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.57" z="1" img="UIziyuan-guangxianddaFen" twE="0" dr="2"/>
+          <f x="0" y="-16.5" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="2"/>
+          <f x="0" y="-44" kX="0" kY="0" cX="1" cY="0.56" z="2" twE="0" dr="2"/>
+          <f x="0" y="-62.55" kX="0" kY="0" cX="1" cY="0.11" z="2" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="3" img="UIziyuan-guangxianddaFen" twE="0" dr="2"/>
+          <f x="22.5" y="0" kX="0" kY="0" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="50" y="0" kX="0" kY="0" cX="1" cY="0.62" z="2" twE="0" dr="2"/>
+          <f x="61.15" y="0" kX="0" kY="0" cX="1" cY="0.36" z="2" twE="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="10" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="0.3" z="3" img="UIziyuan-guangxianddaFen" twE="0" dr="1"/>
+          <f x="0" y="2.15" kX="0" kY="0" cX="1" cY="0.54" z="3" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="装备齐鸣" width="512" height="128">
+    <SubTexture name="UIziyuan-guangxianddaZi" x="28" y="0" width="6" height="80" pX="2.25" pY="39.4"/>
+    <SubTexture name="UIziyuan-guangxiandda" x="14" y="0" width="6" height="80" pX="2.25" pY="39.4"/>
+    <SubTexture name="UIziyuan-guangxianddaLan" x="0" y="0" width="6" height="80" pX="2.25" pY="39.4"/>
+    <SubTexture name="UIziyuan-guangxianddaJin" x="7" y="0" width="6" height="80" pX="2.25" pY="39.4"/>
+    <SubTexture name="UIziyuan-guangxianddaFen" x="21" y="0" width="6" height="80" pX="2.25" pY="39.4"/>
+  </TextureAtlas>
+</skeleton>

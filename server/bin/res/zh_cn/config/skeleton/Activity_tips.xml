@@ -1,0 +1,49 @@
+<skeleton name="红点提示(1)">
+  <armatures>
+    <armature name="tips_static">
+      <b name="图层 1" bT="0" bi="Activity_tips-xiaohongdian" x="0" y="-2.05" kX="0" kY="0" z="0"/>
+    </armature>
+    <armature name="tips_dynamic">
+      <b name="图层 3" bT="0" bi="Activity_tips-xxsf" x="0.6" y="0.6" kX="0" kY="0" z="0"/>
+      <b name="图层 1" bT="0" bi="Activity_tips-xiaohongdian" x="0" y="-2.05" kX="0" kY="0" z="1"/>
+    </armature>
+    <armature name="tips_static2">
+      <b name="图层 1" bT="0" bi="Activity_tips-xiaohongdian2" x="0" y="0" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="tips_static">
+      <mov name="tips_static" to="1" dr="10" drTW="10" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Activity_tips-xiaohongdian" dr="9"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="tips_dynamic">
+      <mov name="tips_dynamic" to="1" dr="35" drTW="35" lp="1">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Activity_tips-xxsf" twE="0" dr="17"/>
+          <f x="0" y="-2.5" kX="0" kY="0" cX="1.8" cY="1.8" z="0" twE="0" dr="17"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Activity_tips-xiaohongdian" dr="34"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="tips_static2">
+      <mov name="tips_static2" to="1" dr="10" drTW="10" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Activity_tips-xiaohongdian2" dr="10"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="红点提示(1)" width="512" height="64">
+    <SubTexture name="Activity_tips-xxsf" x="71" y="0" width="25" height="26" pX="12.2" pY="13.05"/>
+    <SubTexture name="Activity_tips-xiaohongdian" x="0" y="0" width="41" height="41" pX="20" pY="20"/>
+    <SubTexture name="Activity_tips-xiaohongdian2" x="42" y="0" width="28" height="29" pX="12.5" pY="10.65"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,82 @@
+<skeleton name="结算星星">
+  <armatures>
+    <armature name="star">
+      <b name="Layer4" bT="0" bi="EndStarAnimatiom-i9ft67i961" x="-8.7" y="7.55" kX="-90" kY="-90" z="0"/>
+      <b name="Layer5" bT="0" bi="EndStarAnimatiom-i9ft67i961" x="2.9" y="12.75" kX="90" kY="90" z="0"/>
+      <b name="Layer3" bT="0" bi="EndStarAnimatiom-i9ft67i961" x="9.45" y="4.35" kX="0" kY="0" z="0"/>
+      <b name="Layer1" bT="0" bi="EndStarAnimatiom-jiesuanxingxing" x="0" y="0" kX="0" kY="0" z="0"/>
+      <b name="Layer6" bT="0" bi="EndStarAnimatiom-guanggaaa1" x="0.85" y="0.35" kX="0" kY="0" z="2"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="star">
+      <mov name="star" to="1" dr="20" drTW="20" lp="0">
+        <b name="图层 4" sc="1" dl="0"/>
+        <b name="图层 5" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0"/>
+        <b name="图层 1" sc="1" dl="0"/>
+        <b name="Layer4" sc="1" dl="0">
+          <f dr="4" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="EndStarAnimatiom-i9ft67i961" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="EndStarAnimatiom-i9ft67i962" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="EndStarAnimatiom-i9ft67i963" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="EndStarAnimatiom-i9ft67i964" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" z="0" img="EndStarAnimatiom-i9ft67i965" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="Layer5" sc="1" dl="0">
+          <f dr="2" hide="1"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="EndStarAnimatiom-i9ft67i961" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="EndStarAnimatiom-i9ft67i962" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="EndStarAnimatiom-i9ft67i963" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="EndStarAnimatiom-i9ft67i964" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="EndStarAnimatiom-i9ft67i965" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="Layer3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="EndStarAnimatiom-i9ft67i961" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="EndStarAnimatiom-i9ft67i962" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="EndStarAnimatiom-i9ft67i963" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="EndStarAnimatiom-i9ft67i964" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="EndStarAnimatiom-i9ft67i965" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="Layer1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="EndStarAnimatiom-jiesuanxingxing" dr="19"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="1"/>
+        </b>
+        <b name="Layer6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="EndStarAnimatiom-guanggaaa1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="EndStarAnimatiom-guanggaaa3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="EndStarAnimatiom-guanggaaa5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="EndStarAnimatiom-guanggaaa7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="EndStarAnimatiom-guanggaaa9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="EndStarAnimatiom-guanggaaa11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="EndStarAnimatiom-guanggaaa13" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="EndStarAnimatiom-guanggaaa15" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="EndStarAnimatiom-guanggaaa17" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="EndStarAnimatiom-guanggaaa19" dr="1"/>
+          <f dr="1" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="结算星星" width="512" height="1024">
+    <SubTexture name="EndStarAnimatiom-i9ft67i961" x="479" y="146" width="18" height="23" pX="1.05" pY="19.5"/>
+    <SubTexture name="EndStarAnimatiom-i9ft67i962" x="479" y="122" width="24" height="23" pX="0.65" pY="26.9"/>
+    <SubTexture name="EndStarAnimatiom-i9ft67i963" x="479" y="170" width="23" height="18" pX="-1.95" pY="28.25"/>
+    <SubTexture name="EndStarAnimatiom-i9ft67i964" x="461" y="168" width="17" height="16" pX="-5.65" pY="28.05"/>
+    <SubTexture name="EndStarAnimatiom-i9ft67i965" x="461" y="185" width="16" height="12" pX="-6.3" pY="27.55"/>
+    <SubTexture name="EndStarAnimatiom-jiesuanxingxing" x="405" y="168" width="55" height="56" pX="27" pY="27.5"/>
+    <SubTexture name="EndStarAnimatiom-guanggaaa1" x="479" y="94" width="27" height="27" pX="13.85" pY="11.35"/>
+    <SubTexture name="EndStarAnimatiom-guanggaaa3" x="405" y="0" width="93" height="93" pX="46.9" pY="44.4"/>
+    <SubTexture name="EndStarAnimatiom-guanggaaa5" x="0" y="207" width="160" height="160" pX="79.05" pY="81"/>
+    <SubTexture name="EndStarAnimatiom-guanggaaa7" x="0" y="0" width="206" height="206" pX="102.3" pY="99.65"/>
+    <SubTexture name="EndStarAnimatiom-guanggaaa9" x="207" y="0" width="197" height="196" pX="98.7" pY="96.25"/>
+    <SubTexture name="EndStarAnimatiom-guanggaaa11" x="207" y="197" width="178" height="178" pX="89.8" pY="87.55"/>
+    <SubTexture name="EndStarAnimatiom-guanggaaa13" x="0" y="368" width="160" height="159" pX="79.6" pY="77.75"/>
+    <SubTexture name="EndStarAnimatiom-guanggaaa15" x="161" y="376" width="139" height="138" pX="69.4" pY="68.3"/>
+    <SubTexture name="EndStarAnimatiom-guanggaaa17" x="386" y="225" width="110" height="109" pX="54.55" pY="53.9"/>
+    <SubTexture name="EndStarAnimatiom-guanggaaa19" x="405" y="94" width="73" height="73" pX="35.8" pY="35.55"/>
+  </TextureAtlas>
+</skeleton>

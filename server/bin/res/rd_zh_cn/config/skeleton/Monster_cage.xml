@@ -1,0 +1,862 @@
+<skeleton name="龟笼子(1)">
+  <armatures>
+    <armature name="stand">
+      <b name="yingzi" bT="0" bi="Monster_cage-yingzi" x="174.25" y="228.05" kX="0" kY="0" z="0"/>
+      <b name="muban4" bT="0" bi="Monster_cage-muban4" x="238.75" y="235.55" kX="0" kY="0" z="1"/>
+      <b name="muban3" bT="0" bi="Monster_cage-muban3" x="122.25" y="237.05" kX="0" kY="0" z="2"/>
+      <b name="fanpen" bT="0" bi="Monster_cage-fanpen" x="132.75" y="245.05" kX="0" kY="0" z="3"/>
+      <b name="zhu10" bT="0" bi="Monster_cage-zhu10" x="141.75" y="138.55" kX="0" kY="0" z="4"/>
+      <b name="muban2" bT="0" bi="Monster_cage-muban2" x="223.75" y="208.05" kX="0" kY="0" z="5"/>
+      <b name="muban1" bT="0" bi="Monster_cage-muban1" x="140.75" y="266.05" kX="0" kY="0" z="6"/>
+      <b name="zhu9" bT="0" bi="Monster_cage-zhu9" x="161.25" y="215.55" kX="0" kY="0" z="7"/>
+      <b name="zhu8" bT="0" bi="Monster_cage-zhu8" x="208.25" y="217.55" kX="0" kY="0" z="8"/>
+      <b name="zhu7" bT="0" bi="Monster_cage-zhu7" x="121.25" y="206.05" kX="0" kY="0" z="9"/>
+      <b name="zhu6" bT="0" bi="Monster_cage-zhu6" x="145.25" y="165.55" kX="0" kY="0" z="10"/>
+      <b name="zhu5" bT="0" bi="Monster_cage-zhu5" x="229.25" y="202.05" kX="0" kY="0" z="11"/>
+      <b name="zhu4" bT="0" bi="Monster_cage-zhu4" x="145.25" y="232.05" kX="0" kY="0" z="12"/>
+      <b name="zhu3" bT="0" bi="Monster_cage-zhu3" x="221.25" y="157.55" kX="0" kY="0" z="13"/>
+      <b name="zhu2" bT="0" bi="Monster_cage-zhu2" x="215.25" y="134.55" kX="0" kY="0" z="14"/>
+      <b name="dazhu_d" bT="0" bi="Monster_cage-dazhu_d" x="249.25" y="181.05" kX="0" kY="0" z="15"/>
+      <b name="dazhu_c" bT="0" bi="Monster_cage-dazhu_c" x="187.25" y="117.05" kX="0" kY="0" z="16"/>
+      <b name="dazhu_b" bT="0" bi="Monster_cage-dazhu_b" x="95.25" y="184.05" kX="0" kY="0" z="17"/>
+      <b name="bu" bT="0" bi="Monster_cage-bu" x="176.25" y="141.55" kX="0" kY="0" z="18"/>
+      <b name="dazhu_a" bT="0" bi="Monster_cage-dazhu_a" x="191.75" y="209.05" kX="0" kY="0" z="19"/>
+      <b name="zhu1" bT="0" bi="Monster_cage-zhu1" x="175.75" y="229.55" kX="0" kY="0" z="20"/>
+      <b name="cao5" bT="0" bi="Monster_cage-cao5" x="263.75" y="252.55" kX="0" kY="0" z="21"/>
+      <b name="cao4" bT="0" bi="Monster_cage-cao4" x="228.25" y="270.05" kX="0" kY="0" z="22"/>
+      <b name="cao2" bT="0" bi="Monster_cage-cao2" x="164.75" y="284.05" kX="0" kY="0" z="23"/>
+      <b name="cao1" bT="0" bi="Monster_cage-cao1" x="104.25" y="265.55" kX="0" kY="0" z="24"/>
+    </armature>
+    <armature name="dead">
+      <b name="yingzi" bT="0" bi="Monster_cage-yingzi" x="174.25" y="228.05" kX="0" kY="0" z="0"/>
+      <b name="muban4" bT="0" bi="Monster_cage-muban4" x="238.75" y="235.55" kX="0" kY="0" z="1"/>
+      <b name="muban3" bT="0" bi="Monster_cage-muban3" x="122.25" y="237.05" kX="0" kY="0" z="2"/>
+      <b name="fanpen" bT="0" bi="Monster_cage-fanpen" x="132.75" y="245.05" kX="0" kY="0" z="3"/>
+      <b name="zhu10" bT="0" bi="Monster_cage-zhu10" x="141.75" y="138.55" kX="0" kY="0" z="4"/>
+      <b name="muban2" bT="0" bi="Monster_cage-muban2" x="223.75" y="208.05" kX="0" kY="0" z="5"/>
+      <b name="muban1" bT="0" bi="Monster_cage-muban1" x="140.75" y="266.05" kX="0" kY="0" z="6"/>
+      <b name="zhu9" bT="0" bi="Monster_cage-zhu9" x="161.25" y="215.55" kX="0" kY="0" z="7"/>
+      <b name="zhu8" bT="0" bi="Monster_cage-zhu8" x="208.25" y="217.55" kX="0" kY="0" z="8"/>
+      <b name="zhu7" bT="0" bi="Monster_cage-zhu7" x="121.25" y="206.05" kX="0" kY="0" z="9"/>
+      <b name="zhu6" bT="0" bi="Monster_cage-zhu6" x="145.25" y="165.55" kX="0" kY="0" z="10"/>
+      <b name="zhu5" bT="0" bi="Monster_cage-zhu5" x="229.25" y="202.05" kX="0" kY="0" z="11"/>
+      <b name="zhu4" bT="0" bi="Monster_cage-zhu4" x="145.25" y="232.05" kX="0" kY="0" z="12"/>
+      <b name="zhu3" bT="0" bi="Monster_cage-zhu3" x="221.25" y="157.55" kX="0" kY="0" z="13"/>
+      <b name="zhu2" bT="0" bi="Monster_cage-zhu2" x="215.25" y="134.55" kX="0" kY="0" z="14"/>
+      <b name="dazhu_d" bT="0" bi="Monster_cage-dazhu_d" x="249.25" y="181.05" kX="0" kY="0" z="15"/>
+      <b name="dazhu_c" bT="0" bi="Monster_cage-dazhu_c" x="187.25" y="117.05" kX="0" kY="0" z="16"/>
+      <b name="dazhu_b" bT="0" bi="Monster_cage-dazhu_b" x="95.25" y="184.05" kX="0" kY="0" z="17"/>
+      <b name="bu" bT="0" bi="Monster_cage-bu" x="176.25" y="141.55" kX="0" kY="0" z="18"/>
+      <b name="dazhu_a" bT="0" bi="Monster_cage-dazhu_a" x="191.75" y="209.05" kX="0" kY="0" z="19"/>
+      <b name="zhu1" bT="0" bi="Monster_cage-zhu1" x="175.75" y="229.55" kX="0" kY="0" z="20"/>
+      <b name="cao5" bT="0" bi="Monster_cage-cao5" x="263.75" y="252.55" kX="0" kY="0" z="21"/>
+      <b name="cao4" bT="0" bi="Monster_cage-cao4" x="228.25" y="270.05" kX="0" kY="0" z="22"/>
+      <b name="cao2" bT="0" bi="Monster_cage-cao2" x="164.75" y="284.05" kX="0" kY="0" z="23"/>
+      <b name="cao1" bT="0" bi="Monster_cage-cao1" x="104.25" y="265.55" kX="0" kY="0" z="24"/>
+    </armature>
+    <armature name="bruise">
+      <b name="yingzi" bT="0" bi="Monster_cage-yingzi" x="174.25" y="228.05" kX="0" kY="0" z="0"/>
+      <b name="muban4" bT="0" bi="Monster_cage-muban4" x="238.75" y="235.55" kX="0" kY="0" z="1"/>
+      <b name="muban3" bT="0" bi="Monster_cage-muban3" x="122.25" y="237.05" kX="0" kY="0" z="2"/>
+      <b name="fanpen" bT="0" bi="Monster_cage-fanpen" x="132.75" y="245.05" kX="0" kY="0" z="3"/>
+      <b name="zhu10" bT="0" bi="Monster_cage-zhu10" x="141.75" y="138.55" kX="0" kY="0" z="4"/>
+      <b name="muban2" bT="0" bi="Monster_cage-muban2" x="223.75" y="208.05" kX="0" kY="0" z="5"/>
+      <b name="muban1" bT="0" bi="Monster_cage-muban1" x="140.75" y="266.05" kX="0" kY="0" z="6"/>
+      <b name="zhu9" bT="0" bi="Monster_cage-zhu9" x="161.25" y="215.55" kX="0" kY="0" z="7"/>
+      <b name="zhu8" bT="0" bi="Monster_cage-zhu8" x="208.25" y="217.55" kX="0" kY="0" z="8"/>
+      <b name="zhu7" bT="0" bi="Monster_cage-zhu7" x="121.25" y="206.05" kX="0" kY="0" z="9"/>
+      <b name="zhu6" bT="0" bi="Monster_cage-zhu6" x="145.25" y="165.55" kX="0" kY="0" z="10"/>
+      <b name="zhu5" bT="0" bi="Monster_cage-zhu5" x="229.25" y="202.05" kX="0" kY="0" z="11"/>
+      <b name="zhu4" bT="0" bi="Monster_cage-zhu4" x="145.25" y="232.05" kX="0" kY="0" z="12"/>
+      <b name="zhu3" bT="0" bi="Monster_cage-zhu3" x="221.25" y="157.55" kX="0" kY="0" z="13"/>
+      <b name="zhu2" bT="0" bi="Monster_cage-zhu2" x="215.25" y="134.55" kX="0" kY="0" z="14"/>
+      <b name="dazhu_d" bT="0" bi="Monster_cage-dazhu_d" x="249.25" y="181.05" kX="0" kY="0" z="15"/>
+      <b name="dazhu_c" bT="0" bi="Monster_cage-dazhu_c" x="187.25" y="117.05" kX="0" kY="0" z="16"/>
+      <b name="dazhu_b" bT="0" bi="Monster_cage-dazhu_b" x="95.25" y="184.05" kX="0" kY="0" z="17"/>
+      <b name="bu" bT="0" bi="Monster_cage-bu" x="176.25" y="141.55" kX="0" kY="0" z="18"/>
+      <b name="dazhu_a" bT="0" bi="Monster_cage-dazhu_a" x="191.75" y="209.05" kX="0" kY="0" z="19"/>
+      <b name="zhu1" bT="0" bi="Monster_cage-zhu1" x="175.75" y="229.55" kX="0" kY="0" z="20"/>
+      <b name="cao5" bT="0" bi="Monster_cage-cao5" x="263.75" y="252.55" kX="0" kY="0" z="21"/>
+      <b name="cao4" bT="0" bi="Monster_cage-cao4" x="228.25" y="270.05" kX="0" kY="0" z="22"/>
+      <b name="cao2" bT="0" bi="Monster_cage-cao2" x="164.75" y="284.05" kX="0" kY="0" z="23"/>
+      <b name="cao1" bT="0" bi="Monster_cage-cao1" x="104.25" y="265.55" kX="0" kY="0" z="24"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stand">
+      <mov name="stand" to="1" dr="20" drTW="20" lp="1">
+        <b name="图层 42" sc="1" dl="0"/>
+        <b name="jiao3" sc="1" dl="0"/>
+        <b name="jiao1" sc="1" dl="0"/>
+        <b name="jiao2" sc="1" dl="0"/>
+        <b name="h_n-jiao" sc="1" dl="0"/>
+        <b name="h_n-xiaotui" sc="1" dl="0"/>
+        <b name="h_n-datui" sc="1" dl="0"/>
+        <b name="h_n-zhongtui" sc="1" dl="0"/>
+        <b name="q_n-xiaotui" sc="1" dl="0"/>
+        <b name="q_n-datui" sc="1" dl="0"/>
+        <b name="q_n-zhi3" sc="1" dl="0"/>
+        <b name="q_n-zhi2" sc="1" dl="0"/>
+        <b name="q_n-zhi1" sc="1" dl="0"/>
+        <b name="wei" sc="1" dl="0"/>
+        <b name="du" sc="1" dl="0"/>
+        <b name="h_w-jiao" sc="1" dl="0"/>
+        <b name="h_w-xiaotui" sc="1" dl="0"/>
+        <b name="h_w-zhongtui" sc="1" dl="0"/>
+        <b name="h_w-datui" sc="1" dl="0"/>
+        <b name="bozi" sc="1" dl="0"/>
+        <b name="shetou" sc="1" dl="0"/>
+        <b name="kouqiang" sc="1" dl="0"/>
+        <b name="xiae" sc="1" dl="0"/>
+        <b name="shange" sc="1" dl="0"/>
+        <b name="jiao4" sc="1" dl="0"/>
+        <b name="xiong" sc="1" dl="0"/>
+        <b name="jiao6" sc="1" dl="0"/>
+        <b name="jiao5" sc="1" dl="0"/>
+        <b name="q_w-dabi" sc="1" dl="0"/>
+        <b name="q_w-zhi1" sc="1" dl="0"/>
+        <b name="q_w-zhi2" sc="1" dl="0"/>
+        <b name="q_w-zhi3" sc="1" dl="0"/>
+        <b name="q_w-xiaobi" sc="1" dl="0"/>
+        <b name="molang-hxt-1" sc="1" dl="0"/>
+        <b name="molang-hj-1" sc="1" dl="0"/>
+        <b name="molang-ht-1" sc="1" dl="0"/>
+        <b name="molang-qxt-1" sc="1" dl="0"/>
+        <b name="molang-qt-1" sc="1" dl="0"/>
+        <b name="molang-pg-1" sc="1" dl="0"/>
+        <b name="molangst" sc="1" dl="0"/>
+        <b name="fa3" sc="1" dl="0"/>
+        <b name="molang-hxt-10" sc="1" dl="0"/>
+        <b name="molang-hj-10" sc="1" dl="0"/>
+        <b name="molang-ht-10" sc="1" dl="0"/>
+        <b name="molang-qxt-10" sc="1" dl="0"/>
+        <b name="molang-qt-10" sc="1" dl="0"/>
+        <b name="molang-hj-1-01" sc="1" dl="0"/>
+        <b name="molang-hj-1-010" sc="1" dl="0"/>
+        <b name="molang-m-1" sc="1" dl="0"/>
+        <b name="bz2" sc="1" dl="0"/>
+        <b name="bo" sc="1" dl="0"/>
+        <b name="r_er" sc="1" dl="0"/>
+        <b name="r_ya" sc="1" dl="0"/>
+        <b name="tou" sc="1" dl="0"/>
+        <b name="l_er" sc="1" dl="0"/>
+        <b name="yj-1" sc="1" dl="0"/>
+        <b name="fa4" sc="1" dl="0"/>
+        <b name="fa2" sc="1" dl="0"/>
+        <b name="fa1" sc="1" dl="0"/>
+        <b name="yinying" sc="1" dl="0"/>
+        <b name="toufa" sc="1" dl="0"/>
+        <b name="r_dabi" sc="1" dl="0"/>
+        <b name="r_xiaobi" sc="1" dl="0"/>
+        <b name="r_quantou" sc="1" dl="0"/>
+        <b name="l_jiao" sc="1" dl="0"/>
+        <b name="l_xiaotui" sc="1" dl="0"/>
+        <b name="l_datui" sc="1" dl="0"/>
+        <b name="l_ku" sc="1" dl="0"/>
+        <b name="r_xiaotui" sc="1" dl="0"/>
+        <b name="r_datui" sc="1" dl="0"/>
+        <b name="r_jiao" sc="1" dl="0"/>
+        <b name="r_ku" sc="1" dl="0"/>
+        <b name="pigu" sc="1" dl="0"/>
+        <b name="x" sc="1" dl="0"/>
+        <b name="yao" sc="1" dl="0"/>
+        <b name="yaodai" sc="1" dl="0"/>
+        <b name="shangshen" sc="1" dl="0"/>
+        <b name="r_xiong" sc="1" dl="0"/>
+        <b name="l_xiong" sc="1" dl="0"/>
+        <b name="l_mei" sc="1" dl="0"/>
+        <b name="r_mei" sc="1" dl="0"/>
+        <b name="l_yan" sc="1" dl="0"/>
+        <b name="r_yan" sc="1" dl="0"/>
+        <b name="bizi" sc="1" dl="0"/>
+        <b name="zui" sc="1" dl="0"/>
+        <b name="l_dabi" sc="1" dl="0"/>
+        <b name="l_xiaobi" sc="1" dl="0"/>
+        <b name="l_quantou" sc="1" dl="0"/>
+        <b name="yingzi" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_cage-yingzi" dr="20"/>
+        </b>
+        <b name="muban4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_cage-muban4" dr="20"/>
+        </b>
+        <b name="muban3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_cage-muban3" dr="20"/>
+        </b>
+        <b name="fanpen" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_cage-fanpen" dr="20"/>
+        </b>
+        <b name="zhu10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Monster_cage-zhu10" dr="20"/>
+        </b>
+        <b name="muban2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="Monster_cage-muban2" dr="20"/>
+        </b>
+        <b name="muban1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Monster_cage-muban1" dr="20"/>
+        </b>
+        <b name="zhu9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Monster_cage-zhu9" dr="20"/>
+        </b>
+        <b name="zhu8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Monster_cage-zhu8" dr="20"/>
+        </b>
+        <b name="zhu7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Monster_cage-zhu7" dr="20"/>
+        </b>
+        <b name="zhu6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Monster_cage-zhu6" dr="20"/>
+        </b>
+        <b name="zhu5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="Monster_cage-zhu5" dr="20"/>
+        </b>
+        <b name="zhu4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Monster_cage-zhu4" dr="20"/>
+        </b>
+        <b name="zhu3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="Monster_cage-zhu3" dr="20"/>
+        </b>
+        <b name="zhu2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="Monster_cage-zhu2" dr="20"/>
+        </b>
+        <b name="dazhu_d" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="Monster_cage-dazhu_d" dr="20"/>
+        </b>
+        <b name="dazhu_c" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="Monster_cage-dazhu_c" dr="20"/>
+        </b>
+        <b name="dazhu_b" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="Monster_cage-dazhu_b" dr="20"/>
+        </b>
+        <b name="bu" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="Monster_cage-bu" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="Monster_cage-bu1" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="Monster_cage-bu2" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="Monster_cage-bu3" dr="5"/>
+        </b>
+        <b name="dazhu_a" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="Monster_cage-dazhu_a" dr="20"/>
+        </b>
+        <b name="zhu1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="Monster_cage-zhu1" dr="20"/>
+        </b>
+        <b name="cao5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="Monster_cage-cao5" dr="20"/>
+        </b>
+        <b name="cao4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="Monster_cage-cao4" dr="20"/>
+        </b>
+        <b name="cao2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="Monster_cage-cao2" dr="20"/>
+        </b>
+        <b name="cao1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="Monster_cage-cao1" dr="20"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dead">
+      <mov name="dead" to="1" dr="34" drTW="34" lp="0">
+        <b name="图层 40" sc="1" dl="0"/>
+        <b name="jiao3" sc="1" dl="0"/>
+        <b name="jiao1" sc="1" dl="0"/>
+        <b name="jiao2" sc="1" dl="0"/>
+        <b name="h-n-jiao" sc="1" dl="0"/>
+        <b name="h-n-xiaotui" sc="1" dl="0"/>
+        <b name="h-n-datui" sc="1" dl="0"/>
+        <b name="h-n-zhongtui" sc="1" dl="0"/>
+        <b name="q-n-xiaotui" sc="1" dl="0"/>
+        <b name="q-n-datui" sc="1" dl="0"/>
+        <b name="q-n-zhi3" sc="1" dl="0"/>
+        <b name="q-n-zhi2" sc="1" dl="0"/>
+        <b name="q-n-zhi1" sc="1" dl="0"/>
+        <b name="wei" sc="1" dl="0"/>
+        <b name="du" sc="1" dl="0"/>
+        <b name="h-w-jiao" sc="1" dl="0"/>
+        <b name="h-w-xiaotui" sc="1" dl="0"/>
+        <b name="h-w-zhongtui" sc="1" dl="0"/>
+        <b name="h-w-datui" sc="1" dl="0"/>
+        <b name="bozi" sc="1" dl="0"/>
+        <b name="shetou" sc="1" dl="0"/>
+        <b name="kouqiang" sc="1" dl="0"/>
+        <b name="xiae" sc="1" dl="0"/>
+        <b name="shange" sc="1" dl="0"/>
+        <b name="jiao4" sc="1" dl="0"/>
+        <b name="xiong" sc="1" dl="0"/>
+        <b name="jiao6" sc="1" dl="0"/>
+        <b name="jiao5" sc="1" dl="0"/>
+        <b name="q-w-dabi" sc="1" dl="0"/>
+        <b name="q-w-zhi1" sc="1" dl="0"/>
+        <b name="q-w-zhi3" sc="1" dl="0"/>
+        <b name="q-w-zhi2" sc="1" dl="0"/>
+        <b name="q-w-xiaobi" sc="1" dl="0"/>
+        <b name="yinying" sc="1" dl="0"/>
+        <b name="r_dabi" sc="1" dl="0"/>
+        <b name="r_xiaobi" sc="1" dl="0"/>
+        <b name="r_quantou" sc="1" dl="0"/>
+        <b name="toufa" sc="1" dl="0"/>
+        <b name="r_jiao1" sc="1" dl="0"/>
+        <b name="r_xiaotui1" sc="1" dl="0"/>
+        <b name="r_datui1" sc="1" dl="0"/>
+        <b name="r_xiaotui" sc="1" dl="0"/>
+        <b name="r_datui" sc="1" dl="0"/>
+        <b name="r_jiao" sc="1" dl="0"/>
+        <b name="r_ku" sc="1" dl="0"/>
+        <b name="r_jiao10" sc="1" dl="0"/>
+        <b name="r_xiaotui10" sc="1" dl="0"/>
+        <b name="r_datui10" sc="1" dl="0"/>
+        <b name="l_jiao" sc="1" dl="0"/>
+        <b name="l_xiaotui" sc="1" dl="0"/>
+        <b name="l_datui" sc="1" dl="0"/>
+        <b name="l_ku" sc="1" dl="0"/>
+        <b name="pigu" sc="1" dl="0"/>
+        <b name="x" sc="1" dl="0"/>
+        <b name="yao" sc="1" dl="0"/>
+        <b name="yaodai" sc="1" dl="0"/>
+        <b name="shangshen" sc="1" dl="0"/>
+        <b name="r_xiong" sc="1" dl="0"/>
+        <b name="l_xiong" sc="1" dl="0"/>
+        <b name="tou" sc="1" dl="0"/>
+        <b name="l_mei" sc="1" dl="0"/>
+        <b name="r_mei" sc="1" dl="0"/>
+        <b name="l_yan" sc="1" dl="0"/>
+        <b name="r_yan" sc="1" dl="0"/>
+        <b name="bizi" sc="1" dl="0"/>
+        <b name="zui" sc="1" dl="0"/>
+        <b name="l_er" sc="1" dl="0"/>
+        <b name="l_dabi" sc="1" dl="0"/>
+        <b name="l_xiaobi" sc="1" dl="0"/>
+        <b name="l_quantou" sc="1" dl="0"/>
+        <b name="yingzi" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_cage-yingzi" dr="14"/>
+          <f dr="20" hide="1"/>
+        </b>
+        <b name="muban4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_cage-muban4" twE="0" dr="5"/>
+          <f x="-2.8" y="-10.3" kX="24.94" kY="24.94" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="7.6" y="-31.65" kX="-1.76" kY="-1.76" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="21.4" y="0" kX="-2.71" kY="-2.71" cX="1" cY="1" z="0" twE="0" dr="4"/>
+          <f x="27.9" y="-4.9" kX="-2.71" kY="-2.71" cX="1" cY="1" z="0" twE="0" dr="3"/>
+          <f x="31.95" y="5.6" kX="-2.71" kY="-2.71" cX="1" cY="1" z="0" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="muban3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_cage-muban3" twE="0" dr="3"/>
+          <f x="-5.2" y="-7.85" kX="-14.98" kY="-14.98" cX="1" cY="1" z="2" twE="0" dr="5"/>
+          <f x="-24.35" y="-27.55" kX="-8.74" kY="-8.74" cX="1" cY="1" z="2" twE="0" dr="4"/>
+          <f x="-44.55" y="1.5" kX="5.46" kY="5.46" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="-46.6" y="-2.65" kX="2.24" kY="2.24" cX="1" cY="1" z="1" twE="0" dr="4"/>
+          <f x="-46.6" y="6.85" kX="2.24" kY="2.24" cX="1" cY="1" z="1" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="fanpen" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_cage-fanpen" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" dr="21"/>
+          <f dr="1" hide="1"/>
+        </b>
+        <b name="zhu10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Monster_cage-zhu10" twE="0" dr="2"/>
+          <f x="-34.5" y="-37.5" kX="10.98" kY="10.98" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="-65.4" y="-59.1" kX="-15.72" kY="-15.72" cX="1" cY="1" z="4" twE="0" dr="5"/>
+          <f x="-81.55" y="15.55" kX="8.7" kY="8.7" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="-96.55" y="111.6" kX="19.93" kY="19.93" cX="1" cY="1" z="3" twE="0" dr="4"/>
+          <f x="-105.55" y="110.6" kX="-12.02" kY="-12.02" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="-114.95" y="135.2" kX="14.02" kY="14.02" cX="1" cY="1" z="1" dr="1"/>
+          <f dr="10" hide="1"/>
+        </b>
+        <b name="muban2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="Monster_cage-muban2" twE="0" dr="3"/>
+          <f x="18.55" y="-12.05" kX="18.39" kY="18.39" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="35.35" y="-39.75" kX="8.67" kY="8.67" cX="1" cY="1" z="5" twE="0" dr="5"/>
+          <f x="86.95" y="0.25" kX="-0.83" kY="-0.83" cX="1" cY="1" z="4" twE="0" dr="4"/>
+          <f x="97.3" y="-8.8" kX="-0.83" kY="-0.83" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="99.9" y="4.1" kX="3.39" kY="3.39" cX="1" cY="1" z="1" dr="9"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="muban1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Monster_cage-muban1" twE="0" dr="2"/>
+          <f x="-6.15" y="-11.3" kX="-9.94" kY="-9.94" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="-36" y="-27.75" kX="-8.72" kY="-8.72" cX="1" cY="1" z="6" twE="0" dr="6"/>
+          <f x="-48.1" y="20.8" kX="-14.39" kY="-11.28" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="-53.75" y="15.15" kX="-9.67" kY="-6.57" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="-61.8" y="24.8" kX="-9.67" kY="-6.57" cX="1" cY="1" z="1" dr="12"/>
+          <f dr="4" hide="1"/>
+        </b>
+        <b name="zhu9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Monster_cage-zhu9" twE="0" dr="3"/>
+          <f x="-8.65" y="-19.95" kX="-6.94" kY="-6.94" cX="1" cY="1" z="7" twE="0" dr="2"/>
+          <f x="-39.5" y="-41.15" kX="-35.88" kY="-35.88" cX="1" cY="1" z="7" twE="0" dr="7"/>
+          <f x="-53.5" y="-57.15" kX="-84.09" kY="-84.09" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="-65.5" y="-29.15" kX="-125.56" kY="-125.56" cX="1" cY="1" z="6" twE="0" dr="4"/>
+          <f x="-88.55" y="32.9" kX="-142.55" kY="-142.55" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="-99.05" y="40.1" kX="-107.32" kY="-107.32" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="-110.05" y="48.1" kX="-107.32" kY="-107.32" cX="1" cY="1" z="3" dr="1"/>
+          <f dr="7" hide="1"/>
+        </b>
+        <b name="zhu8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Monster_cage-zhu8" twE="0" dr="2"/>
+          <f x="-2.7" y="-11.6" kX="-3.05" kY="-3.05" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-12.7" y="-39.6" kX="17.66" kY="17.66" cX="1" cY="1" z="8" twE="0" dr="7"/>
+          <f x="-6.7" y="-57.6" kX="51.39" kY="51.39" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="0.3" y="-47.6" kX="95.89" kY="95.89" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="9.3" y="-32.6" kX="119.86" kY="119.86" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="24.3" y="41.45" kX="119.86" kY="119.86" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="29.55" y="28.9" kX="110.39" kY="110.39" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="34.55" y="35.9" kX="110.39" kY="110.39" cX="1" cY="1" z="2" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="zhu7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Monster_cage-zhu7" twE="0" dr="3"/>
+          <f x="-19.1" y="-14.85" kX="-14.69" kY="-14.69" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="-52" y="-28.8" kX="-61.39" kY="-61.39" cX="1" cY="1" z="9" twE="0" dr="5"/>
+          <f x="-61" y="-31.8" kX="-107.34" kY="-107.34" cX="1" cY="1" z="8" twE="0" dr="4"/>
+          <f x="-99" y="-0.75" kX="-145.51" kY="-145.51" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-115.05" y="33.25" kX="170.31" kY="170.31" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-130.1" y="9.2" kX="145.35" kY="145.35" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-151.15" y="59.2" kX="78.1" kY="78.1" cX="1" cY="1" z="5" twE="0" dr="2"/>
+          <f x="-158.15" y="56.15" kX="82.84" kY="82.84" cX="1" cY="1" z="3" twE="0" dr="2"/>
+          <f x="-168.15" y="67.2" kX="85.31" kY="85.31" cX="1" cY="1" z="2" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="zhu6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Monster_cage-zhu6" twE="0" dr="2"/>
+          <f x="-45.5" y="-24" kX="-37.46" kY="-37.46" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="-68.5" y="-39" kX="-82.71" kY="-82.71" cX="1" cY="1" z="10" twE="0" dr="5"/>
+          <f x="-127.55" y="-47" kX="-108.2" kY="-108.2" cX="1" cY="1" z="9" twE="0" dr="5"/>
+          <f x="-155.55" y="-34" kX="-151.65" kY="-151.65" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="-166.55" y="80.05" kX="-178.13" kY="-178.13" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="-169.55" y="49.05" kX="171.42" kY="171.42" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="-176.55" y="88.05" kX="171.42" kY="171.42" cX="1" cY="1" z="6" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="zhu5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="Monster_cage-zhu5" twE="0" dr="3"/>
+          <f x="24.8" y="-17.3" kX="12.7" kY="12.7" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="72.3" y="-38.3" kX="101.91" kY="101.91" cX="1" cY="1" z="11" twE="0" dr="6"/>
+          <f x="72.3" y="-38.3" kX="101.91" kY="101.91" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="83.3" y="51.7" kX="125.64" kY="125.64" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="86.3" y="14.7" kX="86.2" kY="86.2" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="82.3" y="69.2" kX="82.5" kY="82.5" cX="1" cY="1" z="8" dr="1"/>
+          <f dr="12" hide="1"/>
+        </b>
+        <b name="zhu4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Monster_cage-zhu4" twE="0" dr="2"/>
+          <f x="-6.35" y="-13.5" kX="-8.72" kY="-8.72" cX="1" cY="1" z="12" twE="0" dr="4"/>
+          <f x="-12.7" y="-26.3" kX="11.26" kY="11.26" cX="1" cY="1" z="12" twE="0" dr="6"/>
+          <f x="-8.15" y="-1.3" kX="-16.18" kY="-16.18" cX="1" cY="1" z="11" twE="0" dr="5"/>
+          <f x="-33.75" y="13.1" kX="-76.41" kY="-76.41" cX="1" cY="1" z="9" twE="0" dr="5"/>
+          <f x="-37" y="34.85" kX="-120.63" kY="-120.63" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="-39" y="31.25" kX="-112.16" kY="-112.16" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="-39" y="42.25" kX="-93.5" kY="-93.5" cX="1" cY="1" z="3" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="zhu3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="Monster_cage-zhu3" twE="0" dr="2"/>
+          <f x="-5.25" y="-22.8" kX="4.93" kY="4.93" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="12.25" y="-58.8" kX="-31.5" kY="-31.5" cX="1" cY="1" z="13" twE="0" dr="5"/>
+          <f x="1.3" y="-66.8" kX="-60.75" kY="-60.75" cX="1" cY="1" z="12" twE="0" dr="5"/>
+          <f x="-24.15" y="64.45" kX="-83.73" kY="-83.73" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-57.95" y="124.8" kX="-155.46" kY="-155.46" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-66.95" y="118.8" kX="-155.46" kY="-155.46" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="-66.95" y="126.8" kX="-144.5" kY="-144.5" cX="1" cY="1" z="8" dr="1"/>
+          <f dr="9" hide="1"/>
+        </b>
+        <b name="zhu2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="Monster_cage-zhu2" twE="0" dr="2"/>
+          <f x="-5" y="-20" kX="-26.48" kY="-26.48" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="-13" y="-39" kX="-53.45" kY="-53.45" cX="1" cY="1" z="14" twE="0" dr="5"/>
+          <f x="-51.05" y="-40" kX="-77.4" kY="-77.4" cX="1" cY="1" z="13" twE="0" dr="6"/>
+          <f x="-83.05" y="21" kX="-135.15" kY="-135.15" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-110.05" y="87" kX="175.9" kY="175.9" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="-119.35" y="73.2" kX="151.22" kY="151.22" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="-138.2" y="94" kX="167.42" kY="167.42" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="-156.25" y="106.85" kX="156.43" kY="156.43" cX="1" cY="1" z="4" dr="1"/>
+          <f dr="5" hide="1"/>
+        </b>
+        <b name="dazhu_d" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="Monster_cage-dazhu_d" twE="0" dr="3"/>
+          <f x="50.15" y="-2.55" kX="30.7" kY="30.7" cX="1" cY="1" z="15" twE="0" dr="6"/>
+          <f x="93.65" y="-44.05" kX="76.63" kY="76.63" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="119.6" y="62.95" kX="114.61" kY="114.61" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="113.6" y="46.45" kX="97.16" kY="97.16" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="110.1" y="63.95" kX="87.45" kY="87.45" cX="1" cY="1" z="14" dr="1"/>
+          <f dr="15" hide="1"/>
+        </b>
+        <b name="dazhu_c" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="Monster_cage-dazhu_c" twE="0" dr="2"/>
+          <f x="-11.5" y="-15.5" kX="-34.21" kY="-34.21" cX="1" cY="1" z="16" twE="0" dr="6"/>
+          <f x="-25.55" y="-21.5" kX="-111.44" kY="-111.44" cX="1" cY="1" z="16" twE="0" dr="4"/>
+          <f x="-42.5" y="42.55" kX="-126.5" kY="-126.5" cX="1" cY="1" z="15" twE="0" dr="4"/>
+          <f x="-64.5" y="123.65" kX="-173.99" kY="-173.99" cX="1" cY="1" z="14" twE="0" dr="4"/>
+          <f x="-68.5" y="154.65" kX="-123.27" kY="-123.27" cX="1" cY="1" z="14" dr="1"/>
+          <f dr="13" hide="1"/>
+        </b>
+        <b name="dazhu_b" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="Monster_cage-dazhu_b" twE="0" dr="3"/>
+          <f x="-38.95" y="-0.8" kX="-22.96" kY="-22.96" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="-83.5" y="-27.15" kX="-66.17" kY="-66.17" cX="1" cY="1" z="17" twE="0" dr="5"/>
+          <f x="-149.25" y="-31.3" kX="-113.87" kY="-113.87" cX="1" cY="1" z="16" twE="0" dr="5"/>
+          <f x="-139.25" y="82.75" kX="-135.32" kY="-135.32" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="-149.25" y="48.75" kX="-87.11" kY="-87.11" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-155.25" y="99.8" kX="-77.92" kY="-77.92" cX="1" cY="1" z="11" dr="1"/>
+          <f dr="11" hide="1"/>
+        </b>
+        <b name="bu" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="Monster_cage-bu" twE="0" dr="4"/>
+          <f x="65.4" y="-40.05" kX="20.04" kY="20.04" cX="1" cY="1.67" z="18" img="Monster_cage-bu1" twE="0" dr="4"/>
+          <f x="65.1" y="-18.55" kX="10.65" kY="15.86" cX="1" cY="1.6" z="18" img="Monster_cage-bu2" twE="0" dr="3"/>
+          <f x="88.2" y="-4" kX="11.28" kY="13.81" cX="1" cY="1.3" z="18" img="Monster_cage-bu3" twE="0" dr="3"/>
+          <f x="111.2" y="10.5" kX="12.03" kY="12.03" cX="1" cY="1" z="17" img="Monster_cage-bu" twE="0" dr="5"/>
+          <f x="136.4" y="40.4" kX="10.27" kY="10.27" cX="1" cY="0.58" z="11" img="Monster_cage-bu1" twE="0" dr="5"/>
+          <f x="110.7" y="94.45" kX="0.28" kY="0.28" cX="1" cY="1" z="6" img="Monster_cage-bu2" twE="0" dr="4"/>
+          <f x="131.65" y="115.4" kX="8.78" kY="8.78" cX="1" cY="1" z="1" img="Monster_cage-bu3" twE="0" dr="3"/>
+          <f x="162.9" y="128.3" kX="7.03" kY="7.03" cX="1" cY="0.71" z="1" img="Monster_cage-bu" dr="1"/>
+          <f dr="2" hide="1"/>
+        </b>
+        <b name="dazhu_a" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="Monster_cage-dazhu_a" twE="0" dr="3"/>
+          <f x="-23.8" y="-35.25" kX="-20.46" kY="-20.46" cX="1" cY="1" z="19" twE="0" dr="3"/>
+          <f x="-52.3" y="-58.8" kX="-56.45" kY="-56.45" cX="1" cY="1" z="19" twE="0" dr="6"/>
+          <f x="-67.3" y="-75.85" kX="-97.4" kY="-97.4" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="-74.3" y="-22.85" kX="-121.87" kY="-121.87" cX="1" cY="1" z="18" twE="0" dr="3"/>
+          <f x="-79.3" y="51.2" kX="-127.11" kY="-127.11" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="-95.3" y="50.2" kX="-111.38" kY="-111.38" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="-104.6" y="57.1" kX="-106.91" kY="-106.91" cX="1" cY="1" z="9" dr="1"/>
+          <f dr="8" hide="1"/>
+        </b>
+        <b name="zhu1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="Monster_cage-zhu1" twE="0" dr="3"/>
+          <f x="5.5" y="-22" kX="-19.98" kY="-19.98" cX="1" cY="1" z="20" twE="0" dr="3"/>
+          <f x="-2.5" y="-48" kX="-55.47" kY="-55.47" cX="1" cY="1" z="20" twE="0" dr="6"/>
+          <f x="-2.5" y="-48" kX="-85.21" kY="-85.21" cX="1" cY="1" z="19" twE="0" dr="5"/>
+          <f x="-26.5" y="1.05" kX="-110.7" kY="-110.7" cX="1" cY="1" z="18" twE="0" dr="4"/>
+          <f x="-31.5" y="46.05" kX="-166.42" kY="-166.42" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-40.5" y="10.35" kX="163.33" kY="163.33" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="-45.5" y="48.35" kX="177.31" kY="177.31" cX="1" cY="1" z="7" dr="1"/>
+          <f dr="6" hide="1"/>
+        </b>
+        <b name="cao5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="Monster_cage-cao5" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="1"/>
+          <f dr="19" hide="1"/>
+        </b>
+        <b name="cao4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="Monster_cage-cao4" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" dr="1"/>
+          <f dr="25" hide="1"/>
+        </b>
+        <b name="cao2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="Monster_cage-cao2" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" twE="0" dr="6"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" twE="0" dr="5"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" dr="1"/>
+          <f dr="16" hide="1"/>
+        </b>
+        <b name="cao1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="Monster_cage-cao1" twE="0" dr="4"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" twE="0" dr="1"/>
+          <f dr="26" hide="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="bruise">
+      <mov name="bruise" to="1" dr="15" drTW="14" lp="0">
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="jiao3" sc="1" dl="0"/>
+        <b name="jiao1" sc="1" dl="0"/>
+        <b name="jiao2" sc="1" dl="0"/>
+        <b name="h-n-jiao" sc="1" dl="0"/>
+        <b name="h-n-xiaotui" sc="1" dl="0"/>
+        <b name="h-n-datui" sc="1" dl="0"/>
+        <b name="h-n-zhongtui" sc="1" dl="0"/>
+        <b name="q-n-xiaotui" sc="1" dl="0"/>
+        <b name="q-n-datui" sc="1" dl="0"/>
+        <b name="q-n-zhi3" sc="1" dl="0"/>
+        <b name="q-n-zhi2" sc="1" dl="0"/>
+        <b name="q-n-zhi1" sc="1" dl="0"/>
+        <b name="wei" sc="1" dl="0"/>
+        <b name="du" sc="1" dl="0"/>
+        <b name="h-w-jiao" sc="1" dl="0"/>
+        <b name="h-w-xiaotui" sc="1" dl="0"/>
+        <b name="h-w-zhongtui" sc="1" dl="0"/>
+        <b name="h-w-datui" sc="1" dl="0"/>
+        <b name="bozi" sc="1" dl="0"/>
+        <b name="shetou" sc="1" dl="0"/>
+        <b name="kouqiang" sc="1" dl="0"/>
+        <b name="xiae" sc="1" dl="0"/>
+        <b name="shange" sc="1" dl="0"/>
+        <b name="jiao4" sc="1" dl="0"/>
+        <b name="xiong" sc="1" dl="0"/>
+        <b name="jiao6" sc="1" dl="0"/>
+        <b name="jiao5" sc="1" dl="0"/>
+        <b name="q-w-dabi" sc="1" dl="0"/>
+        <b name="q-w-zhi1" sc="1" dl="0"/>
+        <b name="q-w-zhi2" sc="1" dl="0"/>
+        <b name="q-w-zhi3" sc="1" dl="0"/>
+        <b name="q-w-xiaobi" sc="1" dl="0"/>
+        <b name="yinying" sc="1" dl="0"/>
+        <b name="toufa" sc="1" dl="0"/>
+        <b name="r_dabi" sc="1" dl="0"/>
+        <b name="r_xiaobi" sc="1" dl="0"/>
+        <b name="l_jiao" sc="1" dl="0"/>
+        <b name="l_xiaotui" sc="1" dl="0"/>
+        <b name="l_datui" sc="1" dl="0"/>
+        <b name="l_ku" sc="1" dl="0"/>
+        <b name="r_xiaotui" sc="1" dl="0"/>
+        <b name="r_datui" sc="1" dl="0"/>
+        <b name="r_jiao" sc="1" dl="0"/>
+        <b name="r_ku" sc="1" dl="0"/>
+        <b name="pigu" sc="1" dl="0"/>
+        <b name="x" sc="1" dl="0"/>
+        <b name="yao" sc="1" dl="0"/>
+        <b name="yaodai" sc="1" dl="0"/>
+        <b name="shangshen" sc="1" dl="0"/>
+        <b name="r_xiong" sc="1" dl="0"/>
+        <b name="l_xiong" sc="1" dl="0"/>
+        <b name="tou" sc="1" dl="0"/>
+        <b name="l_mei" sc="1" dl="0"/>
+        <b name="r_mei" sc="1" dl="0"/>
+        <b name="l_yan" sc="1" dl="0"/>
+        <b name="r_yan" sc="1" dl="0"/>
+        <b name="bizi" sc="1" dl="0"/>
+        <b name="zui" sc="1" dl="0"/>
+        <b name="l_er" sc="1" dl="0"/>
+        <b name="r_quantou" sc="1" dl="0"/>
+        <b name="l_dabi" sc="1" dl="0"/>
+        <b name="l_xiaobi" sc="1" dl="0"/>
+        <b name="l_quantou" sc="1" dl="0"/>
+        <b name="yingzi" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="Monster_cage-yingzi" dr="15"/>
+        </b>
+        <b name="muban4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="Monster_cage-muban4" twE="0" dr="2"/>
+          <f x="6.1" y="-0.8" kX="6.69" kY="6.69" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="-2.65" y="-1.15" kX="1" kY="1" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="0" y="0.5" kX="2.72" kY="2.72" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="0.35" y="0.65" kX="1.7" kY="1.7" cX="1" cY="1" z="1" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="muban3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" img="Monster_cage-muban3" twE="0" dr="2"/>
+          <f x="5.55" y="-8.1" kX="3.21" kY="3.21" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="-2.95" y="-0.35" kX="-0.71" kY="-0.71" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="2" dr="1"/>
+        </b>
+        <b name="fanpen" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" img="Monster_cage-fanpen" twE="0" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="-0.1" y="-0.5" kX="-0.71" kY="-0.71" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="3" dr="1"/>
+        </b>
+        <b name="zhu10" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" img="Monster_cage-zhu10" twE="0" dr="2"/>
+          <f x="23.5" y="-6.1" kX="5.67" kY="5.67" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="-7.1" y="1.35" kX="-2.19" kY="-2.19" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="10.5" y="0.95" kX="1.7" kY="1.7" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="-2.95" y="1.9" kX="-1.48" kY="-1.48" cX="1" cY="1" z="4" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="4" dr="1"/>
+        </b>
+        <b name="muban2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" img="Monster_cage-muban2" twE="0" dr="2"/>
+          <f x="6.1" y="-1.05" kX="1.18" kY="1.18" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="-3" y="0.5" kX="-1.7" kY="-1.7" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="5" dr="1"/>
+        </b>
+        <b name="muban1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" img="Monster_cage-muban1" twE="0" dr="2"/>
+          <f x="2.9" y="-7.9" kX="3.77" kY="3.77" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="-3.35" y="-0.1" kX="-2.14" kY="-0.71" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="6" dr="1"/>
+        </b>
+        <b name="zhu9" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" img="Monster_cage-zhu9" twE="0" dr="2"/>
+          <f x="10.3" y="-4.9" kX="6.92" kY="6.92" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="-5.65" y="-1.05" kX="-3.39" kY="-3.39" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="2.6" y="-0.1" kX="2.95" kY="2.95" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="-2.4" y="-0.25" kX="-2.69" kY="-2.69" cX="1" cY="1" z="7" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="7" dr="1"/>
+        </b>
+        <b name="zhu8" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" img="Monster_cage-zhu8" twE="0" dr="2"/>
+          <f x="5.25" y="-0.95" kX="0.95" kY="0.95" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-2" y="1.7" kX="1.01" kY="1.01" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="-2.2" y="0.65" kX="-3.01" kY="-3.01" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="1.2" y="0.15" kX="1.72" kY="1.72" cX="1" cY="1" z="8" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="8" dr="1"/>
+        </b>
+        <b name="zhu7" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" img="Monster_cage-zhu7" twE="0" dr="2"/>
+          <f x="10.05" y="-8.45" kX="8.18" kY="8.18" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="-0.85" y="1.15" kX="2.23" kY="2.23" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="3.55" y="0.65" kX="4.21" kY="4.21" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="2.5" y="0.35" kX="2.93" kY="2.93" cX="1" cY="1" z="9" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="9" dr="1"/>
+        </b>
+        <b name="zhu6" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" img="Monster_cage-zhu6" twE="0" dr="2"/>
+          <f x="12.9" y="-10.45" kX="7.18" kY="7.18" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="-5.35" y="1.4" kX="-2.41" kY="-2.41" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="6.75" y="-0.7" kX="3.21" kY="3.21" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="-1.5" y="2" kX="-1.7" kY="-1.7" cX="1" cY="1" z="10" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="10" dr="1"/>
+        </b>
+        <b name="zhu5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" img="Monster_cage-zhu5" twE="0" dr="2"/>
+          <f x="8.25" y="-1.5" kX="3.71" kY="3.71" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="-1.95" y="-0.85" kX="1.05" kY="1.05" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="2.35" y="-0.5" kX="2.69" kY="2.69" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="-1.35" y="-0.15" kX="-1.48" kY="-1.48" cX="1" cY="1" z="11" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="11" dr="1"/>
+        </b>
+        <b name="zhu4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" img="Monster_cage-zhu4" twE="0" dr="2"/>
+          <f x="4.7" y="-7.55" kX="-0.2" kY="-0.2" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-1.4" y="0.7" kX="2.75" kY="2.75" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="-2" y="0.35" kX="-4.17" kY="-4.17" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="1.65" y="0.55" kX="3.46" kY="3.46" cX="1" cY="1" z="12" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="12" dr="1"/>
+        </b>
+        <b name="zhu3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" img="Monster_cage-zhu3" twE="0" dr="2"/>
+          <f x="6.4" y="-5.75" kX="7" kY="7" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-6.95" y="-1.55" kX="1.77" kY="1.77" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="2.9" y="-1.85" kX="0.53" kY="0.53" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="-3" y="0" kX="-2.47" kY="-2.47" cX="1" cY="1" z="13" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="13" dr="1"/>
+        </b>
+        <b name="zhu2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" img="Monster_cage-zhu2" twE="0" dr="2"/>
+          <f x="8.3" y="-3.15" kX="6.4" kY="6.4" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="2.35" y="-1.45" kX="-2.19" kY="-2.19" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="1.15" y="0.65" kX="-0.78" kY="-0.78" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="-1" y="1.35" kX="-2.47" kY="-2.47" cX="1" cY="1" z="14" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="14" dr="1"/>
+        </b>
+        <b name="dazhu_d" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" img="Monster_cage-dazhu_d" twE="0" dr="2"/>
+          <f x="7.3" y="-0.9" kX="1.71" kY="1.71" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="2.05" y="-0.25" kX="4.47" kY="4.47" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="-0.4" y="0.25" kX="-0.28" kY="-0.28" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="1.55" y="0" kX="1.47" kY="1.47" cX="1" cY="1" z="15" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="15" dr="1"/>
+        </b>
+        <b name="dazhu_c" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" img="Monster_cage-dazhu_c" twE="0" dr="2"/>
+          <f x="13.7" y="-4.8" kX="5.67" kY="5.67" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="-12.45" y="-1.6" kX="-2.19" kY="-2.19" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="3" y="1.5" kX="1.7" kY="1.7" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="0.1" y="0.75" kX="-1.48" kY="-1.48" cX="1" cY="1" z="16" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="16" dr="1"/>
+        </b>
+        <b name="dazhu_b" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" img="Monster_cage-dazhu_b" twE="0" dr="2"/>
+          <f x="14.35" y="-10.7" kX="9.7" kY="9.7" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="-10.9" y="0.95" kX="-7.38" kY="-7.38" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="6.2" y="0" kX="5.73" kY="5.73" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="-1.1" y="0.2" kX="-1" kY="-1" cX="1" cY="1" z="17" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="17" dr="1"/>
+        </b>
+        <b name="bu" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="Monster_cage-bu" twE="0" dr="2"/>
+          <f x="13.25" y="-6.05" kX="1.47" kY="4" cX="0.92" cY="1" z="18" img="Monster_cage-bu1" twE="0" dr="3"/>
+          <f x="-5.65" y="-0.15" kX="-17.24" kY="-2.19" cX="1.14" cY="1.04" z="18" img="Monster_cage-bu2" twE="0" dr="3"/>
+          <f x="4.25" y="-0.05" kX="0.48" kY="0.48" cX="0.94" cY="1" z="18" img="Monster_cage-bu3" twE="0" dr="3"/>
+          <f x="0.2" y="0.9" kX="-1.48" kY="-1.48" cX="1.03" cY="1" z="18" img="Monster_cage-bu1" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="18" img="Monster_cage-bu" dr="1"/>
+        </b>
+        <b name="dazhu_a" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" img="Monster_cage-dazhu_a" twE="0" dr="2"/>
+          <f x="6.4" y="-5.6" kX="2.46" kY="2.46" cX="1" cY="1" z="19" twE="0" dr="3"/>
+          <f x="-5.2" y="-1.55" kX="-2.41" kY="-2.41" cX="1" cY="1" z="19" twE="0" dr="3"/>
+          <f x="3.85" y="0.2" kX="3.69" kY="3.69" cX="1" cY="1" z="19" twE="0" dr="3"/>
+          <f x="-1.9" y="-0.35" kX="-1.7" kY="-1.7" cX="1" cY="1" z="19" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="19" dr="1"/>
+        </b>
+        <b name="zhu1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" img="Monster_cage-zhu1" twE="0" dr="2"/>
+          <f x="4.95" y="-8.4" kX="6.94" kY="6.94" cX="1" cY="1" z="20" twE="0" dr="3"/>
+          <f x="-3.3" y="0.25" kX="-6.16" kY="-6.16" cX="1" cY="1" z="20" twE="0" dr="3"/>
+          <f x="3.95" y="-1" kX="1.22" kY="1.22" cX="1" cY="1" z="20" twE="0" dr="3"/>
+          <f x="-0.1" y="1.6" kX="-6.2" kY="-6.2" cX="1" cY="1" z="20" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="20" dr="1"/>
+        </b>
+        <b name="cao5" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" img="Monster_cage-cao5" twE="0" dr="2"/>
+          <f x="-0.7" y="0" kX="-2.21" kY="0" cX="1" cY="1" z="21" twE="0" dr="3"/>
+          <f x="0.85" y="0" kX="2.7" kY="0" cX="1" cY="1" z="21" twE="0" dr="3"/>
+          <f x="-0.55" y="0" kX="-1.8" kY="0" cX="1" cY="1" z="21" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="21" dr="1"/>
+        </b>
+        <b name="cao4" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" img="Monster_cage-cao4" twE="0" dr="2"/>
+          <f x="0.4" y="0" kX="2.11" kY="1.23" cX="1" cY="1" z="22" twE="0" dr="3"/>
+          <f x="-0.4" y="0" kX="-0.88" kY="0" cX="1" cY="1" z="22" twE="0" dr="3"/>
+          <f x="0.25" y="0" kX="0.61" kY="0" cX="1" cY="1" z="22" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="22" dr="1"/>
+        </b>
+        <b name="cao2" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" img="Monster_cage-cao2" twE="0" dr="2"/>
+          <f x="0.45" y="0" kX="1.28" kY="0" cX="1" cY="1" z="23" twE="0" dr="3"/>
+          <f x="-0.6" y="0" kX="-1.81" kY="0" cX="1" cY="1" z="23" twE="0" dr="3"/>
+          <f x="0.2" y="0" kX="0.53" kY="0" cX="1" cY="1" z="23" twE="0" dr="3"/>
+          <f x="-0.45" y="0" kX="-1.28" kY="0" cX="1" cY="1" z="23" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="23" dr="1"/>
+        </b>
+        <b name="cao1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" img="Monster_cage-cao1" twE="0" dr="2"/>
+          <f x="-0.95" y="0" kX="-2.86" kY="0" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="0.55" y="0" kX="1.7" kY="0" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="-0.25" y="0" kX="-0.85" kY="0" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="0.65" y="0" kX="2.09" kY="0" cX="1" cY="1" z="24" twE="0" dr="3"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="24" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="龟笼子(1)" width="512" height="512">
+    <SubTexture name="Monster_cage-yingzi" x="0" y="0" width="269" height="98" pX="134.75" pY="12.85"/>
+    <SubTexture name="Monster_cage-muban4" x="388" y="189" width="45" height="24" pX="22" pY="11.5"/>
+    <SubTexture name="Monster_cage-muban3" x="128" y="264" width="66" height="33" pX="32.5" pY="16"/>
+    <SubTexture name="Monster_cage-fanpen" x="207" y="202" width="39" height="27" pX="19" pY="13"/>
+    <SubTexture name="Monster_cage-zhu10" x="0" y="218" width="127" height="46" pX="63" pY="22.5"/>
+    <SubTexture name="Monster_cage-muban2" x="0" y="265" width="99" height="59" pX="49" pY="-23.45"/>
+    <SubTexture name="Monster_cage-muban1" x="250" y="189" width="137" height="61" pX="68" pY="30"/>
+    <SubTexture name="Monster_cage-zhu9" x="207" y="99" width="14" height="102" pX="6.5" pY="50.5"/>
+    <SubTexture name="Monster_cage-zhu8" x="250" y="99" width="10" height="84" pX="4.5" pY="41.5"/>
+    <SubTexture name="Monster_cage-zhu7" x="237" y="99" width="12" height="99" pX="5.5" pY="49"/>
+    <SubTexture name="Monster_cage-zhu6" x="0" y="163" width="150" height="54" pX="74.5" pY="26.5"/>
+    <SubTexture name="Monster_cage-zhu5" x="222" y="99" width="14" height="101" pX="6.5" pY="50"/>
+    <SubTexture name="Monster_cage-zhu4" x="481" y="128" width="11" height="57" pX="8.5" pY="28"/>
+    <SubTexture name="Monster_cage-zhu3" x="388" y="240" width="102" height="62" pX="50.5" pY="30.5"/>
+    <SubTexture name="Monster_cage-zhu2" x="199" y="251" width="122" height="38" pX="60.5" pY="18.5"/>
+    <SubTexture name="Monster_cage-dazhu_d" x="481" y="0" width="20" height="127" pX="9.5" pY="63"/>
+    <SubTexture name="Monster_cage-dazhu_c" x="493" y="128" width="18" height="31" pX="8.5" pY="15"/>
+    <SubTexture name="Monster_cage-dazhu_b" x="186" y="99" width="20" height="125" pX="9.5" pY="62"/>
+    <SubTexture name="Monster_cage-bu" x="270" y="67" width="184" height="60" pX="91.5" pY="29.5"/>
+    <SubTexture name="Monster_cage-bu1" x="261" y="128" width="185" height="60" pX="91.85" pY="28.65"/>
+    <SubTexture name="Monster_cage-bu2" x="270" y="0" width="184" height="66" pX="92.35" pY="28.6"/>
+    <SubTexture name="Monster_cage-bu3" x="0" y="99" width="185" height="63" pX="91.15" pY="27.1"/>
+    <SubTexture name="Monster_cage-dazhu_a" x="455" y="0" width="25" height="127" pX="12" pY="63"/>
+    <SubTexture name="Monster_cage-zhu1" x="388" y="214" width="49" height="16" pX="24" pY="7.5"/>
+    <SubTexture name="Monster_cage-cao5" x="447" y="128" width="33" height="36" pX="16" pY="17.5"/>
+    <SubTexture name="Monster_cage-cao4" x="447" y="186" width="52" height="53" pX="25.5" pY="26"/>
+    <SubTexture name="Monster_cage-cao2" x="322" y="251" width="61" height="39" pX="30" pY="19"/>
+    <SubTexture name="Monster_cage-cao1" x="128" y="225" width="70" height="38" pX="34.5" pY="18.5"/>
+  </TextureAtlas>
+</skeleton>

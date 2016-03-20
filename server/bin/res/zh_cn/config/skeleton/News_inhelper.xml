@@ -1,0 +1,34 @@
+<skeleton name="小助手提示（略）(1)">
+  <armatures>
+    <armature name="xiaozhushoutishi">
+      <b name="图层 1" bT="0" bi="News_inhelper-qipao" x="0" y="-1" kX="0" kY="0" z="0"/>
+      <b name="图层 3" bT="0" bi="News_inhelper-DDa 0" x="-0.45" y="-2.25" kX="0" kY="0" z="1"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="xiaozhushoutishi">
+      <mov name="xiaozhushoutishi" to="1" dr="105" drTW="105" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="0" img="News_inhelper-qipao" dr="104"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1.1" cY="1.1" z="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0"/>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="News_inhelper-DDa 0" dr="34"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="News_inhelper-DDa 1" dr="24"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="News_inhelper-DDa 2" dr="23"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" img="News_inhelper-DDa 3" dr="23"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="1" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0"/>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="小助手提示（略）(1)" width="512" height="64">
+    <SubTexture name="News_inhelper-qipao" x="0" y="0" width="46" height="40" pX="23.15" pY="19.75"/>
+    <SubTexture name="News_inhelper-DDa 0" x="75" y="0" width="23" height="11" pX="10.6" pY="5"/>
+    <SubTexture name="News_inhelper-DDa 1" x="119" y="0" width="10" height="10" pX="12.8" pY="4.4"/>
+    <SubTexture name="News_inhelper-DDa 2" x="99" y="0" width="19" height="10" pX="12.8" pY="4.4"/>
+    <SubTexture name="News_inhelper-DDa 3" x="47" y="0" width="27" height="10" pX="12.8" pY="4.4"/>
+  </TextureAtlas>
+</skeleton>

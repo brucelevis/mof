@@ -1,0 +1,41 @@
+<skeleton name="Loading动画">
+  <armatures>
+    <armature name="loading">
+      <b name="图层 1" bT="0" bi="waiting_circle-LDG1" x="-16" y="-16" kX="0" kY="0" z="0"/>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="loading">
+      <mov name="loading" to="1" dr="24" drTW="36" lp="1">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-LDG1" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-LDG2" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-LDG3" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-LDG4" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-LDG5" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-LDG6" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-LDG7" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-LDG8" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-LDG9" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-LDG10" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-LDG11" dr="2"/>
+          <f x="0" y="0" kX="0" kY="0" cX="1" cY="1" z="0" img="waiting_circle-LDG12" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="Loading动画" width="512" height="64">
+    <SubTexture name="waiting_circle-LDG1" x="332" y="0" width="29" height="33" pX="-2.1" pY="0"/>
+    <SubTexture name="waiting_circle-LDG2" x="92" y="0" width="29" height="33" pX="-2" pY="0"/>
+    <SubTexture name="waiting_circle-LDG3" x="242" y="0" width="29" height="33" pX="-2" pY="0"/>
+    <SubTexture name="waiting_circle-LDG4" x="212" y="0" width="29" height="33" pX="-2" pY="0"/>
+    <SubTexture name="waiting_circle-LDG5" x="182" y="0" width="29" height="33" pX="-2" pY="0"/>
+    <SubTexture name="waiting_circle-LDG6" x="302" y="0" width="29" height="33" pX="-2" pY="0"/>
+    <SubTexture name="waiting_circle-LDG7" x="122" y="0" width="29" height="33" pX="-2" pY="0"/>
+    <SubTexture name="waiting_circle-LDG8" x="31" y="0" width="30" height="33" pX="-1.9" pY="0"/>
+    <SubTexture name="waiting_circle-LDG9" x="152" y="0" width="29" height="33" pX="-2" pY="0"/>
+    <SubTexture name="waiting_circle-LDG10" x="0" y="0" width="30" height="33" pX="-1.1" pY="0"/>
+    <SubTexture name="waiting_circle-LDG11" x="62" y="0" width="29" height="33" pX="-2" pY="0"/>
+    <SubTexture name="waiting_circle-LDG12" x="272" y="0" width="29" height="33" pX="-2" pY="0"/>
+  </TextureAtlas>
+</skeleton>
